@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-70-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-087fc0136999",
+    "full_name": "Lò Thị Luyến",
+    "full_name_folded": "lo thi luyen",
+    "dob": "02/02/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Chiềng Mai, huyện Mai Sơn, tỉnh Sơn La",
+    "current_residence": "Số 1, bản Noong Chứn, phường Nam Thanh, thành phố Điện Biên Phủ, tỉnh Điện Biên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-70",
+    "list_order": 2,
+    "party_member_since": "30/01/2002",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Điện Biên nhiệm kỳ 2011 - 2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-8c69f5d593d7",
+    "name_vi": "Tỉnh Điện Biên",
+    "name_folded": "dien bien",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-70",
+    "locality_id": "loc-8c69f5d593d7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Mường Lay, Huyện Mường Chà, Huyện Nậm Pồ, Huyện Mường Nhé, Huyện Tuần Giáo, Huyện Tùa Chùa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Điện Biên Đơn vị bầu cử Số 2: Gồm thị xã Mường Lay và các huyện: Mường Chà, Nậm Pồ, Mường Nhé, Tuần Giáo, Tủa Chùa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Chà",
+        "name_folded": "huyen muong cha"
+      },
+      {
+        "name_vi": "Huyện Mường Nhé",
+        "name_folded": "huyen muong nhe"
+      },
+      {
+        "name_vi": "Huyện Nậm Pồ",
+        "name_folded": "huyen nam po"
+      },
+      {
+        "name_vi": "Huyện Tuần Giáo",
+        "name_folded": "huyen tuan giao"
+      },
+      {
+        "name_vi": "Huyện Tùa Chùa",
+        "name_folded": "huyen tua chua"
+      },
+      {
+        "name_vi": "Thị xã Mường Lay",
+        "name_folded": "thi xa muong lay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, tiếng dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lâm nghiệp; xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Điện Biên"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Điện Biên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

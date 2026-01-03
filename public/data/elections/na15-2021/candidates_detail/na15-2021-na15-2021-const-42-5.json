@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-42-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d26a526f629d",
+    "full_name": "Trần Thị Vân",
+    "full_name_folded": "tran thi van",
+    "dob": "22/02/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Lai, huyện Gia Bình, tỉnh Bắc Ninh",
+    "current_residence": "0BT15-BT16, đường Lê Lai, khu đô thị Nam Võ Cường, phường Võ Cường, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-42",
+    "list_order": 5,
+    "party_member_since": "06/01/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Lương Tài (tỉnh Bắc Ninh) nhiệm kỳ 2004-2011; Tỉnh Bắc Ninh nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-42",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Từ Sơn, Huyện Tiên Du, Huyện Yên Phong",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 2: Gồm thị xã Từ Sơn và các huyện: Tiên Du, Yên Phong. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tiên Du",
+        "name_folded": "huyen tien du"
+      },
+      {
+        "name_vi": "Huyện Yên Phong",
+        "name_folded": "huyen yen phong"
+      },
+      {
+        "name_vi": "Thị xã Từ Sơn",
+        "name_folded": "thi xa tu son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh sư phạm, luật kinh tế; Thạc sĩ chuyên ngành lịch sử Đảng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam; Bí thư Đảng đoàn cơ quan Hội Liên hiệp Phụ nữ tỉnh Bắc Ninh, Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bắc Ninh; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Bắc Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Bắc Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

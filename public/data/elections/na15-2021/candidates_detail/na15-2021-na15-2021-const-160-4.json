@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-160-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b72bc4272996",
+    "full_name": "Trần Thị Hạnh Quyên",
+    "full_name_folded": "tran thi hanh quyen",
+    "dob": "09/9/1989",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Nùng",
+    "religion": "Không",
+    "birthplace": "Xã Đồng Bẩm, thành phố Thái Nguyên, tỉnh Thái Nguyên",
+    "current_residence": "Tổ 7, phường Chùa Hang, thành phố Thái Nguyên, tỉnh Thái Nguyên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-160",
+    "list_order": 4,
+    "party_member_since": "22/6/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-54f56f05c1c7",
+    "name_vi": "Tỉnh Thái Nguyên",
+    "name_folded": "thai nguyen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-160",
+    "locality_id": "loc-54f56f05c1c7",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Đại Từ, Huyện Định Hóa, Huyện Phú Lương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Nguyên Đơn vị bầu cử Số 1: Gồm các huyện: Đại Từ, Định Hóa và Phú Lương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phú Lương",
+        "name_folded": "huyen phu luong"
+      },
+      {
+        "name_vi": "Huyện Đại Từ",
+        "name_folded": "huyen dai tu"
+      },
+      {
+        "name_vi": "Huyện Định Hóa",
+        "name_folded": "huyen dinh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A2"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ; Phó Bí thư Đoàn thanh niên Bệnh viện A Thái Nguyên"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện A Thái Nguyên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

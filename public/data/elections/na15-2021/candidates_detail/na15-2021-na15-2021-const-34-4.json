@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-34-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4b2ad87ca2ad",
+    "full_name": "Lữ Văn Hùng",
+    "full_name_folded": "lu van hung",
+    "dob": "01/01/1963",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thành, huyện Phụng Hiệp, tỉnh Hậu Giang",
+    "current_residence": "Trụ sở Bộ Chỉ huy Quân sự tỉnh Bạc Liêu, số 224 đường 23/8, khóm 1, Phường 8, thành phố Bạc Liêu, tỉnh Bạc Liêu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-34",
+    "list_order": 4,
+    "party_member_since": "29/8/1981",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hậu Giang nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-9ee833b67126",
+    "name_vi": "Tỉnh Bạc Liêu",
+    "name_folded": "bac lieu",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-34",
+    "locality_id": "loc-9ee833b67126",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bạc Liêu, Huyện Vĩnh Lợi, Huyện Hòa Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bạc Liêu Đơn vị bầu cử Số 1: Gồm thành phố Bạc Liêu và các huyện: Vĩnh Lợi, Hoà Bình. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hòa Bình",
+        "name_folded": "huyen hoa binh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Lợi",
+        "name_folded": "huyen vinh loi"
+      },
+      {
+        "name_vi": "Thành phố Bạc Liêu",
+        "name_folded": "thanh pho bac lieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy Bạc Liêu"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bạc Liêu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-171-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2765a5c77998",
+    "full_name": "Bùi Minh Vũ",
+    "full_name_folded": "bui minh vu",
+    "dob": "16/9/1980",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Trung, thị xã Gò Công, tỉnh Tiền Giang",
+    "current_residence": "Ấp Gò Xoài, xã Tân Trung, huyện Gò Công, tỉnh Tiền Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-171",
+    "list_order": 5,
+    "party_member_since": "21/11/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8a812f5994ae",
+    "name_vi": "Tỉnh Tiền Giang",
+    "name_folded": "tien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-171",
+    "locality_id": "loc-8a812f5994ae",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Cai Lậy, Huyện Cái Bè, Huyện Cai Lậy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tiền Giang Đơn vị bầu cử Số 1: Gồm thị xã Cai Lậy và các huyện: Cái Bè, Cai Lậy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cai Lậy",
+        "name_folded": "huyen cai lay"
+      },
+      {
+        "name_vi": "Huyện Cái Bè",
+        "name_folded": "huyen cai be"
+      },
+      {
+        "name_vi": "Thị xã Cai Lậy",
+        "name_folded": "thi xa cai lay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Sở, Phó Bí thư Chi bộ; Trưởng phòng Kế hoạch, tài chính, Sở Nông nghiệp và Phát triển nông thôn tỉnh Tiền Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Tiền Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

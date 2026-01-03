@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-105-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ee443d074808",
+    "full_name": "Y Dưng",
+    "full_name_folded": "y dung",
+    "dob": "03/4/1991",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Gia Rai",
+    "religion": "Không",
+    "birthplace": "Xã Ia Chim, thành phố Kon Tum, tỉnh Kon Tum",
+    "current_residence": "Thôn 4, thị trấn Đăk Rờ Ve, huyện Kon Rẫy, tỉnh Kon Tum"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-105",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-33cd8480dc45",
+    "name_vi": "Tỉnh Kon Tum",
+    "name_folded": "kon tum",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-105",
+    "locality_id": "loc-33cd8480dc45",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Kon Tum, Huyện Kon Plông, Huyện Kon Rẫy, Huyện Sa Thầy,Huyện Ia H'Drai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kon Tum Đơn vị bầu cử Số 1: Gồm thành phố Kon Tum và các huyện: Kon Plông, Kon Rẫy, Sa Thầy, Ia H’Drai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ia H'Drai",
+        "name_folded": "huyen ia h drai"
+      },
+      {
+        "name_vi": "Huyện Kon Plông",
+        "name_folded": "huyen kon plong"
+      },
+      {
+        "name_vi": "Huyện Kon Rẫy",
+        "name_folded": "huyen kon ray"
+      },
+      {
+        "name_vi": "Huyện Sa Thầy",
+        "name_folded": "huyen sa thay"
+      },
+      {
+        "name_vi": "Thành phố Kon Tum",
+        "name_folded": "thanh pho kon tum"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm mầm non"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên mầm non hạng IV, Trường Mầm non 19/5, thị trấn Đắk Rve, huyện Kon Rẫy, tỉnh Kon Tum"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Mầm non 19/5, thị trấn Đắk Rve, huyện Kon Rẫy, tỉnh Kon Tum"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

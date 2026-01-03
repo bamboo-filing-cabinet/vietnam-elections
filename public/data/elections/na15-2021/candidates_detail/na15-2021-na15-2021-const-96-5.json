@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-96-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-233c00693447",
+    "full_name": "Đỗ Tiến Sỹ",
+    "full_name_folded": "do tien sy",
+    "dob": "02/11/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đình Dù, huyện Văn Lâm, tỉnh Hưng Yên",
+    "current_residence": "Số 12, đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-96",
+    "list_order": 5,
+    "party_member_since": "12/7/1993",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Hưng Yên nhiệm kỳ 2011- 2016, 2016 -2021"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-96",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hưng Yên, Huyện Kim Động, Huyện Khoái Châu, Huyện Yên Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 1: Gồm thành phố Hưng Yên và các huyện: Kim Động, Khoái Châu, Yên Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Khoái Châu",
+        "name_folded": "huyen khoai chau"
+      },
+      {
+        "name_vi": "Huyện Kim Động",
+        "name_folded": "huyen kim dong"
+      },
+      {
+        "name_vi": "Huyện Yên Mỹ",
+        "name_folded": "huyen yen my"
+      },
+      {
+        "name_vi": "Thành phố Hưng Yên",
+        "name_folded": "thanh pho hung yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm toán học, chính trị; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Hưng Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Hưng Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-163-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-13855ac652f7",
+    "full_name": "Mai Thị Hằng",
+    "full_name_folded": "mai thi hang",
+    "dob": "11/12/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Ngọc Trạo, huyện Thạch Thành, tỉnh Thanh Hóa",
+    "current_residence": "Khu phố 1, Tân Sơn, thị trấn Kim Tân, huyện Thạch Thành, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-163",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-163",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thanh Hóa, Thành phố Sầm Sơn, Huyện Hoằng Hóa, Huyện Đông Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 1: Gồm các thành phố: Thanh Hóa, Sầm Sơn và các huyện: Hoằng Hóa, Đông Sơn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoằng Hóa",
+        "name_folded": "huyen hoang hoa"
+      },
+      {
+        "name_vi": "Huyện Đông Sơn",
+        "name_folded": "huyen dong son"
+      },
+      {
+        "name_vi": "Thành phố Sầm Sơn",
+        "name_folded": "thanh pho sam son"
+      },
+      {
+        "name_vi": "Thành phố Thanh Hóa",
+        "name_folded": "thanh pho thanh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm sinh, kỹ thuật nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường Trung học phổ thông Thạch Thành 1, huyện Thạch Thành, tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Thạch Thành 1, huyện Thạch Thành, tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

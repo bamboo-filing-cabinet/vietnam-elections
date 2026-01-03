@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-131-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6251a782386e",
+    "full_name": "Bùi Thị Tuyết Nhung",
+    "full_name_folded": "bui thi tuyet nhung",
+    "dob": "03/9/1997",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hiệp Lực, huyện Ninh Giang, tỉnh Hải Dương",
+    "current_residence": "Khu Quang Trung, xã Phúc Khánh, huyện Yên Lập, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-131",
+    "list_order": 3,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-131",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Việt Trì, Huyện Tam Nông, Huyện Tân Sơn, Huyện Thanh Sơn, Huyện Thanh Thủy, Huyện Yên Lập",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 1: Gồm thành phố Việt Trì và các huyện: Tam Nông, Tân Sơn, Thanh Sơn, Thanh Thủy, Yên Lập. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tam Nông",
+        "name_folded": "huyen tam nong"
+      },
+      {
+        "name_vi": "Huyện Thanh Sơn",
+        "name_folded": "huyen thanh son"
+      },
+      {
+        "name_vi": "Huyện Thanh Thủy",
+        "name_folded": "huyen thanh thuy"
+      },
+      {
+        "name_vi": "Huyện Tân Sơn",
+        "name_folded": "huyen tan son"
+      },
+      {
+        "name_vi": "Huyện Yên Lập",
+        "name_folded": "huyen yen lap"
+      },
+      {
+        "name_vi": "Thành phố Việt Trì",
+        "name_folded": "thanh pho viet tri"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường trung học cơ sở Mỹ Lung"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường trung học cơ sở Mỹ Lung"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

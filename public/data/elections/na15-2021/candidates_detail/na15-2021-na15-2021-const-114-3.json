@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-114-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ea879cc3958c",
+    "full_name": "K’ Nhiễu",
+    "full_name_folded": "k nhieu",
+    "dob": "13/7/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Cơ - ho",
+    "religion": "Không",
+    "birthplace": "Xã Lộc Thành, huyện Bảo Lâm, tỉnh Lâm Đồng",
+    "current_residence": "Số 28/5, đường Lê Văn Tám, phường 10, thành phố Đà Lạt, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-114",
+    "list_order": 3,
+    "party_member_since": "07/01/2013",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-114",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Lâm Hà, Huyện Đam Rông, Huyện Di Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 2: Gồm các huyện: Lâm Hà, Đam Rông và Di Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Di Linh",
+        "name_folded": "huyen di linh"
+      },
+      {
+        "name_vi": "Huyện Lâm Hà",
+        "name_folded": "huyen lam ha"
+      },
+      {
+        "name_vi": "Huyện Đam Rông",
+        "name_folded": "huyen dam rong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế phát triển"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chánh Văn phòng Sở Khoa học và Công nghệ tỉnh Lâm Đồng; Ủy viên Hội đồng Dân tộc của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Khoa học và Công nghệ tỉnh Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

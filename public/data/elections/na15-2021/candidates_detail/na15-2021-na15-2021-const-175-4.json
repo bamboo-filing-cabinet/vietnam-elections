@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-175-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6c77056c6906",
+    "full_name": "Nguyễn Trọng Nghĩa",
+    "full_name_folded": "nguyen trong nghia",
+    "dob": "20/9/1984",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Phúc, huyện Càng Long, tỉnh Trà Vinh",
+    "current_residence": "Nhà ở công vụ, khóm 1, phường 5, thành phố Trà Vinh, tỉnh Trà Vinh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-175",
+    "list_order": 4,
+    "party_member_since": "25/6/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Xã Đại Phúc (huyện Càng Long, tỉnh Trà Vinh) nhiệm kỳ 2011 - 2016"
+  },
+  "locality": {
+    "id": "loc-fdf0dcd56901",
+    "name_vi": "Tỉnh Trà Vinh",
+    "name_folded": "tinh tra vinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-175",
+    "locality_id": "loc-fdf0dcd56901",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Duyên Hải, Huyện Châu Thành, Huyện Cầu Ngang, Huyện Trà Cú, Duyên Hải",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Trà Vinh Đơn vị bầu cử Số 2: Gồm thị xã Duyên Hải và các huyện: Châu Thành, Cầu Ngang, Trà Cú, Duyên Hải. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Duyên Hải",
+        "name_folded": "duyen hai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cầu Ngang",
+        "name_folded": "huyen cau ngang"
+      },
+      {
+        "name_vi": "Huyện Trà Cú",
+        "name_folded": "huyen tra cu"
+      },
+      {
+        "name_vi": "Thị xã Duyên Hải",
+        "name_folded": "thi xa duyen hai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội Văn học nghệ thuật tỉnh Trà Vinh; Chủ tịch Công đoàn cơ sở Hội Văn học nghệ thuật tỉnh Trà Vinh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Văn học nghệ thuật tỉnh Trà Vinh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

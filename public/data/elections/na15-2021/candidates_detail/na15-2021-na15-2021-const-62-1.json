@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-62-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4ee4265acedb",
+    "full_name": "Đoàn Thị Lê An",
+    "full_name_folded": "doan thi le an",
+    "dob": "26/02/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Chí Thảo, huyện Quảng Hòa, tỉnh Cao Bằng",
+    "current_residence": "Số nhà 007, tổ 11, phường Sông Hiến, thành phố Cao Bằng, tỉnh Cao Bằng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-62",
+    "list_order": 1,
+    "party_member_since": "11/4/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Cao Bằng (tỉnh Cao Bằng) nhiệm kỳ 2011 - 2016"
+  },
+  "locality": {
+    "id": "loc-d0cfd73752bb",
+    "name_vi": "Tỉnh Cao Bằng",
+    "name_folded": "cao bang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-62",
+    "locality_id": "loc-d0cfd73752bb",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bảo Lạc, Huyện Bảo Lâm, Huyện Nguyên Bình, Huyện Hà Quảng, Huyện Hòa An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cao Bằng Đơn vị bầu cử Số 1: Gồm các huyện: Bảo Lạc, Bảo Lâm, Nguyên Bình, Hà Quảng và Hòa An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Lâm",
+        "name_folded": "huyen bao lam"
+      },
+      {
+        "name_vi": "Huyện Bảo Lạc",
+        "name_folded": "huyen bao lac"
+      },
+      {
+        "name_vi": "Huyện Hà Quảng",
+        "name_folded": "huyen ha quang"
+      },
+      {
+        "name_vi": "Huyện Hòa An",
+        "name_folded": "huyen hoa an"
+      },
+      {
+        "name_vi": "Huyện Nguyên Bình",
+        "name_folded": "huyen nguyen binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý văn hóa; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Phó Chánh Văn phòng phụ trách, Chủ tịch Công đoàn Văn phòng Đoàn đại biểu Quốc hội tỉnh Cao Bằng"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội tỉnh Cao Bằng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

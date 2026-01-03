@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-59-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-71fd02aa8b30",
+    "full_name": "Lê Thanh Vân",
+    "full_name_folded": "le thanh van",
+    "dob": "23/12/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Văn Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
+    "current_residence": "Số 101 Cù Chính Lan, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-59",
+    "list_order": 5,
+    "party_member_since": "29/7/1984",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-59",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Cà Mau, Huyện Thới Bình, Huyện U Minh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 1: Gồm thành phố Cà Mau và các huyện: Thới Bình, U Minh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thới Bình",
+        "name_folded": "huyen thoi binh"
+      },
+      {
+        "name_vi": "Huyện U Minh",
+        "name_folded": "huyen u minh"
+      },
+      {
+        "name_vi": "Thành phố Cà Mau",
+        "name_folded": "thanh pho ca mau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Tài chính, Ngân sách của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tài chính, Ngân sách của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

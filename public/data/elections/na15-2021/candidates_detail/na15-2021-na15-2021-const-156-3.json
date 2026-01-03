@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-156-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6017cc262b71",
+    "full_name": "Huỳnh Thanh Phương",
+    "full_name_folded": "huynh thanh phuong",
+    "dob": "04/5/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Chà Là, huyện Dương Minh Châu, tỉnh Tây Ninh",
+    "current_residence": "Số nhà 29/1, đường 3 tháng 2, khu phố 6, phường 3, thành phố Tây Ninh, tỉnh Tây Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-156",
+    "list_order": 3,
+    "party_member_since": "19/5/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Tây Ninh nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-156",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tây Ninh, Thị xã Hòa Thành, Huyện Tân Biên, Huyện Tân Châu, Huyện Dương Minh Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 2: Gồm thành phố Tây Ninh, thị xã Hòa Thành và các huyện: Tân Biên, Tân Châu, Dương Minh Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Dương Minh Châu",
+        "name_folded": "huyen duong minh chau"
+      },
+      {
+        "name_vi": "Huyện Tân Biên",
+        "name_folded": "huyen tan bien"
+      },
+      {
+        "name_vi": "Huyện Tân Châu",
+        "name_folded": "huyen tan chau"
+      },
+      {
+        "name_vi": "Thành phố Tây Ninh",
+        "name_folded": "thanh pho tay ninh"
+      },
+      {
+        "name_vi": "Thị xã Hòa Thành",
+        "name_folded": "thi xa hoa thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Trưởng đoàn phụ trách Đoàn đại biểu Quốc hội tỉnh Tây Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Tây Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

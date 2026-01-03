@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-104-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c6c73653c47f",
+    "full_name": "Lý Anh Thư",
+    "full_name_folded": "ly anh thu",
+    "dob": "5/5/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồ Thị Kỷ, huyện Thới Bình, tỉnh Cà Mau",
+    "current_residence": "Số D8 - 43, đường Lạc Hồng, Khu phố 4, phường Vĩnh Lạc, thành phố Rạch Giá, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-104",
+    "list_order": 4,
+    "party_member_since": "13/7/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-104",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Rạch Giá, Thành phố Hà Tiên, Thành phố Phú Quốc, Huyện Kiên Lương, Huyện Hòn Đất, Huyện Giang Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 3: Gồm các thành phố: Rạch Giá, Hà Tiên, Phú Quốc và các huyện: Kiên Lương, Hòn Đất, Giang Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giang Thành",
+        "name_folded": "huyen giang thanh"
+      },
+      {
+        "name_vi": "Huyện Hòn Đất",
+        "name_folded": "huyen hon dat"
+      },
+      {
+        "name_vi": "Huyện Kiên Lương",
+        "name_folded": "huyen kien luong"
+      },
+      {
+        "name_vi": "Thành phố Hà Tiên",
+        "name_folded": "thanh pho ha tien"
+      },
+      {
+        "name_vi": "Thành phố Phú Quốc",
+        "name_folded": "thanh pho phu quoc"
+      },
+      {
+        "name_vi": "Thành phố Rạch Giá",
+        "name_folded": "thanh pho rach gia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tin học; Thạc sĩ chuyên ngành giáo dục học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Giám đốc Sở Lao động - Thương binh và Xã hội tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Lao động - Thương binh và Xã hội tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

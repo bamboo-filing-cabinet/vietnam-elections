@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-122-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a61c274a07ef",
+    "full_name": "Trần Nhật Minh",
+    "full_name_folded": "tran nhat minh",
+    "dob": "09/4/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đào Xá, huyện Thanh Thủy, tỉnh Phú Thọ",
+    "current_residence": "Số 19, ngõ 4, đường Hải Thượng Lãn Ông, tổ 5, xóm Tiến Lộc, xã Hưng Lộc, thành phốVinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-122",
+    "list_order": 4,
+    "party_member_since": "25/3/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-122",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Kỳ Sơn, Huyện Tương Dương, Huyện Con Cuông, Huyện Anh Sơn, Huyện Đô Lương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 1: Gồm các huyện: Kỳ Sơn, Tương Dương, Con Cuông, Anh Sơn và Đô Lương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Anh Sơn",
+        "name_folded": "huyen anh son"
+      },
+      {
+        "name_vi": "Huyện Con Cuông",
+        "name_folded": "huyen con cuong"
+      },
+      {
+        "name_vi": "Huyện Kỳ Sơn",
+        "name_folded": "huyen ky son"
+      },
+      {
+        "name_vi": "Huyện Tương Dương",
+        "name_folded": "huyen tuong duong"
+      },
+      {
+        "name_vi": "Huyện Đô Lương",
+        "name_folded": "huyen do luong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ, Phó Chánh Văn phòng phụ trách Văn phòng, Chủ tịch Công đoàn Văn phòng Đoàn đại biểu Quốc hội tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

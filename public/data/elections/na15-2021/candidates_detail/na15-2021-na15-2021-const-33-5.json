@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-33-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-283cdbe218f6",
+    "full_name": "Nguyễn Thị Yến (Nguyễn Thị Phấn)",
+    "full_name_folded": "nguyen thi yen nguyen thi phan",
+    "dob": "14/8/1965",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Long Phước, thành phố Bà Rịa, tỉnh Bà Rịa-Vũng Tàu",
+    "current_residence": "Số 260, đường 27/4, khu phố 7, phường Phước Hưng, thành phố Bà Rịa, tỉnh Bà Rịa-Vũng Tàu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-33",
+    "list_order": 5,
+    "party_member_since": "05/10/1993",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Bà Rịa-Vũng Tàu nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-33",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Bà Rịa, Thị xã Phú Mỹ, Huyện Châu Đức, Huyện Xuyên Mộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 2: Gồm thành phố Bà Rịa, thị xã Phú Mỹ và các huyện: Châu Đức, Xuyên Mộc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Đức",
+        "name_folded": "huyen chau duc"
+      },
+      {
+        "name_vi": "Huyện Xuyên Mộc",
+        "name_folded": "huyen xuyen moc"
+      },
+      {
+        "name_vi": "Thành phố Bà Rịa",
+        "name_folded": "thanh pho ba ria"
+      },
+      {
+        "name_vi": "Thị xã Phú Mỹ",
+        "name_folded": "thi xa phu my"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy Bà Rịa-Vũng Tàu; Trưởng Đoàn đại biểu Quốc hội tỉnh Bà Rịa-Vũng Tàu; Ủy viên Ủy ban Tài chính - Ngân sách của Quốc hội; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Bà Rịa-Vũng Tàu"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bà Rịa-Vũng Tàu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

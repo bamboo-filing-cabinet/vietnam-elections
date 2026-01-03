@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-126-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1e821c9a9ac8",
+    "full_name": "Đinh Thị Kiều Trinh",
+    "full_name_folded": "dinh thi kieu trinh",
+    "dob": "06/03/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thổ",
+    "religion": "Không",
+    "birthplace": "Xã Đồng Văn, huyện Tân Kỳ, tỉnh Nghệ An",
+    "current_residence": "Xóm Yên Bình, xã Hưng Đông, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-126",
+    "list_order": 4,
+    "party_member_since": "13/11/2015",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-126",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 5,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Thị xã Cửa Lò, Huyện Diễn Châu, Huyện Nghi Lộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 5: Gồm thị xã Cửa Lò và các huyện: Diễn Châu, Nghi Lộc. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Diễn Châu",
+        "name_folded": "huyen dien chau"
+      },
+      {
+        "name_vi": "Huyện Nghi Lộc",
+        "name_folded": "huyen nghi loc"
+      },
+      {
+        "name_vi": "Thị xã Cửa Lò",
+        "name_folded": "thi xa cua lo"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Đang học Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khoa học quản lý, ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành kinh tế học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Phòng Bảo vệ chăm sóc trẻ em và Bình đẳng giới"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Lao động Thương binh và Xã hội tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

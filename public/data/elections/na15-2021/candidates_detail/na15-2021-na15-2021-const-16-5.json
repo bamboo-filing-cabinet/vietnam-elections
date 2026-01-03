@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-16-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-efeb1ed0c737",
+    "full_name": "Hà Phước Thắng",
+    "full_name_folded": "ha phuoc thang",
+    "dob": "26/3/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Điện An, thị xã Điện Bàn, tỉnh Quảng Nam",
+    "current_residence": "Số 41, đường số 4, cư xá Đô Thành, tổ dân phố 59, khu phố 4, phường 4, quận 3, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-16",
+    "list_order": 5,
+    "party_member_since": "07/11/1996",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 2011 - 2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-16",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Bình Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 6: Gồm quận Bình Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Bình Tân",
+        "name_folded": "quan binh tan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên, Ủy viên Ban Cán sự đảng Ủy ban nhân dân, Bí thư Đảng ủy Văn phòng Ủy ban nhân dân Thành phố Hồ Chí Minh; Chánh Văn phòng Ủy ban nhân dân Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Ủy ban nhân dân Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

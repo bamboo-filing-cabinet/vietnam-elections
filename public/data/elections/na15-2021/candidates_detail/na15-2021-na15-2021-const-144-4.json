@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-144-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4ba314390d01",
+    "full_name": "Nguyễn Xuân Thắng",
+    "full_name_folded": "nguyen xuan thang",
+    "dob": "18/02/1957",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thanh Giang, huyện Thanh Chương, tỉnh Nghệ An",
+    "current_residence": "BT1.10, khu nhà công vụ Ngoại giao đoàn, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-144",
+    "list_order": 4,
+    "party_member_since": "17/3/1983",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-144",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hạ Long, Thành phố Cẩm Phả",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 1: Gồm các thành phố: Hạ Long và Cẩm Phả. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Cẩm Phả",
+        "name_folded": "thanh pho cam pha"
+      },
+      {
+        "name_vi": "Thành phố Hạ Long",
+        "name_folded": "thanh pho ha long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ kinh tế - tiếng Nga; Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh, kinh tế chính trị; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị; Giám đốc Học viện Chính trị quốc gia Hồ Chí Minh; Chủ tịch Hội đồng Lý luận Trung ương; Chủ tịch Hội hữu nghị Việt - Trung"
+    },
+    {
+      "key": "workplace",
+      "value": "Học viện Chính trị quốc gia Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

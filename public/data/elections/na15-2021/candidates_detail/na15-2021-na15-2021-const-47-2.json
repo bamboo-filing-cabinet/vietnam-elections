@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-47-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6c268422b3ee",
+    "full_name": "Trần Văn Nam (Trần Quốc Tuấn)",
+    "full_name_folded": "tran van nam tran quoc tuan",
+    "dob": "30/8/1963",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Mỹ, huyện Bắc Tân Uyên, tỉnh Bình Dương",
+    "current_residence": "Số 249, đường Nguyễn Đức Thuận, phường Hiệp Thành, thành phố Thủ Dầu Một, tỉnh Bình Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-47",
+    "list_order": 2,
+    "party_member_since": "03/10/1986",
+    "is_na_delegate": "XI, XII, XIV",
+    "is_council_delegate": "Tỉnh Bình Dương nhiệm kỳ 1994-1999, 1999-2004, 2011-2016"
+  },
+  "locality": {
+    "id": "loc-cc590b385d56",
+    "name_vi": "Tỉnh Bình Dương",
+    "name_folded": "binh duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-47",
+    "locality_id": "loc-cc590b385d56",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thủ Dầu Một, Thị xã Tân Uyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Dương Đơn vị bầu cử Số 1: Gồm thành phố Thủ Dầu Một và thị xã Tân Uyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thủ Dầu Một",
+        "name_folded": "thanh pho thu dau mot"
+      },
+      {
+        "name_vi": "Thị xã Tân Uyên",
+        "name_folded": "thi xa tan uyen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Cao cấp Thanh vận"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Trưởng đoàn Đại biểu quốc hội tỉnh Bình Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bình Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

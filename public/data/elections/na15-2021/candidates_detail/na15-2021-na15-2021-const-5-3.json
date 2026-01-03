@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-5-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e6bafa82f36d",
+    "full_name": "Bùi Hoài Sơn",
+    "full_name_folded": "bui hoai son",
+    "dob": "24/10/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bản Nguyên, huyện Lâm Thao, tỉnh Phú Thọ",
+    "current_residence": "Phòng 2106 tòa B, chung cư Hoàng Huy, số 275, Nguyễn Trãi, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-5",
+    "list_order": 3,
+    "party_member_since": "25/5/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-5",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 5,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Quận Tây Hồ,Quận Bắc Từ Liêm,Huyện Hoài Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 5: Gồm các quận: Tây Hồ, Bắc Từ Liêm và huyện Hoài Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoài Đức",
+        "name_folded": "huyen hoai duc"
+      },
+      {
+        "name_vi": "Quận Bắc Từ Liêm",
+        "name_folded": "quan bac tu liem"
+      },
+      {
+        "name_vi": "Quận Tây Hồ",
+        "name_folded": "quan tay ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ Quản lý di sản và nghệ thuật - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học; Thạc sĩ chuyên ngành quản lý di sản và nghệ thuật; Tiến sĩ chuyên ngành văn hóa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng Bộ Văn hóa, Thể thao và Du lịch, Bí thư Đảng ủy, Viện trưởng Viện Văn hóa nghệ thuật quốc gia Việt Nam, Bộ Văn hóa, Thể thao và Du lịch"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Văn hóa nghệ thuật quốc gia Việt Nam, Bộ Văn hóa, Thể thao và Du lịch"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

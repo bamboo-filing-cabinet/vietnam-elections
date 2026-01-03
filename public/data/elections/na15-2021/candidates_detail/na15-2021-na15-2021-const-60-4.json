@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-60-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8a58016fedff",
+    "full_name": "Phan Hồng Thiểu",
+    "full_name_folded": "phan hong thieu",
+    "dob": "27/11/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình An, huyện Thăng Bình, tỉnh Quảng Nam",
+    "current_residence": "Ấp Sào Lưới B, xã Khánh Bình Tây Bắc, huyện Trần Văn Thời, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-60",
+    "list_order": 4,
+    "party_member_since": "12/11/2015",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-60",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Cái Nước, Huyện Phú Tân, Huyện Trần Văn Thời",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 2: Gồm các huyện: Cái Nước, Phú Tân và Trần Văn Thời. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cái Nước",
+        "name_folded": "huyen cai nuoc"
+      },
+      {
+        "name_vi": "Huyện Phú Tân",
+        "name_folded": "huyen phu tan"
+      },
+      {
+        "name_vi": "Huyện Trần Văn Thời",
+        "name_folded": "huyen tran van thoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Hiệu trưởng Trường Trung học Phổ thông Võ Thị Hồng, huyện Trần Văn Thời, tỉnh Cà Mau"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học Phổ thông Võ Thị Hồng, huyện Trần Văn Thời, tỉnh Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

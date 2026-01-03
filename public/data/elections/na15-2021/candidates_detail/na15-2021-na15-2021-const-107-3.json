@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-107-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8b24c0b4b7ae",
+    "full_name": "Giàng Páo Mỷ",
+    "full_name_folded": "giang pao my",
+    "dob": "22/12/1963",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mông",
+    "religion": "Không",
+    "birthplace": "Xã Nùng Nàng, huyện Tam Đường, tỉnh Lai Châu",
+    "current_residence": "Số 009, Phố Phạm Ngũ Lão, Tổ 23, Phường Đông Phong, thành phố Lai Châu, tỉnh Lai Châu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-107",
+    "list_order": 3,
+    "party_member_since": "20/11/1998",
+    "is_na_delegate": "XII, XIII, XIV",
+    "is_council_delegate": "Tỉnh Lai Châu nhiệm kỳ 1999-2004, 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-33214999ea64",
+    "name_vi": "Tỉnh Lai Châu",
+    "name_folded": "lai chau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-107",
+    "locality_id": "loc-33214999ea64",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Lai Châu, Huyện Than Uyên, Huyện Tân Uyên, Huyện Tam Đường",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lai Châu Đơn vị bầu cử Số 1: Gồm thành phố Lai Châu và các huyện: Than Uyên, Tân Uyên, Tam Đường. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tam Đường",
+        "name_folded": "huyen tam duong"
+      },
+      {
+        "name_vi": "Huyện Than Uyên",
+        "name_folded": "huyen than uyen"
+      },
+      {
+        "name_vi": "Huyện Tân Uyên",
+        "name_folded": "huyen tan uyen"
+      },
+      {
+        "name_vi": "Thành phố Lai Châu",
+        "name_folded": "thanh pho lai chau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành an ninh trinh sát"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh, Trưởng Đoàn đại biểu Quốc hội khóa XIV tỉnh Lai Châu"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Lai Châu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

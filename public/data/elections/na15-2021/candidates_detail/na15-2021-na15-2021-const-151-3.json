@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-151-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b8aa83a5e18e",
+    "full_name": "Phạm Mạnh Khởi",
+    "full_name_folded": "pham manh khoi",
+    "dob": "24/11/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thanh Hải, huyện Hải Hậu, tỉnh Nam Định",
+    "current_residence": "B10, số 105, Lạc Long Quân, phường Nghĩa Đô, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-151",
+    "list_order": 3,
+    "party_member_since": "05/02/1991",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-151",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Vĩnh Châu, Huyện Mỹ Xuyên, Huyện Trần Đề",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 3: Gồm thị xã Vĩnh Châu và các huyện: Mỹ Xuyên, Trần Đề. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Xuyên",
+        "name_folded": "huyen my xuyen"
+      },
+      {
+        "name_vi": "Huyện Trần Đề",
+        "name_folded": "huyen tran de"
+      },
+      {
+        "name_vi": "Thị xã Vĩnh Châu",
+        "name_folded": "thi xa vinh chau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Trưởng ban Tuyên giáo Đảng ủy cơ quan Ban Tổ chức Trung ương; Bí thư Chi bộ, Vụ trưởng Vụ Cơ sở đảng, đảng viên, Ban Tổ chức Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ trưởng Vụ Cơ sở đảng, đảng viên, Ban Tổ chức Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

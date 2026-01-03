@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-162-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9fa28d767d0e",
+    "full_name": "Hoàng Anh Công",
+    "full_name_folded": "hoang anh cong",
+    "dob": "28/3/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Hưng Nhân, huyện Hưng Hà, tỉnh Thái Bình",
+    "current_residence": "Phòng 1706, nhà 17 T2, khu Hapulico, số 1 Nguyễn Huy Tưởng, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-162",
+    "list_order": 1,
+    "party_member_since": "25/5/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-54f56f05c1c7",
+    "name_vi": "Tỉnh Thái Nguyên",
+    "name_folded": "thai nguyen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-162",
+    "locality_id": "loc-54f56f05c1c7",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Sông Công, Thị xã Phổ Yên, Huyện Phú Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Nguyên Đơn vị bầu cử Số 3: Gồm thành phố Sông Công, thị xã Phổ Yên và huyện Phú Bình. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phú Bình",
+        "name_folded": "huyen phu binh"
+      },
+      {
+        "name_vi": "Thành phố Sông Công",
+        "name_folded": "thanh pho song cong"
+      },
+      {
+        "name_vi": "Thị xã Phổ Yên",
+        "name_folded": "thi xa pho yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ, Phó Chủ nhiệm Ủy ban Kiểm tra Đảng ủy cơ quan Văn phòng Quốc hội, Bí thư Chi bộ Dân nguyện, Phó Trưởng Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

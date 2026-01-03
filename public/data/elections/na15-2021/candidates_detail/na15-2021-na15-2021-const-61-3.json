@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-61-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-69dbd18356ad",
+    "full_name": "Trần Tuấn Thanh",
+    "full_name_folded": "tran tuan thanh",
+    "dob": "07/5/1988",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phong Điền, huyện Trần Văn Thời, tỉnh Cà Mau",
+    "current_residence": "Ấp Xóm Lớn, xã Lý Văn Lâm, thành phố Cà Mau, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-61",
+    "list_order": 3,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-61",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Đầm Dơi, Huyện Năm Căn, Huyện Ngọc Hiền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 3: Gồm các huyện: Đầm Dơi, Năm Căn và Ngọc Hiển. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ngọc Hiền",
+        "name_folded": "huyen ngoc hien"
+      },
+      {
+        "name_vi": "Huyện Năm Căn",
+        "name_folded": "huyen nam can"
+      },
+      {
+        "name_vi": "Huyện Đầm Dơi",
+        "name_folded": "huyen dam doi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Văn phòng Hội Nông dân tỉnh Cà Mau"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Nông dân tỉnh Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

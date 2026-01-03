@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-54-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-19e74209b1ed",
+    "full_name": "Lê Thị Hồng Phấn",
+    "full_name_folded": "le thi hong phan",
+    "dob": "02/5/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Tân Đông, thị xã Đông Hòa, tỉnh Phú Yên",
+    "current_residence": "Số nhà 26/922, khu phố 4, phường Tiến Thành, thành phố Đồng Xoài, tỉnh Bình Phước"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-54",
+    "list_order": 5,
+    "party_member_since": "11/11/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b12c1ec4e509",
+    "name_vi": "Tỉnh Bình Phước",
+    "name_folded": "binh phuoc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-54",
+    "locality_id": "loc-b12c1ec4e509",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Bình Long, Huyện Bù Đốp, Huyện Bù Gia Mập, Huyện Chơn Thành, Huyện Hớn Quản, Huyện Lộc Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Phước Đơn vị bầu cử Số 1: Gồm thị xã Bình Long và các huyện: Bù Đốp, Bù Gia Mập, Chơn Thành, Hớn Quản, Lộc Ninh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bù Gia Mập",
+        "name_folded": "huyen bu gia map"
+      },
+      {
+        "name_vi": "Huyện Bù Đốp",
+        "name_folded": "huyen bu dop"
+      },
+      {
+        "name_vi": "Huyện Chơn Thành",
+        "name_folded": "huyen chon thanh"
+      },
+      {
+        "name_vi": "Huyện Hớn Quản",
+        "name_folded": "huyen hon quan"
+      },
+      {
+        "name_vi": "Huyện Lộc Ninh",
+        "name_folded": "huyen loc ninh"
+      },
+      {
+        "name_vi": "Thị xã Bình Long",
+        "name_folded": "thi xa binh long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh Đoàn, Chủ tịch Hội đồng Đội tỉnh Bình Phước"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn Thanh niên Cộng sản Hồ Chí Minh tỉnh Bình Phước"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

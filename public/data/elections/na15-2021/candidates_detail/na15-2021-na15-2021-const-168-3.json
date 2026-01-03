@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-168-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f83d2281ef84",
+    "full_name": "Phạm Trường Sơn",
+    "full_name_folded": "pham truong son",
+    "dob": "27/12/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Đức Thọ, huyện Đức Thọ, tỉnh Hà Tĩnh",
+    "current_residence": "Số 7/26/C1 Cộng Hòa, phường 13, quận Tân Bình, thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-168",
+    "list_order": 3,
+    "party_member_since": "23/8/1991",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-168",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Hương Trà, Huyện Phong Điền, Huyện Quảng Điền, Huyện A Lưới",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 1: Gồm thị xã Hương Trà và các huyện: Phong Điền, Quảng Điền, A Lưới. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện A Lưới",
+        "name_folded": "huyen a luoi"
+      },
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Huyện Quảng Điền",
+        "name_folded": "huyen quang dien"
+      },
+      {
+        "name_vi": "Thị xã Hương Trà",
+        "name_folded": "thi xa huong tra"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên Đảng ủy Quân chủng Phòng không-Không quân; Thiếu tướng, Phó Tư lệnh Quân chủng Phòng không-Không quân, Bộ Quốc phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân chủng Phòng không-Không quân"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

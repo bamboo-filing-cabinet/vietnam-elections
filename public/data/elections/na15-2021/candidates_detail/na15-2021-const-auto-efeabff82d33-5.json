@@ -1,0 +1,68 @@
+{
+  "entry_id": "na15-2021-const-auto-efeabff82d33-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-95b676ce1ed0",
+    "full_name": "Hoàng Văn Hữu",
+    "full_name_folded": "hoang van huu",
+    "dob": "25/5/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Đàm Thủy, huyện Trùng Khánh, tỉnh Cao Bằng",
+    "current_residence": "Tổ 1, phường Đề Thám, thành phố Cao Bằng, tỉnh Cao Bằng"
+  },
+  "entry": {
+    "constituency_id": "const-auto-efeabff82d33",
+    "list_order": 5,
+    "party_member_since": "05/02/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-efeabff82d33",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 2: Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng ủy Quân khu 1; Thiếu tướng; Phó Tư lệnh Quân khu 1"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 1"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

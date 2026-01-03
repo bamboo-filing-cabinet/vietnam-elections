@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-10-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d66ab231f5a5",
+    "full_name": "Nguyễn Anh Trí",
+    "full_name_folded": "nguyen anh tri",
+    "dob": "14/9/1957",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Liên Thủy, huyện Lệ Thủy, tỉnh Quảng Bình",
+    "current_residence": "Số nhà 11, Hướng Dương 4, khu đô thị Vinhomes, phường Phúc Đồng, quận Long Biên, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-10",
+    "list_order": 3,
+    "party_member_since": "10/10/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-10",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 10,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Sóc Sơn, Huyện Mê Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 10: Gồm các huyện: Sóc Sơn và Mê Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mê Linh",
+        "name_folded": "huyen me linh"
+      },
+      {
+        "name_vi": "Huyện Sóc Sơn",
+        "name_folded": "huyen soc son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư; Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga B, tiếng Anh C, tiếng Nhật B, tiếng Pháp A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Tiến sĩ chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Cán bộ hưu trí; Chủ tịch Hội đồng cố vấn chuyên môn Bệnh viện đa khoa MEDLATEC; Ủy viên Đoàn Chủ tịch Liên hiệp các Hội khoa học và kỹ thuật Việt Nam; Chủ tịch Hội Huyết học và truyền máu Việt Nam; Chủ tịch Hội Tan máu bẩm sinh Việt Nam; Hội viên Hội Nhạc sỹ Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện đa khoa MEDLATEC"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

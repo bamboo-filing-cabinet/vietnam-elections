@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-60-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-42b64f61d814",
+    "full_name": "Dương Thanh Bình (Dương Hoàng Du)",
+    "full_name_folded": "duong thanh binh duong hoang du",
+    "dob": "08/8/1961",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồ Thị Kỷ, huyện Thới Bình, tỉnh Cà Mau",
+    "current_residence": "BT1.2 khu Công vụ Chính phủ, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-60",
+    "list_order": 1,
+    "party_member_since": "01/01/1981",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Cà Mau nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-60",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Cái Nước, Huyện Phú Tân, Huyện Trần Văn Thời",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 2: Gồm các huyện: Cái Nước, Phú Tân và Trần Văn Thời. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cái Nước",
+        "name_folded": "huyen cai nuoc"
+      },
+      {
+        "name_vi": "Huyện Phú Tân",
+        "name_folded": "huyen phu tan"
+      },
+      {
+        "name_vi": "Huyện Trần Văn Thời",
+        "name_folded": "huyen tran van thoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế - chính trị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Trưởng Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

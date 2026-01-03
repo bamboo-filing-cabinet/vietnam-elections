@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-57-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f738433ed76e",
+    "full_name": "Nguyễn Hữu Thông",
+    "full_name_folded": "nguyen huu thong",
+    "dob": "25/11/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Phú Hài, thành phố Phan Thiết, tỉnh Bình Thuận",
+    "current_residence": "Số L2.10, Khu tái định cư Đông Xuân An, khu phố 6, phường Phú Thủy, thành phố Phan Thiết, tỉnh Bình Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-57",
+    "list_order": 4,
+    "party_member_since": "08/01/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-57",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Than Thiết, Huyện Hàm Thuận Bắc, Huyện Hàm Thuận Nam, Huyện Hàm Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 2: Gồm thành phố Phan Thiết và các huyện: Hàm Thuận Bắc, Hàm Thuận Nam, Hàm Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hàm Thuận Bắc",
+        "name_folded": "huyen ham thuan bac"
+      },
+      {
+        "name_vi": "Huyện Hàm Thuận Nam",
+        "name_folded": "huyen ham thuan nam"
+      },
+      {
+        "name_vi": "Huyện Hàm Tân",
+        "name_folded": "huyen ham tan"
+      },
+      {
+        "name_vi": "Thành phố Than Thiết",
+        "name_folded": "thanh pho than thiet"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh tương đương B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật hình sự và tố tụng hình sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Bí thư Chi bộ Sở Tư pháp, Giám đốc Sở Tư pháp; Ủy viên Ban Thường vụ Hội Luật gia tỉnh Bình Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp tỉnh Bình Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

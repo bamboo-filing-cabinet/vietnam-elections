@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-92-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1139eb5c7c00",
+    "full_name": "Phạm Tiến Hoài",
+    "full_name_folded": "pham tien hoai",
+    "dob": "13/3/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Thủy, huyện Lệ Thủy, tỉnh Quảng Bình",
+    "current_residence": "Số B6-12, khu dân cư Nam Long, phường Hưng Thạnh, quận Cái Răng, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-92",
+    "list_order": 2,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-44db209ebea8",
+    "name_vi": "Tỉnh Hậu Giang",
+    "name_folded": "hau giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-92",
+    "locality_id": "loc-44db209ebea8",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vị Thanh, Huyện Vị Thủy, Huyện Châu Thành, Huyện Thành A",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hậu Giang Đơn vị bầu cử Số 1: Gồm thành phố Vị Thanh và các huyện: Vị Thủy, Châu Thành, Châu Thành A. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Thành A",
+        "name_folded": "huyen thanh a"
+      },
+      {
+        "name_vi": "Huyện Vị Thủy",
+        "name_folded": "huyen vi thuy"
+      },
+      {
+        "name_vi": "Thành phố Vị Thanh",
+        "name_folded": "thanh pho vi thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều khiển tàu biển"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giám đốc Công ty TNHH MTV Chế biến nông sản Tiến Thịnh và Công ty TNHH MTV Thực phẩm Hạnh Nguyên; Chủ tịch Hiệp hội Doanh nghiệp tỉnh Hậu Giang; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Hậu Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty TNHH MTV Chế biến nông sản Tiến Thịnh; Công ty TNHH MTV Thực phẩm Hạnh Nguyên; Hiệp hội doanh nghiệp tỉnh Hậu Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

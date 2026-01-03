@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-41-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ee33b049aafc",
+    "full_name": "Chu Thị Lợi",
+    "full_name_folded": "chu thi loi",
+    "dob": "25/11/1988",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh",
+    "current_residence": "Số nhà 71, phố Xuân Thủy, phường Kinh Bắc, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-41",
+    "list_order": 3,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-41",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bắc Ninh, Huyện Quế Võ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 1: Gồm thành phố Bắc Ninh và huyện Quế Võ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Quế Võ",
+        "name_folded": "huyen que vo"
+      },
+      {
+        "name_vi": "Thành phố Bắc Ninh",
+        "name_folded": "thanh pho bac ninh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khoa học máy tính; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Kỹ sư, Phó Trưởng phòng Tư vấn và Chuyển giao Công nghệ, Trung tâm công nghệ thông tin và truyền thông, Sở Thông tin và Truyền thông tỉnh Bắc Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Công nghệ thông tin và Truyền thông, Sở Thông tin và Truyền thông tỉnh Bắc Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

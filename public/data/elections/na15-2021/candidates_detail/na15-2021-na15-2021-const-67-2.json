@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-67-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-298f0a08bf8b",
+    "full_name": "Nguyễn Văn Hào",
+    "full_name_folded": "nguyen van hao",
+    "dob": "23/7/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Kỳ Văn, thị xã Kỳ Anh, tỉnh Hà Tĩnh",
+    "current_residence": "Tổ dân phố 3, phường Nghĩa Trung, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-67",
+    "list_order": 2,
+    "party_member_since": "20/4/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-67",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Krông Nô, Huyện Cư Jút, Huyện Đắk Mil",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 1: Gồm các huyện: Krông Nô, Cư Jút và Đắk Mil. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Jút",
+        "name_folded": "huyen cu jut"
+      },
+      {
+        "name_vi": "Huyện Krông Nô",
+        "name_folded": "huyen krong no"
+      },
+      {
+        "name_vi": "Huyện Đắk Mil",
+        "name_folded": "huyen dak mil"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành lâm nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng ủy Sở, Bí thư Chi bộ I-Văn phòng Sở Nông nghiệp và Phát triển nông thôn; Trưởng phòng Kế hoạch - Tài chính, Văn phòng Sở Nông nghiệp và Phát triển nông thôn; Chủ tịch Công đoàn cơ sở Văn phòng Sở Nông nghiệp và Phát triển nông thôn tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

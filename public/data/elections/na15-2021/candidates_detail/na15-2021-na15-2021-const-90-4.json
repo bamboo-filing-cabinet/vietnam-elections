@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-90-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dedc4bcc6924",
+    "full_name": "Nguyễn Ngọc Sơn",
+    "full_name_folded": "nguyen ngoc son",
+    "dob": "25/5/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Đức, huyện Kim Thành, tỉnh Hải Dương",
+    "current_residence": "Số 6, BT 3, khu đô thị Pháp Vân - Tứ Hiệp, phường Hoàng Liệt, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-90",
+    "list_order": 4,
+    "party_member_since": "19/5/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-90",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Gia Lộc, Huyện Tứ Kỳ, Huyện Cầm Giàng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 3: Gồm các huyện: Gia Lộc, Tứ Kỳ và Cẩm Giàng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Giàng",
+        "name_folded": "huyen cam giang"
+      },
+      {
+        "name_vi": "Huyện Gia Lộc",
+        "name_folded": "huyen gia loc"
+      },
+      {
+        "name_vi": "Huyện Tứ Kỳ",
+        "name_folded": "huyen tu ky"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, kế toán; Thạc sĩ chuyên ngành quản trị kinh doanh; Tiến sĩ chuyên ngành quản lý xây dựng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ, Vụ trưởng Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội; Ủy viên Ban Thư ký Quốc hội; Ủy viên Ban Thường vụ, Chủ nhiệm Ủy ban kiểm tra Công đoàn cơ quan Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

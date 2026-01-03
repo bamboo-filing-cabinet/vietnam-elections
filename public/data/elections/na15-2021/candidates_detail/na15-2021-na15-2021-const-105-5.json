@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-105-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-eee304557141",
+    "full_name": "Nàng Xô Vi",
+    "full_name_folded": "nang xo vi",
+    "dob": "11/02/1996",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Brâu",
+    "religion": "Không",
+    "birthplace": "Xã Pờ Y, huyện Ngọc Hồi, tỉnh Kon Tum",
+    "current_residence": "Thôn 1, Ia Tơi, Ia H’Drai, Kon Tum"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-105",
+    "list_order": 5,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-33cd8480dc45",
+    "name_vi": "Tỉnh Kon Tum",
+    "name_folded": "kon tum",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-105",
+    "locality_id": "loc-33cd8480dc45",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Kon Tum, Huyện Kon Plông, Huyện Kon Rẫy, Huyện Sa Thầy,Huyện Ia H'Drai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kon Tum Đơn vị bầu cử Số 1: Gồm thành phố Kon Tum và các huyện: Kon Plông, Kon Rẫy, Sa Thầy, Ia H’Drai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ia H'Drai",
+        "name_folded": "huyen ia h drai"
+      },
+      {
+        "name_vi": "Huyện Kon Plông",
+        "name_folded": "huyen kon plong"
+      },
+      {
+        "name_vi": "Huyện Kon Rẫy",
+        "name_folded": "huyen kon ray"
+      },
+      {
+        "name_vi": "Huyện Sa Thầy",
+        "name_folded": "huyen sa thay"
+      },
+      {
+        "name_vi": "Thành phố Kon Tum",
+        "name_folded": "thanh pho kon tum"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm địa lý"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường phổ thông dân tộc nội trú tại huyện Ia H’Drai, tỉnh Kon Tum"
+    },
+    {
+      "key": "workplace",
+      "value": "Phân hiệu Trường phổ thông dân tộc nội trú tại huyện Ia H’Drai, tỉnh Kon Tum"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-94-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a78911b860e7",
+    "full_name": "Hoàng Đức Chính",
+    "full_name_folded": "hoang duc chinh",
+    "dob": "16/5/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Tân Vinh, huyện Lương Sơn, tỉnh Hòa Bình",
+    "current_residence": "Số 664, đường Trần Hưng Đạo, tổ 4, phường Phương Lâm, thành phố Hòa Bình, tỉnh Hòa Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-94",
+    "list_order": 1,
+    "party_member_since": "14/7/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hòa Binh nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-94",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hòa Bình, Huyện Đà Bắc, Huyện Lương Sơn, Huyện Mai Châu, Huyện Tân Lạc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 1: Gồm thành phố Hòa Bình và các huyện: Đà Bắc, Lương Sơn, Mai Châu, Tân Lạc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lương Sơn",
+        "name_folded": "huyen luong son"
+      },
+      {
+        "name_vi": "Huyện Mai Châu",
+        "name_folded": "huyen mai chau"
+      },
+      {
+        "name_vi": "Huyện Tân Lạc",
+        "name_folded": "huyen tan lac"
+      },
+      {
+        "name_vi": "Huyện Đà Bắc",
+        "name_folded": "huyen da bac"
+      },
+      {
+        "name_vi": "Thành phố Hòa Bình",
+        "name_folded": "thanh pho hoa binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C; Tiếng dân tộc Mường"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính - ngân hàng; Thạc sĩ chuyên ngành kinh tế nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Ủy viên Thường trực Hội đồng nhân dân; Trưởng ban Kinh tế, Ngân sách Hội đồng nhân dân tỉnh Hòa Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng nhân dân tỉnh Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

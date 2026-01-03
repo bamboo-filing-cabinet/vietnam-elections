@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-132-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-070f77cf34a0",
+    "full_name": "Đào Thị Thu Tuệ",
+    "full_name_folded": "dao thi thu tue",
+    "dob": "26/12/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Tất Thắng, huyện Thanh Sơn, tỉnh Phú Thọ",
+    "current_residence": "Khu 10, xóm Tế, xã Tất Thắng, huyện Thanh Sơn, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-132",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-132",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Phú Thọ, Huyện Phủ Ninh, Huyện Lâm Thao, Huyện Đoan Hùng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 2: Gồm thị xã Phú Thọ và các huyện: Phù Ninh, Lâm Thao, Đoan Hùng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lâm Thao",
+        "name_folded": "huyen lam thao"
+      },
+      {
+        "name_vi": "Huyện Phủ Ninh",
+        "name_folded": "huyen phu ninh"
+      },
+      {
+        "name_vi": "Huyện Đoan Hùng",
+        "name_folded": "huyen doan hung"
+      },
+      {
+        "name_vi": "Thị xã Phú Thọ",
+        "name_folded": "thi xa phu tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường Trung học cơ sở Cự Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học cơ sở Cự Đồng, huyện Thanh Sơn, tỉnh Phú Thọ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

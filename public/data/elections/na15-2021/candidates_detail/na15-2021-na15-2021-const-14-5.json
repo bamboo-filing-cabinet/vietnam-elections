@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-14-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0a53a1ce07e3",
+    "full_name": "Văn Thị Bạch Tuyết",
+    "full_name_folded": "van thi bach tuyet",
+    "dob": "16/6/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Hiệp Thành, quận 12, Thành phố Hồ Chí Minh",
+    "current_residence": "Ấp 6A, xã Bình Mỹ, huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-14",
+    "list_order": 5,
+    "party_member_since": "31/3/1998",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-14",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận 10, Quận 12",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 4: Gồm các quận: Quận 10 và Quận 12. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 10",
+        "name_folded": "quan 10"
+      },
+      {
+        "name_vi": "Quận 12",
+        "name_folded": "quan 12"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sinh học, hành chính học; Thạc sĩ chuyên ngành kinh tế - chính trị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên, Phó Bí thư Đảng ủy Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân Thành phố Hồ Chí Minh; Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

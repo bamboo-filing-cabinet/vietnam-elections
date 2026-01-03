@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-80-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-59f22c7edc87",
+    "full_name": "Lê Hoàng Anh",
+    "full_name_folded": "le hoang anh",
+    "dob": "30/7/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
+    "current_residence": "Căn hộ 1507 Tòa nhà Trường An (CT1), Tràng An Complex, số 01 phố Phùng Chí Kiên, phường Nghĩa Đô, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-80",
+    "list_order": 1,
+    "party_member_since": "15/12/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-80",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Ayun Pa, Huyện Krông Pa, Huyện Ia Pa, Huyện Phú Thiện, Huyện Chư Sê, Huyện Chư Pưh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 3: Gồm thị xã Ayun Pa và các huyện: Krông Pa, Ia Pa, Phú Thiện, Chư Sê, Chư Pưh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chư Pưh",
+        "name_folded": "huyen chu puh"
+      },
+      {
+        "name_vi": "Huyện Chư Sê",
+        "name_folded": "huyen chu se"
+      },
+      {
+        "name_vi": "Huyện Ia Pa",
+        "name_folded": "huyen ia pa"
+      },
+      {
+        "name_vi": "Huyện Krông Pa",
+        "name_folded": "huyen krong pa"
+      },
+      {
+        "name_vi": "Huyện Phú Thiện",
+        "name_folded": "huyen phu thien"
+      },
+      {
+        "name_vi": "Thị xã Ayun Pa",
+        "name_folded": "thi xa ayun pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý kinh tế, luật, nông học; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ, Giám đốc Thư viện Quốc hội, Văn phòng Quốc hội; Ủy viên Ban Thư ký Quốc hội; Ủy viên Ban Chấp hành, Phó Trưởng ban chính sách - pháp luật Công đoàn cơ quan Văn phòng Quốc hội; Phó Chủ tịch thường trực Liên đoàn Bóng rổ Việt Nam; Ủy viên Ban Chấp hành, Trưởng Ban Kiểm tra Ủy ban Olympic Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Thư viện Quốc hội, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

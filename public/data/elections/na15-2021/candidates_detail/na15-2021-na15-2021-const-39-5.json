@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-39-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-485e9bff129f",
+    "full_name": "Trần Thị Yến",
+    "full_name_folded": "tran thi yen",
+    "dob": "06/02/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lão Hộ, huyện Yên Dũng, tỉnh Bắc Giang",
+    "current_residence": "Thôn Toàn Thắng, xã Lão Hộ, huyện Yên Dũng, tỉnh Bắc Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-39",
+    "list_order": 5,
+    "party_member_since": "27/9/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Xã Lão Hộ (huyện Yên Dũng, tỉnh Bắc Giang) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-1764135b6cd1",
+    "name_vi": "Tỉnh Bắc Giang",
+    "name_folded": "bac giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-39",
+    "locality_id": "loc-1764135b6cd1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Bắc Giang, Huyện Yên Thế, Huyện Lạng Giang, Huyên Yên Dũng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Giang Đơn vị bầu cử Số 2: Gồm thành phố Bắc Giang và các huyện: Yên Thế, Lạng Giang, Yên Dũng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Yên Dũng",
+        "name_folded": "huyen yen dung"
+      },
+      {
+        "name_vi": "Huyện Lạng Giang",
+        "name_folded": "huyen lang giang"
+      },
+      {
+        "name_vi": "Huyện Yên Thế",
+        "name_folded": "huyen yen the"
+      },
+      {
+        "name_vi": "Thành phố Bắc Giang",
+        "name_folded": "thanh pho bac giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Công đoàn xã, Công chức Tư pháp - Hộ tịch xã Lão Hộ, huyện Yên Dũng, tỉnh Bắc Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân xã Lão Hộ, huyện Yên Dũng, tỉnh Bắc Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

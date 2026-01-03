@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-158-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b5c9a9ba94de",
+    "full_name": "Vũ Thị Út",
+    "full_name_folded": "vu thi ut",
+    "dob": "11/3/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đình Phùng, huyện Kiến Xương, tỉnh Thái Bình",
+    "current_residence": "Số nhà 06, ngách 43/32, đường Hùng Vương, tổ 9, phường Phú Khánh, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-158",
+    "list_order": 5,
+    "party_member_since": "06/12/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-158",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Đông Hưng, Huyện Thái Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 2: Gồm các huyện: Đông Hưng và Thái Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thái Thụy",
+        "name_folded": "huyen thai thuy"
+      },
+      {
+        "name_vi": "Huyện Đông Hưng",
+        "name_folded": "huyen dong hung"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành trồng trọt; Thạc sĩ chuyên ngành khoa học cây trồng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành công đoàn Sở Khoa học và Công nghệ tỉnh Thái Bình; Phó Trưởng phòng kế hoạch - tài chính, Sở Khoa học và Công nghệ tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Khoa học và Công nghệ tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

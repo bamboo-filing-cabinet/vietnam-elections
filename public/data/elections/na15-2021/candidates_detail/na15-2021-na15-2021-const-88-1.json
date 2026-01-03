@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-88-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-50846a98640d",
+    "full_name": "Bùi Văn Cường",
+    "full_name_folded": "bui van cuong",
+    "dob": "18/6/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thăng Long, thị xã Kinh Môn, tỉnh Hải Dương",
+    "current_residence": "Số nhà 23B, Nguyễn Gia Thiều, phường Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-88",
+    "list_order": 1,
+    "party_member_since": "14/6/1992",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-88",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Chí Linh, Thị xã Kinh Môn, Huyện Kim Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 1: Gồm thành phố Chí Linh, thị xã Kinh Môn và huyện Kim Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Thành",
+        "name_folded": "huyen kim thanh"
+      },
+      {
+        "name_vi": "Thành phố Chí Linh",
+        "name_folded": "thanh pho chi linh"
+      },
+      {
+        "name_vi": "Thị xã Kinh Môn",
+        "name_folded": "thi xa kinh mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Anh văn, tiếng Pháp B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều khiển tàu biển, Anh văn, chính trị; Thạc sĩ chuyên ngành an toàn hàng hải; Tiến sĩ chuyên ngành kỹ thuật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Bí thư Đảng ủy cơ quan Văn phòng Quốc hội, Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội; Ủy viên Hội đồng bầu cử quốc gia, Chánh Văn phòng Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

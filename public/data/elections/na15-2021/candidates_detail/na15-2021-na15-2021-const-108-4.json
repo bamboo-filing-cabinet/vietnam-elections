@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-108-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-31e392692acf",
+    "full_name": "Trần Hồng Minh",
+    "full_name_folded": "tran hong minh",
+    "dob": "04/11/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Mỹ, huyện Mỹ Đức, thành phố Hà Nội",
+    "current_residence": "Số 34-BT7, Khu Đô thị Văn Quán, phường Văn Quán, quận Hà Đông, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-108",
+    "list_order": 4,
+    "party_member_since": "08/12/1985",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-33214999ea64",
+    "name_vi": "Tỉnh Lai Châu",
+    "name_folded": "lai chau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-108",
+    "locality_id": "loc-33214999ea64",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Phong Thổ, Huyện Mường Tè, Huyện Sin Hồ, Huyện Nậm Nhùn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lai Châu Đơn vị bầu cử Số 2: Gồm các huyện: Phong Thổ, Mường Tè, Sìn Hồ và Nậm Nhùn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Tè",
+        "name_folded": "huyen muong te"
+      },
+      {
+        "name_vi": "Huyện Nậm Nhùn",
+        "name_folded": "huyen nam nhun"
+      },
+      {
+        "name_vi": "Huyện Phong Thổ",
+        "name_folded": "huyen phong tho"
+      },
+      {
+        "name_vi": "Huyện Sin Hồ",
+        "name_folded": "huyen sin ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành xây dựng công trình; Tiến sĩ chuyên ngành kỹ thuật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Phó Bí thư Đảng ủy, Trung tướng, Chủ nhiệm Tổng cục Công nghiệp quốc phòng, Bộ Quốc phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Tổng cục Công nghiệp quốc phòng, Bộ Quốc phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-64-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8d68e56c2ba4",
+    "full_name": "Ngô Trung Thành",
+    "full_name_folded": "ngo trung thanh",
+    "dob": "29/01/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Nghĩa, huyện Bình Lục, tỉnh Hà Nam",
+    "current_residence": "Số nhà 38B/145, phố Quan Nhân, tổ dân phố số 29, phường Thượng Đình, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-64",
+    "list_order": 3,
+    "party_member_since": "29/10/2003",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-64",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Buôm Ma Thuột, Huyện Buôn Đôn, Huyện Ea Súp, Huyện Cư M'Gar",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 1: Gồm thành phố Buôn Ma Thuột và các huyện: Buôn Đôn, Ea Súp, Cư M`Gar. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Buôn Đôn",
+        "name_folded": "huyen buon don"
+      },
+      {
+        "name_vi": "Huyện Cư M'Gar",
+        "name_folded": "huyen cu m gar"
+      },
+      {
+        "name_vi": "Huyện Ea Súp",
+        "name_folded": "huyen ea sup"
+      },
+      {
+        "name_vi": "Thành phố Buôm Ma Thuột",
+        "name_folded": "thanh pho buom ma thuot"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ nhiệm Ủy ban Pháp luật của Quốc hội; Ủy viên Ban Thường trực Trung ương Hội Luật gia Việt Nam; Chi hội trưởng Hội luật gia Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Pháp luật của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

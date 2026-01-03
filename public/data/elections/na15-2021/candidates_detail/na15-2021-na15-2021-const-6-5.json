@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-6-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ff284bcb88f7",
+    "full_name": "Lê Thị Thu Trang",
+    "full_name_folded": "le thi thu trang",
+    "dob": "29/10/1972",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Phú Cầu, huyện Ứng Hòa, thành phố Hà Nội",
+    "current_residence": "Khu tập thể Dân số - Kế hoạch hóa gia đình, số 90, Lê Lợi, phường Nguyễn Trãi, quận Hà Đông, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-6",
+    "list_order": 5,
+    "party_member_since": "02/7/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-6",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Hà Đông,Huyện Thanh Trì,Huyện Thanh Oai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 6: Gồm quận Hà Đông và các huyện: Thanh Trì, Thanh Oai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thanh Oai",
+        "name_folded": "huyen thanh oai"
+      },
+      {
+        "name_vi": "Huyện Thanh Trì",
+        "name_folded": "huyen thanh tri"
+      },
+      {
+        "name_vi": "Quận Hà Đông",
+        "name_folded": "quan ha dong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy, Phó Hiệu trưởng, Chủ tịch Công đoàn Trường Cao đẳng Y tế Hà Đông; Ủy viên Ban Chấp hành Liên đoàn Lao động thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Cao đẳng Y tế Hà Đông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-104-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ff956b428900",
+    "full_name": "Đỗ Thanh Bình",
+    "full_name_folded": "do thanh binh",
+    "dob": "15/3/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Trí Phải, huyện Thới Bình, tỉnh Cà Mau",
+    "current_residence": "Số P4-61, đường 3/2, phường An Hoà, thành phố Rạch Giá, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-104",
+    "list_order": 2,
+    "party_member_since": "19/9/1990",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Kiên Giang nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-104",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Rạch Giá, Thành phố Hà Tiên, Thành phố Phú Quốc, Huyện Kiên Lương, Huyện Hòn Đất, Huyện Giang Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 3: Gồm các thành phố: Rạch Giá, Hà Tiên, Phú Quốc và các huyện: Kiên Lương, Hòn Đất, Giang Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giang Thành",
+        "name_folded": "huyen giang thanh"
+      },
+      {
+        "name_vi": "Huyện Hòn Đất",
+        "name_folded": "huyen hon dat"
+      },
+      {
+        "name_vi": "Huyện Kiên Lương",
+        "name_folded": "huyen kien luong"
+      },
+      {
+        "name_vi": "Thành phố Hà Tiên",
+        "name_folded": "thanh pho ha tien"
+      },
+      {
+        "name_vi": "Thành phố Phú Quốc",
+        "name_folded": "thanh pho phu quoc"
+      },
+      {
+        "name_vi": "Thành phố Rạch Giá",
+        "name_folded": "thanh pho rach gia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế chính trị; Thạc sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh uỷ Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh uỷ Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

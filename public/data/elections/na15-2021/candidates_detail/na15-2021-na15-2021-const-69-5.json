@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-69-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e74b09e84f09",
+    "full_name": "Nguyễn Tiến Thiện (Thượng tọa Thích Đức Thiện)",
+    "full_name_folded": "nguyen tien thien thuong toa thich duc thien",
+    "dob": "05/4/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Thị trấn Gia Bình, huyện Gia Bình, tỉnh Bắc Ninh",
+    "current_residence": "Chùa Phật Tích, thôn Phật Tích, xã Phật Tích, huyện Tiên Du, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-69",
+    "list_order": 5,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Tiên Du (tỉnh Bắc Ninh) nhiệm kỳ 2007-2011"
+  },
+  "locality": {
+    "id": "loc-8c69f5d593d7",
+    "name_vi": "Tỉnh Điện Biên",
+    "name_folded": "dien bien",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-69",
+    "locality_id": "loc-8c69f5d593d7",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Điện Biên Phủ, Huyện Điện Biên Đông, Huyện Mường Ảng, Huyện Điện Biên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Điện Biên Đơn vị bầu cử Số 1: Gồm thành phố Điện Biên Phủ và các huyện: Điện Biên Đông, Mường Ảng, Điện Biên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Ảng",
+        "name_folded": "huyen muong ang"
+      },
+      {
+        "name_vi": "Huyện Điện Biên",
+        "name_folded": "huyen dien bien"
+      },
+      {
+        "name_vi": "Huyện Điện Biên Đông",
+        "name_folded": "huyen dien bien dong"
+      },
+      {
+        "name_vi": "Thành phố Điện Biên Phủ",
+        "name_folded": "thanh pho dien bien phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh, tiếng Trung"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế; Tiến sĩ chuyên ngành phật học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tu sĩ Phật giáo; Phó Chủ tịch, Tổng Thư ký Hội đồng Trị sự Giáo hội Phật giáo Việt Nam; Trưởng ban Ban Phật giáo Quốc tế Trung ương GHPGVN; Chủ tịch Ủy ban Phật giáo Châu Á vì Hòa bình Việt Nam (ABCP); Trưởng ban Ban Trị sự GHPGVN tỉnh Điện Biên; Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam khóa IX; Phó Chủ tịch Hội Hữu nghị Việt Nam - Ấn Độ; Phó Chủ tịch Hội Hữu nghị Việt Nam - Srilanka; Thành viên Hội đồng Khoa học và Đào tạo Viện Trần Nhân Tông, Đại học Quốc gia Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng Trị sự Giáo hội Phật giáo Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

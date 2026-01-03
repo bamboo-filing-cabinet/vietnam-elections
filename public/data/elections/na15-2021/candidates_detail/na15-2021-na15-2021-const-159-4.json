@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-159-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cbdd3451fc4f",
+    "full_name": "Nguyễn Văn Thân",
+    "full_name_folded": "nguyen van than",
+    "dob": "02/02/1955",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quỳnh Hồng, huyện Quỳnh Phụ, tỉnh Thái Bình",
+    "current_residence": "Số 15, Tô Hiến Thành, phường Nguyễn Du, quận Hai Bà Trưng, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-159",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-159",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thái Bình, Huyện Tiền Hải, Huyện Kiến Xương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 3: Gồm thành phố Thái Bình và các huyện: Tiền Hải, Kiến Xương. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kiến Xương",
+        "name_folded": "huyen kien xuong"
+      },
+      {
+        "name_vi": "Huyện Tiền Hải",
+        "name_folded": "huyen tien hai"
+      },
+      {
+        "name_vi": "Thành phố Thái Bình",
+        "name_folded": "thanh pho thai binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C; Tiến sĩ khoa học tự nhiên - tiếng Ba Lan"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành vật lý khí quyển; Tiến sĩ chuyên ngành khoa học tự nhiên"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội doanh nghiệp nhỏ và vừa Việt Nam; Ủy viên Ủy ban Kinh tế của Quốc hội; Phó Chủ tịch Hội đồng tư vấn cải cách thủ tục hành chính của Thủ tướng Chính phủ; Phó Chủ tịch Hội Hữu nghị Việt Nam - Ba Lan; Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Chủ tịch Hội doanh nghiệp nhỏ và vừa Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

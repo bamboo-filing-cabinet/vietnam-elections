@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-169-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6a3dc5e0c4fe",
+    "full_name": "Lê Anh Phương",
+    "full_name_folded": "le anh phuong",
+    "dob": "20/02/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thủy, huyện Lệ Thủy, tỉnh Quảng Bình",
+    "current_residence": "Số 44, đường Trần Anh Liên, phường An Đông, thành phố Huế, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-169",
+    "list_order": 4,
+    "party_member_since": "24/9/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-169",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Huế, Thị xã Hương Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 2: Gồm thành phố Huế và thị xã Hương Thuỷ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Huế",
+        "name_folded": "thanh pho hue"
+      },
+      {
+        "name_vi": "Thị xã Hương Thủy",
+        "name_folded": "thi xa huong thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành toán - tin học; Tiến sĩ chuyên ngành công nghệ thông tin"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy Đại học Huế; Bí thư Đảng ủy - Hiệu trưởng Trường Đại học Sư phạm, Đại học Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Sư phạm, Đại học Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

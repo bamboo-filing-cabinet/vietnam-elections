@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-130-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f6d100dc1b77",
+    "full_name": "Phan Xuân Dũng",
+    "full_name_folded": "phan xuan dung",
+    "dob": "20/5/1960",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Lộc, huyện Can Lộc, tỉnh Hà Tĩnh",
+    "current_residence": "Nhà B9-TT4, Khu nhà ở Quốc hội, khu đô thị mới Phùng Khoang, phường Trung Văn, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-130",
+    "list_order": 1,
+    "party_member_since": "01/07/1989",
+    "is_na_delegate": "XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b7a54ba23200",
+    "name_vi": "Tỉnh Ninh Thuận",
+    "name_folded": "ninh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-130",
+    "locality_id": "loc-b7a54ba23200",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Bác Ái, Huyện Ninh Sơn, Huyện Thuận Nam, Huyện Ninh Phước",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Thuận Đơn vị bầu cử Số 2: Gồm các huyện: Bác Ái, Ninh Sơn, Thuận Nam và Ninh Phước. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bác Ái",
+        "name_folded": "huyen bac ai"
+      },
+      {
+        "name_vi": "Huyện Ninh Phước",
+        "name_folded": "huyen ninh phuoc"
+      },
+      {
+        "name_vi": "Huyện Ninh Sơn",
+        "name_folded": "huyen ninh son"
+      },
+      {
+        "name_vi": "Huyện Thuận Nam",
+        "name_folded": "huyen thuan nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C; tiếng Nga D"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành cơ khí chế tạo máy; Tiến sĩ chuyên ngành khoa học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng đoàn, Chủ tịch Liên hiệp các Hội khoa học và Kỹ thuật Việt Nam; Chủ tịch Nhóm Nghị sỹ Hữu nghị Việt Nam - Liên bang Nga của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên hiệp các Hội khoa học và Kỹ thuật Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

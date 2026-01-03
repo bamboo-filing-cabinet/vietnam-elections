@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-17-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e6137a0cdf14",
+    "full_name": "Nguyễn Minh Hoàng",
+    "full_name_folded": "nguyen minh hoang",
+    "dob": "16/5/1960",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường 12, quận Bình Thạnh, Thành phố Hồ Chí Minh",
+    "current_residence": "Số 54/19, Phổ Quang, tổ dân phố 54, phường 2, quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-17",
+    "list_order": 1,
+    "party_member_since": "01/12/1983",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Huyện Định Quán (tỉnh Đồng Nai) nhiệm kỳ 2000 - 2005"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-17",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Quận Phú Nhuận Gò Vấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 7: Gồm các quận: Phú Nhuận và Gò Vấp. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Phú Nhuận Gò Vấp",
+        "name_folded": "quan phu nhuan go vap"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 Bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Sơ cấp tiếng Khơ me"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thiếu tướng, Chủ tịch Hội Cựu chiến binh Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Cựu chiến binh Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

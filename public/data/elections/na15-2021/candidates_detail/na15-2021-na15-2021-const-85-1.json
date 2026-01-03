@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-85-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-193ddd81bbae",
+    "full_name": "Hoàng Trung Dũng",
+    "full_name_folded": "hoang trung dung",
+    "dob": "21/5/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hương Long, huyện Hương Khê, tỉnh Hà Tĩnh",
+    "current_residence": "Số 11, ngách 02, ngõ 95, đường 26/3, tổ dân phố Tân Yên, phường Văn Yên, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-85",
+    "list_order": 1,
+    "party_member_since": "22/10/1994",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thị xã Hà Tĩnh nhiệm kỳ 1999-2004; Tỉnh Hà Tĩnh nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-85",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Tĩnh, Thị xã Kỳ Anh, Huyện Kỳ Anh, Huyện Cầm Xuyên, Huyện Hương Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 1: Gồm thành phố Hà Tĩnh, thị xã Kỳ Anh và các huyện: Kỳ Anh, Cẩm Xuyên, Hương Khê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Xuyên",
+        "name_folded": "huyen cam xuyen"
+      },
+      {
+        "name_vi": "Huyện Hương Khê",
+        "name_folded": "huyen huong khe"
+      },
+      {
+        "name_vi": "Huyện Kỳ Anh",
+        "name_folded": "huyen ky anh"
+      },
+      {
+        "name_vi": "Thành phố Hà Tĩnh",
+        "name_folded": "thanh pho ha tinh"
+      },
+      {
+        "name_vi": "Thị xã Kỳ Anh",
+        "name_folded": "thi xa ky anh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Tiến sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Hà Tĩnh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Hà Tĩnh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

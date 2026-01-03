@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-5133bd78fc4a-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f3edf59cbcd5",
+    "full_name": "Hoàng Thị Giang",
+    "full_name_folded": "hoang thi giang",
+    "dob": "10/9/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Dao",
+    "religion": "Không",
+    "birthplace": "Xã An Thắng, huyện Pác Nặm, tỉnh Bắc Kạn",
+    "current_residence": "Thôn Nà Phẩm, xã Bộc Bố, huyện Pác Nặm, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-5133bd78fc4a",
+    "list_order": 1,
+    "party_member_since": "30/3/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Bắc Kạn nhiệm kỳ 2016-2021; Huyện Pác Nặm (tỉnh Bắc Kạn) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-5133bd78fc4a",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 1: Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kỹ thuật tài nguyên nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng Ban Kinh tế - Xã hội, Hội đồng nhân dân huyện Pác Nặm; Chủ tịch công đoàn Văn phòng Hội đồng nhân dân và Ủy ban nhân dân huyện Pác Nặm, tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng nhân dân huyện Pác Nặm, tỉnh Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

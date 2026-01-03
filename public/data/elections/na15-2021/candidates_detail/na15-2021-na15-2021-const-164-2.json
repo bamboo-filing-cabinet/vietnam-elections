@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-164-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a63ce86af03f",
+    "full_name": "Mai Văn Hải",
+    "full_name_folded": "mai van hai",
+    "dob": "23/12/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nga Trung, huyện Nga Sơn, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 23, đường Hoàng Bật Đạt, tiểu khu Hưng Long, thị trấn Nga Sơn, huyện Nga Sơn, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-164",
+    "list_order": 2,
+    "party_member_since": "28/02/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Nga Sơn nhiệm kỳ 2011-2016, 2016-2021; Tỉnh Thanh Hóa nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-164",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Bỉm Sơn, Huyện Hà Trung, Huyện Nga Sơn, Huyện Hậu Lộc, Huyện Vĩnh Lộc, Huyện Thạch Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 2: Gồm thị xã Bỉm Sơn và các huyện: Hà Trung, Nga Sơn, Hậu Lộc, Vĩnh Lộc, Thạch Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hà Trung",
+        "name_folded": "huyen ha trung"
+      },
+      {
+        "name_vi": "Huyện Hậu Lộc",
+        "name_folded": "huyen hau loc"
+      },
+      {
+        "name_vi": "Huyện Nga Sơn",
+        "name_folded": "huyen nga son"
+      },
+      {
+        "name_vi": "Huyện Thạch Thành",
+        "name_folded": "huyen thach thanh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Lộc",
+        "name_folded": "huyen vinh loc"
+      },
+      {
+        "name_vi": "Thị xã Bỉm Sơn",
+        "name_folded": "thi xa bim son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý đất đai; Tiến sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Bí thư Đảng ủy Khối cơ quan và doanh nghiệp tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Đảng ủy Khối cơ quan và doanh nghiệp tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

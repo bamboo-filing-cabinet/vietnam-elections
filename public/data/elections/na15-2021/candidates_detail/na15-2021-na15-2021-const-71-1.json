@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-71-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b2671d63ac75",
+    "full_name": "Trịnh Xuân An",
+    "full_name_folded": "trinh xuan an",
+    "dob": "16/5/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Sinh, huyện Thọ Xuân, tỉnh Thanh Hóa",
+    "current_residence": "Căn hộ 311-D2, tầng 3, khu chung cư Mandarin Garden (khu D), phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-71",
+    "list_order": 1,
+    "party_member_since": "28/6/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-71",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Biên Hòa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 1: Gồm thành phố Biên Hòa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Biên Hòa",
+        "name_folded": "thanh pho bien hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thư ký Phó Chủ tịch Quốc hội, Phó Vụ trưởng Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

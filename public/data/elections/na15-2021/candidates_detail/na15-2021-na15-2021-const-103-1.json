@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-103-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2e2d29509887",
+    "full_name": "Nguyễn Thị Kim Bé",
+    "full_name_folded": "nguyen thi kim be",
+    "dob": "10/9/1968",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vĩnh Thuận, huyện Vĩnh Thuận, tỉnh Kiên Giang",
+    "current_residence": "Số BT 1 - 22, đường Trần Bạch Đằng, phường An Hoà, thành phố Rạch Giá, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-103",
+    "list_order": 1,
+    "party_member_since": "03/01/1994",
+    "is_na_delegate": "XII, XIII, XIV",
+    "is_council_delegate": "Tỉnh Kiên Giang nhiệm kỳ 2004-2011"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-103",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện An Biên, Huyện An Minh, Huyện Vĩnh Thuận, Huyện U Minh Thượng, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 2: Gồm các huyện: An Biên, An Minh, Vĩnh Thuận, U Minh Thượng và Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Biên",
+        "name_folded": "huyen an bien"
+      },
+      {
+        "name_vi": "Huyện An Minh",
+        "name_folded": "huyen an minh"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện U Minh Thượng",
+        "name_folded": "huyen u minh thuong"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thuận",
+        "name_folded": "huyen vinh thuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Văn; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh uỷ viên, Phó Trưởng đoàn Đoàn đại biểu Quốc hội tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

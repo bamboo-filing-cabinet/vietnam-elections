@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-68-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-03ac509f9ef6",
+    "full_name": "Phạm Nam Tiến",
+    "full_name_folded": "pham nam tien",
+    "dob": "01/11/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Khánh Mậu, huyện Yên Khánh, tỉnh Ninh Bình",
+    "current_residence": "Phòng 805/N02, khu 5,03ha, phường Dịch Vọng, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-68",
+    "list_order": 3,
+    "party_member_since": "26/11/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-68",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Gia Nghĩa, Huyện Đắk Glong, Huyện Đắk R'Lấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 2: Gồm thành phố Gia Nghĩa và các huyện: Đắk Glong, Đắk R`Lấp, Tuy Đức, Đắk Song. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đắk Glong",
+        "name_folded": "huyen dak glong"
+      },
+      {
+        "name_vi": "Huyện Đắk R'Lấp",
+        "name_folded": "huyen dak r lap"
+      },
+      {
+        "name_vi": "Thành phố Gia Nghĩa",
+        "name_folded": "thanh pho gia nghia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành báo chí, chính trị; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ, Bí thư Chi bộ, Vụ trưởng Vụ Địa phương II, Ban Nội chính Trung ương; Phó Chủ tịch Công đoàn Ban Nội chính Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Địa phương II, Ban Nội chính Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

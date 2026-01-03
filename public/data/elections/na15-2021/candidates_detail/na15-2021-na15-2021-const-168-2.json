@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-168-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-960020566f41",
+    "full_name": "Lê Thị Thu Hương",
+    "full_name_folded": "le thi thu huong",
+    "dob": "21/01/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Cơ-tu",
+    "religion": "Không",
+    "birthplace": "Xã Lâm Đớt, huyện A Lưới, tỉnh Thừa Thiên Huế",
+    "current_residence": "Tổ 12, Tổ dân phố 6, thị trấn A Lưới, huyện A Lưới, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-168",
+    "list_order": 2,
+    "party_member_since": "23/6/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-168",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Hương Trà, Huyện Phong Điền, Huyện Quảng Điền, Huyện A Lưới",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 1: Gồm thị xã Hương Trà và các huyện: Phong Điền, Quảng Điền, A Lưới. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện A Lưới",
+        "name_folded": "huyen a luoi"
+      },
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Huyện Quảng Điền",
+        "name_folded": "huyen quang dien"
+      },
+      {
+        "name_vi": "Thị xã Hương Trà",
+        "name_folded": "thi xa huong tra"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cử nhân chuyên ngành sư phạm lịch sử"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Trưởng phòng Phòng Giáo dục và Đào tạo huyện A Lưới, tỉnh Thừa Thiên Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Phòng Giáo dục và Đào tạo, huyện A Lưới, tỉnh Thừa Thiên Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

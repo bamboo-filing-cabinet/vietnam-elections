@@ -1,0 +1,73 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-38-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-020791b1b10b",
+    "full_name": "Trần Văn Năm",
+    "full_name_folded": "tran van nam",
+    "dob": "04/4/1985",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Sán Dìu",
+    "religion": "Không",
+    "birthplace": "Xã Nghĩa Phương, huyện Lục Nam, tỉnh Bắc Giang",
+    "current_residence": "Thôn Tè, xã Nghĩa Phương, huyện Lục Nam, tỉnh Bắc Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-38",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-1764135b6cd1",
+    "name_vi": "Tỉnh Bắc Giang",
+    "name_folded": "bac giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-38",
+    "locality_id": "loc-1764135b6cd1",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Sơn Động, Huyện Lục Ngạn, Huyện Lục Nam",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Giang Đơn vị bầu cử Số 1: Gồm các huyện: Sơn Động, Lục Ngạn và Lục Nam. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lục Nam",
+        "name_folded": "huyen luc nam"
+      },
+      {
+        "name_vi": "Huyện Lục Ngạn",
+        "name_folded": "huyen luc ngan"
+      },
+      {
+        "name_vi": "Huyện Sơn Động",
+        "name_folded": "huyen son dong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_general",
+      "value": "09/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi hội phó Chi Hội Nông dân thôn Tè, xã Nghĩa Phương, huyện Lục Nam, tỉnh Bắc Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Thôn Tè, xã Nghĩa Phương, huyện Lục Nam, tỉnh Bắc Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-152-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ea7dc3570815",
+    "full_name": "Dương Thành Trung",
+    "full_name_folded": "duong thanh trung",
+    "dob": "25/6/1992",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Sơn, huyện Kim Bảng, tỉnh Hà Nam",
+    "current_residence": "Số nhà 19, tiểu khu 5, thị trấn Thuận Châu, huyện Thuận Châu, tỉnh Sơn La"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-152",
+    "list_order": 5,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-152",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Sơn La, Huyện Thuận Châu, Huyện Mai Sơn, Huyện Yên Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 1: Gồm thành phố Sơn La và các huyện: Thuận Châu, Mai Sơn, Yên Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mai Sơn",
+        "name_folded": "huyen mai son"
+      },
+      {
+        "name_vi": "Huyện Thuận Châu",
+        "name_folded": "huyen thuan chau"
+      },
+      {
+        "name_vi": "Huyện Yên Châu",
+        "name_folded": "huyen yen chau"
+      },
+      {
+        "name_vi": "Thành phố Sơn La",
+        "name_folded": "thanh pho son la"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kiến trúc công trình"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Phòng Kinh tế - Hạ tầng huyện Thuận Châu, tỉnh Sơn La"
+    },
+    {
+      "key": "workplace",
+      "value": "Phòng Kinh tế - Hạ tầng huyện Thuận Châu, tỉnh Sơn La"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

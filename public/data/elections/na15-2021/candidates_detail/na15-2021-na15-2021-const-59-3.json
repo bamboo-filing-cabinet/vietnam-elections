@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-59-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-350a923e0914",
+    "full_name": "Dương Kim Ngân",
+    "full_name_folded": "duong kim ngan",
+    "dob": "01/02/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Trung, huyện Đầm Dơi, tỉnh Cà Mau",
+    "current_residence": "Số 437E, đường Nguyễn Trãi, khóm 4, phường 9, thành phố Cà Mau, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-59",
+    "list_order": 3,
+    "party_member_since": "09/11/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-59",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Cà Mau, Huyện Thới Bình, Huyện U Minh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 1: Gồm thành phố Cà Mau và các huyện: Thới Bình, U Minh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thới Bình",
+        "name_folded": "huyen thoi binh"
+      },
+      {
+        "name_vi": "Huyện U Minh",
+        "name_folded": "huyen u minh"
+      },
+      {
+        "name_vi": "Thành phố Cà Mau",
+        "name_folded": "thanh pho ca mau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ chuyên khoa cấp I"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ Khoa Khám bệnh, Trưởng Khoa Chăm sóc sức khỏe sinh sản Bệnh viện Sản - Nhi"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Sản - Nhi Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

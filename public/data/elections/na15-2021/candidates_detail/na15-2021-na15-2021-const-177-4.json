@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-177-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ef53a22d25f3",
+    "full_name": "Nguyễn Thị Thu Trang",
+    "full_name_folded": "nguyen thi thu trang",
+    "dob": "04/3/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Tập, huyện Khoái Châu, tỉnh Hưng Yên",
+    "current_residence": "Tổ 17, phường Phan Thiết, thành phố Tuyên Quang, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-177",
+    "list_order": 4,
+    "party_member_since": "31/7/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-177",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Hàm Yên, Huyện Yên Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 2: Gồm các huyện: Hàm Yên và Yên Sơn. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hàm Yên",
+        "name_folded": "huyen ham yen"
+      },
+      {
+        "name_vi": "Huyện Yên Sơn",
+        "name_folded": "huyen yen son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều dưỡng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên Chi bộ khối Chuyên khoa; Điều dưỡng trưởng, Tổ trưởng Tổ Công đoàn Khoa Mắt, Bệnh viện Đa khoa tỉnh Tuyên Quang"
+    },
+    {
+      "key": "workplace",
+      "value": "Khoa Mắt, Bệnh viện Đa khoa tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

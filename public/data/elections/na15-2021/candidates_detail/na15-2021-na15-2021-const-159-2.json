@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-159-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-514a584934c6",
+    "full_name": "Ngô Đông Hải",
+    "full_name_folded": "ngo dong hai",
+    "dob": "25/10/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Hưng, huyện Tuy Phước, tỉnh Bình Định",
+    "current_residence": "Nhà CT3, khu đô thị Trần Hưng Đạo, tổ 8, phường Trần Hưng Đạo, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-159",
+    "list_order": 2,
+    "party_member_since": "22/12/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-159",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thái Bình, Huyện Tiền Hải, Huyện Kiến Xương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 3: Gồm thành phố Thái Bình và các huyện: Tiền Hải, Kiến Xương. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kiến Xương",
+        "name_folded": "huyen kien xuong"
+      },
+      {
+        "name_vi": "Huyện Tiền Hải",
+        "name_folded": "huyen tien hai"
+      },
+      {
+        "name_vi": "Thành phố Thái Bình",
+        "name_folded": "thanh pho thai binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điện tử - thông tin, quản trị kinh doanh; Tiến sĩ chuyên ngành điện tử - viễn thông"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

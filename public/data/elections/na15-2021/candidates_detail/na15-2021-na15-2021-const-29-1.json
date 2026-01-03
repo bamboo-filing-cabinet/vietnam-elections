@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-29-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8c2a9986642f",
+    "full_name": "Nguyễn Thị Phương Linh",
+    "full_name_folded": "nguyen thi phuong linh",
+    "dob": "30/11/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Định Yên, huyện Lấp Vò, tỉnh Đồng Tháp",
+    "current_residence": "Số 41, đường Nguyễn Thanh Sơn, khóm Bình Thới 3, phường Bình Khánh, thành phố Long Xuyên, tỉnh An Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-29",
+    "list_order": 1,
+    "party_member_since": "18/11/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Thoại Sơn (tỉnh An Giang) nhiệm kỳ 2004-2011, 2011-2016"
+  },
+  "locality": {
+    "id": "loc-98279810913f",
+    "name_vi": "Tỉnh An Giang",
+    "name_folded": "an giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-29",
+    "locality_id": "loc-98279810913f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Long Xuyên, Huyện Thoại Sơn, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: An Giang Đơn vị bầu cử Số 1: Gồm thành phố Long Xuyên và các huyện: Thoại Sơn, Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Thoại Sơn",
+        "name_folded": "huyen thoai son"
+      },
+      {
+        "name_vi": "Thành phố Long Xuyên",
+        "name_folded": "thanh pho long xuyen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, tiếng Trung (HSK cấp 4)"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm, kinh tế - chính trị; Thạc sĩ chuyên ngành quản lý xã hội"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội Liên hiệp Phụ nữ tỉnh An Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh An Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

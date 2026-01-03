@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-141-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a53e45be8a85",
+    "full_name": "Trần Thị Hồng An",
+    "full_name_folded": "tran thi hong an",
+    "dob": "11/12/1971",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Trực Cát, huyện Trực Ninh, tỉnh Nam Định",
+    "current_residence": "Số 18A7, tổ 14, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-141",
+    "list_order": 1,
+    "party_member_since": "21/02/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc2b9582432b",
+    "name_vi": "Tỉnh Quảng Ngãi",
+    "name_folded": "quang ngai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-141",
+    "locality_id": "loc-cc2b9582432b",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bình Sơn, Huyện Sơn Tịnh, Huyện Trà Bồng, Huyện Sơn Tây, Huyện Sơn Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ngãi Đơn vị bầu cử Số 1: Gồm các huyện: Bình Sơn, Sơn Tịnh, Trà Bồng, Sơn Tây và Sơn Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Sơn",
+        "name_folded": "huyen binh son"
+      },
+      {
+        "name_vi": "Huyện Sơn Hà",
+        "name_folded": "huyen son ha"
+      },
+      {
+        "name_vi": "Huyện Sơn Tây",
+        "name_folded": "huyen son tay"
+      },
+      {
+        "name_vi": "Huyện Sơn Tịnh",
+        "name_folded": "huyen son tinh"
+      },
+      {
+        "name_vi": "Huyện Trà Bồng",
+        "name_folded": "huyen tra bong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ quản trị kinh doanh - tiếng Anh; Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lịch sử, quan hệ quốc tế; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Phó Chủ tịch Hội Chữ thập đỏ Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Chữ thập đỏ Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

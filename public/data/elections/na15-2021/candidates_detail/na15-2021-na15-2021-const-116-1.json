@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-116-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a251fbbc09bc",
+    "full_name": "Phan Thị Mỹ Dung",
+    "full_name_folded": "phan thi my dung",
+    "dob": "28/11/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Vân, huyện Cần Đước, tỉnh Long An",
+    "current_residence": "Số 140/7, đường Nguyễn Minh Đường, khu phố Bình Yên Đông 3, phường 4, thành phố Tân An, tỉnh Long An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-116",
+    "list_order": 1,
+    "party_member_since": "10/12/2007",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-868f6e9f9a1e",
+    "name_vi": "Tỉnh Long An",
+    "name_folded": "long an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-116",
+    "locality_id": "loc-868f6e9f9a1e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Đức Huệ, Huyện Đức Hòa, Huyện Bến Lức, Huyện Tân Trụ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Long An Đơn vị bầu cử Số 1: Gồm các huyện: Đức Huệ, Đức Hòa, Bến Lức và Tân Trụ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bến Lức",
+        "name_folded": "huyen ben luc"
+      },
+      {
+        "name_vi": "Huyện Tân Trụ",
+        "name_folded": "huyen tan tru"
+      },
+      {
+        "name_vi": "Huyện Đức Huệ",
+        "name_folded": "huyen duc hue"
+      },
+      {
+        "name_vi": "Huyện Đức Hòa",
+        "name_folded": "huyen duc hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành luật Hiến pháp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Bí thư Đảng ủy, Giám đốc Sở Tư pháp tỉnh Long An"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp tỉnh Long An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

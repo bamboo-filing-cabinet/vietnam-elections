@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-115-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9153fa6bd2a3",
+    "full_name": "Nguyễn Văn Hiển",
+    "full_name_folded": "nguyen van hien",
+    "dob": "16/02/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ninh Hải, huyện Hoa Lư, tỉnh Ninh Bình",
+    "current_residence": "Số 12B07, tòa nhà S2 khu GoldMark City, 136 đường Hồ Tùng Mậu, phường Phú Diễn, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-115",
+    "list_order": 1,
+    "party_member_since": "15/5/2007",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-115",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Bảo Lộc, Huyện Bảo Lâm, Huyện Đạ Huoai, Huyện Đạ Tẻh, Huyện Cát Tiên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 3: Gồm thành phố Bảo Lộc và các huyện: Bảo Lâm, Đạ Huoai, Đạ Tẻh, Cát Tiên. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Lâm",
+        "name_folded": "huyen bao lam"
+      },
+      {
+        "name_vi": "Huyện Cát Tiên",
+        "name_folded": "huyen cat tien"
+      },
+      {
+        "name_vi": "Huyện Đạ Huoai",
+        "name_folded": "huyen da huoai"
+      },
+      {
+        "name_vi": "Huyện Đạ Tẻh",
+        "name_folded": "huyen da teh"
+      },
+      {
+        "name_vi": "Thành phố Bảo Lộc",
+        "name_folded": "thanh pho bao loc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Đảng ủy, Viện trưởng Viện Nghiên cứu lập pháp thuộc Ủy ban Thường vụ Quốc hội; Ủy viên Ủy ban Pháp luật của Quốc hội; Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - Nam Phi"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Nghiên cứu lập pháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-184-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-112faf40a3d8",
+    "full_name": "Phạm Thị Thanh Trà",
+    "full_name_folded": "pham thi thanh tra",
+    "dob": "21/01/1964",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nam Yên, huyện Nam Đàn, tỉnh Nghệ An",
+    "current_residence": "Nhà công vụ, số 306, tòa nhà N04A, tháp A, khu Ngoại giao Đoàn, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-184",
+    "list_order": 4,
+    "party_member_since": "12/6/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Yên Bái nhiệm kỳ 1999-2004, 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-9911d8be2ef2",
+    "name_vi": "Tỉnh Yên Bái",
+    "name_folded": "tinh yen bai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-184",
+    "locality_id": "loc-9911d8be2ef2",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Nghĩa Lô, Huyện Văn Chấn, Huyện Trạm Tấu, Huyện Mù Cang Chải, Huyện Văn Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Yên Bái Đơn vị bầu cử Số 2: Gồm thị xã Nghĩa Lộ và các huyện: Văn Chấn, Trạm Tấu, Mù Cang Chải, Văn Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mù Cang Chải",
+        "name_folded": "huyen mu cang chai"
+      },
+      {
+        "name_vi": "Huyện Trạm Tấu",
+        "name_folded": "huyen tram tau"
+      },
+      {
+        "name_vi": "Huyện Văn Chấn",
+        "name_folded": "huyen van chan"
+      },
+      {
+        "name_vi": "Huyện Văn Yên",
+        "name_folded": "huyen van yen"
+      },
+      {
+        "name_vi": "Thị xã Nghĩa Lô",
+        "name_folded": "thi xa nghia lo"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Phó Trưởng ban Tổ chức Trung ương, Bí thư Ban cán sự Đảng, Bộ trưởng Bộ Nội vụ; Ủy viên Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Nội vụ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

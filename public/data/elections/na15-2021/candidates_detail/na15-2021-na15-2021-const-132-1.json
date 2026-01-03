@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-132-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dba40011a275",
+    "full_name": "Nguyễn Thị Thu Hằng",
+    "full_name_folded": "nguyen thi thu hang",
+    "dob": "29/7/1990",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Sán Chay",
+    "religion": "Không",
+    "birthplace": "Xã Hiền Lương, huyện Hạ Hòa, tỉnh Phú Thọ",
+    "current_residence": "Thôn 2, xã Ca Đình, huyện Đoan Hùng, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-132",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-132",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Phú Thọ, Huyện Phủ Ninh, Huyện Lâm Thao, Huyện Đoan Hùng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 2: Gồm thị xã Phú Thọ và các huyện: Phù Ninh, Lâm Thao, Đoan Hùng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lâm Thao",
+        "name_folded": "huyen lam thao"
+      },
+      {
+        "name_vi": "Huyện Phủ Ninh",
+        "name_folded": "huyen phu ninh"
+      },
+      {
+        "name_vi": "Huyện Đoan Hùng",
+        "name_folded": "huyen doan hung"
+      },
+      {
+        "name_vi": "Thị xã Phú Thọ",
+        "name_folded": "thi xa phu tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A2"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ Khoa Nhi - Trung tâm Y tế huyện Đoan Hùng, tỉnh Phú Thọ"
+    },
+    {
+      "key": "workplace",
+      "value": "Khoa Nhi - Trung tâm Y tế huyện Đoan Hùng, tỉnh Phú Thọ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

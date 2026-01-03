@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-101-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8e8f296d36af",
+    "full_name": "Lê Hữu Trí",
+    "full_name_folded": "le huu tri",
+    "dob": "13/02/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Ninh Hải, thị xã Ninh Hòa, tỉnh Khánh Hòa",
+    "current_residence": "Tổ 3, thôn Vĩnh Điềm Trung, xã Vĩnh Hiệp, thành phố Nha Trang, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-101",
+    "list_order": 5,
+    "party_member_since": "19/5/1988",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Khánh Hòa nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-101",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành Phố Cam Ranh, Huyện Khánh Vĩnh, Huyện Diên Khánh, Huyện Cam Lâm, Huyện Khánh Sơn, Huyện Trường Sa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 3: Gồm thành phố Cam Ranh và các huyện: Khánh Vĩnh, Diên Khánh, Cam Lâm, Khánh Sơn, Trường Sa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cam Lâm",
+        "name_folded": "huyen cam lam"
+      },
+      {
+        "name_vi": "Huyện Diên Khánh",
+        "name_folded": "huyen dien khanh"
+      },
+      {
+        "name_vi": "Huyện Khánh Sơn",
+        "name_folded": "huyen khanh son"
+      },
+      {
+        "name_vi": "Huyện Khánh Vĩnh",
+        "name_folded": "huyen khanh vinh"
+      },
+      {
+        "name_vi": "Huyện Trường Sa",
+        "name_folded": "huyen truong sa"
+      },
+      {
+        "name_vi": "Thành Phố Cam Ranh",
+        "name_folded": "thanh pho cam ranh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính, chính trị; Thạc sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Ủy viên Ủy ban Kiểm tra Tỉnh ủy; Bí thư Đảng ủy, Chánh Thanh tra tỉnh Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Thanh tra tỉnh Khánh Hòa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

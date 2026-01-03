@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-4-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7a1ef40aae9c",
+    "full_name": "Lưu Hồng Quang",
+    "full_name_folded": "luu hong quang",
+    "dob": "03/3/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Hàng Buồm, quận Hoàn Kiếm, thành phố Hà Nội",
+    "current_residence": "Khu phức hợp Mandarin Garden (khu B), căn hộ chung cư số 306-B2, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-4",
+    "list_order": 4,
+    "party_member_since": "28/9/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-4",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận Hoàng Mai,Huyện Gia Lâm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 4: Gồm quận Hoàng Mai và huyện Gia Lâm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Lâm",
+        "name_folded": "huyen gia lam"
+      },
+      {
+        "name_vi": "Quận Hoàng Mai",
+        "name_folded": "quan hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành kiến trúc sư, quản lý đô thị và công trình"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên, Chi ủy viên Chi bộ 1, Viện Quy hoạch xây dựng Hà Nội; Phó Bí thư Đoàn Thanh niên Cộng sản Hồ Chí Minh cơ quan Viện Quy hoạch xây dựng Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Quy hoạch xây dựng Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

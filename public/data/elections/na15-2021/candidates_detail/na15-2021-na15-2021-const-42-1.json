@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-42-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-440a39d93aae",
+    "full_name": "Nguyễn Thị Kim Dung",
+    "full_name_folded": "nguyen thi kim dung",
+    "dob": "21/11/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Trung Kênh, huyện Lương Tài, tỉnh Bắc Ninh",
+    "current_residence": "Số 2, đường Nguyễn Tri Phương, phường Kinh Bắc, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-42",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-42",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Từ Sơn, Huyện Tiên Du, Huyện Yên Phong",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 2: Gồm thị xã Từ Sơn và các huyện: Tiên Du, Yên Phong. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tiên Du",
+        "name_folded": "huyen tien du"
+      },
+      {
+        "name_vi": "Huyện Yên Phong",
+        "name_folded": "huyen yen phong"
+      },
+      {
+        "name_vi": "Thị xã Từ Sơn",
+        "name_folded": "thi xa tu son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục công dân"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên trung học cơ sở hạng II, Trường Trung học cơ sở Suối Hoa, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học cơ sở Suối Hoa, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

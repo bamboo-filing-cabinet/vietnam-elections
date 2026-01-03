@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-114-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f4e6d2004052",
+    "full_name": "Trần Thị Thùy Trang",
+    "full_name_folded": "tran thi thuy trang",
+    "dob": "14/6/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Minh, huyện Đại Lộc, tỉnh Quảng Nam",
+    "current_residence": "B104 chung cư Mạc Đỉnh Chi, phường 4, thành phố Đà Lạt, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-114",
+    "list_order": 4,
+    "party_member_since": "15/11/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-114",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Lâm Hà, Huyện Đam Rông, Huyện Di Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 2: Gồm các huyện: Lâm Hà, Đam Rông và Di Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Di Linh",
+        "name_folded": "huyen di linh"
+      },
+      {
+        "name_vi": "Huyện Lâm Hà",
+        "name_folded": "huyen lam ha"
+      },
+      {
+        "name_vi": "Huyện Đam Rông",
+        "name_folded": "huyen dam rong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành văn học Việt Nam"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên; Chủ tịch Công đoàn cơ sở Trường Trung học phổ thông chuyên Thăng Long, thành phố Đà Lạt, tỉnh Lâm Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông chuyên Thăng Long, thành phố Đà Lạt, tỉnh Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

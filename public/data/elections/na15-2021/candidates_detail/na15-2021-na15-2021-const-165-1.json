@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-165-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c21213902d00",
+    "full_name": "Đào Ngọc Dung",
+    "full_name_folded": "dao ngoc dung",
+    "dob": "06/6/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhân Mỹ, huyện Lý Nhân, tỉnh Hà Nam",
+    "current_residence": "Số 6 lô C3, Yên Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-165",
+    "list_order": 1,
+    "party_member_since": "31/12/1984",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Nam Hà nhiệm kỳ 1990-1992, 1992-1996; tỉnh Yên Bái nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-165",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Nghi Sơn, Huyện Quảng Xương, Huyện Nông Cống, Huyện Như Xuân, Huyện Như Thanh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 3: Gồm thị xã Nghi Sơn và các huyện: Quảng Xương, Nông Cống, Như Xuân, Như Thanh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Như Thanh",
+        "name_folded": "huyen nhu thanh"
+      },
+      {
+        "name_vi": "Huyện Như Xuân",
+        "name_folded": "huyen nhu xuan"
+      },
+      {
+        "name_vi": "Huyện Nông Cống",
+        "name_folded": "huyen nong cong"
+      },
+      {
+        "name_vi": "Huyện Quảng Xương",
+        "name_folded": "huyen quang xuong"
+      },
+      {
+        "name_vi": "Thị xã Nghi Sơn",
+        "name_folded": "thi xa nghi son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, chính trị; Thạc sĩ chuyên ngành quản lý hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Ban Cán sự đảng, Bộ trưởng Bộ Lao động, Thương binh và Xã hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Lao động, Thương binh và Xã hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

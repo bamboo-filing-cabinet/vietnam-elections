@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-181-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e55418965cf8",
+    "full_name": "Nguyễn Thị Trang",
+    "full_name_folded": "nguyen thi trang",
+    "dob": "06/8/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "",
+    "birthplace": "Xã Triệu Đề, huyện Lập Thạch, tỉnh Vĩnh Phúc",
+    "current_residence": "Tập thể viện 109, Số nhà 153, Tô Hiến Thành, phường Đồng Tâm, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-181",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-227643b06427",
+    "name_vi": "Tỉnh Vĩnh Phúc",
+    "name_folded": "tinh vinh phuc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-181",
+    "locality_id": "loc-227643b06427",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vĩnh Yên, Thành phố Phúc Yên, Huyện Vĩnh Tường, Huyện Yên Lạc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Phúc Đơn vị bầu cử Số 1: Gồm các thành phố: Vĩnh Yên, Phúc Yên và các huyện: Vĩnh Tường, Yên Lạc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Vĩnh Tường",
+        "name_folded": "huyen vinh tuong"
+      },
+      {
+        "name_vi": "Huyện Yên Lạc",
+        "name_folded": "huyen yen lac"
+      },
+      {
+        "name_vi": "Thành phố Phúc Yên",
+        "name_folded": "thanh pho phuc yen"
+      },
+      {
+        "name_vi": "Thành phố Vĩnh Yên",
+        "name_folded": "thanh pho vinh yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Không"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm tiếng Anh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên tiếng Anh Trường trung học phổ thông Vĩnh Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Vĩnh Yên, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

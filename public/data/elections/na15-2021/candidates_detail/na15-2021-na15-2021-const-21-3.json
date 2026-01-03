@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-21-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1abb82358ec4",
+    "full_name": "Nguyễn Đức Dũng",
+    "full_name_folded": "nguyen duc dung",
+    "dob": "04/8/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Bản, huyện An Dương, thành phố Hải Phòng",
+    "current_residence": "Số 23/6, Khu đô thị ven sông Lạch Tray, phường Vĩnh Niệm, quận Lê Chân, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-21",
+    "list_order": 3,
+    "party_member_since": "15/5/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-21",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hồng Bàng, Quận Lê Chân, Huyện Thủy Nguyên, Cát Hải, Bạch Long Vĩ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 1: Gồm các quận: Hồng Bàng, Lê Chân và các huyện: Thủy Nguyên, Cát Hải, Bạch Long Vĩ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Bạch Long Vĩ",
+        "name_folded": "bach long vi"
+      },
+      {
+        "name_vi": "Cát Hải",
+        "name_folded": "cat hai"
+      },
+      {
+        "name_vi": "Huyện Thủy Nguyên",
+        "name_folded": "huyen thuy nguyen"
+      },
+      {
+        "name_vi": "Quận Hồng Bàng",
+        "name_folded": "quan hong bang"
+      },
+      {
+        "name_vi": "Quận Lê Chân",
+        "name_folded": "quan le chan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy Quân khu 3; Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân khu 3"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 3"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

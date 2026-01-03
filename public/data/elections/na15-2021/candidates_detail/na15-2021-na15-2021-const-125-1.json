@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-125-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-24aa72d3dada",
+    "full_name": "Đỗ Văn Chiến",
+    "full_name_folded": "do van chien",
+    "dob": "10/11/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Sán Dìu",
+    "religion": "Không",
+    "birthplace": "Xã Ninh Lai, huyện Sơn Dương, tỉnh Tuyên Quang",
+    "current_residence": "Phòng 307, Chung cư công vụ N04A, khu Ngoại giao đoàn, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-125",
+    "list_order": 1,
+    "party_member_since": "13/9/1986",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-125",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thành phố Vinh, Huyện Thanh Chương, Huyện Nam Đàn, Huyện Hưng Nguyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 4: Gồm thành phố Vinh và các huyện: Thanh Chương, Nam Đàn, Hưng Nguyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Nguyên",
+        "name_folded": "huyen hung nguyen"
+      },
+      {
+        "name_vi": "Huyện Nam Đàn",
+        "name_folded": "huyen nam dan"
+      },
+      {
+        "name_vi": "Huyện Thanh Chương",
+        "name_folded": "huyen thanh chuong"
+      },
+      {
+        "name_vi": "Thành phố Vinh",
+        "name_folded": "thanh pho vinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Trung ương Đảng, Bí thư Đảng đoàn Mặt trận Tổ quốc Việt Nam, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Phó Chủ tịch Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

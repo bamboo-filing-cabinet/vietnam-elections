@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-129-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-69ad578db2f7",
+    "full_name": "Nguyễn Thị Kim Sáng",
+    "full_name_folded": "nguyen thi kim sang",
+    "dob": "18/02/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Công giáo",
+    "birthplace": "Xã Hộ Hải, huyện Ninh Hải, tỉnh Ninh Thuận",
+    "current_residence": "Thôn Mỹ Nhơn, xã Bắc Phong, huyện Thuận Bắc, tỉnh Ninh Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-129",
+    "list_order": 3,
+    "party_member_since": "24/10/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b7a54ba23200",
+    "name_vi": "Tỉnh Ninh Thuận",
+    "name_folded": "ninh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-129",
+    "locality_id": "loc-b7a54ba23200",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Phan Rang - Tháp Chàm, Huyện Ninh Hải, Huyện Thuận Bắc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Thuận Đơn vị bầu cử Số 1: Gồm thành phố Phan Rang - Tháp Chàm và các huyện: Ninh Hải, Thuận Bắc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ninh Hải",
+        "name_folded": "huyen ninh hai"
+      },
+      {
+        "name_vi": "Huyện Thuận Bắc",
+        "name_folded": "huyen thuan bac"
+      },
+      {
+        "name_vi": "Thành phố Phan Rang - Tháp Chàm",
+        "name_folded": "thanh pho phan rang thap cham"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm toán"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Hiệu trưởng Trường phổ thông dân tộc nội trú Thuận Bắc, tỉnh Ninh Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường phổ thông dân tộc nội trú Thuận Bắc, tỉnh Ninh Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

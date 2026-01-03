@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-168-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-db9fbfd3a20f",
+    "full_name": "Nguyễn Thị Sửu (Nguyễn Thị Hường, Kê Sửu)",
+    "full_name_folded": "nguyen thi suu nguyen thi huong ke suu",
+    "dob": "09/11/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tà-ôi",
+    "religion": "Không",
+    "birthplace": "Xã A Ngo, huyện A Lưới, tỉnh Thừa Thiên Huế",
+    "current_residence": "Số 05, đường Quỳnh Trên, thị trấn A Lưới, huyện A Lưới, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-168",
+    "list_order": 4,
+    "party_member_since": "3/10/1996",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Thừa Thiên Huế nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-168",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Hương Trà, Huyện Phong Điền, Huyện Quảng Điền, Huyện A Lưới",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 1: Gồm thị xã Hương Trà và các huyện: Phong Điền, Quảng Điền, A Lưới. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện A Lưới",
+        "name_folded": "huyen a luoi"
+      },
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Huyện Quảng Điền",
+        "name_folded": "huyen quang dien"
+      },
+      {
+        "name_vi": "Thị xã Hương Trà",
+        "name_folded": "thi xa huong tra"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh; Tiến sĩ chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Bí thư Huyện ủy A Lưới, tỉnh Thừa Thiên Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy A Lưới, tỉnh Thừa Thiên Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

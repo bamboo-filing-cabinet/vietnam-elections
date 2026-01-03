@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-11-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ca1a4c77532f",
+    "full_name": "Phan Nguyễn Như Khuê (Út Khuê)",
+    "full_name_folded": "phan nguyen nhu khue ut khue",
+    "dob": "26/9/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thuận Tây, thành phố Cao Lãnh, tỉnh Đồng Tháp",
+    "current_residence": "Số 441/11, Nguyễn Đình Chiểu, khu phố 2, phường 5, quận 3, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-11",
+    "list_order": 2,
+    "party_member_since": "27/11/1987",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-11",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thủ Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 1: Gồm thành phố Thủ Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thủ Đức",
+        "name_folded": "thanh pho thu duc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Pháp B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy, Trưởng Ban Tuyên giáo Thành ủy Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tuyên giáo Thành ủy Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

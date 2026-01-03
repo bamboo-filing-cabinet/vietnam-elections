@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-17-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ed44dfb4bd40",
+    "full_name": "Nguyễn Thị Yến (Ni sư Thích Nữ Tín Liên)",
+    "full_name_folded": "nguyen thi yen ni su thich nu tin lien",
+    "dob": "10/02/1951",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Tân Thành A, huyện Tân Hồng, tỉnh Đồng Tháp",
+    "current_residence": "Tịnh xá Ngọc Phương, số 498/1 Lê Quang Định, phường 1, quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-17",
+    "list_order": 5,
+    "party_member_since": "",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-17",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Quận Phú Nhuận Gò Vấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 7: Gồm các quận: Phú Nhuận và Gò Vấp. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Phú Nhuận Gò Vấp",
+        "name_folded": "quan phu nhuan go vap"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Không"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khoa học tự nhiên; Tiến sĩ chuyên ngành phật học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tu sĩ; Ủy viên Hội đồng trị sự Trung ương Giáo hội Phật giáo Việt Nam; Ủy viên Thường trực Ban Trị sự Giáo hội Phật giáo Việt Nam Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tịnh xá Ngọc Phương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

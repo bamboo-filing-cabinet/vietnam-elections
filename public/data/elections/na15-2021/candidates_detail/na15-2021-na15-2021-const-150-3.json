@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-150-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-76548c309507",
+    "full_name": "Lý Thị Phương",
+    "full_name_folded": "ly thi phuong",
+    "dob": "03/5/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khmer",
+    "religion": "Không",
+    "birthplace": "Phường 1, thị xã Giá Rai, tỉnh Bạc Liêu",
+    "current_residence": "Số 673/29B, đường Lê Hồng Phong, khóm 5, phường 3, thành phố Sóc Trăng, tỉnh Sóc Trăng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-150",
+    "list_order": 3,
+    "party_member_since": "25/5/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-150",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Ngã Năm, Huyện Mỹ Tú, Huyện Thạnh Trị",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 2: Gồm thị xã Ngã Năm và các huyện: Mỹ Tú, Thạnh Trị. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Tú",
+        "name_folded": "huyen my tu"
+      },
+      {
+        "name_vi": "Huyện Thạnh Trị",
+        "name_folded": "huyen thanh tri"
+      },
+      {
+        "name_vi": "Thị xã Ngã Năm",
+        "name_folded": "thi xa nga nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Anh văn; luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ, Phó Giám đốc Trung tâm Thông tin xúc tiến du lịch tỉnh Sóc Trăng, Chủ tịch Công đoàn cơ sở Trung tâm Thông tin Xúc tiến du lịch, Ủy viên Ban Chấp hành Công đoàn cơ sở Sở Văn hóa, Thể thao và Du lịch tỉnh Sóc Trăng; Ủy viên Ban Chấp hành Hội Khoa học Lịch sử tỉnh Sóc Trăng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Thông tin Xúc tiến du lịch tỉnh Sóc Trăng thuộc Sở Văn hóa, Thể thao và Du lịch tỉnh Sóc Trăng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

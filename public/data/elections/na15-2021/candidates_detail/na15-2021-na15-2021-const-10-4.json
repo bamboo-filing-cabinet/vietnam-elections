@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-10-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-aa05cf6b8902",
+    "full_name": "Nguyễn Quang Tuấn",
+    "full_name_folded": "nguyen quang tuan",
+    "dob": "05/01/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Cự Khê, huyện Thanh Oai, thành phố Hà Nội",
+    "current_residence": "Phòng 2013 tòa nhà D2, khu đô thị Mandarin Garden, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-10",
+    "list_order": 4,
+    "party_member_since": "08/10/1997",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-10",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 10,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Sóc Sơn, Huyện Mê Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 10: Gồm các huyện: Sóc Sơn và Mê Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mê Linh",
+        "name_folded": "huyen me linh"
+      },
+      {
+        "name_vi": "Huyện Sóc Sơn",
+        "name_folded": "huyen soc son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư; Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ; Tiến sĩ chuyên ngành y khoa nội tim mạch"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy Bệnh viện Bạch Mai; Phó Chủ tịch Hội đồng quản lý, Giám đốc Bệnh viện Bạch Mai; Giảng viên cao cấp; Hiệu trưởng trường Cao đẳng Y tế Bạch Mai; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam thành phố Hà Nội; Chủ tịch Hội Cựu chiến binh Bệnh viện Bạch Mai; Ủy viên Ban Chấp hành Hội Tim mạch học Việt Nam; Chủ tịch Hội Tim mạch Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Bạch Mai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

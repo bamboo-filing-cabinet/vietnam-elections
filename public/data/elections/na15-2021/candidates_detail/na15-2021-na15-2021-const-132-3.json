@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-132-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e6991323a879",
+    "full_name": "Nguyễn Thành Nam",
+    "full_name_folded": "nguyen thanh nam",
+    "dob": "13/8/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tiên Cát, thành phố Việt Trì, tỉnh Phú Thọ",
+    "current_residence": "Tổ 17, khu Đoàn Kết, phường Tiên Cát, thành phố Việt Trì, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-132",
+    "list_order": 3,
+    "party_member_since": "09/11/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Phường Tiên Cát (thành phố Việt Trì) nhiệm kỳ 1989-1994; huyện Đoan Hùng (tỉnh Phú Thọ) nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-132",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Phú Thọ, Huyện Phủ Ninh, Huyện Lâm Thao, Huyện Đoan Hùng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 2: Gồm thị xã Phú Thọ và các huyện: Phù Ninh, Lâm Thao, Đoan Hùng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lâm Thao",
+        "name_folded": "huyen lam thao"
+      },
+      {
+        "name_vi": "Huyện Phủ Ninh",
+        "name_folded": "huyen phu ninh"
+      },
+      {
+        "name_vi": "Huyện Đoan Hùng",
+        "name_folded": "huyen doan hung"
+      },
+      {
+        "name_vi": "Thị xã Phú Thọ",
+        "name_folded": "thi xa phu tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế nông nghiệp, hành chính, luật; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Chủ tịch Liên minh Hợp tác xã tỉnh Phú Thọ"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên minh Hợp tác xã tỉnh Phú Thọ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

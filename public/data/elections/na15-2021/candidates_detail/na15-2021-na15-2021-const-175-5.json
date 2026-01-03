@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-175-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cdd6c74d444d",
+    "full_name": "Võ Minh Nhựt",
+    "full_name_folded": "vo minh nhut",
+    "dob": "08/9/1985",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phong Thạnh, huyện Cầu Kè, tỉnh Trà Vinh",
+    "current_residence": "Khóm 1, phường 6, thành phố Trà Vinh, tỉnh Trà Vinh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-175",
+    "list_order": 5,
+    "party_member_since": "02/8/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-fdf0dcd56901",
+    "name_vi": "Tỉnh Trà Vinh",
+    "name_folded": "tinh tra vinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-175",
+    "locality_id": "loc-fdf0dcd56901",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Duyên Hải, Huyện Châu Thành, Huyện Cầu Ngang, Huyện Trà Cú, Duyên Hải",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Trà Vinh Đơn vị bầu cử Số 2: Gồm thị xã Duyên Hải và các huyện: Châu Thành, Cầu Ngang, Trà Cú, Duyên Hải. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Duyên Hải",
+        "name_folded": "duyen hai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cầu Ngang",
+        "name_folded": "huyen cau ngang"
+      },
+      {
+        "name_vi": "Huyện Trà Cú",
+        "name_folded": "huyen tra cu"
+      },
+      {
+        "name_vi": "Thị xã Duyên Hải",
+        "name_folded": "thi xa duyen hai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân, Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý kinh tế, tin học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh đoàn Trà Vinh; Chủ tịch Hội Liên hiệp Thanh niên Việt Nam tỉnh Trà Vinh; Phó Bí thư Chi bộ, Chủ tịch Công đoàn cơ sở"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh Đoàn Trà Vinh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

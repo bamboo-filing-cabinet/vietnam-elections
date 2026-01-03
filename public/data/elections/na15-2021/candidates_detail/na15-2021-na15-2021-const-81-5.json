@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-81-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8166c19079e2",
+    "full_name": "Phù Thị Thiên",
+    "full_name_folded": "phu thi thien",
+    "dob": "16/10/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Pà Thẻn",
+    "religion": "Không",
+    "birthplace": "Xã Tân Bắc, huyện Quang Bình, tỉnh Hà Giang",
+    "current_residence": "Thôn My Bắc, xã Tân Bắc, huyện Quang Bình, tỉnh Hà Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-81",
+    "list_order": 5,
+    "party_member_since": "19/9/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hà Giang nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-61a56c5d8d33",
+    "name_vi": "Tỉnh Hà Giang",
+    "name_folded": "ha giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-81",
+    "locality_id": "loc-61a56c5d8d33",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Giang, Huyện Đồng Văn, Huyện Mèo Vạc, Huyện Yên Minh, Huyện Quản Bạ, Huyện Bắc Mê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Giang Đơn vị bầu cử Số 1: Gồm thành phố Hà Giang và các huyện: Đồng Văn, Mèo Vạc, Yên Minh, Quản Bạ, Bắc Mê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Mê",
+        "name_folded": "huyen bac me"
+      },
+      {
+        "name_vi": "Huyện Mèo Vạc",
+        "name_folded": "huyen meo vac"
+      },
+      {
+        "name_vi": "Huyện Quản Bạ",
+        "name_folded": "huyen quan ba"
+      },
+      {
+        "name_vi": "Huyện Yên Minh",
+        "name_folded": "huyen yen minh"
+      },
+      {
+        "name_vi": "Huyện Đồng Văn",
+        "name_folded": "huyen dong van"
+      },
+      {
+        "name_vi": "Thành phố Hà Giang",
+        "name_folded": "thanh pho ha giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Nói được tiếng dân tộc Pà Thẻn"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Dân tộc huyện Quang Bình, tỉnh Hà Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Phòng Dân tộc huyện Quang Bình, tỉnh Hà Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

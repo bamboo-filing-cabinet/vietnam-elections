@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-169-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4bbb98ebbd41",
+    "full_name": "Nguyễn Thanh Hải",
+    "full_name_folded": "nguyen thanh hai",
+    "dob": "21/5/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Thủy Phương, thị xã Hương Thủy, tỉnh Thừa Thiên Huế",
+    "current_residence": "K22, đường số 01, khu đô thị An Cựu City, phường An Đông, thành phố Huế, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-169",
+    "list_order": 1,
+    "party_member_since": "14/12/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-169",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Huế, Thị xã Hương Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 2: Gồm thành phố Huế và thị xã Hương Thuỷ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Huế",
+        "name_folded": "thanh pho hue"
+      },
+      {
+        "name_vi": "Thị xã Hương Thủy",
+        "name_folded": "thi xa huong thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Ban Cán sự đảng, Kiểm sát viên cao cấp, Phó Bí thư Đảng ủy, Viện trưởng Viện kiểm sát nhân dân tỉnh Thừa Thiên Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện kiểm sát nhân dân tỉnh Thừa Thiên Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

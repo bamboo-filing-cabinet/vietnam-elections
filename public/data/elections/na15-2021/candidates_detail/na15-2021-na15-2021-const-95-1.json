@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-95-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-853a9729d9fa",
+    "full_name": "Trương Thị Mai",
+    "full_name_folded": "truong thi mai",
+    "dob": "23/01/1958",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hiền Ninh, huyện Quảng Ninh, tỉnh Quảng Bình",
+    "current_residence": "Nhà A6, Khu công vụ số 130, phố Đốc Ngữ, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-95",
+    "list_order": 1,
+    "party_member_since": "11/10/1985",
+    "is_na_delegate": "X, XI, XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-95",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Kim Bôi, Huyện Cao Phong, Huyện Lạc Sơn, Huyện Lạc Thủy, Huyện Yên Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 2: Gồm các huyện: Kim Bôi, Cao Phong, Lạc Sơn, Lạc Thủy và Yên Thủy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Phong",
+        "name_folded": "huyen cao phong"
+      },
+      {
+        "name_vi": "Huyện Kim Bôi",
+        "name_folded": "huyen kim boi"
+      },
+      {
+        "name_vi": "Huyện Lạc Sơn",
+        "name_folded": "huyen lac son"
+      },
+      {
+        "name_vi": "Huyện Lạc Thủy",
+        "name_folded": "huyen lac thuy"
+      },
+      {
+        "name_vi": "Huyện Yên Thủy",
+        "name_folded": "huyen yen thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Sử, luật; Thạc sĩ chuyên ngành hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Tổ chức Trung ương, Ủy viên Hội đồng bầu cử quốc gia, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Chủ tịch Hội hữu nghị Việt Nam - Cu Ba"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tổ chức Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

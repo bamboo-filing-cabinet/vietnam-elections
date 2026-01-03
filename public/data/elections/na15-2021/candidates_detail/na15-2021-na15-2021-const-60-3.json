@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-60-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9390812b8bd5",
+    "full_name": "Nguyễn Hồng Thắm",
+    "full_name_folded": "nguyen hong tham",
+    "dob": "15/7/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Tiến, huyện Đầm Dơi, tỉnh Cà Mau",
+    "current_residence": "Số 04, Liên kế 25, Vành đai 2, khóm 6, phường 9, thành phố Cà Mau, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-60",
+    "list_order": 3,
+    "party_member_since": "05/01/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-60",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Cái Nước, Huyện Phú Tân, Huyện Trần Văn Thời",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 2: Gồm các huyện: Cái Nước, Phú Tân và Trần Văn Thời. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cái Nước",
+        "name_folded": "huyen cai nuoc"
+      },
+      {
+        "name_vi": "Huyện Phú Tân",
+        "name_folded": "huyen phu tan"
+      },
+      {
+        "name_vi": "Huyện Trần Văn Thời",
+        "name_folded": "huyen tran van thoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Bí thư Tỉnh đoàn, Chủ tịch Hội đồng Đội tỉnh Cà Mau"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh đoàn Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

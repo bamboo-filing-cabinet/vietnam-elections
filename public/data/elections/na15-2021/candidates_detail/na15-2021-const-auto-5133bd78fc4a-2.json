@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-5133bd78fc4a-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7dac5167d21e",
+    "full_name": "Hà Sỹ Huân",
+    "full_name_folded": "ha sy huan",
+    "dob": "16/6/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Yên Phong, huyện Chợ Đồn, tỉnh Bắc Kạn",
+    "current_residence": "Tổ 2B, thị trấn Bằng Lũng, huyện Chợ Đồn, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-5133bd78fc4a",
+    "list_order": 2,
+    "party_member_since": "20/3/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Bắc Kạn nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-5133bd78fc4a",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 1: Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành lâm nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Huyện ủy Ba Bể, tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Ba Bể, tỉnh Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-83-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-63880f406fda",
+    "full_name": "Nguyễn Thị Duyên",
+    "full_name_folded": "nguyen thi duyen",
+    "dob": "25/11/1990",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phù Vân, thành phố Phủ Lý, tỉnh Hà Nam",
+    "current_residence": "Số nhà 06, ngõ 83 đường Lê Công Thanh, tổ 7, phường Hai Bà Trưng, thành phố Phủ Lý, tỉnh Hà Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-83",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e92430cb680c",
+    "name_vi": "Tỉnh Hà Nam",
+    "name_folded": "ha nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-83",
+    "locality_id": "loc-e92430cb680c",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Phủ Lý, Huyện Thanh Liêm, Huyện Bình Lục",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Nam Đơn vị bầu cử Số 1: Gồm thành phố Phủ Lý và các huyện: Thanh Liêm, Bình Lục. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Lục",
+        "name_folded": "huyen binh luc"
+      },
+      {
+        "name_vi": "Huyện Thanh Liêm",
+        "name_folded": "huyen thanh liem"
+      },
+      {
+        "name_vi": "Thành phố Phủ Lý",
+        "name_folded": "thanh pho phu ly"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Nhân viên Phòng Tổ chức hành chính, Công ty Cổ phần xây dựng và phát triển hạ tầng kỹ thuật Hà Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần xây dựng và phát triển hạ tầng kỹ thuật Hà Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-22-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-160d71982db5",
+    "full_name": "Nguyễn Minh Quang",
+    "full_name_folded": "nguyen minh quang",
+    "dob": "29/6/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tiên Minh, huyện Tiên Lãng, thành phố Hải Phòng",
+    "current_residence": "Số 1A/41, Thư Trung, phường Đằng Lâm, quận Hải An, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-22",
+    "list_order": 4,
+    "party_member_since": "06/4/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-22",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Ngô Quyền, Quận Hải An, Quận Đồ Sơn, Huyện An Dương, Huyện Kiến Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 2: Gồm các quận: Ngô Quyền, Hải An, Đồ Sơn và các huyện: An Dương, Kiến Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Dương",
+        "name_folded": "huyen an duong"
+      },
+      {
+        "name_vi": "Huyện Kiến Thụy",
+        "name_folded": "huyen kien thuy"
+      },
+      {
+        "name_vi": "Quận Hải An",
+        "name_folded": "quan hai an"
+      },
+      {
+        "name_vi": "Quận Ngô Quyền",
+        "name_folded": "quan ngo quyen"
+      },
+      {
+        "name_vi": "Quận Đồ Sơn",
+        "name_folded": "quan do son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự (Chỉ huy tham mưu lục quân)"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy; Phó Bí thư Đảng ủy quân sự thành phố, Đại tá, Chỉ huy trưởng Bộ Chỉ huy quân sự thành phố Hải Phòng, Quân khu 3"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Chỉ huy quân sự thành phố Hải Phòng, Quân khu 3"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

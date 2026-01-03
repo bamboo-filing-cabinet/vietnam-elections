@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-159-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-37d34e1ea066",
+    "full_name": "Lại Văn Hoàn",
+    "full_name_folded": "lai van hoan",
+    "dob": "08/01/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Hòa, huyện Vũ Thư, tỉnh Thái Bình",
+    "current_residence": "Số nhà 05, đường số 26, tổ 4, phường Trần Hưng Đạo, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-159",
+    "list_order": 3,
+    "party_member_since": "30/01/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-159",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thái Bình, Huyện Tiền Hải, Huyện Kiến Xương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 3: Gồm thành phố Thái Bình và các huyện: Tiền Hải, Kiến Xương. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kiến Xương",
+        "name_folded": "huyen kien xuong"
+      },
+      {
+        "name_vi": "Huyện Tiền Hải",
+        "name_folded": "huyen tien hai"
+      },
+      {
+        "name_vi": "Thành phố Thái Bình",
+        "name_folded": "thanh pho thai binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư, cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành đường bộ, kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ban cán sự Đảng Ủy ban nhân dân tỉnh, Phó Chủ tịch Ủy ban nhân dân tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

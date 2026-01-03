@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-143-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0a56281267cf",
+    "full_name": "Trần Quang Phương",
+    "full_name_folded": "tran quang phuong",
+    "dob": "06/5/1961",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Phổ Vinh, thị xã Đức Phổ, tỉnh Quảng Ngãi",
+    "current_residence": "Số 315, Lê Quảng Chí, tổ 79, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-143",
+    "list_order": 3,
+    "party_member_since": "12/4/1982",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Quảng Ngãi nhiệm kỳ 2006-2011"
+  },
+  "locality": {
+    "id": "loc-cc2b9582432b",
+    "name_vi": "Tỉnh Quảng Ngãi",
+    "name_folded": "quang ngai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-143",
+    "locality_id": "loc-cc2b9582432b",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Đức Phổ, Huyện Mộ Đức, Huyện Ba Tơ, Huyện Minh Long",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ngãi Đơn vị bầu cử Số 3: Gồm thị xã Đức Phổ và các huyện: Mộ Đức, Ba Tơ, Minh Long. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Tơ",
+        "name_folded": "huyen ba to"
+      },
+      {
+        "name_vi": "Huyện Minh Long",
+        "name_folded": "huyen minh long"
+      },
+      {
+        "name_vi": "Huyện Mộ Đức",
+        "name_folded": "huyen mo duc"
+      },
+      {
+        "name_vi": "Thị xã Đức Phổ",
+        "name_folded": "thi xa duc pho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng Đảng và Chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Ủy viên Quân ủy Trung ương; Thượng tướng, Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam; Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Ủy viên Hội đồng công tác quần chúng Trung ương; Ủy viên Ủy ban Quốc gia về Thanh niên Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Tổng cục Chính trị Quân đội nhân dân Việt Nam, Bộ Quốc phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

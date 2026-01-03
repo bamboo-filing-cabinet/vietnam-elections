@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-144-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8cfacf2f0845",
+    "full_name": "Lê Minh Chuẩn",
+    "full_name_folded": "le minh chuan",
+    "dob": "02/4/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thụy Dân, huyện Thái Thụy, tỉnh Thái Bình",
+    "current_residence": "Số 11, phố Hải Phúc, tổ 1A, khu 6A, phường Hồng Hải, thành phố Hạ Long, tỉnh Quảng Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-144",
+    "list_order": 1,
+    "party_member_since": "06/9/1993",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-144",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hạ Long, Thành phố Cẩm Phả",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 1: Gồm các thành phố: Hạ Long và Cẩm Phả. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Cẩm Phả",
+        "name_folded": "thanh pho cam pha"
+      },
+      {
+        "name_vi": "Thành phố Hạ Long",
+        "name_folded": "thanh pho ha long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư, Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khai thác mỏ hầm lò, luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Khối doanh nghiệp Trung ương, Bí thư Đảng ủy Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam, Chủ tịch Hội đồng thành viên Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam, Ủy viên Ủy ban Kinh tế của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

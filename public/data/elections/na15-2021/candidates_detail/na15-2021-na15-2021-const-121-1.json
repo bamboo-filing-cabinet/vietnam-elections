@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-121-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6ff5037557f8",
+    "full_name": "Đinh Thị Thu Hà",
+    "full_name_folded": "dinh thi thu ha",
+    "dob": "12/6/1981",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thịnh, huyện Nam Trực, tỉnh Nam Định",
+    "current_residence": "Số 22, Chế Lan Viên, phường Thống Nhất, thành phố Nam Định, tỉnh Nam Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-121",
+    "list_order": 1,
+    "party_member_since": "30/6/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-15fbd11315f4",
+    "name_vi": "Tỉnh Nam Định",
+    "name_folded": "nam dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-121",
+    "locality_id": "loc-15fbd11315f4",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Xuân Trường, Huyện Giao Thủy, Huyện Trực Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nam Định Đơn vị bầu cử Số 3: Gồm các huyện: Xuân Trường, Giao Thủy và Trực Ninh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giao Thủy",
+        "name_folded": "huyen giao thuy"
+      },
+      {
+        "name_vi": "Huyện Trực Ninh",
+        "name_folded": "huyen truc ninh"
+      },
+      {
+        "name_vi": "Huyện Xuân Trường",
+        "name_folded": "huyen xuan truong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành kế toán, kiểm toán và phân tích hoạt động kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Kế toán Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân tỉnh Nam Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân tỉnh Nam Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

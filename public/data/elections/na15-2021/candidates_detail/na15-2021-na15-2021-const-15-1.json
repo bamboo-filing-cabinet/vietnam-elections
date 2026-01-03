@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-15-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-26d8b03c9ccd",
+    "full_name": "Nguyễn Minh Đức",
+    "full_name_folded": "nguyen minh duc",
+    "dob": "19/7/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Minh Tân, huyện Vụ Bản, tỉnh Nam Định",
+    "current_residence": "Tập thể A13 - Học viện Cảnh sát nhân dân, tổ dân phố số 2, phường Cổ Nhuế 2, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-15",
+    "list_order": 1,
+    "party_member_since": "28/01/1994",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-15",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 5,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Quận Tân Bình, Quận Tân Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 5: Gồm các quận: Tân Bình và quận Tân Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Tân Bình",
+        "name_folded": "quan tan binh"
+      },
+      {
+        "name_vi": "Quận Tân Phú",
+        "name_folded": "quan tan phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ luật - tiếng Nga; tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ Quốc phòng và An ninh; Thiếu tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Quốc phòng và An ninh của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

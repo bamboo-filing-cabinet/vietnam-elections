@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-73-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-788bd06f1a05",
+    "full_name": "Quản Minh Cường",
+    "full_name_folded": "quan minh cuong",
+    "dob": "26/6/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên",
+    "current_residence": "Nhà Công vụ Ủy ban nhân dân tỉnh, đường Võ Thị Sáu, phường Quyết Thắng, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-73",
+    "list_order": 1,
+    "party_member_since": "03/3/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-73",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Long Thành, Huyện Nhơn Trạch, Huyện Cẩm Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 3: Gồm các huyện: Long Thành, Nhơn Trạch và Cẩm Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cẩm Mỹ",
+        "name_folded": "huyen cam my"
+      },
+      {
+        "name_vi": "Huyện Long Thành",
+        "name_folded": "huyen long thanh"
+      },
+      {
+        "name_vi": "Huyện Nhơn Trạch",
+        "name_folded": "huyen nhon trach"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành cảnh sát; Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh ủy Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-137-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-81bdf896670d",
+    "full_name": "Nguyễn Thị Tuyết Nga",
+    "full_name_folded": "nguyen thi tuyet nga",
+    "dob": "26/4/1971",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Hải, huyện Hương Khê, tỉnh Hà Tĩnh",
+    "current_residence": "Nhà số 26, Ngõ 350/27, Kim Giang, phường Đại Kim, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-137",
+    "list_order": 3,
+    "party_member_since": "05/12/2005",
+    "is_na_delegate": "XI",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8f8d45e0a018",
+    "name_vi": "Tỉnh Quang Bình",
+    "name_folded": "quang binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-137",
+    "locality_id": "loc-8f8d45e0a018",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đồng Hới, Huyện Lê Thủy, Huyện Bố Trạch",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Bình Đơn vị bầu cử Số 2: Gồm thành phố Đồng Hới và các huyện: Lệ Thủy, Bố Trạch. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bố Trạch",
+        "name_folded": "huyen bo trach"
+      },
+      {
+        "name_vi": "Huyện Lê Thủy",
+        "name_folded": "huyen le thuy"
+      },
+      {
+        "name_vi": "Thành phố Đồng Hới",
+        "name_folded": "thanh pho dong hoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Vụ trưởng Vụ Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng, Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

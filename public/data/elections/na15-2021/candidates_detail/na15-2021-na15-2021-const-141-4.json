@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-141-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3381816d472f",
+    "full_name": "Đinh Thị Hoa Sen",
+    "full_name_folded": "dinh thi hoa sen",
+    "dob": "12/5/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Co",
+    "religion": "Không",
+    "birthplace": "Xã Trà Thủy, huyện Trà Bồng, tỉnh Quảng Ngãi",
+    "current_residence": "Khu dân cư 14, tổ dân phố II, thị trấn Trà Xuân, huyện Trà Bồng, tỉnh Quảng Ngãi"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-141",
+    "list_order": 4,
+    "party_member_since": "09/7/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc2b9582432b",
+    "name_vi": "Tỉnh Quảng Ngãi",
+    "name_folded": "quang ngai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-141",
+    "locality_id": "loc-cc2b9582432b",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bình Sơn, Huyện Sơn Tịnh, Huyện Trà Bồng, Huyện Sơn Tây, Huyện Sơn Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ngãi Đơn vị bầu cử Số 1: Gồm các huyện: Bình Sơn, Sơn Tịnh, Trà Bồng, Sơn Tây và Sơn Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Sơn",
+        "name_folded": "huyen binh son"
+      },
+      {
+        "name_vi": "Huyện Sơn Hà",
+        "name_folded": "huyen son ha"
+      },
+      {
+        "name_vi": "Huyện Sơn Tây",
+        "name_folded": "huyen son tay"
+      },
+      {
+        "name_vi": "Huyện Sơn Tịnh",
+        "name_folded": "huyen son tinh"
+      },
+      {
+        "name_vi": "Huyện Trà Bồng",
+        "name_folded": "huyen tra bong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm hóa học; Thạc sĩ chuyên ngành hóa hữu cơ"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên, Tổ phó chuyên môn tổ Hóa - Sinh - Công nghệ, Trường Trung học phổ thông Trà Bồng, huyện Trà Bồng, tỉnh Quảng Ngãi"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Trà Bồng, huyện Trà Bồng, tỉnh Quảng Ngãi"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

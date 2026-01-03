@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-113-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-abda1f507a14",
+    "full_name": "Trịnh Thị Tú Anh",
+    "full_name_folded": "trinh thi tu anh",
+    "dob": "17/8/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Hòa, huyện Bình Sơn, tỉnh Quảng Ngãi",
+    "current_residence": "Số 6, đường 3/4, Phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-113",
+    "list_order": 1,
+    "party_member_since": "25/5/2015",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-113",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Đà Lạt, Huyện Lạc Dương, Huyện Đơn Dương, Huyện Đức Trọng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 1: Gồm thành phố Đà Lạt và các huyện: Lạc Dương, Đơn Dương, Đức Trọng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lạc Dương",
+        "name_folded": "huyen lac duong"
+      },
+      {
+        "name_vi": "Huyện Đơn Dương",
+        "name_folded": "huyen don duong"
+      },
+      {
+        "name_vi": "Huyện Đức Trọng",
+        "name_folded": "huyen duc trong"
+      },
+      {
+        "name_vi": "Thành phố Đà Lạt",
+        "name_folded": "thanh pho da lat"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ vật lý - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành vật lý"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Trường Đại học Đà Lạt; Trưởng Phòng Quản lý khoa học - hợp tác Quốc tế, Trường Đại học Đà Lạt; Ủy viên Ban Chấp hành Hội Hữu nghị Việt Nam - Lào"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Đà Lạt"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-53-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7728e034679c",
+    "full_name": "Nguyễn Lân Hiếu",
+    "full_name_folded": "nguyen lan hieu",
+    "dob": "14/9/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Phùng Chí Kiên, thị xã Mỹ Hào, tỉnh Hưng Yên",
+    "current_residence": "Số 2, Trần Hưng Đạo, phường Phan Chu Trinh, quận Hoàn Kiếm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-53",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-53",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoài Nhơn, Huyện An Lão, Huyện Phù Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 3: Gồm thị xã Hoài Nhơn và các huyện: An Lão, Phù Mỹ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Lão",
+        "name_folded": "huyen an lao"
+      },
+      {
+        "name_vi": "Huyện Phù Mỹ",
+        "name_folded": "huyen phu my"
+      },
+      {
+        "name_vi": "Thị xã Hoài Nhơn",
+        "name_folded": "thi xa hoai nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Pháp, tiếng Anh, tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giám đốc Bệnh viện Đại học Y Hà Nội; Phó trưởng bộ môn Tim mạch, Trường Đại học Y Hà Nội; Phó khoa Q2 Viện Tim mạch Việt Nam, Bệnh viện Bạch Mai; Giám đốc Trung tâm Tim mạch Bệnh viện Đại học Y Hà Nội; Phó Chủ tịch Hội Liên lạc với người Việt Nam ở nước ngoài; Ủy viên Ủy ban Đối ngoại của Quốc hội; Thành viên Hội Hữu nghị Việt Nam - Cộng hòa Pháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Đại học Y Hà Nội; Bộ môn Tim mạch, Trường Đại học Y Hà Nội; Khoa Q2 Viện Tim mạch Việt Nam, Bệnh viện Bạch Mai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

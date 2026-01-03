@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-99-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-14adb7ccf43a",
+    "full_name": "Trương Thanh Hòa",
+    "full_name_folded": "truong thanh hoa",
+    "dob": "01/01/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Xuân Đông, thị xã Đông Hòa, tỉnh Phú Yên",
+    "current_residence": "Tổ dân phố 18, phường Ninh Hiệp, thị xã Ninh Hòa, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-99",
+    "list_order": 2,
+    "party_member_since": "25/6/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thị xã Ninh Hòa nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-99",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Ninh Hòa, Huyện Vạn Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 1: Gồm thị xã Ninh Hòa và huyện Vạn Ninh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Vạn Ninh",
+        "name_folded": "huyen van ninh"
+      },
+      {
+        "name_vi": "Thị xã Ninh Hòa",
+        "name_folded": "thi xa ninh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh; công tác tư tưởng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ thị xã, Bí thư Chi bộ, Ủy viên Ban Thường vụ Hội Nông dân tỉnh Khánh Hòa, Chủ tịch Hội Nông dân thị xã Ninh Hòa, tỉnh Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Nông dân thị xã Ninh Hòa, tỉnh Khánh Hòa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-124-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cbd3288cc87c",
+    "full_name": "Hoàng Thị Thu Hiền",
+    "full_name_folded": "hoang thi thu hien",
+    "dob": "10/11/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghi Diên, huyện Nghi Lộc, tỉnh Nghệ An",
+    "current_residence": "Số D2-02, đường N6, khu Đô thị Minh Khang, xóm 20, xã Nghi Phú, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-124",
+    "list_order": 4,
+    "party_member_since": "10/4/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-124",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoàng Mai, Huyện Yên Thành, Huyện Quỳnh Lưu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 3: Gồm thị xã Hoàng Mai và các huyện: Yên Thành, Quỳnh Lưu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Quỳnh Lưu",
+        "name_folded": "huyen quynh luu"
+      },
+      {
+        "name_vi": "Huyện Yên Thành",
+        "name_folded": "huyen yen thanh"
+      },
+      {
+        "name_vi": "Thị xã Hoàng Mai",
+        "name_folded": "thi xa hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh; Thạc sĩ chuyên ngành lịch sử"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng đoàn Hội Liên hiệp Phụ nữ tỉnh Nghệ An, Phó Bí thư Chi bộ cơ quan Hội Liên hiệp Phụ nữ tỉnh Nghệ An, Phó Chủ tịch Thường trực Hội Liên hiệp Phụ nữ tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-173-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d86cd03da62d",
+    "full_name": "Lê Thị Kim Dung",
+    "full_name_folded": "le thi kim dung",
+    "dob": "15/02/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thanh, huyện Cái Bè, tỉnh Tiền Giang",
+    "current_residence": "Số 121, đường Lê Văn Phẩm, Phường 6, thành phố Mỹ Tho, tỉnh Tiền Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-173",
+    "list_order": 1,
+    "party_member_since": "22/9/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8a812f5994ae",
+    "name_vi": "Tỉnh Tiền Giang",
+    "name_folded": "tien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-173",
+    "locality_id": "loc-8a812f5994ae",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Gò Công, Huyện Chợ Gạo, Huyện Gò Công Tây, Gò Công Đông, Huyện Tân Phú Đông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tiền Giang Đơn vị bầu cử Số 3: Gồm thị xã Gò Công và các huyện: Chợ Gạo, Gò Công Tây, Gò Công Đông, Tân Phú Đông. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Gò Công Đông",
+        "name_folded": "go cong dong"
+      },
+      {
+        "name_vi": "Huyện Chợ Gạo",
+        "name_folded": "huyen cho gao"
+      },
+      {
+        "name_vi": "Huyện Gò Công Tây",
+        "name_folded": "huyen go cong tay"
+      },
+      {
+        "name_vi": "Huyện Tân Phú Đông",
+        "name_folded": "huyen tan phu dong"
+      },
+      {
+        "name_vi": "Thị xã Gò Công",
+        "name_folded": "thi xa go cong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng bộ, Chủ tịch Công đoàn cơ sở, Chánh Văn phòng Thanh tra tỉnh Tiền Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Thanh tra tỉnh Tiền Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

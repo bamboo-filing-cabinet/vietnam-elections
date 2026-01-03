@@ -1,0 +1,384 @@
+{
+  "cycle_id": "na15-2021",
+  "generated_at": "2026-01-03T23:53:24Z",
+  "records": [
+    {
+      "id": "loc-29a96f34107b",
+      "name_vi": "TP. Cần Thơ",
+      "name_folded": "can tho",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-76cf8547594d",
+      "name_vi": "TP. Hà Nội",
+      "name_folded": "ha noi",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-d46b38a8b4f1",
+      "name_vi": "TP. Hải Phòng",
+      "name_folded": "hai phong",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-517d5f5880b7",
+      "name_vi": "TP. Hồ Chí Minh",
+      "name_folded": "ho chi minh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-e7e2e364e642",
+      "name_vi": "TP. Đà Nẵng",
+      "name_folded": "da nang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-98279810913f",
+      "name_vi": "Tỉnh An Giang",
+      "name_folded": "an giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-d636aab1f69f",
+      "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+      "name_folded": "ba ria vung tau",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-cc590b385d56",
+      "name_vi": "Tỉnh Bình Dương",
+      "name_folded": "binh duong",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-b12c1ec4e509",
+      "name_vi": "Tỉnh Bình Phước",
+      "name_folded": "binh phuoc",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-d5a293395e51",
+      "name_vi": "Tỉnh Bình Thuận",
+      "name_folded": "binh thuan",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-9a9f61d1d1d9",
+      "name_vi": "Tỉnh Bình Định",
+      "name_folded": "binh dinh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-9ee833b67126",
+      "name_vi": "Tỉnh Bạc Liêu",
+      "name_folded": "bac lieu",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-1764135b6cd1",
+      "name_vi": "Tỉnh Bắc Giang",
+      "name_folded": "bac giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-cbed4363c03e",
+      "name_vi": "Tỉnh Bắc Kạn",
+      "name_folded": "bac kan",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-5ca4eebb03ba",
+      "name_vi": "Tỉnh Bắc Ninh",
+      "name_folded": "bac ninh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-6ed76dcb1354",
+      "name_vi": "Tỉnh Bến Tre",
+      "name_folded": "ben tre",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-d0cfd73752bb",
+      "name_vi": "Tỉnh Cao Bằng",
+      "name_folded": "cao bang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-9d5195573845",
+      "name_vi": "Tỉnh Cà Mau",
+      "name_folded": "ca mau",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-52c2c0326abc",
+      "name_vi": "Tỉnh Gia Lai",
+      "name_folded": "gia lai",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-61a56c5d8d33",
+      "name_vi": "Tỉnh Hà Giang",
+      "name_folded": "ha giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-e92430cb680c",
+      "name_vi": "Tỉnh Hà Nam",
+      "name_folded": "ha nam",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-f02d773bd5d9",
+      "name_vi": "Tỉnh Hà Tĩnh",
+      "name_folded": "ha tinh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-ac8bb3595331",
+      "name_vi": "Tỉnh Hòa Bình",
+      "name_folded": "hoa binh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-cebbe60caac5",
+      "name_vi": "Tỉnh Hưng Yên",
+      "name_folded": "hung yen",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-8b8cf3f6e848",
+      "name_vi": "Tỉnh Hải Dương",
+      "name_folded": "hai duong",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-44db209ebea8",
+      "name_vi": "Tỉnh Hậu Giang",
+      "name_folded": "hau giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-5848ab52cec3",
+      "name_vi": "Tỉnh Khánh Hòa",
+      "name_folded": "khanh hoa",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-2e73af13acd6",
+      "name_vi": "Tỉnh Kiên Giang",
+      "name_folded": "kien giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-33cd8480dc45",
+      "name_vi": "Tỉnh Kon Tum",
+      "name_folded": "kon tum",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-33214999ea64",
+      "name_vi": "Tỉnh Lai Châu",
+      "name_folded": "lai chau",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-868f6e9f9a1e",
+      "name_vi": "Tỉnh Long An",
+      "name_folded": "long an",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-01701c894c7e",
+      "name_vi": "Tỉnh Lào Cai",
+      "name_folded": "lao cai",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-067ef8fc940f",
+      "name_vi": "Tỉnh Lâm Đồng",
+      "name_folded": "lam dong",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-b490ac3ab172",
+      "name_vi": "Tỉnh Lạng Sơn",
+      "name_folded": "lang son",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-15fbd11315f4",
+      "name_vi": "Tỉnh Nam Định",
+      "name_folded": "nam dinh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-944fe32b4028",
+      "name_vi": "Tỉnh Nghệ An",
+      "name_folded": "nghe an",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-110c712f454d",
+      "name_vi": "Tỉnh Ninh Bình",
+      "name_folded": "ninh binh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-b7a54ba23200",
+      "name_vi": "Tỉnh Ninh Thuận",
+      "name_folded": "ninh thuan",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-7bb6e12533df",
+      "name_vi": "Tỉnh Phú Thọ",
+      "name_folded": "phu tho",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-ed5f171275ee",
+      "name_vi": "Tỉnh Phú Yên",
+      "name_folded": "phu yen",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-8f8d45e0a018",
+      "name_vi": "Tỉnh Quang Bình",
+      "name_folded": "quang binh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-c7893b4177e6",
+      "name_vi": "Tỉnh Quảng Nam",
+      "name_folded": "quang nam",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-cc2b9582432b",
+      "name_vi": "Tỉnh Quảng Ngãi",
+      "name_folded": "quang ngai",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-00d43bb16186",
+      "name_vi": "Tỉnh Quảng Ninh",
+      "name_folded": "quang ninh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-0884bac8f233",
+      "name_vi": "Tỉnh Quảng Trị",
+      "name_folded": "quang tri",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-b730b84b4974",
+      "name_vi": "Tỉnh Sóc Trăng",
+      "name_folded": "soc trang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-4556d945d193",
+      "name_vi": "Tỉnh Sơn La",
+      "name_folded": "son la",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-e78a4efd9173",
+      "name_vi": "Tỉnh Thanh Hóa",
+      "name_folded": "thanh hoa",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-f91fa5400899",
+      "name_vi": "Tỉnh Thái Bình",
+      "name_folded": "thai binh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-54f56f05c1c7",
+      "name_vi": "Tỉnh Thái Nguyên",
+      "name_folded": "thai nguyen",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-de3f1bbb0c35",
+      "name_vi": "Tỉnh Thừa Thiên Huế",
+      "name_folded": "thua thien hue",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-8a812f5994ae",
+      "name_vi": "Tỉnh Tiền Giang",
+      "name_folded": "tien giang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-fdf0dcd56901",
+      "name_vi": "Tỉnh Trà Vinh",
+      "name_folded": "tinh tra vinh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-6d693e7c979e",
+      "name_vi": "Tỉnh Tuyên Quang",
+      "name_folded": "tinh tuyen quang",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-afb0ff37292d",
+      "name_vi": "Tỉnh Tây Ninh",
+      "name_folded": "tay ninh",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-7ecd8e4443ec",
+      "name_vi": "Tỉnh Vĩnh Long",
+      "name_folded": "tinh vinh long",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-227643b06427",
+      "name_vi": "Tỉnh Vĩnh Phúc",
+      "name_folded": "tinh vinh phuc",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-9911d8be2ef2",
+      "name_vi": "Tỉnh Yên Bái",
+      "name_folded": "tinh yen bai",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-8c69f5d593d7",
+      "name_vi": "Tỉnh Điện Biên",
+      "name_folded": "dien bien",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-d41969e12497",
+      "name_vi": "Tỉnh Đắk Lắk",
+      "name_folded": "dak lak",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-17908977e54f",
+      "name_vi": "Tỉnh Đắk Nông",
+      "name_folded": "dak nong",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-dca8ebff2abe",
+      "name_vi": "Tỉnh Đồng Nai",
+      "name_folded": "dong nai",
+      "type": "province_or_city"
+    },
+    {
+      "id": "loc-0e3718a4a90a",
+      "name_vi": "Tỉnh Đồng Tháp",
+      "name_folded": "dong thap",
+      "type": "province_or_city"
+    }
+  ]
+}

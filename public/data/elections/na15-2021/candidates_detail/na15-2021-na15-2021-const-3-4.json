@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-3-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-635b0a660b99",
+    "full_name": "Đặng Thị Kim Tuyến",
+    "full_name_folded": "dang thi kim tuyen",
+    "dob": "09/8/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vạn Phúc, huyện Thanh Trì, thành phố Hà Nội",
+    "current_residence": "Thôn Văn, xã Thanh Liệt, huyện Thanh Trì, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-3",
+    "list_order": 4,
+    "party_member_since": "30/12/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-3",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận Cầu Giấy,Quận Nam Từ Liêm,Quận Thanh Xuân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 3: Gồm các quận: Cầu Giấy, Nam Từ Liêm và Thanh Xuân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Cầu Giấy",
+        "name_folded": "quan cau giay"
+      },
+      {
+        "name_vi": "Quận Nam Từ Liêm",
+        "name_folded": "quan nam tu liem"
+      },
+      {
+        "name_vi": "Quận Thanh Xuân",
+        "name_folded": "quan thanh xuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Trung; Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Trung"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Phòng Thông tin thị trường lao động, Trung tâm Dịch vụ việc làm Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Dịch vụ việc làm Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

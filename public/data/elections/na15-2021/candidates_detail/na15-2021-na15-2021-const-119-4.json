@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-119-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-294ece5b5b80",
+    "full_name": "Nguyễn Thị Thúy Ngọc",
+    "full_name_folded": "nguyen thi thuy ngoc",
+    "dob": "22/7/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoàng Nam, huyện Nghĩa Hưng, tỉnh Nam Định",
+    "current_residence": "Số 16, đường Trương Hán Siêu, phường Lộc Hòa, thành phố Nam Định, tỉnh Nam Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-119",
+    "list_order": 4,
+    "party_member_since": "01/02/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-15fbd11315f4",
+    "name_vi": "Tỉnh Nam Định",
+    "name_folded": "nam dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-119",
+    "locality_id": "loc-15fbd11315f4",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Nam Định, Huyện Mỹ Lộc, Huyện Vụ Bản, Huyện Ý Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nam Định Đơn vị bầu cử Số 1: Gồm thành phố Nam Định và các huyện: Mỹ Lộc, Vụ Bản, Ý Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Lộc",
+        "name_folded": "huyen my loc"
+      },
+      {
+        "name_vi": "Huyện Vụ Bản",
+        "name_folded": "huyen vu ban"
+      },
+      {
+        "name_vi": "Huyện Ý Yên",
+        "name_folded": "huyen y yen"
+      },
+      {
+        "name_vi": "Thành phố Nam Định",
+        "name_folded": "thanh pho nam dinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành xã hội học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chánh Văn phòng Hội Liên hiệp Phụ nữ tỉnh Nam Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Nam Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

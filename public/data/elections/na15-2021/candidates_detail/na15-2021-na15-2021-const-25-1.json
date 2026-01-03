@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-25-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-86a4310d2594",
+    "full_name": "Nguyễn Thị Dung",
+    "full_name_folded": "nguyen thi dung",
+    "dob": "01/10/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoằng Lý, thành phố Thanh Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 89, Lê Thanh Nghị, tổ 23, phường Hòa Cường Bắc, quận Hải Châu, thành phố Đà Nẵng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-25",
+    "list_order": 1,
+    "party_member_since": "27/11/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e7e2e364e642",
+    "name_vi": "TP. Đà Nẵng",
+    "name_folded": "da nang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-25",
+    "locality_id": "loc-e7e2e364e642",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Sơn Trà,Quận Ngũ Hành Sơn,Quận Cẩm Lệ,Huyện Hoà Vang,Huyện Hoàng Sa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Đà Nẵng Đơn vị bầu cử Số 2: Gồm các quận: Sơn Trà, Ngũ Hành Sơn, Cẩm Lệ và các huyện: Hoàng Sa, Hòa Vang. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoà Vang",
+        "name_folded": "huyen hoa vang"
+      },
+      {
+        "name_vi": "Huyện Hoàng Sa",
+        "name_folded": "huyen hoang sa"
+      },
+      {
+        "name_vi": "Quận Cẩm Lệ",
+        "name_folded": "quan cam le"
+      },
+      {
+        "name_vi": "Quận Ngũ Hành Sơn",
+        "name_folded": "quan ngu hanh son"
+      },
+      {
+        "name_vi": "Quận Sơn Trà",
+        "name_folded": "quan son tra"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Pháp C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lịch sử"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Công đoàn Viên chức Việt Nam, Đảng ủy viên, Bí thư Chi bộ 4, Ủy viên Ban Thường vụ Liên đoàn Lao động thành phố Đà Nẵng, Chủ tịch Công đoàn Viên chức thành phố Đà Nẵng"
+    },
+    {
+      "key": "workplace",
+      "value": "Công đoàn Viên chức thành phố Đà Nẵng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-18-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6fe7c202a66c",
+    "full_name": "Đặng Văn Lẫm",
+    "full_name_folded": "dang van lam",
+    "dob": "18/10/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đức Hòa Đông, huyện Đức Hòa, tỉnh Long An",
+    "current_residence": "Khu phố Kim Thịnh, thị trấn Cần Giuộc, huyện Cần Giuộc, tỉnh Long An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-18",
+    "list_order": 2,
+    "party_member_since": "04/02/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-18",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 8,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 8",
+    "name_folded": "don vi bau cu so 8",
+    "description": "Quận 6, Huyện Bình Chánh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 8: Gồm Quận 6 và huyện Bình Chánh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Chánh",
+        "name_folded": "huyen binh chanh"
+      },
+      {
+        "name_vi": "Quận 6",
+        "name_folded": "quan 6"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thiếu tướng, Phó Tư lệnh Quân khu 7"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 7"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

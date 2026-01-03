@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-150-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f62f07c863a1",
+    "full_name": "Nguyễn Xuân Dắt",
+    "full_name_folded": "nguyen xuan dat",
+    "dob": "14/01/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Phước, huyện Mỹ Tú, tỉnh Sóc Trăng",
+    "current_residence": "Số 91A/48, khu vực 2, phường An Thới, quận Bình Thủy, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-150",
+    "list_order": 1,
+    "party_member_since": "19/8/1989",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-150",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Ngã Năm, Huyện Mỹ Tú, Huyện Thạnh Trị",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 2: Gồm thị xã Ngã Năm và các huyện: Mỹ Tú, Thạnh Trị. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Tú",
+        "name_folded": "huyen my tu"
+      },
+      {
+        "name_vi": "Huyện Thạnh Trị",
+        "name_folded": "huyen thanh tri"
+      },
+      {
+        "name_vi": "Thị xã Ngã Năm",
+        "name_folded": "thi xa nga nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy Quân khu 9, Trung tướng, Tư lệnh Quân khu 9"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 9"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

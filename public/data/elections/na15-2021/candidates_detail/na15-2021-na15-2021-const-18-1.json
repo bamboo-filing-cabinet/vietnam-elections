@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-18-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-26f1dccddc65",
+    "full_name": "Tô Thị Bích Châu",
+    "full_name_folded": "to thi bich chau",
+    "dob": "01/6/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thủy, huyện Ba Tri, tỉnh Bến Tre",
+    "current_residence": "Số 27, Đường 41, tổ dân phố 34, khu phố 3, phường 6, quận 4, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-18",
+    "list_order": 1,
+    "party_member_since": "01/02/1997",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-18",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 8,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 8",
+    "name_folded": "don vi bau cu so 8",
+    "description": "Quận 6, Huyện Bình Chánh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 8: Gồm Quận 6 và huyện Bình Chánh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Chánh",
+        "name_folded": "huyen binh chanh"
+      },
+      {
+        "name_vi": "Quận 6",
+        "name_folded": "quan 6"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành dược, kinh tế - chính trị; Thạc sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy Thành phố Hồ Chí Minh, Bí thư Đảng đoàn Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh; Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

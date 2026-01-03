@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-51-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1d4305a75bbe",
+    "full_name": "Nguyễn Thị Thu Thủy",
+    "full_name_folded": "nguyen thi thu thuy",
+    "dob": "07/8/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoài Châu Bắc, thị xã Hoài Nhơn, tỉnh Bình Định",
+    "current_residence": "Số 99/4, đường Hai Bà Trưng, thành phố Quy Nhơn, tỉnh Bình Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-51",
+    "list_order": 3,
+    "party_member_since": "22/01/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Bình Định nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-51",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Quy Nhơn, Huyện Tuy Phước, Huyện Vân Canh, Huyện Tây Sơn, Huyện Vĩnh Thạnh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 1: Gồm thành phố Quy Nhơn và các huyện: Tuy Phước, Vân Canh, Tây Sơn, Vĩnh Thạnh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tuy Phước",
+        "name_folded": "huyen tuy phuoc"
+      },
+      {
+        "name_vi": "Huyện Tây Sơn",
+        "name_folded": "huyen tay son"
+      },
+      {
+        "name_vi": "Huyện Vân Canh",
+        "name_folded": "huyen van canh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thạnh",
+        "name_folded": "huyen vinh thanh"
+      },
+      {
+        "name_vi": "Thành phố Quy Nhơn",
+        "name_folded": "thanh pho quy nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ luật - Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật quốc tế, luật kinh doanh toàn cầu"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Đảng đoàn, Bí thư Chi bộ, Phó Chủ tịch Thường trực Hội Liên hiệp Phụ nữ tỉnh; Ủy viên Ban Chấp hành Công đoàn Viên chức tỉnh, Chủ tịch Công đoàn cơ quan Hội Liên hiệp Phụ nữ tỉnh Bình Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Bình Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

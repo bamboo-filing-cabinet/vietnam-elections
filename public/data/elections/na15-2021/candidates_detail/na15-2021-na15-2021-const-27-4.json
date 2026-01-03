@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-27-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c8e6d59f4687",
+    "full_name": "Lê Quang Mạnh",
+    "full_name_folded": "le quang manh",
+    "dob": "14/4/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Đại Nghĩa, huyện Mỹ Đức, thành phố Hà Nội",
+    "current_residence": "Số 5, đường Hai Bà Trưng, phường Tân An, quận Ninh Kiều, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-27",
+    "list_order": 4,
+    "party_member_since": "17/10/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-27",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Bình Thủy, Quận Ô Môn, Huyện Thới Lai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 2: Gồm các quận: Bình Thủy, Ô Môn và huyện Thới Lai. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thới Lai",
+        "name_folded": "huyen thoi lai"
+      },
+      {
+        "name_vi": "Quận Bình Thủy",
+        "name_folded": "quan binh thuy"
+      },
+      {
+        "name_vi": "Quận Ô Môn",
+        "name_folded": "quan o mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý kinh doanh du lịch, ngoại ngữ; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Thành ủy Cần Thơ"
+    },
+    {
+      "key": "workplace",
+      "value": "Thành ủy Cần Thơ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-10-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fb4939bc1deb",
+    "full_name": "Phan Huy Cương",
+    "full_name_folded": "phan huy cuong",
+    "dob": "05/4/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Sài Sơn, huyện Quốc Oai, thành phố Hà Nội",
+    "current_residence": "Số 12, phố Vĩnh Hồ, phường Ngã Tư Sở, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-10",
+    "list_order": 1,
+    "party_member_since": "01/02/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-10",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 10,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Sóc Sơn, Huyện Mê Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 10: Gồm các huyện: Sóc Sơn và Mê Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mê Linh",
+        "name_folded": "huyen me linh"
+      },
+      {
+        "name_vi": "Huyện Sóc Sơn",
+        "name_folded": "huyen soc son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị; Thạc sĩ chuyên ngành luật hình sự và tố tụng hình sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thẩm phán trung cấp; Thẩm phán Tòa hình sự, Tòa án nhân dân thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

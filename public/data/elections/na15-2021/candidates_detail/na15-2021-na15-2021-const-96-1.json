@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-96-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7408c62b5ac5",
+    "full_name": "Phạm Thị Hạnh",
+    "full_name_folded": "pham thi hanh",
+    "dob": "20/9/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thủy Sơn, huyện Thủy Nguyên, thành phố Hải Phòng",
+    "current_residence": "Số 21, phố Nguyễn Văn Trỗi, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-96",
+    "list_order": 1,
+    "party_member_since": "05/9/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-96",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hưng Yên, Huyện Kim Động, Huyện Khoái Châu, Huyện Yên Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 1: Gồm thành phố Hưng Yên và các huyện: Kim Động, Khoái Châu, Yên Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Khoái Châu",
+        "name_folded": "huyen khoai chau"
+      },
+      {
+        "name_vi": "Huyện Kim Động",
+        "name_folded": "huyen kim dong"
+      },
+      {
+        "name_vi": "Huyện Yên Mỹ",
+        "name_folded": "huyen yen my"
+      },
+      {
+        "name_vi": "Thành phố Hưng Yên",
+        "name_folded": "thanh pho hung yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Cán sự Ban Phong trào Tỉnh đoàn Hưng Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn Thanh niên Cộng sản Hồ Chí Minh tỉnh Hưng Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

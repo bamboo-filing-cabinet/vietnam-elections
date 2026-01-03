@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-89-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6e96155f2fb5",
+    "full_name": "Đinh Thị Ngọc Dung",
+    "full_name_folded": "dinh thi ngoc dung",
+    "dob": "26/11/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Cẩm Thượng, thành phố Hải Dương, tỉnh Hải Dương",
+    "current_residence": "Số 94, đường Nguyễn Thượng Mẫn, phường Bình Hàn, thành phố Hải Dương, tỉnh Hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-89",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-89",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Hải Dương, Huyện Nam Sách, Huyện Thanh Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 2: Gồm thành phố Hải Dương và các huyện: Nam Sách, Thanh Hà. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nam Sách",
+        "name_folded": "huyen nam sach"
+      },
+      {
+        "name_vi": "Huyện Thanh Hà",
+        "name_folded": "huyen thanh ha"
+      },
+      {
+        "name_vi": "Thành phố Hải Dương",
+        "name_folded": "thanh pho hai duong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành công nghệ may và thời trang"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Nhân viên Phòng Dạy nghề - Lao động trị liệu, Cơ sở cai nghiện ma túy tỉnh Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Cơ sở cai nghiện ma túy tỉnh Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

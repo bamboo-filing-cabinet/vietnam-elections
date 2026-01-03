@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-73-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ae1d1dcb5d20",
+    "full_name": "Nguyễn Thị Thảo Nguyên",
+    "full_name_folded": "nguyen thi thao nguyen",
+    "dob": "04/4/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hóa An, thành phố Biên Hòa, tỉnh Đồng Nai",
+    "current_residence": "Số 745, đường Bùi Hữu Nghĩa, Khu phố 2, phường Bửu Hòa, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-73",
+    "list_order": 5,
+    "party_member_since": "19/5/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-73",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Long Thành, Huyện Nhơn Trạch, Huyện Cẩm Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 3: Gồm các huyện: Long Thành, Nhơn Trạch và Cẩm Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cẩm Mỹ",
+        "name_folded": "huyen cam my"
+      },
+      {
+        "name_vi": "Huyện Long Thành",
+        "name_folded": "huyen long thanh"
+      },
+      {
+        "name_vi": "Huyện Nhơn Trạch",
+        "name_folded": "huyen nhon trach"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục tiểu học, Anh văn; Thạc sĩ chuyên ngành quản lý hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi cục trưởng Chi cục Tiêu chuẩn Đo lường Chất lượng trực thuộc Sở Khoa học và Công nghệ tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Chi cục Tiêu chuẩn Đo lường Chất lượng trực thuộc Sở Khoa học và Công nghệ tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-20-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4ad18a061e5b",
+    "full_name": "Nguyễn Xuân Phúc",
+    "full_name_folded": "nguyen xuan phuc",
+    "dob": "20/7/1954",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam",
+    "current_residence": "Nhà công vụ số 11, Chùa Một Cột, phường Điện Biên, quân Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-20",
+    "list_order": 4,
+    "party_member_since": "12/5/1982",
+    "is_na_delegate": "XI, XIII, XIV",
+    "is_council_delegate": "Tỉnh Quảng Nam nhiệm kỳ 1999-2004, 2004-2011"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-20",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 10,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Củ Chi, Huyện Hóc Môn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 10: Gồm các huyện: Củ Chi và Hóc Môn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Củ Chi",
+        "name_folded": "huyen cu chi"
+      },
+      {
+        "name_vi": "Huyện Hóc Môn",
+        "name_folded": "huyen hoc mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, Tiếng Nga B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam; Chủ tịch Hội đồng Quốc phòng và An ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Chủ tịch nước"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-38-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d4cd86bef295",
+    "full_name": "Leo Thị Lịch",
+    "full_name_folded": "leo thi lich",
+    "dob": "23/9/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Sán Dìu",
+    "religion": "Không",
+    "birthplace": "Xã Nam Dương, huyện Lục Ngạn, tỉnh Bắc Giang",
+    "current_residence": "Phòng 804, Nhà công vụ Quốc hội, số 02, Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-38",
+    "list_order": 3,
+    "party_member_since": "03/4/1997",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Bắc Giang nhiệm kỳ 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-1764135b6cd1",
+    "name_vi": "Tỉnh Bắc Giang",
+    "name_folded": "bac giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-38",
+    "locality_id": "loc-1764135b6cd1",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Sơn Động, Huyện Lục Ngạn, Huyện Lục Nam",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Giang Đơn vị bầu cử Số 1: Gồm các huyện: Sơn Động, Lục Ngạn và Lục Nam. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lục Nam",
+        "name_folded": "huyen luc nam"
+      },
+      {
+        "name_vi": "Huyện Lục Ngạn",
+        "name_folded": "huyen luc ngan"
+      },
+      {
+        "name_vi": "Huyện Sơn Động",
+        "name_folded": "huyen son dong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, nói thành thạo tiếng dân tộc Sán Dìu"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Hội đồng Dân tộc của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng Dân tộc của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-46-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-541458f7b6c4",
+    "full_name": "Nguyễn Thị Lệ Thủy",
+    "full_name_folded": "nguyen thi le thuy",
+    "dob": "31/01/1968",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thành An, huyện Mỏ Cày Bắc, tỉnh Bến Tre",
+    "current_residence": "Nhà công vụ Văn phòng Quốc hội, số 2, đường Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-46",
+    "list_order": 4,
+    "party_member_since": "15/3/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-46",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Thạnh Phú, Huyện Chợ Lách, Huyện Mò Cày Nam, Huyện Mò Cày Bắc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 3: Gồm các huyện: Thạnh Phú, Chợ Lách, Mỏ Cày Nam và Mỏ Cày Bắc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chợ Lách",
+        "name_folded": "huyen cho lach"
+      },
+      {
+        "name_vi": "Huyện Mò Cày Bắc",
+        "name_folded": "huyen mo cay bac"
+      },
+      {
+        "name_vi": "Huyện Mò Cày Nam",
+        "name_folded": "huyen mo cay nam"
+      },
+      {
+        "name_vi": "Huyện Thạnh Phú",
+        "name_folded": "huyen thanh phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành nuôi trồng thủy sản, ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành quản lý và bảo tồn tài nguyên di truyền thực vật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

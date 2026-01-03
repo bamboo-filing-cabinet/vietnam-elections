@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-45-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d3a231c28087",
+    "full_name": "Trần Văn Đức",
+    "full_name_folded": "tran van duc",
+    "dob": "15/7/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Xuân, huyện Ba Tri, tỉnh Bến Tre",
+    "current_residence": "Số 197/9A, đường Thoại Ngọc Hầu, phường Phú Thạnh, quận Tân Phú, thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-45",
+    "list_order": 1,
+    "party_member_since": "25/11/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-45",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Giồng Trôm, Huyện Ba Trì",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 2: Gồm huyện Giồng Trôm và huyện Ba Tri. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Trì",
+        "name_folded": "huyen ba tri"
+      },
+      {
+        "name_vi": "Huyện Giồng Trôm",
+        "name_folded": "huyen giong trom"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế đối ngoại"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội đồng quản trị kiêm Tổng Giám đốc công ty Cổ phần Đầu tư Dừa Bến Tre, Chủ tịch Hiệp hội Doanh nghiệp tỉnh Bến Tre, Phó Chủ tịch Hiệp hội Dừa tỉnh Bến Tre"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Đầu tư Dừa Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

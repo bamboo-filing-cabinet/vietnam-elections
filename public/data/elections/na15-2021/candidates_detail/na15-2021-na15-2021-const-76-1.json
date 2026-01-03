@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-76-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3c2a1bbfee61",
+    "full_name": "Nguyễn Hải Anh",
+    "full_name_folded": "nguyen hai anh",
+    "dob": "14/10/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Yên Thường, huyện Gia Lâm, thành phố Hà Nội",
+    "current_residence": "Căn hộ 3502, tòa nhà S3, khu Sunshine City, phường Đông Ngạc, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-76",
+    "list_order": 1,
+    "party_member_since": "26/6/1991",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Tuyên Quang nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-0e3718a4a90a",
+    "name_vi": "Tỉnh Đồng Tháp",
+    "name_folded": "dong thap",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-76",
+    "locality_id": "loc-0e3718a4a90a",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Cao Lãnh, Huyện Thanh Bình, Huyện Cao Lãnh, Huyện Tháp Mười",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Tháp Đơn vị bầu cử Số 2: Gồm thành phố Cao Lãnh và các huyện: Thanh Bình, Cao Lãnh, Tháp Mười. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Lãnh",
+        "name_folded": "huyen cao lanh"
+      },
+      {
+        "name_vi": "Huyện Thanh Bình",
+        "name_folded": "huyen thanh binh"
+      },
+      {
+        "name_vi": "Huyện Tháp Mười",
+        "name_folded": "huyen thap muoi"
+      },
+      {
+        "name_vi": "Thành phố Cao Lãnh",
+        "name_folded": "thanh pho cao lanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Tây Ban Nha"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quan hệ quốc tế, ngoại ngữ, chính trị; Tiến sĩ"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn Hội Chữ thập đỏ Việt Nam; Bí thư Đảng ủy cơ quan, Phó Chủ tịch, Tổng Thư ký Hội Chữ thập đỏ Việt Nam; Ủy viên Đoàn Chủ tịch, Liên hiệp các tổ chức Hữu nghị Việt Nam; Phó Chủ tịch Hội Hữu nghị Việt Nam - Tây Ban Nha; Ủy viên Ban Chấp hành Trung ương Hội Hữu nghị Việt Nam - Cu Ba"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung ương Hội Chữ thập đỏ Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

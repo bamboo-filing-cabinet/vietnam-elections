@@ -1,0 +1,105 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-167-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9518776078cf",
+    "full_name": "Phạm Thị Xuân",
+    "full_name_folded": "pham thi xuan",
+    "dob": "11/10/1991",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Cẩm Châu, huyện Cẩm Thủy, tỉnh Thanh Hóa",
+    "current_residence": "Bản Bút Xuân, xã Nam Xuân, huyện Quan Hóa, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-167",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-167",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 5,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Huyện Quan Hóa, Huyện Quan Sơn, Huyện Mường Lát, Huyện Lang Chánh, Huyện Bá Thước, Huyện Ngọc Lặc, Huyện Thường Xuân, Huyện Cẩm Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 5: Gồm các huyện: Quan Hóa, Quan Sơn, Mường Lát, Lang Chánh, Bá Thước, Ngọc Lặc, Thường Xuân và Cẩm Thủy. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bá Thước",
+        "name_folded": "huyen ba thuoc"
+      },
+      {
+        "name_vi": "Huyện Cẩm Thủy",
+        "name_folded": "huyen cam thuy"
+      },
+      {
+        "name_vi": "Huyện Lang Chánh",
+        "name_folded": "huyen lang chanh"
+      },
+      {
+        "name_vi": "Huyện Mường Lát",
+        "name_folded": "huyen muong lat"
+      },
+      {
+        "name_vi": "Huyện Ngọc Lặc",
+        "name_folded": "huyen ngoc lac"
+      },
+      {
+        "name_vi": "Huyện Quan Hóa",
+        "name_folded": "huyen quan hoa"
+      },
+      {
+        "name_vi": "Huyện Quan Sơn",
+        "name_folded": "huyen quan son"
+      },
+      {
+        "name_vi": "Huyện Thường Xuân",
+        "name_folded": "huyen thuong xuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, nói được tiếng dân tộc Mường"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thư ký viên Tòa án nhân dân huyện Quan Hóa, tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân huyện Quan Hóa, tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-44-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ae4ca6655d6b",
+    "full_name": "Phan Văn Mãi",
+    "full_name_folded": "phan van mai",
+    "dob": "25/02/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thạnh Phú Đông, huyện Giồng Trôm, tỉnh Bến Tre",
+    "current_residence": "Số 181B1, tổ 17, khu phố 5, phường Phú Khương, thành phố Bến Tre, tỉnh Bến Tre"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-44",
+    "list_order": 1,
+    "party_member_since": "01/8/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Bến Tre nhiệm kỳ 2004-2011, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-44",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bến Tre, Huyện Châu Thành, Huyện Bình Đại",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 1: Gồm thành phố Bến Tre và các huyện: Châu Thành, Bình Đại. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Đại",
+        "name_folded": "huyen binh dai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Thành phố Bến Tre",
+        "name_folded": "thanh pho ben tre"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh, ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Bến Tre, Chủ tịch Hội đồng nhân dân tỉnh Bến Tre"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

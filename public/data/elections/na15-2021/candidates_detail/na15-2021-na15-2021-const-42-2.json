@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-42-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-484b0cc80246",
+    "full_name": "Nguyễn Thị Hà",
+    "full_name_folded": "nguyen thi ha",
+    "dob": "29/12/1990",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Định, huyện Lương Tài, tỉnh Bắc Ninh",
+    "current_residence": "Thôn Tân Dân, thị trấn Thứa, huyện Lương Tài, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-42",
+    "list_order": 2,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-42",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Từ Sơn, Huyện Tiên Du, Huyện Yên Phong",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 2: Gồm thị xã Từ Sơn và các huyện: Tiên Du, Yên Phong. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tiên Du",
+        "name_folded": "huyen tien du"
+      },
+      {
+        "name_vi": "Huyện Yên Phong",
+        "name_folded": "huyen yen phong"
+      },
+      {
+        "name_vi": "Thị xã Từ Sơn",
+        "name_folded": "thi xa tu son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm tiếng Anh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên trung học phổ thông hạng III, Ủy viên Ban Chấp hành Đoàn thanh niên cộng sản Hồ Chí Minh Trường Trung học phổ thông Lương Tài, huyện Lương Tài, Bắc Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Lương Tài, huyện Lương Tài, tỉnh Bắc Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

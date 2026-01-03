@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-94-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a973b0c31c48",
+    "full_name": "Hà Thị Dung",
+    "full_name_folded": "ha thi dung",
+    "dob": "18/6/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Chiềng Châu, huyện Mai Châu, tỉnh Hòa Bình",
+    "current_residence": "Tiểu khu 4, thị trấn Mai Châu, huyện Mai Châu, tỉnh Hòa Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-94",
+    "list_order": 2,
+    "party_member_since": "15/5/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-94",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hòa Bình, Huyện Đà Bắc, Huyện Lương Sơn, Huyện Mai Châu, Huyện Tân Lạc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 1: Gồm thành phố Hòa Bình và các huyện: Đà Bắc, Lương Sơn, Mai Châu, Tân Lạc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lương Sơn",
+        "name_folded": "huyen luong son"
+      },
+      {
+        "name_vi": "Huyện Mai Châu",
+        "name_folded": "huyen mai chau"
+      },
+      {
+        "name_vi": "Huyện Tân Lạc",
+        "name_folded": "huyen tan lac"
+      },
+      {
+        "name_vi": "Huyện Đà Bắc",
+        "name_folded": "huyen da bac"
+      },
+      {
+        "name_vi": "Thành phố Hòa Bình",
+        "name_folded": "thanh pho hoa binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh; nói được tiếng dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm tiếng Anh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trung học phổ thông hạng 2; Phó Hiệu trưởng Trường Phổ thông dân tộc nội trú Trung học cơ sở và Trung học phổ thông huyện Mai Châu, tỉnh Hòa Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Phổ thông dân tộc nội trú Trung học cơ sở và Trung học phổ thông huyện Mai Châu, tỉnh Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

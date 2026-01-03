@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-179-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d5a8ae369a0c",
+    "full_name": "Nguyễn Thị Minh Trang",
+    "full_name_folded": "nguyen thi minh trang",
+    "dob": "16/5/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lục Sĩ Thành, huyện Trà Ôn, tỉnh Vĩnh Long",
+    "current_residence": "Số 78, Tổ 6, Khóm 2, Thị trấn Long Hồ, huyện Long Hồ, tỉnh Vĩnh Long"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-179",
+    "list_order": 5,
+    "party_member_since": "01/6/1998",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Huyện Long Hồ nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-7ecd8e4443ec",
+    "name_vi": "Tỉnh Vĩnh Long",
+    "name_folded": "tinh vinh long",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-179",
+    "locality_id": "loc-7ecd8e4443ec",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vĩnh Long, Huyện Long Hồ, Huyện Mang Thít, Huyện Tam Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Long Đơn vị bầu cử Số 1: Gồm thành phố Vĩnh Long và các huyện: Long Hồ, Mang Thít, Tam Bình. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Long Hồ",
+        "name_folded": "huyen long ho"
+      },
+      {
+        "name_vi": "Huyện Mang Thít",
+        "name_folded": "huyen mang thit"
+      },
+      {
+        "name_vi": "Huyện Tam Bình",
+        "name_folded": "huyen tam binh"
+      },
+      {
+        "name_vi": "Thành phố Vĩnh Long",
+        "name_folded": "thanh pho vinh long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học; Thạc sĩ chuyên ngành văn hóa học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Huyện ủy, Bí thư Đảng ủy Quân sự huyện Mang Thít, tỉnh Vĩnh Long"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Mang Thít, tỉnh Vĩnh Long"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

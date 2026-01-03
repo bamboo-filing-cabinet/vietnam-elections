@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-114-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-73ab017ff448",
+    "full_name": "Lâm Văn Đoan",
+    "full_name_folded": "lam van doan",
+    "dob": "30/01/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ninh Hiệp, huyện Gia Lâm, thành phố Hà Nội",
+    "current_residence": "Số nhà 62, ngõ 17, phố Phùng Chí Kiên, phường Nghĩa Đô, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-114",
+    "list_order": 2,
+    "party_member_since": "26/01/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-114",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Lâm Hà, Huyện Đam Rông, Huyện Di Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 2: Gồm các huyện: Lâm Hà, Đam Rông và Di Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Di Linh",
+        "name_folded": "huyen di linh"
+      },
+      {
+        "name_vi": "Huyện Lâm Hà",
+        "name_folded": "huyen lam ha"
+      },
+      {
+        "name_vi": "Huyện Đam Rông",
+        "name_folded": "huyen dam rong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành xã hội học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trợ lý Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Tổ chức Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tổ chức Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

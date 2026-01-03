@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-78-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a37db7105189",
+    "full_name": "Rơ Châm H′Phik",
+    "full_name_folded": "ro cham h phik",
+    "dob": "15/02/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Jrai",
+    "religion": "Không",
+    "birthplace": "Xã Ia Phí, huyện Chư Păh, tỉnh Gia Lai",
+    "current_residence": "Số 37, Trần Phú, thị trấn Phú Hòa, huyện Chư Păh, tỉnh Gia Lai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-78",
+    "list_order": 1,
+    "party_member_since": "10/7/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Gia Lai nhiệm kỳ 2016-2021; Huyện Chư Păh (tỉnh Gia Lai) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-78",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Pleiku, Huyện Chư Pawh, Huyện Ia Grai, Huyện Đức Cơ, Huyện Chư Prông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 1: Gồm thành phố Pleiku và các huyện: Chư Păh, Ia Grai, Đức Cơ, Chư Prông. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chư Pawh",
+        "name_folded": "huyen chu pawh"
+      },
+      {
+        "name_vi": "Huyện Chư Prông",
+        "name_folded": "huyen chu prong"
+      },
+      {
+        "name_vi": "Huyện Ia Grai",
+        "name_folded": "huyen ia grai"
+      },
+      {
+        "name_vi": "Huyện Đức Cơ",
+        "name_folded": "huyen duc co"
+      },
+      {
+        "name_vi": "Thành phố Pleiku",
+        "name_folded": "thanh pho pleiku"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Huyện ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam huyện Chư Păh, tỉnh Gia Lai"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân vận, Huyện ủy Chư Păh, tỉnh Gia Lai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-44-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6363c4cb1daf",
+    "full_name": "Đặng Thuần Phong",
+    "full_name_folded": "dang thuan phong",
+    "dob": "08/7/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tiên Thủy, huyện Châu Thành, tỉnh Bến Tre",
+    "current_residence": "Phòng 1004, nhà Công vụ Văn phòng Quốc hội, số 2, Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-44",
+    "list_order": 2,
+    "party_member_since": "19/6/1987",
+    "is_na_delegate": "XI, XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-44",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bến Tre, Huyện Châu Thành, Huyện Bình Đại",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 1: Gồm thành phố Bến Tre và các huyện: Châu Thành, Bình Đại. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Đại",
+        "name_folded": "huyen binh dai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Thành phố Bến Tre",
+        "name_folded": "thanh pho ben tre"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A, tiếng Nga A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cao đẳng sư phạm văn; Cao cấp thanh vận; Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ các vấn đề Xã hội; Phó Chủ nhiệm Ủy ban về các vấn đề Xã hội; Ủy viên Đoàn Chủ tịch Tổng Liên đoàn Lao động Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban về các vấn đề Xã hội của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

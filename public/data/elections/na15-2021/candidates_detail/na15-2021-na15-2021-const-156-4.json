@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-156-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-72d1bfe5be79",
+    "full_name": "Nguyễn Mạnh Tiến",
+    "full_name_folded": "nguyen manh tien",
+    "dob": "21/5/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hải Minh, huyện Hải Hậu, tỉnh Nam Định",
+    "current_residence": "Phòng 2114, chung cư số 27 Trần Duy Hưng, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-156",
+    "list_order": 4,
+    "party_member_since": "16/12/1996",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-156",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tây Ninh, Thị xã Hòa Thành, Huyện Tân Biên, Huyện Tân Châu, Huyện Dương Minh Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 2: Gồm thành phố Tây Ninh, thị xã Hòa Thành và các huyện: Tân Biên, Tân Châu, Dương Minh Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Dương Minh Châu",
+        "name_folded": "huyen duong minh chau"
+      },
+      {
+        "name_vi": "Huyện Tân Biên",
+        "name_folded": "huyen tan bien"
+      },
+      {
+        "name_vi": "Huyện Tân Châu",
+        "name_folded": "huyen tan chau"
+      },
+      {
+        "name_vi": "Thành phố Tây Ninh",
+        "name_folded": "thanh pho tay ninh"
+      },
+      {
+        "name_vi": "Thị xã Hòa Thành",
+        "name_folded": "thi xa hoa thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh D, tiếng Pháp D, Cử nhân luật - tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ nhiệm Ủy ban Đối ngoại của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

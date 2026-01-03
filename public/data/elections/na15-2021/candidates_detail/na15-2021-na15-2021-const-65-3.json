@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-65-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-08bde47c4017",
+    "full_name": "Y Jone Ktull (Ama Drim)",
+    "full_name_folded": "y jone ktull ama drim",
+    "dob": "10/4/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Ê-đê",
+    "religion": "Không",
+    "birthplace": "Phường Thành Nhất, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk",
+    "current_residence": "Xã Cuôr Đăng, huyện Cư M`gar, tỉnh Đắk Lắk"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-65",
+    "list_order": 3,
+    "party_member_since": "05/5/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-65",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Krông Bông, Huyện Krông Pắc, Huyện Lắk, Huyện M'Drắk, Huyện Cư Kuin, Huyện Krông Ana",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 2: Gồm các huyện: Krông Bông, Krông Pắc, Lắk, M`Drắk, Cư Kuin và Krông Ana. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Kuin",
+        "name_folded": "huyen cu kuin"
+      },
+      {
+        "name_vi": "Huyện Krông Ana",
+        "name_folded": "huyen krong ana"
+      },
+      {
+        "name_vi": "Huyện Krông Bông",
+        "name_folded": "huyen krong bong"
+      },
+      {
+        "name_vi": "Huyện Krông Pắc",
+        "name_folded": "huyen krong pac"
+      },
+      {
+        "name_vi": "Huyện Lắk",
+        "name_folded": "huyen lak"
+      },
+      {
+        "name_vi": "Huyện M'Drắk",
+        "name_folded": "huyen m drak"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành cơ khí động lực"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành viên Đảng đoàn, Ủy viên Ban Chấp hành Đảng bộ Liên đoàn Lao động tỉnh Đắk Lắk; Phó Chủ tịch Liên đoàn Lao động tỉnh Đắk Lắk; Chủ tịch Công đoàn cơ sở cơ quan Liên đoàn Lao động tỉnh Đắk Lắk"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động tỉnh Đắk Lắk"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

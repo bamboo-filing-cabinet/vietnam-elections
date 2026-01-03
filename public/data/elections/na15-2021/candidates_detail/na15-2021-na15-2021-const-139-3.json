@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-139-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f34582ec511d",
+    "full_name": "Tạ Văn Hạ",
+    "full_name_folded": "ta van ha",
+    "dob": "24/01/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Bích Động, huyện Việt Yên, tỉnh Bắc Giang",
+    "current_residence": "Số 10, ngõ 149, đường Nguyễn Ngọc Nại, phường Khương Mai, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-139",
+    "list_order": 3,
+    "party_member_since": "18/5/2004",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-c7893b4177e6",
+    "name_vi": "Tỉnh Quảng Nam",
+    "name_folded": "quang nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-139",
+    "locality_id": "loc-c7893b4177e6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Hội An, Huyện Duy Xuyên, Huyện Quế Sơn, Huyện Nông Sơn, Huyện Thăng Bình, Huyện Hiệp Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Nam Đơn vị bầu cử Số 2: Gồm thành phố Hội An và các huyện: Duy Xuyên, Quế Sơn, Nông Sơn, Thăng Bình, Hiệp Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Duy Xuyên",
+        "name_folded": "huyen duy xuyen"
+      },
+      {
+        "name_vi": "Huyện Hiệp Đức",
+        "name_folded": "huyen hiep duc"
+      },
+      {
+        "name_vi": "Huyện Nông Sơn",
+        "name_folded": "huyen nong son"
+      },
+      {
+        "name_vi": "Huyện Quế Sơn",
+        "name_folded": "huyen que son"
+      },
+      {
+        "name_vi": "Huyện Thăng Bình",
+        "name_folded": "huyen thang binh"
+      },
+      {
+        "name_vi": "Thành phố Hội An",
+        "name_folded": "thanh pho hoi an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, điện; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng; Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

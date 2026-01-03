@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-69-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c6ea60fabf24",
+    "full_name": "Quàng Thị Nguyệt",
+    "full_name_folded": "quang thi nguyet",
+    "dob": "01/11/1997",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khơ-mú",
+    "religion": "Không",
+    "birthplace": "Xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên",
+    "current_residence": "Bản Púng Giắt I, xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-69",
+    "list_order": 3,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8c69f5d593d7",
+    "name_vi": "Tỉnh Điện Biên",
+    "name_folded": "dien bien",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-69",
+    "locality_id": "loc-8c69f5d593d7",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Điện Biên Phủ, Huyện Điện Biên Đông, Huyện Mường Ảng, Huyện Điện Biên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Điện Biên Đơn vị bầu cử Số 1: Gồm thành phố Điện Biên Phủ và các huyện: Điện Biên Đông, Mường Ảng, Điện Biên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Ảng",
+        "name_folded": "huyen muong ang"
+      },
+      {
+        "name_vi": "Huyện Điện Biên",
+        "name_folded": "huyen dien bien"
+      },
+      {
+        "name_vi": "Huyện Điện Biên Đông",
+        "name_folded": "huyen dien bien dong"
+      },
+      {
+        "name_vi": "Thành phố Điện Biên Phủ",
+        "name_folded": "thanh pho dien bien phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Không"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành công tác xã hội"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Nông dân"
+    },
+    {
+      "key": "workplace",
+      "value": "Bản Púng Giắt I, xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

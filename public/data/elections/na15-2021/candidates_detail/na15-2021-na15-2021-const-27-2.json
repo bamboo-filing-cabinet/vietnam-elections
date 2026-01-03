@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-27-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f48f262ae8eb",
+    "full_name": "Lê Thị Đức Hạnh",
+    "full_name_folded": "le thi duc hanh",
+    "dob": "01/6/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Dương, huyện Lai Vung, tỉnh Đồng Tháp",
+    "current_residence": "Số 95, ấp Thới Thuận A, thị trấn Thới Lai, huyện Thới Lai, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-27",
+    "list_order": 2,
+    "party_member_since": "04/11/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-27",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Bình Thủy, Quận Ô Môn, Huyện Thới Lai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 2: Gồm các quận: Bình Thủy, Ô Môn và huyện Thới Lai. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thới Lai",
+        "name_folded": "huyen thoi lai"
+      },
+      {
+        "name_vi": "Quận Bình Thủy",
+        "name_folded": "quan binh thuy"
+      },
+      {
+        "name_vi": "Quận Ô Môn",
+        "name_folded": "quan o mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ chuyên khoa cấp I"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy cơ quan, Phó Giám đốc Trung tâm Y tế huyện Thới Lai, thành phố Cần Thơ"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Y tế huyện Thới Lai, thành phố Cần Thơ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

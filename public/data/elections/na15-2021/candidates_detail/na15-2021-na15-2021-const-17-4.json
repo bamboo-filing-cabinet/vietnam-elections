@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-17-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-82bf476eafc0",
+    "full_name": "Nguyễn Hồng Sơn",
+    "full_name_folded": "nguyen hong son",
+    "dob": "20/09/1959",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội",
+    "current_residence": "Số 27, ngõ 218, Tây Sơn, phường Trung Liệt, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-17",
+    "list_order": 4,
+    "party_member_since": "15/8/1991",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-17",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Quận Phú Nhuận Gò Vấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 7: Gồm các quận: Phú Nhuận và Gò Vấp. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Phú Nhuận Gò Vấp",
+        "name_folded": "quan phu nhuan go vap"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga D, tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Toán - Lý; Tiến sĩ chuyên ngành Toán - Lý"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Phó Chủ tịch Trung ương Hội Khuyến học Việt Nam; Hội viên Hội cựu Giáo chức Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung ương Hội Khuyến học Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-efeabff82d33-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d87c703aca79",
+    "full_name": "Nguyễn Kim Hùng",
+    "full_name_folded": "nguyen kim hung",
+    "dob": "17/8/1983",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Dị Nậu, huyện Tam Nông, tỉnh Phú Thọ",
+    "current_residence": "Căn hộ 1006, Tầng 10 Sunrise Building II-N02A Đô thị Sài Đồng - phường Phúc Đồng - quận Long Biên- thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "const-auto-efeabff82d33",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-efeabff82d33",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 2: Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điện - điện tử; Thạc sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Quyền Viện trưởng Viện Khoa học quản trị doanh nghiệp và kinh tế số Việt Nam; Chủ tịch Công ty TNHH Tập đoàn Kim Nam; Chủ tịch HĐQT Công ty Cổ phần An Bình CGT"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Khoa học quản trị doanh nghiệp và kinh tế số Việt Nam; Công ty TNHH Tập đoàn Kim Nam; Công ty cổ phần An Bình CGT"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

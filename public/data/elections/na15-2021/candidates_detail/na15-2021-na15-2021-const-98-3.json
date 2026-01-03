@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-98-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f484611adcc9",
+    "full_name": "Đào Hồng Vận",
+    "full_name_folded": "dao hong van",
+    "dob": "22/4/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Long Hưng, huyện Văn Giang, tỉnh Hưng Yên",
+    "current_residence": "Số 15 Marina, khu đô thị Ecopark, xã Phụng Công, huyện Văn Giang, tỉnh Hưng Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-98",
+    "list_order": 3,
+    "party_member_since": "07/12/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hưng Yên nhiệm kỳ 2016 -2021; Huyện Văn Giang (tỉnh Hưng Yên) nhiệm kỳ 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-98",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Mỹ Hào, Huyện Văn Giang, Huyện Văn Lâm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 3: Gồm thị xã Mỹ Hào và các huyện: Văn Giang, Văn Lâm. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Văn Giang",
+        "name_folded": "huyen van giang"
+      },
+      {
+        "name_vi": "Huyện Văn Lâm",
+        "name_folded": "huyen van lam"
+      },
+      {
+        "name_vi": "Thị xã Mỹ Hào",
+        "name_folded": "thi xa my hao"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành nông học, tài chính ngân hàng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Huyện ủy, Chủ tịch Hội đồng nhân dân huyện Văn Giang, tỉnh Hưng Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Văn Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

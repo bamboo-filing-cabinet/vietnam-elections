@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-efeabff82d33-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-60e27a739271",
+    "full_name": "Hà Tiến Cường",
+    "full_name_folded": "ha tien cuong",
+    "dob": "01/3/1987",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Nông Hạ, huyện Chợ Mới, tỉnh Bắc Kạn",
+    "current_residence": "Thôn Bản Tết 2, xã Nông Hạ, huyện Chợ Mới, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-efeabff82d33",
+    "list_order": 2,
+    "party_member_since": "10/02/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-efeabff82d33",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 2: Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Nói được tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng công trình"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Huyện ủy viên, Bí thư Đoàn Thanh niên Cộng sản Hồ Chí Minh huyện Chợ Mới, tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn Thanh niên Cộng sản Hồ Chí Minh huyện Chợ Mới, tỉnh Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

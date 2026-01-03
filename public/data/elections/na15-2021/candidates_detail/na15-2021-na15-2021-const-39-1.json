@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-39-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-57e6c1576357",
+    "full_name": "Nguyễn Việt Anh",
+    "full_name_folded": "nguyen viet anh",
+    "dob": "10/02/1981",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hương Sơn, huyện Lạng Giang, tỉnh Bắc Giang",
+    "current_residence": "Thôn Ngọc Sơn, xã Quang Thịnh, huyện Lạng Giang, tỉnh Bắc Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-39",
+    "list_order": 1,
+    "party_member_since": "10/12/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-1764135b6cd1",
+    "name_vi": "Tỉnh Bắc Giang",
+    "name_folded": "bac giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-39",
+    "locality_id": "loc-1764135b6cd1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Bắc Giang, Huyện Yên Thế, Huyện Lạng Giang, Huyên Yên Dũng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Giang Đơn vị bầu cử Số 2: Gồm thành phố Bắc Giang và các huyện: Yên Thế, Lạng Giang, Yên Dũng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Yên Dũng",
+        "name_folded": "huyen yen dung"
+      },
+      {
+        "name_vi": "Huyện Lạng Giang",
+        "name_folded": "huyen lang giang"
+      },
+      {
+        "name_vi": "Huyện Yên Thế",
+        "name_folded": "huyen yen the"
+      },
+      {
+        "name_vi": "Thành phố Bắc Giang",
+        "name_folded": "thanh pho bac giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế; Thạc sĩ chuyên ngành lý luận lịch sử nhà nước và pháp luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên Chi bộ Thanh tra, Phó Trưởng phòng Tư pháp, huyện Lạng Giang, tỉnh Bắc Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân huyện Lạng Giang, tỉnh Bắc Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

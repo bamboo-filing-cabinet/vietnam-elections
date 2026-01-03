@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-20-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cbcc44cb3542",
+    "full_name": "Phan Văn Xựng",
+    "full_name_folded": "phan van xung",
+    "dob": "07/3/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thông Hội, huyện Củ Chi, Thành phố Hồ Chí Minh",
+    "current_residence": "Số 11/35, Nguyễn Đức Thuận, tổ dân phố 109, khu phố 9, phường 13, quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-20",
+    "list_order": 5,
+    "party_member_since": "21/7/1988",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-20",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 10,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Củ Chi, Huyện Hóc Môn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 10: Gồm các huyện: Củ Chi và Hóc Môn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Củ Chi",
+        "name_folded": "huyen cu chi"
+      },
+      {
+        "name_vi": "Huyện Hóc Môn",
+        "name_folded": "huyen hoc mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Thiếu tướng, Phó Bí thư Thường trực Đảng ủy Quân sự Thành phố Hồ Chí Minh; Chính ủy Bộ Tư lệnh Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Tư lệnh Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

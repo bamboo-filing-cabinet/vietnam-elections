@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-127-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-58c729d0329f",
+    "full_name": "Mai Khanh",
+    "full_name_folded": "mai khanh",
+    "dob": "22/10/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Gia Phong, huyện Gia Viễn, tỉnh Ninh Bình",
+    "current_residence": "Số 02, đường Nguyễn Văn Trỗi, phố Phúc Thiện, phường Phúc Thành, thành phố Ninh Bình, tỉnh Ninh Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-127",
+    "list_order": 4,
+    "party_member_since": "15/8/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-110c712f454d",
+    "name_vi": "Tỉnh Ninh Bình",
+    "name_folded": "ninh binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-127",
+    "locality_id": "loc-110c712f454d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Ninh Bình, Huyện  Nho Quan, Huyện Gia Viễn, Huyện Hoa Lư",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Bình Đơn vị bầu cử Số 1: Gồm thành phố Ninh Bình và các huyện: Nho Quan, Gia Viễn, Hoa Lư. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện  Nho Quan",
+        "name_folded": "huyen nho quan"
+      },
+      {
+        "name_vi": "Huyện Gia Viễn",
+        "name_folded": "huyen gia vien"
+      },
+      {
+        "name_vi": "Huyện Hoa Lư",
+        "name_folded": "huyen hoa lu"
+      },
+      {
+        "name_vi": "Thành phố Ninh Bình",
+        "name_folded": "thanh pho ninh binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Ban Cán sự đảng, Chánh án Tòa án nhân dân tỉnh Ninh Bình, Thẩm phán cấp cao, Ủy viên Ủy ban Tư pháp của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân tỉnh Ninh Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-34-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-92a58b8854c1",
+    "full_name": "Nguyễn Thị Dẹn",
+    "full_name_folded": "nguyen thi den",
+    "dob": "09/02/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phong Thạnh Tây A, huyện Phước Long, tỉnh Bạc Liêu",
+    "current_residence": "Số 3/39, khóm 5, Phường 2, thành phố Bạc Liêu, tỉnh Bạc Liêu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-34",
+    "list_order": 1,
+    "party_member_since": "22/12/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9ee833b67126",
+    "name_vi": "Tỉnh Bạc Liêu",
+    "name_folded": "bac lieu",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-34",
+    "locality_id": "loc-9ee833b67126",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bạc Liêu, Huyện Vĩnh Lợi, Huyện Hòa Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bạc Liêu Đơn vị bầu cử Số 1: Gồm thành phố Bạc Liêu và các huyện: Vĩnh Lợi, Hoà Bình. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hòa Bình",
+        "name_folded": "huyen hoa binh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Lợi",
+        "name_folded": "huyen vinh loi"
+      },
+      {
+        "name_vi": "Thành phố Bạc Liêu",
+        "name_folded": "thanh pho bac lieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng Ban Thanh Thiếu nhi - Trường học, Tỉnh đoàn Bạc Liêu"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh Đoàn Bạc Liêu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

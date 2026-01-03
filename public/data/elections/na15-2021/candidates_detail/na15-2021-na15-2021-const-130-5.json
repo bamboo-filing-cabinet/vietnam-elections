@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-130-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e16632e06f7f",
+    "full_name": "Nguyễn Văn Thuận",
+    "full_name_folded": "nguyen van thuan",
+    "dob": "15/01/1958",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nga Lộc, huyện Can Lộc, tỉnh Hà Tĩnh",
+    "current_residence": "Khu phố 4, Phường Thanh Sơn, thành phố Phan Rang - Tháp Chàm, tỉnh Ninh Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-130",
+    "list_order": 5,
+    "party_member_since": "10/6/1984",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Ninh Thuận nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-b7a54ba23200",
+    "name_vi": "Tỉnh Ninh Thuận",
+    "name_folded": "ninh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-130",
+    "locality_id": "loc-b7a54ba23200",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Bác Ái, Huyện Ninh Sơn, Huyện Thuận Nam, Huyện Ninh Phước",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Thuận Đơn vị bầu cử Số 2: Gồm các huyện: Bác Ái, Ninh Sơn, Thuận Nam và Ninh Phước. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bác Ái",
+        "name_folded": "huyen bac ai"
+      },
+      {
+        "name_vi": "Huyện Ninh Phước",
+        "name_folded": "huyen ninh phuoc"
+      },
+      {
+        "name_vi": "Huyện Ninh Sơn",
+        "name_folded": "huyen ninh son"
+      },
+      {
+        "name_vi": "Huyện Thuận Nam",
+        "name_folded": "huyen thuan nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Hội Cựu chiến binh Việt Nam, Chủ tịch Hội Cựu chiến binh tỉnh Ninh Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Cựu chiến binh tỉnh Ninh Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

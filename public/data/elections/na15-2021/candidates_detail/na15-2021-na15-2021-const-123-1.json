@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-123-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8ae901d0aa57",
+    "full_name": "Đặng Xuân Phương",
+    "full_name_folded": "dang xuan phuong",
+    "dob": "25/11/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định",
+    "current_residence": "Số 602/B1, chung cư Udic Westlake, Lô CT 04 Khu đô thị Nam Thăng Long, phường Phú Thượng, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-123",
+    "list_order": 1,
+    "party_member_since": "01/9/2003",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-123",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Thái Hòa, Huyện Quế Phong, Huyện Quỳ Châu, Huyện Quỳ Hợp, Huyện Nghĩa Đàn, Huyện Tân Kỳ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 2: Gồm thị xã Thái Hoà và các huyện: Quế Phong, Quỳ Châu, Quỳ Hợp, Nghĩa Đàn, Tân Kỳ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nghĩa Đàn",
+        "name_folded": "huyen nghia dan"
+      },
+      {
+        "name_vi": "Huyện Quế Phong",
+        "name_folded": "huyen que phong"
+      },
+      {
+        "name_vi": "Huyện Quỳ Châu",
+        "name_folded": "huyen quy chau"
+      },
+      {
+        "name_vi": "Huyện Quỳ Hợp",
+        "name_folded": "huyen quy hop"
+      },
+      {
+        "name_vi": "Huyện Tân Kỳ",
+        "name_folded": "huyen tan ky"
+      },
+      {
+        "name_vi": "Thị xã Thái Hòa",
+        "name_folded": "thi xa thai hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Pháp"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Pháp); Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó trưởng Ban Công tác đại biểu thuộc Ủy ban Thường vụ Quốc hội; Ủy viên Ủy ban Kinh tế của Quốc hội; Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Brunei; Phó Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Ma-rốc;"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Công tác đại biểu thuộc Ủy ban Thường vụ Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-67-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d345c73ad148",
+    "full_name": "Trần Thị Thu Hằng",
+    "full_name_folded": "tran thi thu hang",
+    "dob": "11/3/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đức Trường, huyện Đức Thọ, tỉnh Hà Tĩnh",
+    "current_residence": "Tổ dân phố 2, phường Nghĩa Phú, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-67",
+    "list_order": 3,
+    "party_member_since": "16/9/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-67",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Krông Nô, Huyện Cư Jút, Huyện Đắk Mil",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 1: Gồm các huyện: Krông Nô, Cư Jút và Đắk Mil. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Jút",
+        "name_folded": "huyen cu jut"
+      },
+      {
+        "name_vi": "Huyện Krông Nô",
+        "name_folded": "huyen krong no"
+      },
+      {
+        "name_vi": "Huyện Đắk Mil",
+        "name_folded": "huyen dak mil"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên Chi bộ 1, Đảng bộ Sở Văn hóa - Thể thao và Du lịch; Phó Chánh Văn phòng Sở Văn hóa - Thể thao và Du lịch; Ủy viên Ban Chấp hành Công đoàn; Chủ tịch Công đoàn bộ phận khối Văn phòng, Bí thư Chi đoàn khối Văn phòng, Sở Văn hóa - Thể thao và Du lịch tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Văn hóa - Thể thao và Du lịch tỉnh Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

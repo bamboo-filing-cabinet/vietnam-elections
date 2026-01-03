@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-60-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f138993ca4a9",
+    "full_name": "Nguyễn Duy Thanh",
+    "full_name_folded": "nguyen duy thanh",
+    "dob": "12/03/1983",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Đức, huyện Đầm Dơi, tỉnh Cà Mau",
+    "current_residence": "Số 166, đường Nguyễn Tất Thành, khóm 8, phường 8, thành phố Cà Mau, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-60",
+    "list_order": 2,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-60",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Cái Nước, Huyện Phú Tân, Huyện Trần Văn Thời",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 2: Gồm các huyện: Cái Nước, Phú Tân và Trần Văn Thời. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cái Nước",
+        "name_folded": "huyen cai nuoc"
+      },
+      {
+        "name_vi": "Huyện Phú Tân",
+        "name_folded": "huyen phu tan"
+      },
+      {
+        "name_vi": "Huyện Trần Văn Thời",
+        "name_folded": "huyen tran van thoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng cầu đường; Thạc sĩ chuyên ngành quản lý dự án và quản lý xây dựng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hiệp hội doanh nghiệp Cà Mau"
+    },
+    {
+      "key": "workplace",
+      "value": "Hiệp hội doanh nghiệp Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

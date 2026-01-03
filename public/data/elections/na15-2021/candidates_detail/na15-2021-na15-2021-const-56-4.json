@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-56-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3b50021f54d4",
+    "full_name": "Nguyễn Chí Phú",
+    "full_name_folded": "nguyen chi phu",
+    "dob": "03/02/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Phú Long, huyện Hàm Thuận Bắc, tỉnh Bình Thuận",
+    "current_residence": "Tổ 12, Khu phố 2, phường Đức Long, thành phố Phan Thiết, tỉnh Bình Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-56",
+    "list_order": 4,
+    "party_member_since": "28/9/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-56",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Tuy Phong, Huyện Bắc Bình, Huyện Phú Quý",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 1: Gồm các huyện: Tuy Phong, Bắc Bình và Phú Quý. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Bình",
+        "name_folded": "huyen bac binh"
+      },
+      {
+        "name_vi": "Huyện Phú Quý",
+        "name_folded": "huyen phu quy"
+      },
+      {
+        "name_vi": "Huyện Tuy Phong",
+        "name_folded": "huyen tuy phong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cử nhân chuyên ngành Lịch sử; Thạc sĩ chuyên ngành văn hóa học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng phụ trách Phòng Quản lý Văn hóa và Gia đình, Sở Văn hóa, Thể thao và Du lịch tỉnh Bình Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Văn hóa, Thể thao và Du lịch tỉnh Bình Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

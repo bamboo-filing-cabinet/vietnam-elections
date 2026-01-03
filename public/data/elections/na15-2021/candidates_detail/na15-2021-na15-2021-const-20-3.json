@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-20-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a5140b94bbc2",
+    "full_name": "Nguyễn Thị Lệ",
+    "full_name_folded": "nguyen thi le",
+    "dob": "26/9/1967",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Vĩnh An, huyện Củ Chi, Thành phố Hồ Chí Minh",
+    "current_residence": "Số 413/48, Lê Văn Sỹ, tổ dân phố 4, khu phố 1, phường 12, quận 3, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-20",
+    "list_order": 3,
+    "party_member_since": "04/12/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-20",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 10,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Củ Chi, Huyện Hóc Môn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 10: Gồm các huyện: Củ Chi và Hóc Môn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Củ Chi",
+        "name_folded": "huyen cu chi"
+      },
+      {
+        "name_vi": "Huyện Hóc Môn",
+        "name_folded": "huyen hoc mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thành ủy; Bí thư Đảng đoàn, Chủ tịch Hội đồng nhân dân Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng nhân dân Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

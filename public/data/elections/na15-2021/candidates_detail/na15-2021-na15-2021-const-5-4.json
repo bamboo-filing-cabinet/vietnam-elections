@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-5-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0311fa69f204",
+    "full_name": "Nguyễn Hải Trung",
+    "full_name_folded": "nguyen hai trung",
+    "dob": "06/10/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đình Chu, huyện Lập Thạch, tỉnh Vĩnh Phúc",
+    "current_residence": "Căn hộ R3A-15-23-72 Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-5",
+    "list_order": 4,
+    "party_member_since": "08/10/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-5",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 5,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Quận Tây Hồ,Quận Bắc Từ Liêm,Huyện Hoài Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 5: Gồm các quận: Tây Hồ, Bắc Từ Liêm và huyện Hoài Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoài Đức",
+        "name_folded": "huyen hoai duc"
+      },
+      {
+        "name_vi": "Quận Bắc Từ Liêm",
+        "name_folded": "quan bac tu liem"
+      },
+      {
+        "name_vi": "Quận Tây Hồ",
+        "name_folded": "quan tay ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều tra tội phạm; Thạc sĩ chuyên ngành luật; Tiến sĩ chuyên ngành quản lý nhà nước về an ninh trật tự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy Hà Nội, Bí thư Đảng ủy, Trung tướng, Giám đốc Công an thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Công an thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

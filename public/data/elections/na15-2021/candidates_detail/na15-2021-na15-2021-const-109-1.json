@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-109-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-37b53395b9aa",
+    "full_name": "Hoàng Thị Huế",
+    "full_name_folded": "hoang thi hue",
+    "dob": "02/09/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Tô Hiệu, huyện Bình Gia, tỉnh Lạng Sơn",
+    "current_residence": "Số nhà 22B, ngõ 80, đường Tô Thị, khối 7, phường Tam Thanh, thành phố Lạng Sơn, tỉnh Lạng Sơn"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-109",
+    "list_order": 1,
+    "party_member_since": "05/11/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b490ac3ab172",
+    "name_vi": "Tỉnh Lạng Sơn",
+    "name_folded": "lang son",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-109",
+    "locality_id": "loc-b490ac3ab172",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bắc Sơn, Huyện Bình Gia, Huyện Văn Quan, Huyện Chi Lăng, Huyện Hữu Lũng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lạng Sơn Đơn vị bầu cử Số 1: Gồm các huyện: Bắc Sơn, Bình Gia, Văn Quan, Chi Lăng và Hữu Lũng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Gia",
+        "name_folded": "huyen binh gia"
+      },
+      {
+        "name_vi": "Huyện Bắc Sơn",
+        "name_folded": "huyen bac son"
+      },
+      {
+        "name_vi": "Huyện Chi Lăng",
+        "name_folded": "huyen chi lang"
+      },
+      {
+        "name_vi": "Huyện Hữu Lũng",
+        "name_folded": "huyen huu lung"
+      },
+      {
+        "name_vi": "Huyện Văn Quan",
+        "name_folded": "huyen van quan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng ban Xây dựng Hội Nông dân tỉnh Lạng Sơn"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Nông dân tỉnh Lạng Sơn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

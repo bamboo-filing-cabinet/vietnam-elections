@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-102-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-15498f82c97c",
+    "full_name": "Nguyễn Thế Anh",
+    "full_name_folded": "nguyen the anh",
+    "dob": "10/8/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ngư Lộc, huyện Hậu Lộc, tỉnh Thanh Hoá",
+    "current_residence": "Số 264, đường Lâm Quang Ky, Khu phố 4, phường Vĩnh Lạc, thành phố Rạch Giá, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-102",
+    "list_order": 1,
+    "party_member_since": "19/8/1996",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-102",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Tân Hiệp, Huyện Kiên Hải, Huyện Giồng Riềng, Huyện Gò Quao",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 1: Gồm các huyện: Tân Hiệp, Kiên Hải, Giồng Riềng và Gò Quao. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giồng Riềng",
+        "name_folded": "huyen giong rieng"
+      },
+      {
+        "name_vi": "Huyện Gò Quao",
+        "name_folded": "huyen go quao"
+      },
+      {
+        "name_vi": "Huyện Kiên Hải",
+        "name_folded": "huyen kien hai"
+      },
+      {
+        "name_vi": "Huyện Tân Hiệp",
+        "name_folded": "huyen tan hiep"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều tra tội phạm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh uỷ viên; Đại tá, Chỉ huy trưởng Bộ Chỉ huy Bộ đội Biên phòng tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Chỉ huy Bộ đội Biên phòng tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-96-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-77f95fc00e04",
+    "full_name": "Tô Lâm",
+    "full_name_folded": "to lam",
+    "dob": "10/7/1957",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên",
+    "current_residence": "Số 64, Phan Đình Phùng, phường Quán Thánh, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-96",
+    "list_order": 3,
+    "party_member_since": "22/8/1981",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-96",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hưng Yên, Huyện Kim Động, Huyện Khoái Châu, Huyện Yên Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 1: Gồm thành phố Hưng Yên và các huyện: Kim Động, Khoái Châu, Yên Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Khoái Châu",
+        "name_folded": "huyen khoai chau"
+      },
+      {
+        "name_vi": "Huyện Kim Động",
+        "name_folded": "huyen kim dong"
+      },
+      {
+        "name_vi": "Huyện Yên Mỹ",
+        "name_folded": "huyen yen my"
+      },
+      {
+        "name_vi": "Thành phố Hưng Yên",
+        "name_folded": "thanh pho hung yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành an ninh; Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Bí thư Đảng ủy Công an Trung ương, Đại tướng, Bộ trưởng Bộ Công an; Ủy viên Hội đồng Quốc phòng và An ninh; Ủy viên Hội đồng bầu cử quốc gia; Phó Trưởng Ban chỉ đạo trung ương về phòng, chống tham nhũng; Ủy viên Ban Cán sự Đảng Chính phủ"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Công an"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

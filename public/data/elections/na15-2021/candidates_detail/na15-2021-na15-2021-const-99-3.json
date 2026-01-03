@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-99-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5507e6e7a908",
+    "full_name": "Hà Ngọc Phi",
+    "full_name_folded": "ha ngoc phi",
+    "dob": "06/4/1983",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Khánh Sơn, huyện Nam Đàn, tỉnh Nghệ An",
+    "current_residence": "Tổ dân phố 9, thị trấn Vạn Giã, huyện Vạn Ninh, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-99",
+    "list_order": 3,
+    "party_member_since": "14/5/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Vạn Ninh (tỉnh Khánh Hòa) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-99",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Ninh Hòa, Huyện Vạn Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 1: Gồm thị xã Ninh Hòa và huyện Vạn Ninh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Vạn Ninh",
+        "name_folded": "huyen van ninh"
+      },
+      {
+        "name_vi": "Thị xã Ninh Hòa",
+        "name_folded": "thi xa ninh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành cấp thoát nước; quản trị kinh doanh; công nghệ thông tin"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Tổng giám đốc Công ty Cổ phần Công trình đô thị Vạn Ninh; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam huyện Vạn Ninh, tỉnh Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Công trình đô thị Vạn Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

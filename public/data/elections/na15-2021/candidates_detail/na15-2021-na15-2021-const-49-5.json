@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-49-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-610b740fcae4",
+    "full_name": "Nguyễn Hoàng Bảo Trân",
+    "full_name_folded": "nguyen hoang bao tran",
+    "dob": "22/6/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Âp Bình Thới, xã Bình Hòa, huyện Vĩnh Cửu, tỉnh Đồng Nai",
+    "current_residence": "Số 6E2, khu dân cư Hiệp Thành 2, phường Hiệp Thành, thành phố Thủ Dầu Một, tỉnh Bình Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-49",
+    "list_order": 5,
+    "party_member_since": "03/6/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc590b385d56",
+    "name_vi": "Tỉnh Bình Dương",
+    "name_folded": "binh duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-49",
+    "locality_id": "loc-cc590b385d56",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thuận An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Dương Đơn vị bầu cử Số 3: Gồm thành phố Thuận An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thuận An",
+        "name_folded": "thanh pho thuan an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; tiếng Trung HSK4"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành xã hội học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy, Phó Chủ tịch Liên đoàn Lao động tỉnh Bình Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động tỉnh Bình Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-101-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-679600f8fca9",
+    "full_name": "Trần Ngọc Khánh",
+    "full_name_folded": "tran ngoc khanh",
+    "dob": "14/11/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Ninh Giang, thị xã Ninh Hòa, tỉnh Khánh Hòa",
+    "current_residence": "Nhà số 11, đường V1, khu đô thị VCN Phước Hải, thành phố Nha Trang, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-101",
+    "list_order": 3,
+    "party_member_since": "05/7/1986",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thị xã Cam Ranh nhiệm kỳ 2001-2006; tỉnh Khánh Hòa nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-101",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành Phố Cam Ranh, Huyện Khánh Vĩnh, Huyện Diên Khánh, Huyện Cam Lâm, Huyện Khánh Sơn, Huyện Trường Sa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 3: Gồm thành phố Cam Ranh và các huyện: Khánh Vĩnh, Diên Khánh, Cam Lâm, Khánh Sơn, Trường Sa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cam Lâm",
+        "name_folded": "huyen cam lam"
+      },
+      {
+        "name_vi": "Huyện Diên Khánh",
+        "name_folded": "huyen dien khanh"
+      },
+      {
+        "name_vi": "Huyện Khánh Sơn",
+        "name_folded": "huyen khanh son"
+      },
+      {
+        "name_vi": "Huyện Khánh Vĩnh",
+        "name_folded": "huyen khanh vinh"
+      },
+      {
+        "name_vi": "Huyện Trường Sa",
+        "name_folded": "huyen truong sa"
+      },
+      {
+        "name_vi": "Thành Phố Cam Ranh",
+        "name_folded": "thanh pho cam ranh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trung tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Quốc phòng và An ninh của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

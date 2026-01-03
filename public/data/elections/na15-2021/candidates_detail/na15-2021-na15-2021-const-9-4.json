@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-9-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-11a9b585d807",
+    "full_name": "Nguyễn Tuấn Thịnh",
+    "full_name_folded": "nguyen tuan thinh",
+    "dob": "22/4/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Viên Nội, huyện Ứng Hòa, thành phố Hà Nội",
+    "current_residence": "Số 34/38, phố Khúc Thừa Dụ, tổ 12 phường Dịch Vọng, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-9",
+    "list_order": 4,
+    "party_member_since": "04/02/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-9",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 9,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 9",
+    "name_folded": "don vi bau cu so 9",
+    "description": "Huyện Ứng Hoà,Huyện Mỹ Đức,Huyện Phú Xuyên,Huyện Thường Tín",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 9: Gồm các huyện: Ứng Hòa, Mỹ Đức, Phú Xuyên và Thường Tín. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Đức",
+        "name_folded": "huyen my duc"
+      },
+      {
+        "name_vi": "Huyện Phú Xuyên",
+        "name_folded": "huyen phu xuyen"
+      },
+      {
+        "name_vi": "Huyện Thường Tín",
+        "name_folded": "huyen thuong tin"
+      },
+      {
+        "name_vi": "Huyện Ứng Hoà",
+        "name_folded": "huyen ung hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ kinh tế - tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành công nghệ dệt kim; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Viện trưởng Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

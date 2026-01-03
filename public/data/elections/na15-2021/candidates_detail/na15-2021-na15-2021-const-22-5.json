@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-22-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b5e16ddebf5b",
+    "full_name": "Lã Thanh Tân",
+    "full_name_folded": "la thanh tan",
+    "dob": "02/10/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ngũ Phúc, huyện Kiến Thụy, thành phố Hải Phòng",
+    "current_residence": "Số 72, Phương Lưu, phường Đông Hải 1, quận Hải An, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-22",
+    "list_order": 5,
+    "party_member_since": "24/02/1994",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-22",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Ngô Quyền, Quận Hải An, Quận Đồ Sơn, Huyện An Dương, Huyện Kiến Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 2: Gồm các quận: Ngô Quyền, Hải An, Đồ Sơn và các huyện: An Dương, Kiến Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Dương",
+        "name_folded": "huyen an duong"
+      },
+      {
+        "name_vi": "Huyện Kiến Thụy",
+        "name_folded": "huyen kien thuy"
+      },
+      {
+        "name_vi": "Quận Hải An",
+        "name_folded": "quan hai an"
+      },
+      {
+        "name_vi": "Quận Ngô Quyền",
+        "name_folded": "quan ngo quyen"
+      },
+      {
+        "name_vi": "Quận Đồ Sơn",
+        "name_folded": "quan do son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan thành phố Hải Phòng; Bí thư Đảng ủy cơ quan, Giám đốc Sở Tư pháp thành phố Hải Phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp thành phố Hải Phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

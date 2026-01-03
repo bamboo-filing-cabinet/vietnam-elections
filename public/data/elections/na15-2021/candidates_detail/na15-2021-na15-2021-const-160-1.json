@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-160-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-eb20f2b9fdfb",
+    "full_name": "Nguyễn Thị Hoàng Anh",
+    "full_name_folded": "nguyen thi hoang anh",
+    "dob": "14/9/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nguyên Xá, huyện Vũ Thư, tỉnh Thái Bình",
+    "current_residence": "Số 2, ngõ 432, đường Bắc Kạn, Tổ 8, phường Hoàng Văn Thụ, thành phố Thái Nguyên, tỉnh Thái Nguyên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-160",
+    "list_order": 1,
+    "party_member_since": "06/5/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-54f56f05c1c7",
+    "name_vi": "Tỉnh Thái Nguyên",
+    "name_folded": "thai nguyen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-160",
+    "locality_id": "loc-54f56f05c1c7",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Đại Từ, Huyện Định Hóa, Huyện Phú Lương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Nguyên Đơn vị bầu cử Số 1: Gồm các huyện: Đại Từ, Định Hóa và Phú Lương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phú Lương",
+        "name_folded": "huyen phu luong"
+      },
+      {
+        "name_vi": "Huyện Đại Từ",
+        "name_folded": "huyen dai tu"
+      },
+      {
+        "name_vi": "Huyện Định Hóa",
+        "name_folded": "huyen dinh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Luật, ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chánh Văn phòng Viện kiểm sát nhân dân, Bí thư Chi đoàn thanh niên Viện kiểm sát nhân dân tỉnh Thái Nguyên"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện kiểm sát nhân dân tỉnh Thái Nguyên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-151-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d6f2f46c9df3",
+    "full_name": "Phan Thị Tố Quyên",
+    "full_name_folded": "phan thi to quyen",
+    "dob": "24/12/1990",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Phú Lộc, huyện Thạnh Trị, tỉnh Sóc Trăng",
+    "current_residence": "Số 128, Lê Lợi, ấp Châu Thành, thị trấn Mỹ Xuyên, huyện Mỹ Xuyên, tỉnh Sóc Trăng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-151",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-151",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Vĩnh Châu, Huyện Mỹ Xuyên, Huyện Trần Đề",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 3: Gồm thị xã Vĩnh Châu và các huyện: Mỹ Xuyên, Trần Đề. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Xuyên",
+        "name_folded": "huyen my xuyen"
+      },
+      {
+        "name_vi": "Huyện Trần Đề",
+        "name_folded": "huyen tran de"
+      },
+      {
+        "name_vi": "Thị xã Vĩnh Châu",
+        "name_folded": "thi xa vinh chau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1, tiếng Pháp B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Anh văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giảng viên, Ủy viên Ban Chấp hành Hội chữ thập đỏ Trường Cao đẳng Nghề Sóc Trăng; Bí thư Chi đoàn Nghề công nghệ ô tô trung cấp"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Cao đẳng Nghề Sóc Trăng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

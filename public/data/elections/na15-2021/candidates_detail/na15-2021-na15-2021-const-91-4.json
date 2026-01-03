@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-91-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5975ebc5ca55",
+    "full_name": "Phạm Công Tân",
+    "full_name_folded": "pham cong tan",
+    "dob": "21/12/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhật Tân, huyện Gia Lộc, tỉnh Hải Dương",
+    "current_residence": "Số 9A/150, phố Nguyễn Hữu Cầu, phường Ngọc Châu, thành phố Hải Dương, tỉnh hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-91",
+    "list_order": 4,
+    "party_member_since": "5/3/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-91",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 4,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Huyện Bình Giang, Huyện Thanh Miện, Huyện Ninh Giang",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 4: Gồm các huyện: Bình Giang, Thanh Miện và Ninh Giang. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Giang",
+        "name_folded": "huyen binh giang"
+      },
+      {
+        "name_vi": "Huyện Ninh Giang",
+        "name_folded": "huyen ninh giang"
+      },
+      {
+        "name_vi": "Huyện Thanh Miện",
+        "name_folded": "huyen thanh mien"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng Phòng Xây dựng kiểm tra và Theo dõi thi hành pháp luật, Sở Tư pháp tỉnh Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp tỉnh Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

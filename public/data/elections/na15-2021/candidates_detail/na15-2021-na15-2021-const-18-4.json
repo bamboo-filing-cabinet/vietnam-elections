@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-18-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a2f03e017f50",
+    "full_name": "Trương Trọng Nghĩa",
+    "full_name_folded": "truong trong nghia",
+    "dob": "28/02/1953",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Luông, huyện Chợ Mới, tỉnh An Giang",
+    "current_residence": "A11-01 Garden Court 2, đường Tôn Dật Tiên, khu phố 4, tổ dân phố 23, phường Tân Phong, quận 7, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-18",
+    "list_order": 4,
+    "party_member_since": "29/12/1989",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 1989 - 1994, 2004 - 2011"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-18",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 8,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 8",
+    "name_folded": "don vi bau cu so 8",
+    "description": "Quận 6, Huyện Bình Chánh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 8: Gồm Quận 6 và huyện Bình Chánh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Chánh",
+        "name_folded": "huyen binh chanh"
+      },
+      {
+        "name_vi": "Quận 6",
+        "name_folded": "quan 6"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Đại học Luật - tiếng Đức; Thạc sĩ Luật - Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy, Ủy viên Đảng đoàn Đoàn Luật sư thành phố Hồ Chí Minh; Luật sư thành viên Công ty Luật TNHH YKVN; Ủy viên Ban Thường vụ Liên đoàn Luật sư Việt Nam; Phó Chủ nhiệm Đoàn Luật sư thành phố Hồ Chí Minh; Phó Chủ tịch Hội Hữu nghị Việt - Mỹ Thành phố Hồ Chí Minh; Trọng tài viên Trung tâm Trọng tài quốc tế Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Luật TNHH YKVN; Đoàn Luật sư Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

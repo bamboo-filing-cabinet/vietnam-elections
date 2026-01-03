@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-127-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-011cabf6cfd2",
+    "full_name": "Nguyễn Thị Thu Hà",
+    "full_name_folded": "nguyen thi thu ha",
+    "dob": "27/5/1970",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ninh Tiến, huyện Hoa Lư, tỉnh Ninh Bình",
+    "current_residence": "Số 50, ngõ 236, đường Khương Đình, phường Hạ Đình, quận Thanh Xuân, Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-127",
+    "list_order": 2,
+    "party_member_since": "30/6/1997",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-110c712f454d",
+    "name_vi": "Tỉnh Ninh Bình",
+    "name_folded": "ninh binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-127",
+    "locality_id": "loc-110c712f454d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Ninh Bình, Huyện  Nho Quan, Huyện Gia Viễn, Huyện Hoa Lư",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Bình Đơn vị bầu cử Số 1: Gồm thành phố Ninh Bình và các huyện: Nho Quan, Gia Viễn, Hoa Lư. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện  Nho Quan",
+        "name_folded": "huyen nho quan"
+      },
+      {
+        "name_vi": "Huyện Gia Viễn",
+        "name_folded": "huyen gia vien"
+      },
+      {
+        "name_vi": "Huyện Hoa Lư",
+        "name_folded": "huyen hoa lu"
+      },
+      {
+        "name_vi": "Thành phố Ninh Bình",
+        "name_folded": "thanh pho ninh binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tâm lý giáo dục, chính trị; Tiến sĩ chuyên ngành tâm lý học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội khóa XIV tỉnh Ninh Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Ninh Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

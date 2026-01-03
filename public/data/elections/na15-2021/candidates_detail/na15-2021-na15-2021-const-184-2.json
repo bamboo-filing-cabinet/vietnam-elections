@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-184-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-98b227d46627",
+    "full_name": "Nguyễn Quốc Luận",
+    "full_name_folded": "nguyen quoc luan",
+    "dob": "29/10/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Tân Thịnh, huyện Văn Chấn, tỉnh Yên Bái",
+    "current_residence": "Số nhà 63, đường Quang Trung, tổ 9, phường Minh Tân, thành phố Yên Bái, tỉnh Yên Bái"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-184",
+    "list_order": 2,
+    "party_member_since": "27/02/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Yên Bái nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-9911d8be2ef2",
+    "name_vi": "Tỉnh Yên Bái",
+    "name_folded": "tinh yen bai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-184",
+    "locality_id": "loc-9911d8be2ef2",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Nghĩa Lô, Huyện Văn Chấn, Huyện Trạm Tấu, Huyện Mù Cang Chải, Huyện Văn Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Yên Bái Đơn vị bầu cử Số 2: Gồm thị xã Nghĩa Lộ và các huyện: Văn Chấn, Trạm Tấu, Mù Cang Chải, Văn Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mù Cang Chải",
+        "name_folded": "huyen mu cang chai"
+      },
+      {
+        "name_vi": "Huyện Trạm Tấu",
+        "name_folded": "huyen tram tau"
+      },
+      {
+        "name_vi": "Huyện Văn Chấn",
+        "name_folded": "huyen van chan"
+      },
+      {
+        "name_vi": "Huyện Văn Yên",
+        "name_folded": "huyen van yen"
+      },
+      {
+        "name_vi": "Thị xã Nghĩa Lô",
+        "name_folded": "thi xa nghia lo"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh D, Thạc sĩ quản trị kinh doanh - tiếng Anh; nói được tiếng Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế đầu tư, kinh tế chính trị; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Ủy viên Ban Chấp hành Đảng bộ Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân tỉnh, Ủy viên Thường trực Hội đồng nhân dân tỉnh; Trưởng Ban Kinh tế - Ngân sách Hội đồng nhân dân tỉnh Yên Bái"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Kinh tế - Ngân sách, Hội đồng nhân dân tỉnh Yên Bái"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

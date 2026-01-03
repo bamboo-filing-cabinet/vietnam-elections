@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-92-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-371e63ff1487",
+    "full_name": "Nguyễn Văn Quân",
+    "full_name_folded": "nguyen van quan",
+    "dob": "08/3/1980",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Tiến, thành phố Vị Thanh, tỉnh Hậu Giang",
+    "current_residence": "Số 20, đường Nguyễn Văn Siêu, phường 3, thành phố Vị Thanh, tỉnh Hậu Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-92",
+    "list_order": 4,
+    "party_member_since": "18/5/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-44db209ebea8",
+    "name_vi": "Tỉnh Hậu Giang",
+    "name_folded": "hau giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-92",
+    "locality_id": "loc-44db209ebea8",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vị Thanh, Huyện Vị Thủy, Huyện Châu Thành, Huyện Thành A",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hậu Giang Đơn vị bầu cử Số 1: Gồm thành phố Vị Thanh và các huyện: Vị Thủy, Châu Thành, Châu Thành A. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Thành A",
+        "name_folded": "huyen thanh a"
+      },
+      {
+        "name_vi": "Huyện Vị Thủy",
+        "name_folded": "huyen vi thuy"
+      },
+      {
+        "name_vi": "Thành phố Vị Thanh",
+        "name_folded": "thanh pho vi thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Giám đốc Sở Tư pháp tỉnh Hậu Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp tỉnh Hậu Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-39-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ab45ce898c52",
+    "full_name": "Nguyễn Hòa Bình",
+    "full_name_folded": "nguyen hoa binh",
+    "dob": "24/5/1958",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hành Đức, huyện Nghĩa Hành, tỉnh Quảng Ngãi",
+    "current_residence": "Số 51, đường Phan Đình Phùng, phường Quán Thánh, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-39",
+    "list_order": 2,
+    "party_member_since": "14/10/1981",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-1764135b6cd1",
+    "name_vi": "Tỉnh Bắc Giang",
+    "name_folded": "bac giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-39",
+    "locality_id": "loc-1764135b6cd1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Bắc Giang, Huyện Yên Thế, Huyện Lạng Giang, Huyên Yên Dũng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Giang Đơn vị bầu cử Số 2: Gồm thành phố Bắc Giang và các huyện: Yên Thế, Lạng Giang, Yên Dũng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Yên Dũng",
+        "name_folded": "huyen yen dung"
+      },
+      {
+        "name_vi": "Huyện Lạng Giang",
+        "name_folded": "huyen lang giang"
+      },
+      {
+        "name_vi": "Huyện Yên Thế",
+        "name_folded": "huyen yen the"
+      },
+      {
+        "name_vi": "Thành phố Bắc Giang",
+        "name_folded": "thanh pho bac giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Bí thư Ban Cán sự Đảng, Chánh án Tòa án nhân dân tối cao; Ủy viên Ban chỉ đạo Trung ương về Phòng, chống tham nhũng; Ủy viên Ban chỉ đạo Cải cách tư pháp Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân tối cao"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

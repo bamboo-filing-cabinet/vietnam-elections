@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-155-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bf289c317044",
+    "full_name": "Lê Thụy Phương Vy",
+    "full_name_folded": "le thuy phuong vy",
+    "dob": "08/8/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Thắng Lợi, thành phố Buôn Mê Thuột, tỉnh Đắk Lắk",
+    "current_residence": "Khu phố Ninh Lợi, phường Ninh Thạnh, thành phố Tây Ninh, tỉnh Tây Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-155",
+    "list_order": 5,
+    "party_member_since": "22/8/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-155",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Trảng Bàng, Huyện Bến Cầu, Huyện Gò Dầu, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 1: Gồm thị xã Trảng Bàng và các huyện: Bến Cầu, Gò Dầu, Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bến Cầu",
+        "name_folded": "huyen ben cau"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Gò Dầu",
+        "name_folded": "huyen go dau"
+      },
+      {
+        "name_vi": "Thị xã Trảng Bàng",
+        "name_folded": "thi xa trang bang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Bảo vệ chính trị nội bộ, Ban Tổ chức Tỉnh ủy Tây Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tổ chức Tỉnh ủy Tây Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

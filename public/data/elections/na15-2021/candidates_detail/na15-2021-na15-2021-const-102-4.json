@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-102-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-26eced14feb6",
+    "full_name": "Nguyễn Phương Tuấn",
+    "full_name_folded": "nguyen phuong tuan",
+    "dob": "20/3/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Vũ, huyện Hoa Lư, tỉnh Ninh Bình",
+    "current_residence": "Số 11, ngõ 95, phố Linh Lang, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-102",
+    "list_order": 4,
+    "party_member_since": "21/3/2006",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-102",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Tân Hiệp, Huyện Kiên Hải, Huyện Giồng Riềng, Huyện Gò Quao",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 1: Gồm các huyện: Tân Hiệp, Kiên Hải, Giồng Riềng và Gò Quao. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giồng Riềng",
+        "name_folded": "huyen giong rieng"
+      },
+      {
+        "name_vi": "Huyện Gò Quao",
+        "name_folded": "huyen go quao"
+      },
+      {
+        "name_vi": "Huyện Kiên Hải",
+        "name_folded": "huyen kien hai"
+      },
+      {
+        "name_vi": "Huyện Tân Hiệp",
+        "name_folded": "huyen tan hiep"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ khoa học ứng dụng - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sinh học (hệ sinh thái và tính đa dạng sinh học), luật; Thạc sĩ chuyên ngành khoa học ứng dụng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Đối ngoại của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

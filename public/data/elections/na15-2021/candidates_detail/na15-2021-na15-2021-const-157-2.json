@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-157-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2fec89e42464",
+    "full_name": "Nguyễn Văn Huy",
+    "full_name_folded": "nguyen van huy",
+    "dob": "02/01/1979",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Bình, huyện Kiến Xương, tỉnh Thái Bình",
+    "current_residence": "Khu Tái định cư SOS, tổ 1, phường Hoàng Diệu, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-157",
+    "list_order": 2,
+    "party_member_since": "15/6/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-157",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Vũ Thư, Huyện Hưng Hà, Huyện Quỳnh Phụ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 1: Gồm các huyện: Vũ Thư, Hưng Hà và Quỳnh Phụ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Hà",
+        "name_folded": "huyen hung ha"
+      },
+      {
+        "name_vi": "Huyện Quỳnh Phụ",
+        "name_folded": "huyen quynh phu"
+      },
+      {
+        "name_vi": "Huyện Vũ Thư",
+        "name_folded": "huyen vu thu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn, luật kinh tế - hành chính; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Huyện ủy Hưng Hà, tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Hưng Hà, tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

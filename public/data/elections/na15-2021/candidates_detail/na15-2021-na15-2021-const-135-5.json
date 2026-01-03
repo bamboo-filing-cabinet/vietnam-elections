@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-135-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0edffd1f0251",
+    "full_name": "Lê Đào An Xuân",
+    "full_name_folded": "le dao an xuan",
+    "dob": "09/01/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Xuân Đông, thị xã Đông Hòa, tỉnh Phú Yên",
+    "current_residence": "Số 375, Nguyễn Huệ, phường 5, thành phố Tuy Hòa, tỉnh Phú Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-135",
+    "list_order": 5,
+    "party_member_since": "24/9/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ed5f171275ee",
+    "name_vi": "Tỉnh Phú Yên",
+    "name_folded": "phu yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-135",
+    "locality_id": "loc-ed5f171275ee",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tuy Hòa, Thị xã Sông Cầu, Huyện Đồng Xuân, Huyện Tuy An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Yên Đơn vị bầu cử Số 2: Gồm thành phố Tuy Hòa, thị xã Sông Cầu và các huyện: Đồng Xuân, Tuy An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tuy An",
+        "name_folded": "huyen tuy an"
+      },
+      {
+        "name_vi": "Huyện Đồng Xuân",
+        "name_folded": "huyen dong xuan"
+      },
+      {
+        "name_vi": "Thành phố Tuy Hòa",
+        "name_folded": "thanh pho tuy hoa"
+      },
+      {
+        "name_vi": "Thị xã Sông Cầu",
+        "name_folded": "thi xa song cau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kỹ sư quản lý môi trường; Thạc sĩ chuyên ngành quản lý môi trường"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam; Bí thư Đảng đoàn, Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Phú Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Phú Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

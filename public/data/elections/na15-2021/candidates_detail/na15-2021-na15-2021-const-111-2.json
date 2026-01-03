@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-111-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-191bad91ad8e",
+    "full_name": "Hà Đức Minh",
+    "full_name_folded": "ha duc minh",
+    "dob": "28/4/1987",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Hưng Khánh, huyện Trấn Yên, tỉnh Yên Bái",
+    "current_residence": "Tổ 18, phường Phố Mới, thành phố Lào Cai, tỉnh Lào Cai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-111",
+    "list_order": 2,
+    "party_member_since": "06/3/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Lào Cai nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-01701c894c7e",
+    "name_vi": "Tỉnh Lào Cai",
+    "name_folded": "lao cai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-111",
+    "locality_id": "loc-01701c894c7e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Lào Cai, Huyện Bát Xát, Huyện Bắc Hà, Huyện Mường Khương, Huyện Si Ma Cai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lào Cai Đơn vị bầu cử Số 1: Gồm thành phố Lào Cai và các huyện: Bát Xát, Bắc Hà, Mường Khương, Si Ma Cai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bát Xát",
+        "name_folded": "huyen bat xat"
+      },
+      {
+        "name_vi": "Huyện Bắc Hà",
+        "name_folded": "huyen bac ha"
+      },
+      {
+        "name_vi": "Huyện Mường Khương",
+        "name_folded": "huyen muong khuong"
+      },
+      {
+        "name_vi": "Huyện Si Ma Cai",
+        "name_folded": "huyen si ma cai"
+      },
+      {
+        "name_vi": "Thành phố Lào Cai",
+        "name_folded": "thanh pho lao cai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều tra tội phạm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Tỉnh đoàn Lào Cai"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh đoàn Lào Cai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

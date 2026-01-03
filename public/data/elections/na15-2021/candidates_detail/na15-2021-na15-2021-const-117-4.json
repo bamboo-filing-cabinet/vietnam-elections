@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-117-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7f5608c57520",
+    "full_name": "Nguyễn Thị Kim Nguyên",
+    "full_name_folded": "nguyen thi kim nguyen",
+    "dob": "03/5/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Tịnh, huyện Tân Trụ, tỉnh Long An",
+    "current_residence": "Số 11/66A, đường Nguyễn Minh Trường, phường 3, thành phố Tân An, tỉnh Long An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-117",
+    "list_order": 4,
+    "party_member_since": "04/3/2017",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-868f6e9f9a1e",
+    "name_vi": "Tỉnh Long An",
+    "name_folded": "long an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-117",
+    "locality_id": "loc-868f6e9f9a1e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tân An, Huyện Châu Thành, Huyện Cần Đước, Huyện Cần Giuộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Long An Đơn vị bầu cử Số 2: Gồm thành phố Tân An và các huyện: Châu Thành, Cần Đước, Cần Giuộc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cần Giuộc",
+        "name_folded": "huyen can giuoc"
+      },
+      {
+        "name_vi": "Huyện Cần Đước",
+        "name_folded": "huyen can duoc"
+      },
+      {
+        "name_vi": "Thành phố Tân An",
+        "name_folded": "thanh pho tan an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Pháp C"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Anh; Thạc sĩ chuyên ngành giảng dạy ngôn ngữ Anh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tổ phó Tổ chuyên môn Trường Trung học phổ thông chuyên Long An"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông chuyên Long An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

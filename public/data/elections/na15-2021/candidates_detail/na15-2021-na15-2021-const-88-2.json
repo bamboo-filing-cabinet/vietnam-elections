@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-88-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9bc5ce401f48",
+    "full_name": "Lê Văn Hiệu",
+    "full_name_folded": "le van hieu",
+    "dob": "02/8/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đồng Lạc, huyện Nam Sách, tỉnh Hải Dương",
+    "current_residence": "Số 102, phố Hải Đông, phường Lê Thanh Nghị, thành phố Hải Dương, tỉnh Hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-88",
+    "list_order": 2,
+    "party_member_since": "13/9/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hải Dương nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-88",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Chí Linh, Thị xã Kinh Môn, Huyện Kim Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 1: Gồm thành phố Chí Linh, thị xã Kinh Môn và huyện Kim Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Thành",
+        "name_folded": "huyen kim thanh"
+      },
+      {
+        "name_vi": "Thành phố Chí Linh",
+        "name_folded": "thanh pho chi linh"
+      },
+      {
+        "name_vi": "Thị xã Kinh Môn",
+        "name_folded": "thi xa kinh mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành quản lý khoa học và công nghệ, quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

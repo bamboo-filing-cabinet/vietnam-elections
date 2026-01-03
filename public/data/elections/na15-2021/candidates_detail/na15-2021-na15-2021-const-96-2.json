@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-96-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2f5cad742bad",
+    "full_name": "Vũ Thị Thu Hằng",
+    "full_name_folded": "vu thi thu hang",
+    "dob": "01/11/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Toàn Thắng, huyện Kim Động, tỉnh Hưng Yên",
+    "current_residence": "Số 152, đường Lê Lai, phường Lê Lợi, thành phố Hưng Yên, tỉnh Hưng Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-96",
+    "list_order": 2,
+    "party_member_since": "14/02/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-96",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hưng Yên, Huyện Kim Động, Huyện Khoái Châu, Huyện Yên Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 1: Gồm thành phố Hưng Yên và các huyện: Kim Động, Khoái Châu, Yên Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Khoái Châu",
+        "name_folded": "huyen khoai chau"
+      },
+      {
+        "name_vi": "Huyện Kim Động",
+        "name_folded": "huyen kim dong"
+      },
+      {
+        "name_vi": "Huyện Yên Mỹ",
+        "name_folded": "huyen yen my"
+      },
+      {
+        "name_vi": "Thành phố Hưng Yên",
+        "name_folded": "thanh pho hung yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý xã hội, quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Lao động - Việc làm, Sở Lao động - Thương binh và Xã hội tỉnh Hưng Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Lao động - Thương binh và Xã hội tỉnh Hưng Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

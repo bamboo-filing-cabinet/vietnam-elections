@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-64-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-305c626425f6",
+    "full_name": "Lê Ngọc Hải",
+    "full_name_folded": "le ngoc hai",
+    "dob": "07/02/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam",
+    "current_residence": "Số 18, đường Xuân Diệu, khối phố Hòa Thanh, phường Tân An, thành phố Hội An, tỉnh Quảng Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-64",
+    "list_order": 1,
+    "party_member_since": "25/5/1992",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-64",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Buôm Ma Thuột, Huyện Buôn Đôn, Huyện Ea Súp, Huyện Cư M'Gar",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 1: Gồm thành phố Buôn Ma Thuột và các huyện: Buôn Đôn, Ea Súp, Cư M`Gar. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Buôn Đôn",
+        "name_folded": "huyen buon don"
+      },
+      {
+        "name_vi": "Huyện Cư M'Gar",
+        "name_folded": "huyen cu m gar"
+      },
+      {
+        "name_vi": "Huyện Ea Súp",
+        "name_folded": "huyen ea sup"
+      },
+      {
+        "name_vi": "Thành phố Buôm Ma Thuột",
+        "name_folded": "thanh pho buom ma thuot"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy Quân khu 5, Phó Bí thư Đảng ủy Bộ Tham mưu Quân khu 5; Đại tá, Phó Tư lệnh kiêm Tham mưu trưởng Quân khu 5; Ủy viên Ủy ban Tư pháp của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 5"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

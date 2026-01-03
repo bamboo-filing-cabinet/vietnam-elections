@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-170-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0520bc1a4f52",
+    "full_name": "Nguyễn Thị Bình",
+    "full_name_folded": "nguyen thi binh",
+    "dob": "28/7/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Pa Cô",
+    "religion": "Không",
+    "birthplace": "Xã Tà Rụt, huyện Hướng Hóa, tỉnh Quảng Trị",
+    "current_residence": "Thôn 9, xã Hương Xuân, huyện Nam Đông, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-170",
+    "list_order": 1,
+    "party_member_since": "03/02/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-170",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Phú Vang, Huyện Phú Lộc, Huyện Nam Đông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 3: Gồm các huyện: Phú Vang, Phú Lộc và Nam Đông. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nam Đông",
+        "name_folded": "huyen nam dong"
+      },
+      {
+        "name_vi": "Huyện Phú Lộc",
+        "name_folded": "huyen phu loc"
+      },
+      {
+        "name_vi": "Huyện Phú Vang",
+        "name_folded": "huyen phu vang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Trưởng ban Tuyên giáo Huyện ủy, Giám đốc Trung tâm chính trị huyện Nam Đông, tỉnh Thừa Thiên Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Nam Đông, tỉnh Thừa Thiên Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

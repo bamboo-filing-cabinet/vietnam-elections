@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-123-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ffb7812b4c43",
+    "full_name": "Vi Văn Sơn",
+    "full_name_folded": "vi van son",
+    "dob": "15/9/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Môn Sơn, huyện Con Cuông, tỉnh Nghệ An",
+    "current_residence": "Nhà công vụ Tỉnh ủy Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-123",
+    "list_order": 3,
+    "party_member_since": "25/6/1996",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Con Cuông nhiệm kỳ 2011-2016, 2016-2021; Tỉnh Nghệ An nhiệm kỳ 2016-2021;"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-123",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Thái Hòa, Huyện Quế Phong, Huyện Quỳ Châu, Huyện Quỳ Hợp, Huyện Nghĩa Đàn, Huyện Tân Kỳ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 2: Gồm thị xã Thái Hoà và các huyện: Quế Phong, Quỳ Châu, Quỳ Hợp, Nghĩa Đàn, Tân Kỳ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nghĩa Đàn",
+        "name_folded": "huyen nghia dan"
+      },
+      {
+        "name_vi": "Huyện Quế Phong",
+        "name_folded": "huyen que phong"
+      },
+      {
+        "name_vi": "Huyện Quỳ Châu",
+        "name_folded": "huyen quy chau"
+      },
+      {
+        "name_vi": "Huyện Quỳ Hợp",
+        "name_folded": "huyen quy hop"
+      },
+      {
+        "name_vi": "Huyện Tân Kỳ",
+        "name_folded": "huyen tan ky"
+      },
+      {
+        "name_vi": "Thị xã Thái Hòa",
+        "name_folded": "thi xa thai hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Tiến sĩ chuyên ngành lý luận và lịch sử nhà nước và pháp luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Đảng ủy Ban Dân tộc, Trưởng ban Dân tộc tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân tộc tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

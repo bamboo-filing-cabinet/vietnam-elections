@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-180-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bdc6ae8be0e9",
+    "full_name": "Nguyễn Thị Quyên Thanh",
+    "full_name_folded": "nguyen thi quyen thanh",
+    "dob": "19/10/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phú Lộc, huyện Tam Bình, tỉnh Vĩnh Long",
+    "current_residence": "Số 52/2 Phạm Thái Bường, Phường 4, Thành phố Vĩnh Long, tỉnh Vĩnh Long"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-180",
+    "list_order": 4,
+    "party_member_since": "02/6/2005",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thành phố Vĩnh Long nhiệm kỳ 2011-2016; tỉnh Vĩnh Long nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-7ecd8e4443ec",
+    "name_vi": "Tỉnh Vĩnh Long",
+    "name_folded": "tinh vinh long",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-180",
+    "locality_id": "loc-7ecd8e4443ec",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Bình Minh, Huyện Bình Tân, Huyện Trà Ôn, Huyện Vũng Liêm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Long Đơn vị bầu cử Số 2: Gồm thị xã Bình Minh và các huyện: Bình Tân, Trà Ôn, Vũng Liêm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Tân",
+        "name_folded": "huyen binh tan"
+      },
+      {
+        "name_vi": "Huyện Trà Ôn",
+        "name_folded": "huyen tra on"
+      },
+      {
+        "name_vi": "Huyện Vũng Liêm",
+        "name_folded": "huyen vung liem"
+      },
+      {
+        "name_vi": "Thị xã Bình Minh",
+        "name_folded": "thi xa binh minh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh; Thạc sĩ chuyên ngành phương pháp giảng dạy tiếng Anh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân tỉnh Vĩnh Long"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

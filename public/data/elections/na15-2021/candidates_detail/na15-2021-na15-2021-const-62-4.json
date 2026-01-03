@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-62-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-82ffb7e63ca8",
+    "full_name": "Đỗ Quang Thành",
+    "full_name_folded": "do quang thanh",
+    "dob": "19/10/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thái Hòa, huyện Thái Thụy, tỉnh Thái Bình",
+    "current_residence": "Số nhà 45, tổ 1, phường Sông Bằng, thành phố Cao Bằng, tỉnh Cao Bằng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-62",
+    "list_order": 4,
+    "party_member_since": "20/3/1986",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Cao Bằng nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-d0cfd73752bb",
+    "name_vi": "Tỉnh Cao Bằng",
+    "name_folded": "cao bang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-62",
+    "locality_id": "loc-d0cfd73752bb",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bảo Lạc, Huyện Bảo Lâm, Huyện Nguyên Bình, Huyện Hà Quảng, Huyện Hòa An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cao Bằng Đơn vị bầu cử Số 1: Gồm các huyện: Bảo Lạc, Bảo Lâm, Nguyên Bình, Hà Quảng và Hòa An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Lâm",
+        "name_folded": "huyen bao lam"
+      },
+      {
+        "name_vi": "Huyện Bảo Lạc",
+        "name_folded": "huyen bao lac"
+      },
+      {
+        "name_vi": "Huyện Hà Quảng",
+        "name_folded": "huyen ha quang"
+      },
+      {
+        "name_vi": "Huyện Hòa An",
+        "name_folded": "huyen hoa an"
+      },
+      {
+        "name_vi": "Huyện Nguyên Bình",
+        "name_folded": "huyen nguyen binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thiếu tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Quốc phòng và An ninh của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

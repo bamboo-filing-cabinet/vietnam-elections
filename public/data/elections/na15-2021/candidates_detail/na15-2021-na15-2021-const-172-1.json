@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-172-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7aa408dbe500",
+    "full_name": "Nguyễn Văn Dương",
+    "full_name_folded": "nguyen van duong",
+    "dob": "03/12/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Ấp Mỹ Hưng, xã Mỹ Phong, thành phố Mỹ Tho, tỉnh Tiền Giang",
+    "current_residence": "Số 97 Đinh Bộ Lĩnh, Phường 3, thành phố Mỹ Tho, tỉnh Tiền Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-172",
+    "list_order": 1,
+    "party_member_since": "25/5/1996",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8a812f5994ae",
+    "name_vi": "Tỉnh Tiền Giang",
+    "name_folded": "tien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-172",
+    "locality_id": "loc-8a812f5994ae",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Mỹ Tho, Huyện Tân Phước, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tiền Giang Đơn vị bầu cử Số 2: Gồm thành phố Mỹ Tho và các huyện: Tân Phước, Châu Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Tân Phước",
+        "name_folded": "huyen tan phuoc"
+      },
+      {
+        "name_vi": "Thành phố Mỹ Tho",
+        "name_folded": "thanh pho my tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành y học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên; Phó Giám đốc Sở Y tế tỉnh Tiền Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Y tế tỉnh Tiền Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

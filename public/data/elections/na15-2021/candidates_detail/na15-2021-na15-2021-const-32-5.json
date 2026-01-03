@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-32-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-89697d5b9c5e",
+    "full_name": "Phan Thị Tuyết Xuân",
+    "full_name_folded": "phan thi tuyet xuan",
+    "dob": "12/8/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Phước Hải, huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu",
+    "current_residence": "Số 01 ô 3/33 khu phố Hải An, thị trấn Phước Hải, huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-32",
+    "list_order": 5,
+    "party_member_since": "30/10/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-32",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vũng Tàu, Huyện Long Điền, Huyện Đất Đỏ, Huyện Côn Đảo",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 1: Gồm thành phố Vũng Tàu và các huyện: Long Điền, Đất Đỏ, Côn Đảo. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Côn Đảo",
+        "name_folded": "huyen con dao"
+      },
+      {
+        "name_vi": "Huyện Long Điền",
+        "name_folded": "huyen long dien"
+      },
+      {
+        "name_vi": "Huyện Đất Đỏ",
+        "name_folded": "huyen dat do"
+      },
+      {
+        "name_vi": "Thành phố Vũng Tàu",
+        "name_folded": "thanh pho vung tau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ chuyên khoa cấp I"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ y đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, Phụ trách khoa Nội tổng hợp Trung tâm Y tế huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Y tế huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

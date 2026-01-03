@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-27-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cb3faca6947d",
+    "full_name": "Trương Thị Ngọc Ánh",
+    "full_name_folded": "truong thi ngoc anh",
+    "dob": "10/10/1966",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Hòa, huyện Tuy Phước, tỉnh Bình Định",
+    "current_residence": "Chung cư GreenPark, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-27",
+    "list_order": 1,
+    "party_member_since": "03/6/1988",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Kon Tum nhiệm kỳ 1999-2004, 2011-2016"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-27",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Bình Thủy, Quận Ô Môn, Huyện Thới Lai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 2: Gồm các quận: Bình Thủy, Ô Môn và huyện Thới Lai. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thới Lai",
+        "name_folded": "huyen thoi lai"
+      },
+      {
+        "name_vi": "Quận Bình Thủy",
+        "name_folded": "quan binh thuy"
+      },
+      {
+        "name_vi": "Quận Ô Môn",
+        "name_folded": "quan o mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn Ủy ban Mặt trận Tổ quốc Việt Nam, Phó Bí thư Đảng ủy, Chủ nhiệm Ủy ban Kiểm tra Đảng ủy, Phó Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

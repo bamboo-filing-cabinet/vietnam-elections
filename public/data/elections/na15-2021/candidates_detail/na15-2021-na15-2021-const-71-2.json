@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-71-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e9b50fe5ea9c",
+    "full_name": "Nguyễn Phú Cường",
+    "full_name_folded": "nguyen phu cuong",
+    "dob": "19/6/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Phước Khánh, huyện Tân Uyên, tỉnh Bình Dương",
+    "current_residence": "Số 620/79, khu phố 1, phường Trảng Dài, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-71",
+    "list_order": 2,
+    "party_member_since": "05/7/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Đồng Nai nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-71",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Biên Hòa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 1: Gồm thành phố Biên Hòa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Biên Hòa",
+        "name_folded": "thanh pho bien hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Tài chính - Kế toán; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

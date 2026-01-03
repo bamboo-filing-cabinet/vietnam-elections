@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-51-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-406751bca1e0",
+    "full_name": "Võ Cao Thị Mộng Hoài",
+    "full_name_folded": "vo cao thi mong hoai",
+    "dob": "04/11/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Thành, huyện Tuy Phước, tỉnh Bình Định",
+    "current_residence": "Số 72B, đường Lê Văn Hưu, Tổ 21B, khu vực 5, phường Hải Cảng, thành phố Quy Nhơn, tỉnh Bình Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-51",
+    "list_order": 1,
+    "party_member_since": "22/8/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-51",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Quy Nhơn, Huyện Tuy Phước, Huyện Vân Canh, Huyện Tây Sơn, Huyện Vĩnh Thạnh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 1: Gồm thành phố Quy Nhơn và các huyện: Tuy Phước, Vân Canh, Tây Sơn, Vĩnh Thạnh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tuy Phước",
+        "name_folded": "huyen tuy phuoc"
+      },
+      {
+        "name_vi": "Huyện Tây Sơn",
+        "name_folded": "huyen tay son"
+      },
+      {
+        "name_vi": "Huyện Vân Canh",
+        "name_folded": "huyen van canh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thạnh",
+        "name_folded": "huyen vinh thanh"
+      },
+      {
+        "name_vi": "Thành phố Quy Nhơn",
+        "name_folded": "thanh pho quy nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh; Thạc sĩ chuyên ngành kinh tế phát triển"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Sở Khoa học và Công nghệ, Bí thư Chi bộ, Giám đốc Trung tâm Thông tin - Ứng dụng Khoa học và Công nghệ tỉnh Bình Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Thông tin - Ứng dụng Khoa học và Công nghệ tỉnh Bình Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

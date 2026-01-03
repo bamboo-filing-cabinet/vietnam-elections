@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-17-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3810e524825f",
+    "full_name": "Phan Thị Thanh Phương",
+    "full_name_folded": "phan thi thanh phuong",
+    "dob": "29/02/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Điện Trung, huyện Điện Bàn, tỉnh Quảng Nam",
+    "current_residence": "Số 12/33, Nguyễn Tuân, tổ dân phố 37, phường 3, quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-17",
+    "list_order": 3,
+    "party_member_since": "05/11/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-17",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Quận Phú Nhuận Gò Vấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 7: Gồm các quận: Phú Nhuận và Gò Vấp. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Phú Nhuận Gò Vấp",
+        "name_folded": "quan phu nhuan go vap"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sinh học; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Bí thư Đảng ủy cơ quan Thành Đoàn; Bí thư Thành Đoàn Thành phố Hồ Chí Minh; Ủy viên Ban Thường vụ Trung ương Đoàn, Phó Chủ tịch Hội Sinh viên Việt Nam, Chủ tịch Hội Sinh viên Việt Nam Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Thành Đoàn Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

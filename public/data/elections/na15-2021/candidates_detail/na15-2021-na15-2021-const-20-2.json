@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-20-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d36deb3a0c43",
+    "full_name": "Nguyễn Thanh Hiệp",
+    "full_name_folded": "nguyen thanh hiep",
+    "dob": "02/11/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Bình An, Thị xã Dĩ An, tỉnh Bình Dương",
+    "current_residence": "Số 42, Đường 1C Khu Dân cư 6B-Intresco, xã Bình Hưng, huyện Bình Chánh, thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-20",
+    "list_order": 2,
+    "party_member_since": "13/12/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-20",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 10,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Củ Chi, Huyện Hóc Môn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 10: Gồm các huyện: Củ Chi và Hóc Môn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Củ Chi",
+        "name_folded": "huyen cu chi"
+      },
+      {
+        "name_vi": "Huyện Hóc Môn",
+        "name_folded": "huyen hoc mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Pháp B2, C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ khối Đại học, Cao đẳng Thành phố Hồ Chí Minh; Phó Bí thư Đảng ủy, Bí thư Chi bộ Phòng khám Đa khoa Trường Đại học Y khoa Phạm Ngọc Thạch; Phó Chủ tịch Hội đồng Trường, Phó Hiệu trưởng phụ trách điều hành, Trưởng Phòng khám Đa khoa, Trưởng khoa Y tế công cộng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Y khoa Phạm Ngọc Thạch"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

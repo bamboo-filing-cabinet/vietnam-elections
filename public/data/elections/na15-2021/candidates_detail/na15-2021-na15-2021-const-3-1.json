@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-3-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bd908524c841",
+    "full_name": "Dương Minh Ánh",
+    "full_name_folded": "duong minh anh",
+    "dob": "01/9/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Châu, thành phố Hưng Yên, tỉnh Hưng Yên",
+    "current_residence": "Số 41, ngõ 239, tổ 15, phố Bồ Đề, phường Bồ Đề, quận Long Biên, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-3",
+    "list_order": 1,
+    "party_member_since": "03/02/2008",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-3",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận Cầu Giấy,Quận Nam Từ Liêm,Quận Thanh Xuân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 3: Gồm các quận: Cầu Giấy, Nam Từ Liêm và Thanh Xuân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Cầu Giấy",
+        "name_folded": "quan cau giay"
+      },
+      {
+        "name_vi": "Quận Nam Từ Liêm",
+        "name_folded": "quan nam tu liem"
+      },
+      {
+        "name_vi": "Quận Thanh Xuân",
+        "name_folded": "quan thanh xuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành thanh nhạc, quản lý xã hội; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Hiệu trưởng Trường Cao đẳng Nghệ thuật Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Cao đẳng Nghệ thuật Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

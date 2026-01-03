@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-174-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4a3ddb8aad38",
+    "full_name": "Thạch Phước Bình",
+    "full_name_folded": "thach phuoc binh",
+    "dob": "28/9/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khmer",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Tam Ngãi, huyện Cầu Kè, tỉnh Trà Vinh",
+    "current_residence": "Số 7, đường Điện Biên Phủ, khóm 2, phường 3, thành phố Trà Vinh, tỉnh Trà Vinh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-174",
+    "list_order": 2,
+    "party_member_since": "23/7/2004",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-fdf0dcd56901",
+    "name_vi": "Tỉnh Trà Vinh",
+    "name_folded": "tinh tra vinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-174",
+    "locality_id": "loc-fdf0dcd56901",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Trà Vinh, Huyện Càng Long, Huyện Cầu Kè, Huyện Tiểu Cần",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Trà Vinh Đơn vị bầu cử Số 1: Gồm thành phố Trà Vinh và các huyện: Càng Long, Cầu Kè, Tiểu Cần. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Càng Long",
+        "name_folded": "huyen cang long"
+      },
+      {
+        "name_vi": "Huyện Cầu Kè",
+        "name_folded": "huyen cau ke"
+      },
+      {
+        "name_vi": "Huyện Tiểu Cần",
+        "name_folded": "huyen tieu can"
+      },
+      {
+        "name_vi": "Thành phố Trà Vinh",
+        "name_folded": "thanh pho tra vinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1; Tiếng dân tộc Khmer"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính doanh nghiệp; Thạc sĩ chuyên ngành quản trị nhân lực"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Bí thư Chi bộ Văn phòng Đoàn đại biểu Quốc hội tỉnh, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Trà Vinh"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Trà Vinh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-26-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4c94165fec34",
+    "full_name": "Dư Thị Mỹ Hân",
+    "full_name_folded": "du thi my han",
+    "dob": "15/4/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thạnh Hòa, huyện Giồng Riềng, tỉnh Kiên Giang",
+    "current_residence": "Số 156/50D, đường Đoàn Thị Điểm, phường Cái Khế, quận Ninh Kiều, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-26",
+    "list_order": 2,
+    "party_member_since": "19/5/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-26",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Ninh Kiều, Quận Cái Răng, Huyện Phong Điền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 1: Gồm các huyện: Ninh Kiều, Cái Răng và Phong Điền. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Quận Cái Răng",
+        "name_folded": "quan cai rang"
+      },
+      {
+        "name_vi": "Quận Ninh Kiều",
+        "name_folded": "quan ninh kieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành địa lý - du lịch"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Ủy viên Ban Thường vụ, Trưởng Ban Tổ chức - Kiểm tra Hội Liên hiệp Phụ nữ thành phố Cần Thơ"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ thành phố Cần Thơ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

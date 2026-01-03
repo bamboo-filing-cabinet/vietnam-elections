@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-26-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-81c6d5c17701",
+    "full_name": "Nguyễn Văn Thuận",
+    "full_name_folded": "nguyen van thuan",
+    "dob": "08/12/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Mỹ, huyện Phụng Hiệp, tỉnh Hậu Giang",
+    "current_residence": "Số 118/11A, đường Trần Văn Khéo, phường Cái Khế, quận Ninh Kiều, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-26",
+    "list_order": 5,
+    "party_member_since": "23/4/1990",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Cần Thơ nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-26",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Ninh Kiều, Quận Cái Răng, Huyện Phong Điền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 1: Gồm các huyện: Ninh Kiều, Cái Răng và Phong Điền. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Quận Cái Răng",
+        "name_folded": "quan cai rang"
+      },
+      {
+        "name_vi": "Quận Ninh Kiều",
+        "name_folded": "quan ninh kieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế, luật; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy, Ủy viên Ban Cán sự Đảng ủy Ủy ban nhân dân thành phố Cần Thơ, Bí thư Đảng ủy, Thiếu tướng, Giám đốc Công an thành phố Cần Thơ"
+    },
+    {
+      "key": "workplace",
+      "value": "Công an thành phố Cần Thơ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

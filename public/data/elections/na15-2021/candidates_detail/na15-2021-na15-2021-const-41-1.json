@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-41-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-aeb1c1d406d0",
+    "full_name": "Nguyễn Ngọc Bảo",
+    "full_name_folded": "nguyen ngoc bao",
+    "dob": "16/6/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Văn Môn, huyện Yên Phong, tỉnh Bắc Ninh",
+    "current_residence": "Số 150A, phố Bùi Thị Xuân, quận Hai Bà Trưng, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-41",
+    "list_order": 1,
+    "party_member_since": "20/01/1995",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 2004-2011"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-41",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bắc Ninh, Huyện Quế Võ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 1: Gồm thành phố Bắc Ninh và huyện Quế Võ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Quế Võ",
+        "name_folded": "huyen que vo"
+      },
+      {
+        "name_vi": "Thành phố Bắc Ninh",
+        "name_folded": "thanh pho bac ninh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế kỹ thuật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ Kinh tế; Phó Chủ nhiệm Ủy ban Kinh tế của Quốc hội; Phó Chủ tịch nhóm Nghị sĩ hữu nghị Việt Nam - Hàn Quốc, nhóm Nghị sĩ hữu nghị Việt Nam - Malaysia"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Kinh tế của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

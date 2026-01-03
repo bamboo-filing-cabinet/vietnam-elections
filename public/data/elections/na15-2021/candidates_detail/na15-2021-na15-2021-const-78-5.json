@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-78-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ff5e8ac87d7d",
+    "full_name": "Châu Ngọc Tuấn",
+    "full_name_folded": "chau ngoc tuan",
+    "dob": "28/12/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Cát, huyện Phù Mỹ, tỉnh Bình Định",
+    "current_residence": "Số 01/8, đường Tuệ Tĩnh, tổ 6, phường Ia Kring, thành phố Pleiku, tỉnh Gia Lai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-78",
+    "list_order": 5,
+    "party_member_since": "07/4/1994",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Gia Lai nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-78",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Pleiku, Huyện Chư Pawh, Huyện Ia Grai, Huyện Đức Cơ, Huyện Chư Prông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 1: Gồm thành phố Pleiku và các huyện: Chư Păh, Ia Grai, Đức Cơ, Chư Prông. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chư Pawh",
+        "name_folded": "huyen chu pawh"
+      },
+      {
+        "name_vi": "Huyện Chư Prông",
+        "name_folded": "huyen chu prong"
+      },
+      {
+        "name_vi": "Huyện Ia Grai",
+        "name_folded": "huyen ia grai"
+      },
+      {
+        "name_vi": "Huyện Đức Cơ",
+        "name_folded": "huyen duc co"
+      },
+      {
+        "name_vi": "Thành phố Pleiku",
+        "name_folded": "thanh pho pleiku"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư thường trực Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Gia Lai"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Gia Lai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

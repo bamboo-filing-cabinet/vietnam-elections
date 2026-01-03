@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-35-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d35a7230250b",
+    "full_name": "Trần Thị Hoa Ry",
+    "full_name_folded": "tran thi hoa ry",
+    "dob": "11/4/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khmer",
+    "religion": "Không",
+    "birthplace": "Xã Hưng Hội, huyện Vĩnh Lợi, tỉnh Bạc Liêu",
+    "current_residence": "Khu chung cư Đoàn ngoại giao, tòa N04A, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-35",
+    "list_order": 3,
+    "party_member_since": "03/3/2005",
+    "is_na_delegate": "X, XI, XII, XIV",
+    "is_council_delegate": "Tỉnh Bạc Liêu nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-9ee833b67126",
+    "name_vi": "Tỉnh Bạc Liêu",
+    "name_folded": "bac lieu",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-35",
+    "locality_id": "loc-9ee833b67126",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Giá Rai, Huyện Phước Long, Huyện Hồng Dân, Huyện Đông Hải",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bạc Liêu Đơn vị bầu cử Số 2: Gồm thị xã Giá Rai và các huyện: Phước Long, Hồng Dân, Đông Hải. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hồng Dân",
+        "name_folded": "huyen hong dan"
+      },
+      {
+        "name_vi": "Huyện Phước Long",
+        "name_folded": "huyen phuoc long"
+      },
+      {
+        "name_vi": "Huyện Đông Hải",
+        "name_folded": "huyen dong hai"
+      },
+      {
+        "name_vi": "Thị xã Giá Rai",
+        "name_folded": "thi xa gia rai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C; sử dụng thành thạo tiếng Khmer"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội đồng Dân tộc của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng Dân tộc của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

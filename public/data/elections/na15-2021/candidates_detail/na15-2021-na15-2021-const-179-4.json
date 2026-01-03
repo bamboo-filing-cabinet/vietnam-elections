@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-179-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f054ac4c0b41",
+    "full_name": "Lê Thị Huế Nhi",
+    "full_name_folded": "le thi hue nhi",
+    "dob": "17/11/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Hiệp, huyện Trà Ôn, tỉnh Vĩnh Long",
+    "current_residence": "Số 136/9, đường Nguyễn Văn Lâu, Khóm 5, Phường 8, thành phố Vĩnh Long, tỉnh Vĩnh Long"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-179",
+    "list_order": 4,
+    "party_member_since": "26/6/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7ecd8e4443ec",
+    "name_vi": "Tỉnh Vĩnh Long",
+    "name_folded": "tinh vinh long",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-179",
+    "locality_id": "loc-7ecd8e4443ec",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vĩnh Long, Huyện Long Hồ, Huyện Mang Thít, Huyện Tam Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Long Đơn vị bầu cử Số 1: Gồm thành phố Vĩnh Long và các huyện: Long Hồ, Mang Thít, Tam Bình. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Long Hồ",
+        "name_folded": "huyen long ho"
+      },
+      {
+        "name_vi": "Huyện Mang Thít",
+        "name_folded": "huyen mang thit"
+      },
+      {
+        "name_vi": "Huyện Tam Bình",
+        "name_folded": "huyen tam binh"
+      },
+      {
+        "name_vi": "Thành phố Vĩnh Long",
+        "name_folded": "thanh pho vinh long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ, Ủy viên Ban Chấp hành công đoàn; Phó Giám đốc Trung tâm Dịch vụ việc làm tỉnh Vĩnh Long"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Dịch vụ việc làm tỉnh Vĩnh Long"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

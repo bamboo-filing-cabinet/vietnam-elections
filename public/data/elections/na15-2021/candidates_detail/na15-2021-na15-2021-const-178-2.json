@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-178-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d362e047f87d",
+    "full_name": "Nguyễn Đắc Vinh",
+    "full_name_folded": "nguyen dac vinh",
+    "dob": "25/11/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Quỳnh Dị, thị xã Hoàng Mai, tỉnh Nghệ An",
+    "current_residence": "Số 43, ngõ 371, La Thành, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-178",
+    "list_order": 2,
+    "party_member_since": "24/11/2003",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-178",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Tuyên Quang, Huyện Sơn Dương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 3: Gồm thành phố Tuyên Quang và huyện Sơn Dương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Sơn Dương",
+        "name_folded": "huyen son duong"
+      },
+      {
+        "name_vi": "Thành phố Tuyên Quang",
+        "name_folded": "thanh pho tuyen quang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, Đại học hóa học - tiếng Slovak"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành hóa học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Ban Thường vụ Đảng ủy khối các cơ quan Trung ương, Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-95-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-72d34604a9ae",
+    "full_name": "Đặng Bích Ngọc",
+    "full_name_folded": "dang bich ngoc",
+    "dob": "29/9/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Gia Xuân, huyện Gia Viễn, tỉnh Ninh Bình",
+    "current_residence": "Số 48, tổ 7, phường Quỳnh Lâm, thành phố Hòa Bình, tỉnh Hòa Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-95",
+    "list_order": 3,
+    "party_member_since": "19/5/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-95",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Kim Bôi, Huyện Cao Phong, Huyện Lạc Sơn, Huyện Lạc Thủy, Huyện Yên Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 2: Gồm các huyện: Kim Bôi, Cao Phong, Lạc Sơn, Lạc Thủy và Yên Thủy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Phong",
+        "name_folded": "huyen cao phong"
+      },
+      {
+        "name_vi": "Huyện Kim Bôi",
+        "name_folded": "huyen kim boi"
+      },
+      {
+        "name_vi": "Huyện Lạc Sơn",
+        "name_folded": "huyen lac son"
+      },
+      {
+        "name_vi": "Huyện Lạc Thủy",
+        "name_folded": "huyen lac thuy"
+      },
+      {
+        "name_vi": "Huyện Yên Thủy",
+        "name_folded": "huyen yen thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế và luật quốc tế; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ban Chấp hành Đảng ủy Khối các cơ quan tỉnh, Phó Bí thư Đảng đoàn, Phó Chủ tịch thường trực Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Hòa Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

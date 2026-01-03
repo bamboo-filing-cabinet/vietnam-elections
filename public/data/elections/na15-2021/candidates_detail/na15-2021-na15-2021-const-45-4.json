@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-45-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a0397ace2da8",
+    "full_name": "Lâm Như Quỳnh",
+    "full_name_folded": "lam nhu quynh",
+    "dob": "10/10/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thuận Điền, huyện Giồng Trôm, tỉnh Bến Tre",
+    "current_residence": "419, Ấp Lương Thuận, xã Lương Quới, huyện Giồng Trôm, tỉnh Bến Tre"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-45",
+    "list_order": 4,
+    "party_member_since": "30/7/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-45",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Giồng Trôm, Huyện Ba Trì",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 2: Gồm huyện Giồng Trôm và huyện Ba Tri. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Trì",
+        "name_folded": "huyen ba tri"
+      },
+      {
+        "name_vi": "Huyện Giồng Trôm",
+        "name_folded": "huyen giong trom"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh đoàn Bến Tre, Giám đốc Trung tâm hoạt động thanh thiếu nhi Bến Tre, Phó Bí thư Chi bộ Tỉnh đoàn"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh đoàn Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

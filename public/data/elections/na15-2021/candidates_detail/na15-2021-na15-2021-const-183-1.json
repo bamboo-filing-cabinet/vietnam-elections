@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-183-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-10c498d8f713",
+    "full_name": "Đỗ Đức Duy",
+    "full_name_folded": "do duc duy",
+    "dob": "20/5/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thụy Văn, huyện Thái Thụy, tỉnh Thái Bình",
+    "current_residence": "Nhà khách Hào Gia, Văn phòng Ủy ban nhân dân tỉnh Yên Bái, số 8, đường Trần Phú, tổ 14, phường Đồng Tâm, thành phố Yên Bái, tỉnh Yên Bái"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-183",
+    "list_order": 1,
+    "party_member_since": "25/5/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9911d8be2ef2",
+    "name_vi": "Tỉnh Yên Bái",
+    "name_folded": "tinh yen bai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-183",
+    "locality_id": "loc-9911d8be2ef2",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Yên Bái, Huyện Yên Bình, Huyện Trấn Yên, Huyện Lục Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Yên Bái Đơn vị bầu cử Số 1: Gồm thành phố Yên Bái và các huyện: Yên Bình, Trấn Yên, Lục Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lục Yên",
+        "name_folded": "huyen luc yen"
+      },
+      {
+        "name_vi": "Huyện Trấn Yên",
+        "name_folded": "huyen tran yen"
+      },
+      {
+        "name_vi": "Huyện Yên Bình",
+        "name_folded": "huyen yen binh"
+      },
+      {
+        "name_vi": "Thành phố Yên Bái",
+        "name_folded": "thanh pho yen bai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành xây dựng dân dụng và công nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Yên Bái"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Yên Bái"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

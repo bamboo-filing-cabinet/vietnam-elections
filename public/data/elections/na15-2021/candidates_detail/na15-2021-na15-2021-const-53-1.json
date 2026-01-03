@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-53-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6aae6fe51839",
+    "full_name": "Bùi Quốc Anh",
+    "full_name_folded": "bui quoc anh",
+    "dob": "27/11/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Cát Nhơn, huyện Phù Cát, tỉnh Bình Định",
+    "current_residence": "Số 71, đường Nguyễn Lữ, tổ 6, khu vực 4, phường Ngô Mây, thành phố Quy Nhơn, tỉnh Bình Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-53",
+    "list_order": 1,
+    "party_member_since": "08/7/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-53",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoài Nhơn, Huyện An Lão, Huyện Phù Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 3: Gồm thị xã Hoài Nhơn và các huyện: An Lão, Phù Mỹ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Lão",
+        "name_folded": "huyen an lao"
+      },
+      {
+        "name_vi": "Huyện Phù Mỹ",
+        "name_folded": "huyen phu my"
+      },
+      {
+        "name_vi": "Thị xã Hoài Nhơn",
+        "name_folded": "thi xa hoai nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tin học, quản trị kinh doanh, quản lý giáo dục; Thạc sĩ chuyên ngành khoa học máy tính"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Phòng Quản lý chất lượng giáo dục - Giáo dục thường xuyên, Sở Giáo dục và Đào tạo tỉnh Bình Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Giáo dục và Đào tạo tỉnh Bình Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-83-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8b9ff571eb50",
+    "full_name": "Trần Văn Khải",
+    "full_name_folded": "tran van khai",
+    "dob": "15/9/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phan Sào Nam, huyện Phù Cừ, tỉnh Hưng Yên",
+    "current_residence": "Nhà 59, phố Vạn Bảo, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-83",
+    "list_order": 3,
+    "party_member_since": "06/4/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e92430cb680c",
+    "name_vi": "Tỉnh Hà Nam",
+    "name_folded": "ha nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-83",
+    "locality_id": "loc-e92430cb680c",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Phủ Lý, Huyện Thanh Liêm, Huyện Bình Lục",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Nam Đơn vị bầu cử Số 1: Gồm thành phố Phủ Lý và các huyện: Thanh Liêm, Bình Lục. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Lục",
+        "name_folded": "huyen binh luc"
+      },
+      {
+        "name_vi": "Huyện Thanh Liêm",
+        "name_folded": "huyen thanh liem"
+      },
+      {
+        "name_vi": "Thành phố Phủ Lý",
+        "name_folded": "thanh pho phu ly"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kiến trúc; Thạc sĩ chuyên ngành quy hoạch vùng và đô thị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Tổng Liên đoàn lao động Việt Nam, Bí thư Chi bộ, Trưởng Ban quản lý Dự án thiết chế Công đoàn; Ủy viên Đoàn Chủ tịch Tổng Liên đoàn Lao động Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Quản lý dự án thiết chế Công đoàn, Tổng Liên đoàn Lao động Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

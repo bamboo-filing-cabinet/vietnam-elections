@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-1-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a429b22e3a29",
+    "full_name": "Nguyễn Phú Trọng",
+    "full_name_folded": "nguyen phu trong",
+    "dob": "14/4/1944",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đông Hội, huyện Đông Anh, thành phố Hà Nội",
+    "current_residence": "Số 5, phố Thiền Quang, phường Nguyễn Du, quân Quận Hai Bà Trưng, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-1",
+    "list_order": 3,
+    "party_member_since": "19/12/1967",
+    "is_na_delegate": "XI, XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-1",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hoàn Kiếm,Quận Long Biên, Huyện Đông Anh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 1: Gồm các quận: Ba Đình, Đống Đa và Hai Bà Trưng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đông Anh",
+        "name_folded": "huyen dong anh"
+      },
+      {
+        "name_vi": "Quận Hoàn Kiếm",
+        "name_folded": "quan hoan kiem"
+      },
+      {
+        "name_vi": "Quận Long Biên",
+        "name_folded": "quan long bien"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga D, tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn; Tiến sĩ chuyên ngành chính trị học (xây dựng Đảng)"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; Bí thư Quân ủy Trung ương; Thường vụ Đảng ủy Công an Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Trung ương Đảng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

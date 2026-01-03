@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-120-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fda628e82d7a",
+    "full_name": "Lê Quốc Chỉnh",
+    "full_name_folded": "le quoc chinh",
+    "dob": "01/12/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Trực Nội, huyện Trực Ninh, tỉnh Nam Định",
+    "current_residence": "Số 89, phố Đoàn Khuê, khu đô thị mới Thống Nhất, phường Lộc Hạ, thành phố Nam Định, tỉnh Nam Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-120",
+    "list_order": 1,
+    "party_member_since": "16/9/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Nam Định nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-15fbd11315f4",
+    "name_vi": "Tỉnh Nam Định",
+    "name_folded": "nam dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-120",
+    "locality_id": "loc-15fbd11315f4",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Nam Trực, Huyện Nghĩa Hưng, Huyện Hải Hậu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nam Định Đơn vị bầu cử Số 2: Gồm các huyện: Nam Trực, Nghĩa Hưng và Hải Hậu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hải Hậu",
+        "name_folded": "huyen hai hau"
+      },
+      {
+        "name_vi": "Huyện Nam Trực",
+        "name_folded": "huyen nam truc"
+      },
+      {
+        "name_vi": "Huyện Nghĩa Hưng",
+        "name_folded": "huyen nghia hung"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Nam Định; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Nam Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Nam Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

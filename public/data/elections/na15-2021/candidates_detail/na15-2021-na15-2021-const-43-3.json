@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-43-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a3d13b223a9d",
+    "full_name": "Nguyễn Như So",
+    "full_name_folded": "nguyen nhu so",
+    "dob": "23/8/1957",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lạc Vệ, huyện Tiên Du, tỉnh Bắc Ninh",
+    "current_residence": "Số nhà 87, đường Lê Văn Thịnh, phường Suối Hoa, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-43",
+    "list_order": 3,
+    "party_member_since": "14/4/1979",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Bắc Ninh nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-43",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Lương Tài, Huyện Gia Bình, Huyện Thuận Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 3: Gồm các huyện: Lương Tài, Gia Bình và Thuận Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Bình",
+        "name_folded": "huyen gia binh"
+      },
+      {
+        "name_vi": "Huyện Lương Tài",
+        "name_folded": "huyen luong tai"
+      },
+      {
+        "name_vi": "Huyện Thuận Thành",
+        "name_folded": "huyen thuan thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Trung B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội; Phó Chủ tịch Hiệp hội Thức ăn chăn nuôi Việt Nam; Bí thư Đảng ủy, Chủ tịch Hội đồng Quản trị Công ty Cổ phần Tập đoàn DABACO Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Tập đoàn DABACO Việt Nam (số 35, Lý Thái Tổ, phường Võ Cường, thành phố Bắc Ninh, tỉnh Bắc Ninh)"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

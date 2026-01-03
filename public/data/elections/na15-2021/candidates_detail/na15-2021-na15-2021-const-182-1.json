@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-182-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ba9cbeb73612",
+    "full_name": "Thái Quỳnh Mai Dung",
+    "full_name_folded": "thai quynh mai dung",
+    "dob": "15/5/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Đức Lâm, huyện Đức Thọ, tỉnh Hà Tĩnh",
+    "current_residence": "Nhà 5, ngõ 82/41, Nguyễn Phúc Lai, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-182",
+    "list_order": 1,
+    "party_member_since": "30/3/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-227643b06427",
+    "name_vi": "Tỉnh Vĩnh Phúc",
+    "name_folded": "tinh vinh phuc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-182",
+    "locality_id": "loc-227643b06427",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Sông Lô, Huyện Tam Dương, Huyện Tam Đảo, Huyện Lập Thạch, Huyện Bình Xuyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Phúc Đơn vị bầu cử Số 2: Gồm các huyện: Sông Lô, Tam Dương, Tam Đảo, Lập Thạch và Bình Xuyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Xuyên",
+        "name_folded": "huyen binh xuyen"
+      },
+      {
+        "name_vi": "Huyện Lập Thạch",
+        "name_folded": "huyen lap thach"
+      },
+      {
+        "name_vi": "Huyện Sông Lô",
+        "name_folded": "huyen song lo"
+      },
+      {
+        "name_vi": "Huyện Tam Dương",
+        "name_folded": "huyen tam duong"
+      },
+      {
+        "name_vi": "Huyện Tam Đảo",
+        "name_folded": "huyen tam dao"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Nga, Thạc sĩ Chính sách công - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh; Thạc sĩ chuyên ngành chính sách công; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Tổng Liên đoàn lao động Việt Nam; Bí thư Chi bộ Ban đối ngoại; Ủy viên Đoàn Chủ tịch Tổng Liên đoàn lao động Việt Nam; Trưởng Ban Đối ngoại, Tổng Liên đoàn lao động Việt Nam; Ủy viên Đoàn Chủ tịch Liên hiệp các tổ chức hữu nghị Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Tổng Liên đoàn lao động Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-68-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5c41f97478c9",
+    "full_name": "Phạm Thị Kiều",
+    "full_name_folded": "pham thi kieu",
+    "dob": "20/10/1981",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mnông",
+    "religion": "Không",
+    "birthplace": "Xã Phổ Phong, huyện Đức Phổ, tỉnh Quảng Ngãi",
+    "current_residence": "Đường Điện Biên Phủ, tổ 3, phường Nghĩa Trung, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-68",
+    "list_order": 2,
+    "party_member_since": "08/10/2018",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-68",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Gia Nghĩa, Huyện Đắk Glong, Huyện Đắk R'Lấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 2: Gồm thành phố Gia Nghĩa và các huyện: Đắk Glong, Đắk R`Lấp, Tuy Đức, Đắk Song. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đắk Glong",
+        "name_folded": "huyen dak glong"
+      },
+      {
+        "name_vi": "Huyện Đắk R'Lấp",
+        "name_folded": "huyen dak r lap"
+      },
+      {
+        "name_vi": "Thành phố Gia Nghĩa",
+        "name_folded": "thanh pho gia nghia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ chuyên khoa I"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành y khoa, Bác sĩ chuyên khoa Nội I"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ 8; Bác sĩ, Phó Trưởng khoa Khoa khám sức khỏe cán bộ tỉnh Bệnh viện Đa khoa tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Đa khoa tỉnh Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-66-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-18b20443a23c",
+    "full_name": "Phúc Bình Niê Kdăm",
+    "full_name_folded": "phuc binh nie kdam",
+    "dob": "08/9/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Ê-đê",
+    "religion": "Không",
+    "birthplace": "Thị trấn Ea Pôk, huyện Cư M’gar, tỉnh Đắk Lắk",
+    "current_residence": "Số 60, Bùi Thị Xuân, phường Tự An, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-66",
+    "list_order": 1,
+    "party_member_since": "16/7/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-66",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Buôn Hồ, Huyện Ea H'Leo, Huyện Krông Búk, Huyện Krông Năng, Huyện Ea Kar",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 3: Gồm thị xã Buôn Hồ và các huyện: Ea H`Leo, Krông Búk, Krông Năng, Ea Kar. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ea H'Leo",
+        "name_folded": "huyen ea h leo"
+      },
+      {
+        "name_vi": "Huyện Ea Kar",
+        "name_folded": "huyen ea kar"
+      },
+      {
+        "name_vi": "Huyện Krông Búk",
+        "name_folded": "huyen krong buk"
+      },
+      {
+        "name_vi": "Huyện Krông Năng",
+        "name_folded": "huyen krong nang"
+      },
+      {
+        "name_vi": "Thị xã Buôn Hồ",
+        "name_folded": "thi xa buon ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế, luật; Thạc sĩ quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đắk Lắk"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đắk Lắk"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

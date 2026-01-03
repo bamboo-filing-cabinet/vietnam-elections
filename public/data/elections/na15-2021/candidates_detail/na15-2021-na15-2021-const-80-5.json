@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-80-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-93dd006a6990",
+    "full_name": "Y Thanh Hà Niê Kđăm",
+    "full_name_folded": "y thanh ha nie kdam",
+    "dob": "23/12/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Ê-đê",
+    "religion": "Không",
+    "birthplace": "Thị trấn Ea Pốk, huyện Cư M`gar, tỉnh Đắk Lắk",
+    "current_residence": "Nhà khách Hồ Tây, số 43 đường Đặng Thai Mai, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-80",
+    "list_order": 5,
+    "party_member_since": "05/10/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-80",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Ayun Pa, Huyện Krông Pa, Huyện Ia Pa, Huyện Phú Thiện, Huyện Chư Sê, Huyện Chư Pưh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 3: Gồm thị xã Ayun Pa và các huyện: Krông Pa, Ia Pa, Phú Thiện, Chư Sê, Chư Pưh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chư Pưh",
+        "name_folded": "huyen chu puh"
+      },
+      {
+        "name_vi": "Huyện Chư Sê",
+        "name_folded": "huyen chu se"
+      },
+      {
+        "name_vi": "Huyện Ia Pa",
+        "name_folded": "huyen ia pa"
+      },
+      {
+        "name_vi": "Huyện Krông Pa",
+        "name_folded": "huyen krong pa"
+      },
+      {
+        "name_vi": "Huyện Phú Thiện",
+        "name_folded": "huyen phu thien"
+      },
+      {
+        "name_vi": "Thị xã Ayun Pa",
+        "name_folded": "thi xa ayun pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Đảng ủy Khối Doanh nghiệp trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Đảng ủy Khối Doanh nghiệp trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

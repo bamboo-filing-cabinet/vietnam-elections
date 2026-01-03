@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-98-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d095a0236c52",
+    "full_name": "Nguyễn Thị Liên",
+    "full_name_folded": "nguyen thi lien",
+    "dob": "17/01/1988",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bát Trang, huyện An Lão, thành phố Hải Phòng",
+    "current_residence": "Khu phố Nam Tiến, phường Hồng Châu, thành phố Hưng Yên, tỉnh Hưng Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-98",
+    "list_order": 1,
+    "party_member_since": "05/6/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-98",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Mỹ Hào, Huyện Văn Giang, Huyện Văn Lâm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 3: Gồm thị xã Mỹ Hào và các huyện: Văn Giang, Văn Lâm. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Văn Giang",
+        "name_folded": "huyen van giang"
+      },
+      {
+        "name_vi": "Huyện Văn Lâm",
+        "name_folded": "huyen van lam"
+      },
+      {
+        "name_vi": "Thị xã Mỹ Hào",
+        "name_folded": "thi xa my hao"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Việt Nam học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Phòng Văn hóa - Văn nghệ, Ban Tuyên giáo Tỉnh ủy Hưng Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tuyên giáo Tỉnh ủy Hưng Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

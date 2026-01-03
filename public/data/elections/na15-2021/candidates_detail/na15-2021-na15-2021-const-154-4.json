@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-154-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-247f65513874",
+    "full_name": "Vi Đức Thọ",
+    "full_name_folded": "vi duc tho",
+    "dob": "22/11/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Tú Nang, huyện Yên Châu, tỉnh Sơn La",
+    "current_residence": "Tổ 7, phường Tô Hiệu, thành phố Sơn La, tỉnh Sơn La"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-154",
+    "list_order": 4,
+    "party_member_since": "02/6/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Sơn La nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-154",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Mộc Châu, Huyện Vân Hồ, Huyện Phù Yên, Huyện Bắc Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 3: Gồm các huyện: Mộc Châu, Vân Hồ, Phù Yên và Bắc Yên. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Yên",
+        "name_folded": "huyen bac yen"
+      },
+      {
+        "name_vi": "Huyện Mộc Châu",
+        "name_folded": "huyen moc chau"
+      },
+      {
+        "name_vi": "Huyện Phù Yên",
+        "name_folded": "huyen phu yen"
+      },
+      {
+        "name_vi": "Huyện Vân Hồ",
+        "name_folded": "huyen van ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ quản lý dự án xây dựng - Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế xây dựng; Thạc sĩ chuyên ngành quản lý dự án xây dựng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ tỉnh ủy, Bí thư Đảng đoàn, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Sơn La"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Sơn La"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

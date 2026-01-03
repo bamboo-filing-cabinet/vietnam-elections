@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-81-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5d3f660d3bba",
+    "full_name": "Phạm Thúy Chinh",
+    "full_name_folded": "pham thuy chinh",
+    "dob": "15/01/1970",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "HMông",
+    "religion": "Không",
+    "birthplace": "Phường Sa Pa, thị xã Sa Pa, tỉnh Lào Cai",
+    "current_residence": "Số nhà LK3-20, khu nhà ở 90 Nguyễn Tuân, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-81",
+    "list_order": 1,
+    "party_member_since": "08/3/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-61a56c5d8d33",
+    "name_vi": "Tỉnh Hà Giang",
+    "name_folded": "ha giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-81",
+    "locality_id": "loc-61a56c5d8d33",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Giang, Huyện Đồng Văn, Huyện Mèo Vạc, Huyện Yên Minh, Huyện Quản Bạ, Huyện Bắc Mê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Giang Đơn vị bầu cử Số 1: Gồm thành phố Hà Giang và các huyện: Đồng Văn, Mèo Vạc, Yên Minh, Quản Bạ, Bắc Mê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Mê",
+        "name_folded": "huyen bac me"
+      },
+      {
+        "name_vi": "Huyện Mèo Vạc",
+        "name_folded": "huyen meo vac"
+      },
+      {
+        "name_vi": "Huyện Quản Bạ",
+        "name_folded": "huyen quan ba"
+      },
+      {
+        "name_vi": "Huyện Yên Minh",
+        "name_folded": "huyen yen minh"
+      },
+      {
+        "name_vi": "Huyện Đồng Văn",
+        "name_folded": "huyen dong van"
+      },
+      {
+        "name_vi": "Thành phố Hà Giang",
+        "name_folded": "thanh pho ha giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng Đảng và chính quyền nhà nước; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Trưởng Ban Dân vận Đảng ủy cơ quan Văn phòng Quốc hội, Phó Chủ nhiệm Văn phòng Quốc hội; Ủy viên Ban Chấp hành Công đoàn Viên chức Việt Nam, Chủ tịch Công đoàn cơ quan Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

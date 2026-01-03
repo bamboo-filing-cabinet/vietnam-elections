@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-144-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cabd70ff5c2f",
+    "full_name": "Nguyễn Thị Kim Nhàn",
+    "full_name_folded": "nguyen thi kim nhan",
+    "dob": "12/11/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Liên Khê, huyện Thủy Nguyên, thành phố Hải Phòng",
+    "current_residence": "Chung cư The Sapphire, số 1, Bến Đoan, phường Hồng Gai, thành phố Hạ Long, tỉnh Quảng Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-144",
+    "list_order": 2,
+    "party_member_since": "15/5/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Tiên Yên  nhiệm kỳ 2004-2011"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-144",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hạ Long, Thành phố Cẩm Phả",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 1: Gồm các thành phố: Hạ Long và Cẩm Phả. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Cẩm Phả",
+        "name_folded": "thanh pho cam pha"
+      },
+      {
+        "name_vi": "Thành phố Hạ Long",
+        "name_folded": "thanh pho ha long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục chính trị; Thạc sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Quảng Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Quảng Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

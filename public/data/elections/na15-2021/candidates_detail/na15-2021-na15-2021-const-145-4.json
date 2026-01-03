@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-145-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d47682fa57f2",
+    "full_name": "Lương Công Quyết (Hòa thượng Thích Thanh Quyết)",
+    "full_name_folded": "luong cong quyet hoa thuong thich thanh quyet",
+    "dob": "15/6/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Thanh Thủy, huyện Thanh Liêm, tỉnh Hà Nam",
+    "current_residence": "Chùa Yên Tử, xã Thượng Yên Công, thành phố Uông Bí, tỉnh Quảng Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-145",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Quảng Ninh nhiệm kỳ 2011-2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-145",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Uông Bí, Thị xã Dông Triều, Thị xã Quảng Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 2: Gồm thành phố Uông Bí và các thị xã: Đông Triều, Quảng Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Uông Bí",
+        "name_folded": "thanh pho uong bi"
+      },
+      {
+        "name_vi": "Thị xã Dông Triều",
+        "name_folded": "thi xa dong trieu"
+      },
+      {
+        "name_vi": "Thị xã Quảng Yên",
+        "name_folded": "thi xa quang yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Trung"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Trung); Tiến sĩ chuyên ngành phật giáo"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội đồng trị sự Trung ương Giáo hội phật giáo Việt Nam, Trưởng Ban Giáo dục Phật giáo Trung ương, Viện trưởng Học viện Phật giáo Việt Nam tại Hà Nội, Trưởng Ban trị sự Giáo hội phật giáo Việt Nam tỉnh Quảng Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Trị sự Giáo hội Phật giáo Việt Nam tỉnh Quảng Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

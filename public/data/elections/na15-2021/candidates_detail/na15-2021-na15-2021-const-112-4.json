@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-112-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a72d99c1bd97",
+    "full_name": "Trần Cẩm Tú",
+    "full_name_folded": "tran cam tu",
+    "dob": "25/8/1961",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Bằng, huyện Hương Sơn, tỉnh Hà Tĩnh",
+    "current_residence": "Số 76, Phan Đình Phùng, phường Quán Thánh, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-112",
+    "list_order": 4,
+    "party_member_since": "10/3/1990",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Hương Sơn (tỉnh Hà Tĩnh) nhiệm kỳ 2004-2011; Tỉnh Hà Tĩnh nhiệm kỳ nhiệm kỳ 2004-2011"
+  },
+  "locality": {
+    "id": "loc-01701c894c7e",
+    "name_vi": "Tỉnh Lào Cai",
+    "name_folded": "lao cai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-112",
+    "locality_id": "loc-01701c894c7e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Sa Pa, Huyện Bảo Thắng, Huyện Bảo Yên, Huyện Văn Bàn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lào Cai Đơn vị bầu cử Số 2: Gồm thị xã Sa Pa và các huyện: Bảo Thắng, Bảo Yên, Văn Bàn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Thắng",
+        "name_folded": "huyen bao thang"
+      },
+      {
+        "name_vi": "Huyện Bảo Yên",
+        "name_folded": "huyen bao yen"
+      },
+      {
+        "name_vi": "Huyện Văn Bàn",
+        "name_folded": "huyen van ban"
+      },
+      {
+        "name_vi": "Thị xã Sa Pa",
+        "name_folded": "thi xa sa pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lâm nghiệp; Tiến sĩ chuyên ngành nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ nhiệm Ủy ban Kiểm tra Trung ương; Phó Trưởng Ban chỉ đạo trung ương về phòng, chống tham nhũng"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Kiểm tra Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

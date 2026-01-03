@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-158-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1a97b070a768",
+    "full_name": "Nguyễn Thị Thu Dung",
+    "full_name_folded": "nguyen thi thu dung",
+    "dob": "04/8/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nguyên Xá, huyện Đông Hưng, tỉnh Thái Bình",
+    "current_residence": "Số nhà 50, đường số 11, tổ 12, phường Trần Hưng Đạo, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-158",
+    "list_order": 2,
+    "party_member_since": "13/10/2000",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Thái Bình nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-158",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Đông Hưng, Huyện Thái Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 2: Gồm các huyện: Đông Hưng và Thái Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thái Thụy",
+        "name_folded": "huyen thai thuy"
+      },
+      {
+        "name_vi": "Huyện Đông Hưng",
+        "name_folded": "huyen dong hung"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Hiệu trưởng Trường Cao đẳng Y tế Thái Bình; Ủy viên Ban Thường vụ công đoàn ngành y tế Thái Bình; Ủy viên Ủy ban về các vấn đề Xã hội của Quốc hội; Phó Chủ tịch Thường trực kiêm Thư ký Hội Y tế công cộng Thái Bình; Ủy viên Ủy ban Mặt trận Tổ quốc tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Cao đẳng Y tế Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

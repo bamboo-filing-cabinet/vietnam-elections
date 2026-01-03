@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-166-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1289bc9158f7",
+    "full_name": "Lương Thị Hương",
+    "full_name_folded": "luong thi huong",
+    "dob": "06/8/1988",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Điện, huyện Quan Sơn, tỉnh Thanh Hóa",
+    "current_residence": "Khu phố 1, thị trấn Sơn Lư, huyện Quan Sơn, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-166",
+    "list_order": 3,
+    "party_member_since": "19/5/2016",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Quan Sơn nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-166",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Huyện Triệu Sơn, Huyện Thiệu Hóa, Huyện Yên Định, Huyện Thọ Xuân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 4: Gồm các huyện: Triệu Sơn, Thiệu Hóa, Yên Định và Thọ Xuân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thiệu Hóa",
+        "name_folded": "huyen thieu hoa"
+      },
+      {
+        "name_vi": "Huyện Thọ Xuân",
+        "name_folded": "huyen tho xuan"
+      },
+      {
+        "name_vi": "Huyện Triệu Sơn",
+        "name_folded": "huyen trieu son"
+      },
+      {
+        "name_vi": "Huyện Yên Định",
+        "name_folded": "huyen yen dinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A2, nói được tiếng dân tộc Mường, dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm âm nhạc, quản lý nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Huyện đoàn huyện Quan Sơn, tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện đoàn huyện Quan Sơn, tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

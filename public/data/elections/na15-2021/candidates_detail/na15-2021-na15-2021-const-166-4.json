@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-166-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fc714069e915",
+    "full_name": "Nguyễn Hữu Thành",
+    "full_name_folded": "nguyen huu thanh",
+    "dob": "03/02/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Quảng Tiến, thành phố Sầm Sơn, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 153/4 Đông Phát 1, phường Đông Vệ, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-166",
+    "list_order": 4,
+    "party_member_since": "04/5/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-166",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Huyện Triệu Sơn, Huyện Thiệu Hóa, Huyện Yên Định, Huyện Thọ Xuân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 4: Gồm các huyện: Triệu Sơn, Thiệu Hóa, Yên Định và Thọ Xuân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thiệu Hóa",
+        "name_folded": "huyen thieu hoa"
+      },
+      {
+        "name_vi": "Huyện Thọ Xuân",
+        "name_folded": "huyen tho xuan"
+      },
+      {
+        "name_vi": "Huyện Triệu Sơn",
+        "name_folded": "huyen trieu son"
+      },
+      {
+        "name_vi": "Huyện Yên Định",
+        "name_folded": "huyen yen dinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Bác sĩ y khoa, Thạc sĩ chuyên ngành y khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, Trưởng Khoa tim mạch lồng ngực, Bệnh viện Nhi Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Nhi Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

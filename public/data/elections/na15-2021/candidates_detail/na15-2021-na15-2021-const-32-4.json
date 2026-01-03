@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-32-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0e2a9edf589d",
+    "full_name": "Nguyễn Công Tâm",
+    "full_name_folded": "nguyen cong tam",
+    "dob": "20/8/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuyên Mộc, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu",
+    "current_residence": "Ấp Nhân Tâm, xã Xuyên Mộc, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-32",
+    "list_order": 4,
+    "party_member_since": "12/11/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-32",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vũng Tàu, Huyện Long Điền, Huyện Đất Đỏ, Huyện Côn Đảo",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 1: Gồm thành phố Vũng Tàu và các huyện: Long Điền, Đất Đỏ, Côn Đảo. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Côn Đảo",
+        "name_folded": "huyen con dao"
+      },
+      {
+        "name_vi": "Huyện Long Điền",
+        "name_folded": "huyen long dien"
+      },
+      {
+        "name_vi": "Huyện Đất Đỏ",
+        "name_folded": "huyen dat do"
+      },
+      {
+        "name_vi": "Thành phố Vũng Tàu",
+        "name_folded": "thanh pho vung tau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh doanh; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chánh Văn phòng Tỉnh ủy Bà Rịa - Vũng Tàu; Chủ tịch Công đoàn cơ sở Văn phòng Tỉnh ủy Bà Rịa - Vũng Tàu"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Tỉnh ủy Bà Rịa - Vũng Tàu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

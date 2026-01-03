@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-58-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a700494445a0",
+    "full_name": "Trần Thị Kim Chung",
+    "full_name_folded": "tran thi kim chung",
+    "dob": "01/10/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Bửu, huyện Bến Lức, tỉnh Long An",
+    "current_residence": "Số 85, đường Phạm Hùng, khu phố 6, phường Phú Thủy, thành phố Phan Thiết, tỉnh Bình Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-58",
+    "list_order": 1,
+    "party_member_since": "28/7/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-58",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã La Gi, Huyện Đức Linh, Huyện Tánh Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 3: Gồm thị xã La Gi và các huyện: Đức Linh, Tánh Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tánh Linh",
+        "name_folded": "huyen tanh linh"
+      },
+      {
+        "name_vi": "Huyện Đức Linh",
+        "name_folded": "huyen duc linh"
+      },
+      {
+        "name_vi": "Thị xã La Gi",
+        "name_folded": "thi xa la gi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh tương đương B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kỹ thuật công nghiệp; Thạc sĩ chuyên ngành giáo dục học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ Trường Cao đẳng nghề tỉnh Bình Thuận, Phó Hiệu trưởng phụ trách Trường Cao đẳng nghề tỉnh Bình Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Cao đẳng nghề tỉnh Bình Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

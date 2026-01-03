@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-110-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9507522647bb",
+    "full_name": "Nguyễn Ngọc Sơn",
+    "full_name_folded": "nguyen ngoc son",
+    "dob": "04/06/1987",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã An Sơn, huyện Văn Quan, tỉnh Lạng Sơn",
+    "current_residence": "Số 02, Phai Luông 9, phường Chi Lăng, thành phố Lạng Sơn, tỉnh Lạng Sơn"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-110",
+    "list_order": 2,
+    "party_member_since": "28/10/2015",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b490ac3ab172",
+    "name_vi": "Tỉnh Lạng Sơn",
+    "name_folded": "lang son",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-110",
+    "locality_id": "loc-b490ac3ab172",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Lạng Sơn, Huyện Tràng Định, Huyện Văn Lãng, Huyện Cao Lộc, Huyện Lộc Bình, Huyện Đình Lập",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lạng Sơn Đơn vị bầu cử Số 2: Gồm thành phố Lạng Sơn và các huyện: Tràng Định, Văn Lãng, Cao Lộc, Lộc Bình, Đình Lập. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Lộc",
+        "name_folded": "huyen cao loc"
+      },
+      {
+        "name_vi": "Huyện Lộc Bình",
+        "name_folded": "huyen loc binh"
+      },
+      {
+        "name_vi": "Huyện Tràng Định",
+        "name_folded": "huyen trang dinh"
+      },
+      {
+        "name_vi": "Huyện Văn Lãng",
+        "name_folded": "huyen van lang"
+      },
+      {
+        "name_vi": "Huyện Đình Lập",
+        "name_folded": "huyen dinh lap"
+      },
+      {
+        "name_vi": "Thành phố Lạng Sơn",
+        "name_folded": "thanh pho lang son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý tài chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Phòng Kế hoạch tài chính, Sở Khoa học và Công nghệ tỉnh Lạng Sơn"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Khoa học và Công nghệ tỉnh Lạng Sơn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

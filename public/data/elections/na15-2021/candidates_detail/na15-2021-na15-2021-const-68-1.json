@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-68-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f5035869a3cc",
+    "full_name": "Ngô Thanh Danh",
+    "full_name_folded": "ngo thanh danh",
+    "dob": "20/10/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Nam, huyện Thăng Bình, tỉnh Quảng Nam",
+    "current_residence": "Số nhà 223, đường Quang Trung, phường Nghĩa Tân, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-68",
+    "list_order": 1,
+    "party_member_since": "10/3/1989",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Huyện Tuy Đức (tỉnh Đắk Nông) nhiệm kỳ 2006-2011; Tỉnh Đắk Nông nhiệm kỳ 2011 - 2016"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-68",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Gia Nghĩa, Huyện Đắk Glong, Huyện Đắk R'Lấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 2: Gồm thành phố Gia Nghĩa và các huyện: Đắk Glong, Đắk R`Lấp, Tuy Đức, Đắk Song. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đắk Glong",
+        "name_folded": "huyen dak glong"
+      },
+      {
+        "name_vi": "Huyện Đắk R'Lấp",
+        "name_folded": "huyen dak r lap"
+      },
+      {
+        "name_vi": "Thành phố Gia Nghĩa",
+        "name_folded": "thanh pho gia nghia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, Tiếng Nga B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lịch sử; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Tỉnh ủy, Trưởng đoàn đại biểu Quốc hội khóa XIV tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

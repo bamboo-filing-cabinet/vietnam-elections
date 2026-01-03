@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-112-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-70bd6bec2a72",
+    "full_name": "Hoàng Thị Mỹ Hạnh",
+    "full_name_folded": "hoang thi my hanh",
+    "dob": "07/5/1981",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Yên Thọ, huyện Ý Yên, tỉnh Nam Định",
+    "current_residence": "Số nhà 112, phố Lưu Hữu Phước, tổ 17, phường Bắc Lệnh, thành phố Lào Cai, tỉnh Lào Cai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-112",
+    "list_order": 2,
+    "party_member_since": "09/02/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-01701c894c7e",
+    "name_vi": "Tỉnh Lào Cai",
+    "name_folded": "lao cai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-112",
+    "locality_id": "loc-01701c894c7e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Sa Pa, Huyện Bảo Thắng, Huyện Bảo Yên, Huyện Văn Bàn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lào Cai Đơn vị bầu cử Số 2: Gồm thị xã Sa Pa và các huyện: Bảo Thắng, Bảo Yên, Văn Bàn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Thắng",
+        "name_folded": "huyen bao thang"
+      },
+      {
+        "name_vi": "Huyện Bảo Yên",
+        "name_folded": "huyen bao yen"
+      },
+      {
+        "name_vi": "Huyện Văn Bàn",
+        "name_folded": "huyen van ban"
+      },
+      {
+        "name_vi": "Thị xã Sa Pa",
+        "name_folded": "thi xa sa pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành lý luận văn học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Phòng Giáo dục Trung học, Sở Giáo dục và Đào tạo tỉnh Lào Cai"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Giáo dục và Đào tạo tỉnh Lào Cai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-16-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b88aca311e05",
+    "full_name": "Nguyễn Thiện Nhân",
+    "full_name_folded": "nguyen thien nhan",
+    "dob": "12/6/1953",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Tường A, huyện Càng Long, tỉnh Trà Vinh",
+    "current_residence": "X1 Ba Vì, tổ dân phố 8, khu phố 6, phường 15, quận 10, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-16",
+    "list_order": 4,
+    "party_member_since": "04/01/1980",
+    "is_na_delegate": "X, XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-16",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Bình Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 6: Gồm quận Bình Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Bình Tân",
+        "name_folded": "quan binh tan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư kinh tế, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Đức D; Tiếng Anh D"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành hành chính công; Tiến sĩ chuyên ngành tự động hóa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng Đoàn đại biểu Quốc hội Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

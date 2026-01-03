@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-134-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-086563f8fbc6",
+    "full_name": "Võ Thị Minh Duyên",
+    "full_name_folded": "vo thi minh duyen",
+    "dob": "14/10/1972",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Tân Đông, thị xã Đông Hòa, tỉnh Phú Yên",
+    "current_residence": "Số 205, Lê Duẩn, phường 6, thành phố Tuy Hòa, tỉnh Phú Yên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-134",
+    "list_order": 1,
+    "party_member_since": "12/02/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ed5f171275ee",
+    "name_vi": "Tỉnh Phú Yên",
+    "name_folded": "phu yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-134",
+    "locality_id": "loc-ed5f171275ee",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Đông Hòa, Huyện Phú Hòa, Huyện Tây Hòa, Huyện Sơn Hòa, Huyện Sông Hinh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Yên Đơn vị bầu cử Số 1: Gồm thị xã Đông Hòa và các huyện: Phú Hòa, Tây Hòa, Sơn Hòa, Sông Hinh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phú Hòa",
+        "name_folded": "huyen phu hoa"
+      },
+      {
+        "name_vi": "Huyện Sông Hinh",
+        "name_folded": "huyen song hinh"
+      },
+      {
+        "name_vi": "Huyện Sơn Hòa",
+        "name_folded": "huyen son hoa"
+      },
+      {
+        "name_vi": "Huyện Tây Hòa",
+        "name_folded": "huyen tay hoa"
+      },
+      {
+        "name_vi": "Thị xã Đông Hòa",
+        "name_folded": "thi xa dong hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Tiếng Nga C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm sử - chính trị; Thạc sĩ chuyên ngành lịch sử Việt Nam"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Chủ tịch Hội đồng trường Trường Đại học Phú Yên"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Phú Yên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-103-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d3aa68dd45b8",
+    "full_name": "Lê Thành Long",
+    "full_name_folded": "le thanh long",
+    "dob": "23/9/1963",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Quảng Thọ, thành phố Sầm Sơn, tỉnh Thanh Hóa",
+    "current_residence": "P.1705, D2 Giảng Võ, phường Giảng Võ, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-103",
+    "list_order": 2,
+    "party_member_since": "06/4/1991",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-103",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện An Biên, Huyện An Minh, Huyện Vĩnh Thuận, Huyện U Minh Thượng, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 2: Gồm các huyện: An Biên, An Minh, Vĩnh Thuận, U Minh Thượng và Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Biên",
+        "name_folded": "huyen an bien"
+      },
+      {
+        "name_vi": "Huyện An Minh",
+        "name_folded": "huyen an minh"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện U Minh Thượng",
+        "name_folded": "huyen u minh thuong"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thuận",
+        "name_folded": "huyen vinh thuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Đại học luật - tiếng Nga; Tiến sĩ luật - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Ban Cán sự đảng, Bộ trưởng Bộ Tư pháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Tư pháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-128-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d4ab4706d30b",
+    "full_name": "Nguyễn Thị Thanh",
+    "full_name_folded": "nguyen thi thanh",
+    "dob": "10/02/1967",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Yên Nhân, huyện Yên Mô, tỉnh Ninh Bình",
+    "current_residence": "Nhà Công vụ số 7, 43 phố Đặng Thai Mai, phường Quảng An, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-128",
+    "list_order": 2,
+    "party_member_since": "05/9/1988",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Ninh Bình nhiệm kỳ 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-110c712f454d",
+    "name_vi": "Tỉnh Ninh Bình",
+    "name_folded": "ninh binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-128",
+    "locality_id": "loc-110c712f454d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tam Điệp, Huyện Kim Sơn, Huyện Yên Khánh, Huyện Yên Mô",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Bình Đơn vị bầu cử Số 2: Gồm thành phố Tam Điệp và các huyện: Kim Sơn, Yên Khánh, Yên Mô. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Sơn",
+        "name_folded": "huyen kim son"
+      },
+      {
+        "name_vi": "Huyện Yên Khánh",
+        "name_folded": "huyen yen khanh"
+      },
+      {
+        "name_vi": "Huyện Yên Mô",
+        "name_folded": "huyen yen mo"
+      },
+      {
+        "name_vi": "Thành phố Tam Điệp",
+        "name_folded": "thanh pho tam diep"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành thanh vận, luật; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Phó Trưởng Ban Tổ chức Trung ương; Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Trưởng Ban Công tác đại biểu thuộc Ủy ban Thường vụ Quốc hội; Ủy viên Ủy ban về các vấn đề Xã hội của Quốc hội; Ủy viên Hội đồng bầu cử quốc gia, Phó Chánh Văn phòng Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Công tác đại biểu thuộc Ủy ban Thường vụ Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

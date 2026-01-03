@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-153-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-606dc4704fa4",
+    "full_name": "Lò Lan Phương",
+    "full_name_folded": "lo lan phuong",
+    "dob": "06/5/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Mường É, huyện Thuận Châu, tỉnh Sơn La",
+    "current_residence": "Tổ dân phố 3, thị trấn Sông Mã, huyện Sông Mã, tỉnh Sơn La"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-153",
+    "list_order": 4,
+    "party_member_since": "30/3/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Sông Mã nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-153",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Mường La, Huyện Sông Mã, Huyện Sốp Cộp, Huyện Quỳnh Nhai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 2: Gồm các huyện Mường La, Sông Mã, Sốp Cộp và Quỳnh Nhai. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường La",
+        "name_folded": "huyen muong la"
+      },
+      {
+        "name_vi": "Huyện Quỳnh Nhai",
+        "name_folded": "huyen quynh nhai"
+      },
+      {
+        "name_vi": "Huyện Sông Mã",
+        "name_folded": "huyen song ma"
+      },
+      {
+        "name_vi": "Huyện Sốp Cộp",
+        "name_folded": "huyen sop cop"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1, biết nói tiếng dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành giáo dục và phát triển cộng đồng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Huyện ủy viên; Bí thư Đảng ủy xã Nà Nghịu, huyện Sông Mã, tỉnh Sơn La"
+    },
+    {
+      "key": "workplace",
+      "value": "Đảng ủy xã Nà Nghịu, huyện Sông Mã, tỉnh Sơn La"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

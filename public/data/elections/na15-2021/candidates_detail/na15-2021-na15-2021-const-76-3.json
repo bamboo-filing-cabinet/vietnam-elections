@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-76-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ccf25f7eac6f",
+    "full_name": "Hồ Kim Liên",
+    "full_name_folded": "ho kim lien",
+    "dob": "25/8/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Tân, thành phố Cao Lãnh, tỉnh Đồng Tháp",
+    "current_residence": "Số 80, đường Mai Văn Khải, ấp 3, xã Mỹ Tân, thành phố Cao Lãnh, tỉnh Đồng Tháp"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-76",
+    "list_order": 3,
+    "party_member_since": "18/5/2015",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-0e3718a4a90a",
+    "name_vi": "Tỉnh Đồng Tháp",
+    "name_folded": "dong thap",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-76",
+    "locality_id": "loc-0e3718a4a90a",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Cao Lãnh, Huyện Thanh Bình, Huyện Cao Lãnh, Huyện Tháp Mười",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Tháp Đơn vị bầu cử Số 2: Gồm thành phố Cao Lãnh và các huyện: Thanh Bình, Cao Lãnh, Tháp Mười. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Lãnh",
+        "name_folded": "huyen cao lanh"
+      },
+      {
+        "name_vi": "Huyện Thanh Bình",
+        "name_folded": "huyen thanh binh"
+      },
+      {
+        "name_vi": "Huyện Tháp Mười",
+        "name_folded": "huyen thap muoi"
+      },
+      {
+        "name_vi": "Thành phố Cao Lãnh",
+        "name_folded": "thanh pho cao lanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Cử nhân tiếng Pháp"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Pháp văn, kinh tế chính trị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Ủy viên Thường trực, Chánh Văn phòng Cơ quan Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đồng Tháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đồng Tháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

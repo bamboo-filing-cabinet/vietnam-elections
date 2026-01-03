@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-14-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1b90489a6deb",
+    "full_name": "Trần Hoàng Ngân",
+    "full_name_folded": "tran hoang ngan",
+    "dob": "26/10/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhị Quý, huyện Cai Lậy, tỉnh Tiền Giang",
+    "current_residence": "Số 013 lô I chung cư Đồng Diều, đường Châu Thị Hóa, tổ dân phố 131, khu phố 9, phường 4, quận 8, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-14",
+    "list_order": 3,
+    "party_member_since": "25/12/1985",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-14",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận 10, Quận 12",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 4: Gồm các quận: Quận 10 và Quận 12. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 10",
+        "name_folded": "quan 10"
+      },
+      {
+        "name_vi": "Quận 12",
+        "name_folded": "quan 12"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tín dụng ngân hàng, ngoại ngữ; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Bí thư Đảng ủy, Viện trưởng Viện Nghiên cứu phát triển Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Nghiên cứu phát triển Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

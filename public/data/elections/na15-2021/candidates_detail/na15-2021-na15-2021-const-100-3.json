@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-100-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b4d2b1b37b56",
+    "full_name": "Đỗ Ngọc Thịnh",
+    "full_name_folded": "do ngoc thinh",
+    "dob": "10/01/1960",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Võ Cường, thành phố Bắc Ninh, tỉnh Bắc Ninh",
+    "current_residence": "P2106, Nhà 101 Láng Hạ, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-100",
+    "list_order": 3,
+    "party_member_since": "27/12/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-100",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Nha Trang",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 2: Gồm thành phố Nha Trang. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Nha Trang",
+        "name_folded": "thanh pho nha trang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Luật sư, Bí thư Đảng đoàn, Chủ tịch Liên đoàn Luật sư Việt Nam; Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Ủy viên Ban Chỉ đạo Cải cách tư pháp Trung ương; Ủy viên Ủy ban Pháp luật của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Luật sư Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

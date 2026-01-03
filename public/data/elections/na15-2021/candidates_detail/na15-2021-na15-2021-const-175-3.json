@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-175-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-127a4885c36b",
+    "full_name": "Huỳnh Thị Hằng Nga",
+    "full_name_folded": "huynh thi hang nga",
+    "dob": "28/8/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khmer",
+    "religion": "Không",
+    "birthplace": "Xã Đôn Châu, huyện Duyên Hải, tỉnh Trà Vinh",
+    "current_residence": "Số 449/33, đường Dương Quang Đông, khóm 4, phường 5, thành phố Trà Vinh, tỉnh Trà Vinh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-175",
+    "list_order": 3,
+    "party_member_since": "10/6/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-fdf0dcd56901",
+    "name_vi": "Tỉnh Trà Vinh",
+    "name_folded": "tinh tra vinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-175",
+    "locality_id": "loc-fdf0dcd56901",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Duyên Hải, Huyện Châu Thành, Huyện Cầu Ngang, Huyện Trà Cú, Duyên Hải",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Trà Vinh Đơn vị bầu cử Số 2: Gồm thị xã Duyên Hải và các huyện: Châu Thành, Cầu Ngang, Trà Cú, Duyên Hải. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Duyên Hải",
+        "name_folded": "duyen hai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cầu Ngang",
+        "name_folded": "huyen cau ngang"
+      },
+      {
+        "name_vi": "Huyện Trà Cú",
+        "name_folded": "huyen tra cu"
+      },
+      {
+        "name_vi": "Thị xã Duyên Hải",
+        "name_folded": "thi xa duyen hai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1; Cấp 1 ngữ văn Khmer"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính; Thạc sĩ chuyên ngành luật Hiến pháp và luật hành chính"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Bí thư Huyện ủy Càng Long, tỉnh Trà Vinh"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Càng Long, tỉnh Trà Vinh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

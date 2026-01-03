@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-74-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e5591eed1e7d",
+    "full_name": "Vũ Hải Hà",
+    "full_name_folded": "vu hai ha",
+    "dob": "01/3/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hải Anh, huyện Hải Hậu, tỉnh Nam Định",
+    "current_residence": "P206, N3, ngõ 36, phố Vạn Bảo, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-74",
+    "list_order": 2,
+    "party_member_since": "01/4/1995",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-74",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thành phố Long Khánh, Huyện Xuân Lộc, Huyện Định Quán, Huyện Tân Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 4: Gồm thành phố Long Khánh và các huyện: Xuân Lộc, Định Quán, Tân Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tân Phú",
+        "name_folded": "huyen tan phu"
+      },
+      {
+        "name_vi": "Huyện Xuân Lộc",
+        "name_folded": "huyen xuan loc"
+      },
+      {
+        "name_vi": "Huyện Định Quán",
+        "name_folded": "huyen dinh quan"
+      },
+      {
+        "name_vi": "Thành phố Long Khánh",
+        "name_folded": "thanh pho long khanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Tây Ban Nha; tiếng Pháp (cơ bản)"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngôn ngữ (tiếng Anh), luật; Thạc sĩ chuyên ngành quản lý chính sách công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Đối ngoại của Quốc hội; Tổng Thư ký Tổ chức Nghị sĩ hữu nghị Việt Nam với các nước; Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Nghị viện Châu Âu (EP); Phó Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Campuchia"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

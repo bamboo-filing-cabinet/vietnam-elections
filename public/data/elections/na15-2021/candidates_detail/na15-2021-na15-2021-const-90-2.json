@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-90-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3cdc87d51d03",
+    "full_name": "Nguyễn Thị Việt Nga",
+    "full_name_folded": "nguyen thi viet nga",
+    "dob": "29/9/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương",
+    "current_residence": "Số 178, Hoàng Lộc, phường Lê Thanh Nghị, thành phố Hải Dương, tỉnh Hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-90",
+    "list_order": 2,
+    "party_member_since": "25/5/2004",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Hải Dương nhiệm kỳ 2011-2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-90",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Gia Lộc, Huyện Tứ Kỳ, Huyện Cầm Giàng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 3: Gồm các huyện: Gia Lộc, Tứ Kỳ và Cẩm Giàng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Giàng",
+        "name_folded": "huyen cam giang"
+      },
+      {
+        "name_vi": "Huyện Gia Lộc",
+        "name_folded": "huyen gia loc"
+      },
+      {
+        "name_vi": "Huyện Tứ Kỳ",
+        "name_folded": "huyen tu ky"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Tiến sĩ chuyên ngành lý luận văn học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

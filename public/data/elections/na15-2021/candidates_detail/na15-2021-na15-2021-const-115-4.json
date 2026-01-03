@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-115-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c0229091ae8a",
+    "full_name": "Trần Đình Văn",
+    "full_name_folded": "tran dinh van",
+    "dob": "17/6/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hương Vinh, huyện Hương Trà, tỉnh Thừa Thiên Huế",
+    "current_residence": "Số 25/6 đường Đặng Thái Thân, phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-115",
+    "list_order": 4,
+    "party_member_since": "04/7/1994",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-115",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Bảo Lộc, Huyện Bảo Lâm, Huyện Đạ Huoai, Huyện Đạ Tẻh, Huyện Cát Tiên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 3: Gồm thành phố Bảo Lộc và các huyện: Bảo Lâm, Đạ Huoai, Đạ Tẻh, Cát Tiên. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Lâm",
+        "name_folded": "huyen bao lam"
+      },
+      {
+        "name_vi": "Huyện Cát Tiên",
+        "name_folded": "huyen cat tien"
+      },
+      {
+        "name_vi": "Huyện Đạ Huoai",
+        "name_folded": "huyen da huoai"
+      },
+      {
+        "name_vi": "Huyện Đạ Tẻh",
+        "name_folded": "huyen da teh"
+      },
+      {
+        "name_vi": "Thành phố Bảo Lộc",
+        "name_folded": "thanh pho bao loc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân chính trị"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn, chính trị; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy Lâm Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

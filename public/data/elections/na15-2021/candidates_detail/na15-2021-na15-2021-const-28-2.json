@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-28-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3fd32e0e8fc8",
+    "full_name": "Nguyễn Mạnh Hùng",
+    "full_name_folded": "nguyen manh hung",
+    "dob": "15/7/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhật Tân, huyện Gia Lộc, tỉnh Hải Dương",
+    "current_residence": "C3-1, ngõ 10, phố Đặng Thai Mai, Tổ dân phố số 3, phường Quảng An, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-28",
+    "list_order": 2,
+    "party_member_since": "08/3/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-28",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận Thốt Nốt, Huyện Vĩnh Thạnh, Huyện Cờ Đỏ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 3: Gồm quận Thốt Nốt và các huyện: Vĩnh Thạnh, Cờ Đỏ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cờ Đỏ",
+        "name_folded": "huyen co do"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thạnh",
+        "name_folded": "huyen vinh thanh"
+      },
+      {
+        "name_vi": "Quận Thốt Nốt",
+        "name_folded": "quan thot not"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh; Thạc sĩ quản trị Marketing - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính, ngoại ngữ; Thạc sĩ chuyên ngành quản trị Marketing"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư thường trực, Chủ nhiệm Ủy ban Kiểm tra Đảng ủy Ủy ban Quản lý vốn nhà nước tại doanh nghiệp"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Quản lý vốn nhà nước tại doanh nghiệp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

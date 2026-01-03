@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-65-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7c68c8e56950",
+    "full_name": "Lưu Văn Đức",
+    "full_name_folded": "luu van duc",
+    "dob": "18/02/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Chăm",
+    "religion": "Bà la môn",
+    "birthplace": "Xã Phước Thái, huyện Ninh Phước, tỉnh Ninh Thuận",
+    "current_residence": "Phòng 1103, nhà Công vụ Quốc hội, số 02, Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-65",
+    "list_order": 1,
+    "party_member_since": "07/01/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-65",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Krông Bông, Huyện Krông Pắc, Huyện Lắk, Huyện M'Drắk, Huyện Cư Kuin, Huyện Krông Ana",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 2: Gồm các huyện: Krông Bông, Krông Pắc, Lắk, M`Drắk, Cư Kuin và Krông Ana. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Kuin",
+        "name_folded": "huyen cu kuin"
+      },
+      {
+        "name_vi": "Huyện Krông Ana",
+        "name_folded": "huyen krong ana"
+      },
+      {
+        "name_vi": "Huyện Krông Bông",
+        "name_folded": "huyen krong bong"
+      },
+      {
+        "name_vi": "Huyện Krông Pắc",
+        "name_folded": "huyen krong pac"
+      },
+      {
+        "name_vi": "Huyện Lắk",
+        "name_folded": "huyen lak"
+      },
+      {
+        "name_vi": "Huyện M'Drắk",
+        "name_folded": "huyen m drak"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; nói thành thạo tiếng dân tộc Chăm"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, kinh tế; Thạc sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Hội đồng Dân tộc của Quốc hội; Phó Chủ tịch Hội nghị sĩ hữu nghị Việt Nam - Argentina"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng Dân tộc của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

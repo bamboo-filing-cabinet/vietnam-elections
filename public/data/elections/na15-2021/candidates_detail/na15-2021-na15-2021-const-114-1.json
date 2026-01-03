@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-114-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7e6a9ddc4282",
+    "full_name": "Ka Tô Thị Dung",
+    "full_name_folded": "ka to thi dung",
+    "dob": "28/6/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Cơ - ho",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Điền, huyện Di Linh, tỉnh Lâm Đồng",
+    "current_residence": "Số 26, đường Trần Thúc Nhẫn, Phường Vĩnh Ninh, thành phố Huế, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-114",
+    "list_order": 1,
+    "party_member_since": "05/12/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-114",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Lâm Hà, Huyện Đam Rông, Huyện Di Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 2: Gồm các huyện: Lâm Hà, Đam Rông và Di Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Di Linh",
+        "name_folded": "huyen di linh"
+      },
+      {
+        "name_vi": "Huyện Lâm Hà",
+        "name_folded": "huyen lam ha"
+      },
+      {
+        "name_vi": "Huyện Đam Rông",
+        "name_folded": "huyen dam rong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành y đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ Trung tâm Y tế huyện Bảo Lâm, tỉnh Lâm Đồng; Ủy viên Ban Chấp hành Hội thầy thuốc trẻ tỉnh Lâm Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Y tế huyện Bảo Lâm, tỉnh Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

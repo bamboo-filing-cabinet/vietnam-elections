@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-68-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-15af39f27899",
+    "full_name": "Lê Thị Thùy Trang",
+    "full_name_folded": "le thi thuy trang",
+    "dob": "21/12/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mạ",
+    "religion": "Không",
+    "birthplace": "Xã Thạch Thanh, huyện Thạch Hà, tỉnh Hà Tĩnh",
+    "current_residence": "Bon Ting Wel Đơm, xã Đắk Nia, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-68",
+    "list_order": 5,
+    "party_member_since": "06/4/2016",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Xã Đắk Nia (thành phố Gia Nghĩa, tỉnh Đắk Nông) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-68",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Gia Nghĩa, Huyện Đắk Glong, Huyện Đắk R'Lấp",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 2: Gồm thành phố Gia Nghĩa và các huyện: Đắk Glong, Đắk R`Lấp, Tuy Đức, Đắk Song. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đắk Glong",
+        "name_folded": "huyen dak glong"
+      },
+      {
+        "name_vi": "Huyện Đắk R'Lấp",
+        "name_folded": "huyen dak r lap"
+      },
+      {
+        "name_vi": "Thành phố Gia Nghĩa",
+        "name_folded": "thanh pho gia nghia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ nhiệm Ủy ban Kiểm tra Đảng ủy xã Đắk Nia; Chủ tịch Hội Liên hiệp Phụ nữ xã Đắk Nia; Ủy viên Ban Chấp hành Công đoàn cơ sở xã Đắk Nia"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ xã Đắk Nia, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

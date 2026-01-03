@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-79-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-597956f3bfae",
+    "full_name": "Nguyễn Thị Mai Phương",
+    "full_name_folded": "nguyen thi mai phuong",
+    "dob": "10/8/1970",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Duyên Hà, huyện Thanh Trì, thành phố Hà Nội",
+    "current_residence": "Phòng 806, Chung cư Bộ Khoa học và Công nghệ, đường Nguyễn Văn Huyên, Tổ 22, phường Quan Hoa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-79",
+    "list_order": 2,
+    "party_member_since": "18/12/2002",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-79",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã An Khê, Huyện Kbang, Huyện Kông Chro, Huyện Đak Pơ, Huyện Mang Yang, Huyện Đak Hoa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 2: Gồm thị xã An Khê và các huyện: Kbang, Kông Chro, Đak Pơ, Mang Yang, Đak Đoa. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kbang",
+        "name_folded": "huyen kbang"
+      },
+      {
+        "name_vi": "Huyện Kông Chro",
+        "name_folded": "huyen kong chro"
+      },
+      {
+        "name_vi": "Huyện Mang Yang",
+        "name_folded": "huyen mang yang"
+      },
+      {
+        "name_vi": "Huyện Đak Hoa",
+        "name_folded": "huyen dak hoa"
+      },
+      {
+        "name_vi": "Huyện Đak Pơ",
+        "name_folded": "huyen dak po"
+      },
+      {
+        "name_vi": "Thị xã An Khê",
+        "name_folded": "thi xa an khe"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành quản lý khoa học và công nghệ"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Pháp luật của Quốc hội; Phó Chủ tịch nhóm Nghị sỹ hữu nghị Việt Nam - Myanmar"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Pháp luật của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

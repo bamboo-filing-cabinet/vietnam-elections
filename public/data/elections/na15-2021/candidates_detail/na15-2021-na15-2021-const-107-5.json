@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-107-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bc57fd7e2f7c",
+    "full_name": "Nguyễn Hữu Toàn",
+    "full_name_folded": "nguyen huu toan",
+    "dob": "30/10/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường La Khê, quận Hà Đông, thành phố Hà Nội",
+    "current_residence": "P1902, chung cư 97-99 Láng Hạ, tổ dân phố số 15, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-107",
+    "list_order": 5,
+    "party_member_since": "13/7/1994",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-33214999ea64",
+    "name_vi": "Tỉnh Lai Châu",
+    "name_folded": "lai chau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-107",
+    "locality_id": "loc-33214999ea64",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Lai Châu, Huyện Than Uyên, Huyện Tân Uyên, Huyện Tam Đường",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lai Châu Đơn vị bầu cử Số 1: Gồm thành phố Lai Châu và các huyện: Than Uyên, Tân Uyên, Tam Đường. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tam Đường",
+        "name_folded": "huyen tam duong"
+      },
+      {
+        "name_vi": "Huyện Than Uyên",
+        "name_folded": "huyen than uyen"
+      },
+      {
+        "name_vi": "Huyện Tân Uyên",
+        "name_folded": "huyen tan uyen"
+      },
+      {
+        "name_vi": "Thành phố Lai Châu",
+        "name_folded": "thanh pho lai chau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ chính sách công cộng - Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính kế toán; Thạc sĩ chuyên ngành chính sách công cộng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy cơ quan Văn phòng Quốc hội, Bí thư Chi bộ Tài chính, Ngân sách, Phó Chủ nhiệm Ủy ban Tài chính, Ngân sách của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tài chính, Ngân sách của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

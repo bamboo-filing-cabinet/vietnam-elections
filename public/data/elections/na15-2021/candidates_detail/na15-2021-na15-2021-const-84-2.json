@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-84-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b17e117e6536",
+    "full_name": "Trương Quốc Huy",
+    "full_name_folded": "truong quoc huy",
+    "dob": "19/6/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Lâm, huyện Ý Yên, tỉnh Nam Định",
+    "current_residence": "Số nhà 2106&2108, tổ hợp chung cư Mường Thanh, phường Quang Trung, thành phố Phủ Lý, tỉnh Hà Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-84",
+    "list_order": 2,
+    "party_member_since": "03/6/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Hà Nam nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-e92430cb680c",
+    "name_vi": "Tỉnh Hà Nam",
+    "name_folded": "ha nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-84",
+    "locality_id": "loc-e92430cb680c",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Duy Tiên, Huyện Kim Bảng, Huyện Lý Nhân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Nam Đơn vị bầu cử Số 2: Gồm thị xã Duy Tiên và các huyện: Kim Bảng, Lý Nhân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Bảng",
+        "name_folded": "huyen kim bang"
+      },
+      {
+        "name_vi": "Huyện Lý Nhân",
+        "name_folded": "huyen ly nhan"
+      },
+      {
+        "name_vi": "Thị xã Duy Tiên",
+        "name_folded": "thi xa duy tien"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế lao động; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh ủy, Bí thư Ban Cán sự đảng, Chủ tịch Ủy ban nhân dân tỉnh Hà Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân tỉnh Hà Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

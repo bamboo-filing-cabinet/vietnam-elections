@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-45-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f7642777ea86",
+    "full_name": "Võ Văn Hội",
+    "full_name_folded": "vo van hoi",
+    "dob": "25/4/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lương Hòa, huyện Giồng Trôm, tỉnh Bến Tre",
+    "current_residence": "Số 231, ấp 5A, thị trấn Giồng Trôm, huyện Giồng Trôm, tỉnh Bến Tre"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-45",
+    "list_order": 2,
+    "party_member_since": "19/8/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-45",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Giồng Trôm, Huyện Ba Trì",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 2: Gồm huyện Giồng Trôm và huyện Ba Tri. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Trì",
+        "name_folded": "huyen ba tri"
+      },
+      {
+        "name_vi": "Huyện Giồng Trôm",
+        "name_folded": "huyen giong trom"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy, Đại tá, Chỉ huy trưởng Bộ chỉ huy quân sự tỉnh Bến Tre"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ chỉ huy quân sự tỉnh Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

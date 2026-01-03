@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-145-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f3e33c239868",
+    "full_name": "Đặng Thị Kim Chung",
+    "full_name_folded": "dang thi kim chung",
+    "dob": "03/02/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Lý, huyện Lý Nhân, tỉnh Hà Nam",
+    "current_residence": "Khu tập thể Tỉnh Hội phụ nữ, tổ 2, khu 3, phường Hồng Hà, thành phố Hạ Long, tỉnh Quảng Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-145",
+    "list_order": 1,
+    "party_member_since": "08/01/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-145",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Uông Bí, Thị xã Dông Triều, Thị xã Quảng Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 2: Gồm thành phố Uông Bí và các thị xã: Đông Triều, Quảng Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Uông Bí",
+        "name_folded": "thanh pho uong bi"
+      },
+      {
+        "name_vi": "Thị xã Dông Triều",
+        "name_folded": "thi xa dong trieu"
+      },
+      {
+        "name_vi": "Thị xã Quảng Yên",
+        "name_folded": "thi xa quang yen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1, tiếng Pháp B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính - tư pháp; Thạc sĩ chuyên ngành lý luận và lịch sử nhà nước và pháp luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng Ban Nội chính Tỉnh ủy Quảng Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Nội chính Tỉnh ủy Quảng Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

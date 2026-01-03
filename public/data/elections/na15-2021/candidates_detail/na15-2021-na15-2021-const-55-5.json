@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-55-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-313764e52a82",
+    "full_name": "Điểu Huỳnh Sang",
+    "full_name_folded": "dieu huynh sang",
+    "dob": "25/12/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Stiêng",
+    "religion": "Không",
+    "birthplace": "Xã An Khương, huyện Hớn Quản, tỉnh Bình Phước",
+    "current_residence": "Tổ 7, khu phố Tân Trà 1, phường Tân Bình, thành phố Đồng Xoài, tỉnh Bình Phước"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-55",
+    "list_order": 5,
+    "party_member_since": "02/9/2010",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Bình Phước nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-b12c1ec4e509",
+    "name_vi": "Tỉnh Bình Phước",
+    "name_folded": "binh phuoc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-55",
+    "locality_id": "loc-b12c1ec4e509",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đồng Xoài, thị xã Phước Long, Huyện Đồng Phú, Huyện Phú Riềng, Huyện Bù Đăng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Phước Đơn vị bầu cử Số 2: Gồm thành phố Đồng Xoài, thị xã Phước Long và các huyện: Đồng Phú, Phú Riềng, Bù Đăng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bù Đăng",
+        "name_folded": "huyen bu dang"
+      },
+      {
+        "name_vi": "Huyện Phú Riềng",
+        "name_folded": "huyen phu rieng"
+      },
+      {
+        "name_vi": "Huyện Đồng Phú",
+        "name_folded": "huyen dong phu"
+      },
+      {
+        "name_vi": "Thành phố Đồng Xoài",
+        "name_folded": "thanh pho dong xoai"
+      },
+      {
+        "name_vi": "thị xã Phước Long",
+        "name_folded": "thi xa phuoc long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành văn hóa học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam; Phó Trưởng Đoàn đại biểu Quốc hội tỉnh Bình Phước; Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bình Phước"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Bình Phước"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-174-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-35bd6142cd2d",
+    "full_name": "Trần Quốc Tuấn",
+    "full_name_folded": "tran quoc tuan",
+    "dob": "08/02/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhơn Hưng, huyện An Nhơn, tỉnh Bình Định",
+    "current_residence": "Số 122/8 ấp Đa Cần, xã Hòa Thuận, huyện Châu Thành, tỉnh Trà Vinh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-174",
+    "list_order": 5,
+    "party_member_since": "28/6/1996",
+    "is_na_delegate": "XIII",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-fdf0dcd56901",
+    "name_vi": "Tỉnh Trà Vinh",
+    "name_folded": "tinh tra vinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-174",
+    "locality_id": "loc-fdf0dcd56901",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Trà Vinh, Huyện Càng Long, Huyện Cầu Kè, Huyện Tiểu Cần",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Trà Vinh Đơn vị bầu cử Số 1: Gồm thành phố Trà Vinh và các huyện: Càng Long, Cầu Kè, Tiểu Cần. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Càng Long",
+        "name_folded": "huyen cang long"
+      },
+      {
+        "name_vi": "Huyện Cầu Kè",
+        "name_folded": "huyen cau ke"
+      },
+      {
+        "name_vi": "Huyện Tiểu Cần",
+        "name_folded": "huyen tieu can"
+      },
+      {
+        "name_vi": "Thành phố Trà Vinh",
+        "name_folded": "thanh pho tra vinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hóa hữu cơ; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy, Trưởng Ban Tuyên giáo Tỉnh ủy"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tuyên giáo Tỉnh ủy"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

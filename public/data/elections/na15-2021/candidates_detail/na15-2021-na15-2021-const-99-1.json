@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-99-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-41b3e1601259",
+    "full_name": "Trần Tuấn Anh",
+    "full_name_folded": "tran tuan anh",
+    "dob": "06/4/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phổ Khánh, thị xã Đức Phổ, tỉnh Quảng Ngãi",
+    "current_residence": "Số 69A, phố Vạn Phúc, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-99",
+    "list_order": 1,
+    "party_member_since": "29/11/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-99",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Ninh Hòa, Huyện Vạn Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 1: Gồm thị xã Ninh Hòa và huyện Vạn Ninh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Vạn Ninh",
+        "name_folded": "huyen van ninh"
+      },
+      {
+        "name_vi": "Thị xã Ninh Hòa",
+        "name_folded": "thi xa ninh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh D; Tiếng Pháp D; Tiếng Đức B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế, ngoại giao; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Kinh tế Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Kinh tế Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

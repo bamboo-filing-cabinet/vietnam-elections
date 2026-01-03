@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-24-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e5ed12a2c626",
+    "full_name": "Võ Văn Thưởng",
+    "full_name_folded": "vo van thuong",
+    "dob": "13/12/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Phước, huyện Măng Thít, tỉnh Vĩnh Long",
+    "current_residence": "Số 55, phố Phan Đình Phùng, phường Quán Thánh, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-24",
+    "list_order": 5,
+    "party_member_since": "18/11/1993",
+    "is_na_delegate": "XII, XIV",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 1999-2004"
+  },
+  "locality": {
+    "id": "loc-e7e2e364e642",
+    "name_vi": "TP. Đà Nẵng",
+    "name_folded": "da nang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-24",
+    "locality_id": "loc-e7e2e364e642",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hải Châu,Quận Thanh Khê,Quận Liên Chiểu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Đà Nẵng Đơn vị bầu cử Số 1: Gồm các quận: Hải Châu, Thanh Khê và Liên Chiểu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Hải Châu",
+        "name_folded": "quan hai chau"
+      },
+      {
+        "name_vi": "Quận Liên Chiểu",
+        "name_folded": "quan lien chieu"
+      },
+      {
+        "name_vi": "Quận Thanh Khê",
+        "name_folded": "quan thanh khe"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành triết học; Thạc sĩ chuyên ngành khoa học xã hội và nhân văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Thường trực Ban Bí thư"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Trung ương Đảng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

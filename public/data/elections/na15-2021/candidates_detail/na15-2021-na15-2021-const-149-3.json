@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-149-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b3ea7087211c",
+    "full_name": "Lâm Văn Mẫn",
+    "full_name_folded": "lam van man",
+    "dob": "10/12/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Khmer",
+    "religion": "Không",
+    "birthplace": "Xã Phú Tâm, huyện Châu Thành, tỉnh Sóc Trăng",
+    "current_residence": "Số 610/18 Kênh Quản Khuôn, phường 9, thành phố Sóc Trăng, tỉnh Sóc Trăng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-149",
+    "list_order": 3,
+    "party_member_since": "17/4/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Sóc Trăng nhiệm kỳ 2011 - 2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-149",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Sóc Trăng, Huyện Châu Thành, Huyện Kế Sách, Huyện Long Phú, Huyện Cù Lao Dung",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 1: Gồm thành phố Sóc Trăng và các huyện: Châu Thành, Kế Sách, Long Phú, Cù Lao Dung. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cù Lao Dung",
+        "name_folded": "huyen cu lao dung"
+      },
+      {
+        "name_vi": "Huyện Kế Sách",
+        "name_folded": "huyen ke sach"
+      },
+      {
+        "name_vi": "Huyện Long Phú",
+        "name_folded": "huyen long phu"
+      },
+      {
+        "name_vi": "Thành phố Sóc Trăng",
+        "name_folded": "thanh pho soc trang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính, luật; Thạc sĩ chuyên ngành quản trị kinh doanh; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh uỷ, Chủ tịch Hội đồng nhân dân tỉnh Sóc Trăng"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh uỷ Sóc Trăng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

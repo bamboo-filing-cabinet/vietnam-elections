@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-126-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c357b9f579a5",
+    "full_name": "Nguyễn Vân Chi",
+    "full_name_folded": "nguyen van chi",
+    "dob": "17/9/1966",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hùng Tiến, huyện Nam Đàn, tỉnh Nghệ An",
+    "current_residence": "Số 72, Phan Đình Phùng, phường Quán Thánh, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-126",
+    "list_order": 1,
+    "party_member_since": "30/3/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-126",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 5,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Thị xã Cửa Lò, Huyện Diễn Châu, Huyện Nghi Lộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 5: Gồm thị xã Cửa Lò và các huyện: Diễn Châu, Nghi Lộc. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Diễn Châu",
+        "name_folded": "huyen dien chau"
+      },
+      {
+        "name_vi": "Huyện Nghi Lộc",
+        "name_folded": "huyen nghi loc"
+      },
+      {
+        "name_vi": "Thị xã Cửa Lò",
+        "name_folded": "thi xa cua lo"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ kinh tế - tiếng Séc; Thạc sĩ quản lý nhà nước - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành quản lý nhà nước; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Tài chính - Ngân sách của Quốc hội; Phó Chủ tịch nhóm Nghị sỹ hữu nghị Việt Nam - Azerbaijan"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tài chính Ngân sách của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

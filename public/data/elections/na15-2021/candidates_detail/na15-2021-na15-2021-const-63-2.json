@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-63-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6f0c03e7548a",
+    "full_name": "Đàm Minh Diện",
+    "full_name_folded": "dam minh dien",
+    "dob": "07/02/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Hoàng Tung, huyện Hòa An, tỉnh Cao Bằng",
+    "current_residence": "Xóm Hồng Quang, xã Hưng Đạo, Tp. Cao Bằng, tỉnh Cao Bằng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-63",
+    "list_order": 2,
+    "party_member_since": "24/5/1991",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d0cfd73752bb",
+    "name_vi": "Tỉnh Cao Bằng",
+    "name_folded": "cao bang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-63",
+    "locality_id": "loc-d0cfd73752bb",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Cao Bằng, Huyện Quảng Hòa, Huyện Trùng Khánh, Huyện Hạ Lang, Huyện Thạch An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cao Bằng Đơn vị bầu cử Số 2: Gồm thành phố Cao Bằng và các huyện: Quảng Hòa, Trùng Khánh, Hạ Lang, Thạch An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hạ Lang",
+        "name_folded": "huyen ha lang"
+      },
+      {
+        "name_vi": "Huyện Quảng Hòa",
+        "name_folded": "huyen quang hoa"
+      },
+      {
+        "name_vi": "Huyện Thạch An",
+        "name_folded": "huyen thach an"
+      },
+      {
+        "name_vi": "Huyện Trùng Khánh",
+        "name_folded": "huyen trung khanh"
+      },
+      {
+        "name_vi": "Thành phố Cao Bằng",
+        "name_folded": "thanh pho cao bang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chỉ huy tham mưu cao cấp, chiến dịch - chiến lược"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy; Phó Bí thư Đảng ủy Quân sự tỉnh Cao Bằng; Đại tá, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Cao Bằng"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Chỉ huy Quân sự tỉnh Cao Bằng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

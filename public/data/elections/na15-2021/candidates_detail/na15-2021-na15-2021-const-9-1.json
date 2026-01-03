@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-9-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3d421b4e9569",
+    "full_name": "Đỗ Anh Hùng",
+    "full_name_folded": "do anh hung",
+    "dob": "15/7/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Sơn, huyện Tứ Kỳ, tỉnh Hải Dương",
+    "current_residence": "Số 9, ngách 28B/22 phố Hạ Đình, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-9",
+    "list_order": 1,
+    "party_member_since": "04/6/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-9",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 9,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 9",
+    "name_folded": "don vi bau cu so 9",
+    "description": "Huyện Ứng Hoà,Huyện Mỹ Đức,Huyện Phú Xuyên,Huyện Thường Tín",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 9: Gồm các huyện: Ứng Hòa, Mỹ Đức, Phú Xuyên và Thường Tín. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Đức",
+        "name_folded": "huyen my duc"
+      },
+      {
+        "name_vi": "Huyện Phú Xuyên",
+        "name_folded": "huyen phu xuyen"
+      },
+      {
+        "name_vi": "Huyện Thường Tín",
+        "name_folded": "huyen thuong tin"
+      },
+      {
+        "name_vi": "Huyện Ứng Hoà",
+        "name_folded": "huyen ung hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa; Thạc sĩ chuyên ngành y tế công cộng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Chuyên môn nghiệp vụ, Chi cục An toàn vệ sinh thực phẩm Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Chi cục An toàn vệ sinh thực phẩm Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

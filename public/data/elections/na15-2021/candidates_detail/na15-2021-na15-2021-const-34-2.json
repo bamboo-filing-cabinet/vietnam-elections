@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-34-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-07e204a4a205",
+    "full_name": "Trần Thị Thu Đông",
+    "full_name_folded": "tran thi thu dong",
+    "dob": "24/10/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Xuyên, thành phố Cà Mau, tỉnh Cà Mau",
+    "current_residence": "Nhà công vụ, phòng 607, tháp B, tòa Green Park, Dương Đình Nghệ, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-34",
+    "list_order": 2,
+    "party_member_since": "12/3/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9ee833b67126",
+    "name_vi": "Tỉnh Bạc Liêu",
+    "name_folded": "bac lieu",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-34",
+    "locality_id": "loc-9ee833b67126",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bạc Liêu, Huyện Vĩnh Lợi, Huyện Hòa Bình",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bạc Liêu Đơn vị bầu cử Số 1: Gồm thành phố Bạc Liêu và các huyện: Vĩnh Lợi, Hoà Bình. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hòa Bình",
+        "name_folded": "huyen hoa binh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Lợi",
+        "name_folded": "huyen vinh loi"
+      },
+      {
+        "name_vi": "Thành phố Bạc Liêu",
+        "name_folded": "thanh pho bac lieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B3"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội nghệ sĩ Nhiếp ảnh Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội nghệ sĩ Nhiếp ảnh Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

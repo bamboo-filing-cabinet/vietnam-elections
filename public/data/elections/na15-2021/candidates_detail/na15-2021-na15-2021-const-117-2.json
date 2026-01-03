@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-117-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-48a24567f108",
+    "full_name": "Lê Thị Hồng Gấm",
+    "full_name_folded": "le thi hong gam",
+    "dob": "16/10/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đức Lập Hạ, huyện Đức Hòa, tỉnh Long An",
+    "current_residence": "Số 92A/4A, đường Trần Phong Sắc, khu phố Bình Yên Đông 2, phường 4, thành phố Tân An, tỉnh Long An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-117",
+    "list_order": 2,
+    "party_member_since": "19/6/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-868f6e9f9a1e",
+    "name_vi": "Tỉnh Long An",
+    "name_folded": "long an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-117",
+    "locality_id": "loc-868f6e9f9a1e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tân An, Huyện Châu Thành, Huyện Cần Đước, Huyện Cần Giuộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Long An Đơn vị bầu cử Số 2: Gồm thành phố Tân An và các huyện: Châu Thành, Cần Đước, Cần Giuộc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Cần Giuộc",
+        "name_folded": "huyen can giuoc"
+      },
+      {
+        "name_vi": "Huyện Cần Đước",
+        "name_folded": "huyen can duoc"
+      },
+      {
+        "name_vi": "Thành phố Tân An",
+        "name_folded": "thanh pho tan an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế; Thạc sĩ chuyên ngành chính sách công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng phòng Quản lý giá - công sản, Sở Tài chính tỉnh Long An"
+    },
+    {
+      "key": "workplace",
+      "value": "Phòng Quản lý giá - công sản, Sở Tài chính tỉnh Long An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-125-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fa6235209ebb",
+    "full_name": "Thái Văn Thành",
+    "full_name_folded": "thai van thanh",
+    "dob": "10/01/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Vinh Tân, thành phố Vinh, tỉnh Nghệ An",
+    "current_residence": "Số 37, đường Lương Thế Vinh, phường Trường Thi, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-125",
+    "list_order": 4,
+    "party_member_since": "22/11/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Nghệ An nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-125",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thành phố Vinh, Huyện Thanh Chương, Huyện Nam Đàn, Huyện Hưng Nguyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 4: Gồm thành phố Vinh và các huyện: Thanh Chương, Nam Đàn, Hưng Nguyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Nguyên",
+        "name_folded": "huyen hung nguyen"
+      },
+      {
+        "name_vi": "Huyện Nam Đàn",
+        "name_folded": "huyen nam dan"
+      },
+      {
+        "name_vi": "Huyện Thanh Chương",
+        "name_folded": "huyen thanh chuong"
+      },
+      {
+        "name_vi": "Thành phố Vinh",
+        "name_folded": "thanh pho vinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm vật lý; Tiến sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Đảng ủy, Giám đốc Sở Giáo dục và Đào tạo tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Giáo dục và Đào tạo tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

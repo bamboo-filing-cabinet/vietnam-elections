@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-144-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ce2d03f95429",
+    "full_name": "Hà Minh Thọ",
+    "full_name_folded": "ha minh tho",
+    "dob": "03/3/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Kim Trung, huyện Hưng Hà, tỉnh Thái Bình",
+    "current_residence": "Số nhà 38 (ô 184), Tổ 5, khu Tân Lập 4, phường Cẩm Thủy, thành phố Cẩm Phả, tỉnh Quảng Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-144",
+    "list_order": 5,
+    "party_member_since": "01/8/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-144",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hạ Long, Thành phố Cẩm Phả",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 1: Gồm các thành phố: Hạ Long và Cẩm Phả. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Cẩm Phả",
+        "name_folded": "thanh pho cam pha"
+      },
+      {
+        "name_vi": "Thành phố Hạ Long",
+        "name_folded": "thanh pho ha long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành khoa học địa chất khoáng sản và thăm dò"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam, Thành viên Hội đồng quản trị; Bí thư Đảng bộ, Giám đốc Công ty Cổ phần Địa chất mỏ - TKS"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty cổ phần Địa chất mỏ, Tập đoàn Công nghiệp than khoáng sản Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

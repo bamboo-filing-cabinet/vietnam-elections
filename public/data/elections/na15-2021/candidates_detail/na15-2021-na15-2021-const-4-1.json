@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-4-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fdd6c0b120d3",
+    "full_name": "Đặng Minh Châu (Hòa thượng Thích Bảo Nghiêm)",
+    "full_name_folded": "dang minh chau hoa thuong thich bao nghiem",
+    "dob": "27/12/1956",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Vũ Lăng, huyện Tiền Hải, tỉnh Thái Bình",
+    "current_residence": "Số 63, phố Bằng Liệt, phường Hoàng Liệt, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-4",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 1999-2004, 2004-2011"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-4",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận Hoàng Mai,Huyện Gia Lâm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 4: Gồm quận Hoàng Mai và huyện Gia Lâm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Lâm",
+        "name_folded": "huyen gia lam"
+      },
+      {
+        "name_vi": "Quận Hoàng Mai",
+        "name_folded": "quan hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Trung B2"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Phật giáo; Tiến sĩ chuyên ngành triết học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tu sĩ Phật giáo; Trưởng ban trị sự Giáo hội Phật giáo Việt Nam thành phố Hà Nội; Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam thành phố Hà Nội; Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Giáo hội Phật giáo Việt Nam thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

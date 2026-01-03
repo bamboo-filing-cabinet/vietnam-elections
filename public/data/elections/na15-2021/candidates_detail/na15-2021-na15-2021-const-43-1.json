@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-43-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5d44dc7cd5c0",
+    "full_name": "Nguyễn Thị Kim Anh",
+    "full_name_folded": "nguyen thi kim anh",
+    "dob": "11/3/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Ngọc Trạo, thành phố Thanh Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Phòng 1606, tòa nhà Diamond Flower, số 48, Lê Văn Lương, phường Nhân Chính, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-43",
+    "list_order": 1,
+    "party_member_since": "12/01/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-43",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Lương Tài, Huyện Gia Bình, Huyện Thuận Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 3: Gồm các huyện: Lương Tài, Gia Bình và Thuận Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Bình",
+        "name_folded": "huyen gia binh"
+      },
+      {
+        "name_vi": "Huyện Lương Tài",
+        "name_folded": "huyen luong tai"
+      },
+      {
+        "name_vi": "Huyện Thuận Thành",
+        "name_folded": "huyen thuan thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy Bộ Nông nghiệp và Phát triển nông thôn, Bí thư Chi bộ, Vụ trưởng Vụ Pháp chế, Bộ Nông nghiệp và Phát triển nông thôn; Ủy viên Ban Chấp hành Công đoàn cơ quan Bộ Nông nghiệp và Phát triển nông thôn"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Pháp chế, Bộ Nông nghiệp và Phát triển nông thôn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-182-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8bbacd621001",
+    "full_name": "Nguyễn Văn Mạnh",
+    "full_name_folded": "nguyen van manh",
+    "dob": "15/4/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Liên Mạc, huyện Mê Linh, thành phố Hà Nội",
+    "current_residence": "Tổ dân phố Đông Nghĩa, phường Đồng Tâm, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-182",
+    "list_order": 3,
+    "party_member_since": "18/7/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-227643b06427",
+    "name_vi": "Tỉnh Vĩnh Phúc",
+    "name_folded": "tinh vinh phuc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-182",
+    "locality_id": "loc-227643b06427",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Sông Lô, Huyện Tam Dương, Huyện Tam Đảo, Huyện Lập Thạch, Huyện Bình Xuyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Phúc Đơn vị bầu cử Số 2: Gồm các huyện: Sông Lô, Tam Dương, Tam Đảo, Lập Thạch và Bình Xuyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Xuyên",
+        "name_folded": "huyen binh xuyen"
+      },
+      {
+        "name_vi": "Huyện Lập Thạch",
+        "name_folded": "huyen lap thach"
+      },
+      {
+        "name_vi": "Huyện Sông Lô",
+        "name_folded": "huyen song lo"
+      },
+      {
+        "name_vi": "Huyện Tam Dương",
+        "name_folded": "huyen tam duong"
+      },
+      {
+        "name_vi": "Huyện Tam Đảo",
+        "name_folded": "huyen tam dao"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lịch sử; Thạc sĩ chuyên ngành hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Phó Trưởng Ban Tổ chức Tỉnh ủy Vĩnh Phúc"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tổ chức Tỉnh ủy Vĩnh Phúc"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

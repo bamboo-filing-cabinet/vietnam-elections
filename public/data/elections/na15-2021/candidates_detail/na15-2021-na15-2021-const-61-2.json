@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-61-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-94a6f7fa305a",
+    "full_name": "Đinh Ngọc Minh",
+    "full_name_folded": "dinh ngoc minh",
+    "dob": "03/5/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Khánh An, huyện Yên Khánh, tỉnh Ninh Bình",
+    "current_residence": "Phòng 2503, nhà chung cư số 101, Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-61",
+    "list_order": 2,
+    "party_member_since": "19/5/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-61",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Đầm Dơi, Huyện Năm Căn, Huyện Ngọc Hiền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 3: Gồm các huyện: Đầm Dơi, Năm Căn và Ngọc Hiển. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ngọc Hiền",
+        "name_folded": "huyen ngoc hien"
+      },
+      {
+        "name_vi": "Huyện Năm Căn",
+        "name_folded": "huyen nam can"
+      },
+      {
+        "name_vi": "Huyện Đầm Dơi",
+        "name_folded": "huyen dam doi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lâm nghiệp; Thạc sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Viện trưởng Viện Chiến lược phát triển, Bộ Kế hoạch và Đầu tư; Phó Chủ tịch Hội Cựu chiến binh cơ quan Bộ Kế hoạch và Đầu tư"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Chiến lược phát triển, Bộ Kế hoạch và Đầu tư"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

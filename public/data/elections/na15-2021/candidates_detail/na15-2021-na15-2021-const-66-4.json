@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-66-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cdfd22fb4fa5",
+    "full_name": "Trần Thị Phương Thu",
+    "full_name_folded": "tran thi phuong thu",
+    "dob": "15/6/1972",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Ngãi Trung, huyện Ba Tri, tỉnh Bến Tre",
+    "current_residence": "Số 141/2, đường Y Ngông, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-66",
+    "list_order": 4,
+    "party_member_since": "04/11/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-66",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Buôn Hồ, Huyện Ea H'Leo, Huyện Krông Búk, Huyện Krông Năng, Huyện Ea Kar",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 3: Gồm thị xã Buôn Hồ và các huyện: Ea H`Leo, Krông Búk, Krông Năng, Ea Kar. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ea H'Leo",
+        "name_folded": "huyen ea h leo"
+      },
+      {
+        "name_vi": "Huyện Ea Kar",
+        "name_folded": "huyen ea kar"
+      },
+      {
+        "name_vi": "Huyện Krông Búk",
+        "name_folded": "huyen krong buk"
+      },
+      {
+        "name_vi": "Huyện Krông Năng",
+        "name_folded": "huyen krong nang"
+      },
+      {
+        "name_vi": "Thị xã Buôn Hồ",
+        "name_folded": "thi xa buon ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành văn học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Hội Chữ thập đỏ tỉnh Đắk Lắk"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Chữ thập đỏ tỉnh Đắk Lắk"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

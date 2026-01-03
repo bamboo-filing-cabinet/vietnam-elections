@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-104-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-701ec51d6f76",
+    "full_name": "Nguyễn Danh Tú",
+    "full_name_folded": "nguyen danh tu",
+    "dob": "16/10/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Hàng Bông, quận Hoàn Kiếm, thành phố Hà Nội",
+    "current_residence": "Số 143, phố Khâm Thiên, phường Thổ Quan, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-104",
+    "list_order": 5,
+    "party_member_since": "26/12/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-104",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Rạch Giá, Thành phố Hà Tiên, Thành phố Phú Quốc, Huyện Kiên Lương, Huyện Hòn Đất, Huyện Giang Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 3: Gồm các thành phố: Rạch Giá, Hà Tiên, Phú Quốc và các huyện: Kiên Lương, Hòn Đất, Giang Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giang Thành",
+        "name_folded": "huyen giang thanh"
+      },
+      {
+        "name_vi": "Huyện Hòn Đất",
+        "name_folded": "huyen hon dat"
+      },
+      {
+        "name_vi": "Huyện Kiên Lương",
+        "name_folded": "huyen kien luong"
+      },
+      {
+        "name_vi": "Thành phố Hà Tiên",
+        "name_folded": "thanh pho ha tien"
+      },
+      {
+        "name_vi": "Thành phố Phú Quốc",
+        "name_folded": "thanh pho phu quoc"
+      },
+      {
+        "name_vi": "Thành phố Rạch Giá",
+        "name_folded": "thanh pho rach gia"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Anh); Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ, Ủy viên Ủy ban Kiểm tra Đảng ủy cơ quan Văn phòng Quốc hội, Giám đốc Trung tâm nghiên cứu khoa học lập pháp, Viện Nghiên cứu lập pháp thuộc Ủy ban Thường vụ Quốc hội; Bí thư Đoàn Thanh niên Cộng sản Hồ Chí Minh cơ quan Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện Nghiên cứu lập pháp thuộc Ủy ban Thường vụ Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

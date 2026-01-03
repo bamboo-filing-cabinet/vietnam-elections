@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-67-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5b5a3c6de03e",
+    "full_name": "Điểu Lê Nam Nam",
+    "full_name_folded": "dieu le nam nam",
+    "dob": "20/9/1992",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mnông",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Trực, huyện Tuy Đức, tỉnh Đắk Nông",
+    "current_residence": "Tổ dân phố 2, phường Nghĩa Trung, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-67",
+    "list_order": 5,
+    "party_member_since": "14/02/2019",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-67",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Krông Nô, Huyện Cư Jút, Huyện Đắk Mil",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 1: Gồm các huyện: Krông Nô, Cư Jút và Đắk Mil. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Jút",
+        "name_folded": "huyen cu jut"
+      },
+      {
+        "name_vi": "Huyện Krông Nô",
+        "name_folded": "huyen krong no"
+      },
+      {
+        "name_vi": "Huyện Đắk Mil",
+        "name_folded": "huyen dak mil"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Tiếng dân tộc Mnông"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Tỉnh đoàn Đắk Nông; Ủy viên Ủy ban Hội Liên hiệp Thanh niên Việt Nam tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh đoàn Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

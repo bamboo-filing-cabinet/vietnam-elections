@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-136-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e3c8b79d7bac",
+    "full_name": "Nguyễn Mạnh Cường",
+    "full_name_folded": "nguyen manh cuong",
+    "dob": "14/01/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Trần Hưng Đạo, thành phố Nam Định, tỉnh Nam Định",
+    "current_residence": "Căn hộ 1522 nhà R4, số 72A, Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-136",
+    "list_order": 1,
+    "party_member_since": "11/10/1997",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8f8d45e0a018",
+    "name_vi": "Tỉnh Quang Bình",
+    "name_folded": "quang binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-136",
+    "locality_id": "loc-8f8d45e0a018",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "ThỊ xã Ba Đồn, Huyện Minh Hóa, Huyện Tuyên Hóa, Huyện Quảng Trạch, Huyện Quảng Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Bình Đơn vị bầu cử Số 1: Gồm thị xã Ba Đồn và các huyện: Minh Hóa, Tuyên Hóa, Quảng Trạch, Quảng Ninh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Minh Hóa",
+        "name_folded": "huyen minh hoa"
+      },
+      {
+        "name_vi": "Huyện Quảng Ninh",
+        "name_folded": "huyen quang ninh"
+      },
+      {
+        "name_vi": "Huyện Quảng Trạch",
+        "name_folded": "huyen quang trach"
+      },
+      {
+        "name_vi": "Huyện Tuyên Hóa",
+        "name_folded": "huyen tuyen hoa"
+      },
+      {
+        "name_vi": "ThỊ xã Ba Đồn",
+        "name_folded": "thi xa ba don"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Đại học Luật - tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ nhiệm Ủy ban Tư pháp của Quốc hội; Chủ tịch Nhóm Nghị sỹ hữu nghị Việt Nam - A-déc-bai-gian"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tư pháp của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

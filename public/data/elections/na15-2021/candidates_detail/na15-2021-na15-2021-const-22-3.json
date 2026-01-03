@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-22-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e3a95850e4c1",
+    "full_name": "Nguyễn Chu Hồi",
+    "full_name_folded": "nguyen chu hoi",
+    "dob": "15/5/1952",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Minh, huyện Khoái Châu, tỉnh Hưng Yên",
+    "current_residence": "Nguyệt Quế 02-34, khu đô thị Vinhomes Harmony (Vinhomes Riverside 2), phường Phúc Đồng, quận Long Biên, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-22",
+    "list_order": 3,
+    "party_member_since": "03/02/1980",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-22",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Ngô Quyền, Quận Hải An, Quận Đồ Sơn, Huyện An Dương, Huyện Kiến Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 2: Gồm các quận: Ngô Quyền, Hải An, Đồ Sơn và các huyện: An Dương, Kiến Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Dương",
+        "name_folded": "huyen an duong"
+      },
+      {
+        "name_vi": "Huyện Kiến Thụy",
+        "name_folded": "huyen kien thuy"
+      },
+      {
+        "name_vi": "Quận Hải An",
+        "name_folded": "quan hai an"
+      },
+      {
+        "name_vi": "Quận Ngô Quyền",
+        "name_folded": "quan ngo quyen"
+      },
+      {
+        "name_vi": "Quận Đồ Sơn",
+        "name_folded": "quan do son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ khoa học tự nhiên - tiếng Ba Lan; tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành địa hóa học; Tiến sĩ chuyên ngành khoa học tự nhiên"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch thường trực Hội Nghề cá Việt Nam; Chuyên gia tư vấn độc lập; Ủy viên Hội đồng trung ương của Liên hiệp các Hội Khoa học-Kỹ thuật Việt Nam (VUSTA); Ủy viên thường trực Hội Thiên nhiên và Môi trường Việt Nam (VACNE) kiêm Chủ tịch Hội Bảo vệ môi trường biển (VAMEN) trực thuộc VACNE"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Nghề cá Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

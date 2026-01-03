@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-53-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bb09a3a0bee4",
+    "full_name": "Nguyễn Thị Ngọc Diễm",
+    "full_name_folded": "nguyen thi ngoc diem",
+    "dob": "16/9/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoài Hải, thị xã Hoài Nhơn, tỉnh Bình Định",
+    "current_residence": "Tổ 1, khu phố Phụ Đức, phường Bồng Sơn, thị xã Hoài Nhơn, tỉnh Bình Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-53",
+    "list_order": 2,
+    "party_member_since": "07/12/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-53",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoài Nhơn, Huyện An Lão, Huyện Phù Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 3: Gồm thị xã Hoài Nhơn và các huyện: An Lão, Phù Mỹ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Lão",
+        "name_folded": "huyen an lao"
+      },
+      {
+        "name_vi": "Huyện Phù Mỹ",
+        "name_folded": "huyen phu my"
+      },
+      {
+        "name_vi": "Thị xã Hoài Nhơn",
+        "name_folded": "thi xa hoai nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam thị xã Hoài Nhơn, tỉnh Bình Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam thị xã Hoài Nhơn, tỉnh Bình Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

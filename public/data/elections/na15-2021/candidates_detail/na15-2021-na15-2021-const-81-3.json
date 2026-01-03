@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-81-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-45bbe7f24148",
+    "full_name": "Đặng Quốc Khánh",
+    "full_name_folded": "dang quoc khanh",
+    "dob": "02/9/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+    "current_residence": "Tổ 5, phường Nguyễn Trãi, thành phố Hà Giang, tỉnh Hà Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-81",
+    "list_order": 3,
+    "party_member_since": "20/9/2002",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Hà Tĩnh nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-61a56c5d8d33",
+    "name_vi": "Tỉnh Hà Giang",
+    "name_folded": "ha giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-81",
+    "locality_id": "loc-61a56c5d8d33",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Giang, Huyện Đồng Văn, Huyện Mèo Vạc, Huyện Yên Minh, Huyện Quản Bạ, Huyện Bắc Mê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Giang Đơn vị bầu cử Số 1: Gồm thành phố Hà Giang và các huyện: Đồng Văn, Mèo Vạc, Yên Minh, Quản Bạ, Bắc Mê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Mê",
+        "name_folded": "huyen bac me"
+      },
+      {
+        "name_vi": "Huyện Mèo Vạc",
+        "name_folded": "huyen meo vac"
+      },
+      {
+        "name_vi": "Huyện Quản Bạ",
+        "name_folded": "huyen quan ba"
+      },
+      {
+        "name_vi": "Huyện Yên Minh",
+        "name_folded": "huyen yen minh"
+      },
+      {
+        "name_vi": "Huyện Đồng Văn",
+        "name_folded": "huyen dong van"
+      },
+      {
+        "name_vi": "Thành phố Hà Giang",
+        "name_folded": "thanh pho ha giang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng dân dụng và công nghiệp; Tiến sĩ chuyên ngành quản lý đô thị và công trình"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội khóa XIV tỉnh Hà Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Hà Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

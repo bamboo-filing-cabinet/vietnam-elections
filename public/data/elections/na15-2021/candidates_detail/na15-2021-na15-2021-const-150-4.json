@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-150-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-34c6f959b688",
+    "full_name": "Tô Ái Vang",
+    "full_name_folded": "to ai vang",
+    "dob": "29/5/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Hoa",
+    "religion": "Không",
+    "birthplace": "Thị trấn Hưng Lợi, huyện Thạnh Trị, tỉnh Sóc Trăng",
+    "current_residence": "Số 585/34 Lê Hồng Phong, khóm 5, phường 3, thành phố Sóc Trăng, tỉnh Sóc Trăng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-150",
+    "list_order": 4,
+    "party_member_since": "01/9/1997",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-b730b84b4974",
+    "name_vi": "Tỉnh Sóc Trăng",
+    "name_folded": "soc trang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-150",
+    "locality_id": "loc-b730b84b4974",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Ngã Năm, Huyện Mỹ Tú, Huyện Thạnh Trị",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sóc Trăng Đơn vị bầu cử Số 2: Gồm thị xã Ngã Năm và các huyện: Mỹ Tú, Thạnh Trị. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Tú",
+        "name_folded": "huyen my tu"
+      },
+      {
+        "name_vi": "Huyện Thạnh Trị",
+        "name_folded": "huyen thanh tri"
+      },
+      {
+        "name_vi": "Thị xã Ngã Năm",
+        "name_folded": "thi xa nga nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Sóc Trăng, Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Sóc Trăng, Chủ tịch Hội hữu nghị Việt Nam - Trung Quốc tỉnh Sóc Trăng"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội tỉnh Sóc Trăng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

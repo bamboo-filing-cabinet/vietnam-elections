@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-efeabff82d33-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9864742fbc3c",
+    "full_name": "Hoàng Duy Chinh",
+    "full_name_folded": "hoang duy chinh",
+    "dob": "15/9/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Nam Cường, huyện Chợ Đồn, tỉnh Bắc kạn",
+    "current_residence": "Số nhà 32, tổ 8B, phường Đức Xuân, thành phố Bắc Kạn, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-efeabff82d33",
+    "list_order": 1,
+    "party_member_since": "07/02/1995",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Bắc Kạn nhiệm kỳ 1999-2004, 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-efeabff82d33",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 2: Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật hành chính; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Bắc Kạn, Bí thư Đảng ủy Quân sự tỉnh Bắc Kạn, Trưởng Đoàn đại biểu Quốc hội khóa XIV tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

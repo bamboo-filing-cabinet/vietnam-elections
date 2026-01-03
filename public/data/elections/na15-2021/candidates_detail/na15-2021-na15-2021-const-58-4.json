@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-58-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f775de9174a6",
+    "full_name": "Thông Thị Minh Thơ",
+    "full_name_folded": "thong thi minh tho",
+    "dob": "29/01/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Chăm",
+    "religion": "Bà ni",
+    "birthplace": "Thị trấn Lạc Tánh, huyện Tánh Linh, tỉnh Bình Thuận",
+    "current_residence": "Xóm 3, Khu phố Chăm, thị trấn Lạc Tánh, huyện Tánh Linh, tỉnh Bình Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-58",
+    "list_order": 4,
+    "party_member_since": "30/8/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-58",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã La Gi, Huyện Đức Linh, Huyện Tánh Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 3: Gồm thị xã La Gi và các huyện: Đức Linh, Tánh Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tánh Linh",
+        "name_folded": "huyen tanh linh"
+      },
+      {
+        "name_vi": "Huyện Đức Linh",
+        "name_folded": "huyen duc linh"
+      },
+      {
+        "name_vi": "Thị xã La Gi",
+        "name_folded": "thi xa la gi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, Phó Trưởng Khoa nội tổng hợp, Trung tâm y tế huyện Tánh Linh, tỉnh Bình Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm y tế huyện Tánh Linh, tỉnh Bình Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

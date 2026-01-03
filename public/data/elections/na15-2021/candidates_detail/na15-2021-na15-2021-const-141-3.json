@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-141-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bac2837e0b73",
+    "full_name": "Trần Thanh Sang",
+    "full_name_folded": "tran thanh sang",
+    "dob": "29/12/1980",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đức Phong, huyện Mộ Đức, tỉnh Quảng Ngãi",
+    "current_residence": "Tổ dân phố 2, thị trấn Mộ Đức, huyện Mộ Đức, tỉnh Quảng Ngãi"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-141",
+    "list_order": 3,
+    "party_member_since": "05/10/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc2b9582432b",
+    "name_vi": "Tỉnh Quảng Ngãi",
+    "name_folded": "quang ngai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-141",
+    "locality_id": "loc-cc2b9582432b",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Bình Sơn, Huyện Sơn Tịnh, Huyện Trà Bồng, Huyện Sơn Tây, Huyện Sơn Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ngãi Đơn vị bầu cử Số 1: Gồm các huyện: Bình Sơn, Sơn Tịnh, Trà Bồng, Sơn Tây và Sơn Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Sơn",
+        "name_folded": "huyen binh son"
+      },
+      {
+        "name_vi": "Huyện Sơn Hà",
+        "name_folded": "huyen son ha"
+      },
+      {
+        "name_vi": "Huyện Sơn Tây",
+        "name_folded": "huyen son tay"
+      },
+      {
+        "name_vi": "Huyện Sơn Tịnh",
+        "name_folded": "huyen son tinh"
+      },
+      {
+        "name_vi": "Huyện Trà Bồng",
+        "name_folded": "huyen tra bong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật hình sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thẩm phán sơ cấp Tòa án nhân dân thị xã Đức Phổ, tỉnh Quảng Ngãi"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân thị xã Đức Phổ, tỉnh Quảng Ngãi"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

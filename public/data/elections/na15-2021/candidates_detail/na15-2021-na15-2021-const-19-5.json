@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-19-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ed21f999d7ea",
+    "full_name": "Nguyễn Trần Phượng Trân",
+    "full_name_folded": "nguyen tran phuong tran",
+    "dob": "28/01/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường 8, thành phố Đà Lạt, tỉnh Lâm Đồng",
+    "current_residence": "Số 135/56, Trần Hưng Đạo, Tổ 49, Khu phố 3, phường Cầu Ông Lãnh, quận 1, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-19",
+    "list_order": 5,
+    "party_member_since": "08/12/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hồ Chí Minh nhiệm kỳ 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-19",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 9,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 9",
+    "name_folded": "don vi bau cu so 9",
+    "description": "Quận 4, Quận 7, Huyện Nhà Bè, Huyện Cần Giờ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 9: Gồm các quận: Quận 4, Quận 7 và các huyện: Nhà Bè, Cần Giờ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cần Giờ",
+        "name_folded": "huyen can gio"
+      },
+      {
+        "name_vi": "Huyện Nhà Bè",
+        "name_folded": "huyen nha be"
+      },
+      {
+        "name_vi": "Quận 4",
+        "name_folded": "quan 4"
+      },
+      {
+        "name_vi": "Quận 7",
+        "name_folded": "quan 7"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học, tư tưởng Hồ Chí Minh; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Bí thư Đảng đoàn, Bí thư Đảng ủy cơ quan Hội Liên hiệp Phụ nữ Thành phố Hồ Chí Minh; Ủy viên Đoàn Chủ tịch Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Chủ tịch Hội Liên hiệp Phụ nữ Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

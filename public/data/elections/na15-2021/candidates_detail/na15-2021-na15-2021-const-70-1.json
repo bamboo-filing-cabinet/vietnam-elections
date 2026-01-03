@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-70-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-35522aff934e",
+    "full_name": "Mùa A Dơ",
+    "full_name_folded": "mua a do",
+    "dob": "16/11/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mông",
+    "religion": "Không",
+    "birthplace": "Xã Tỏa Tình, huyện Tuần Giáo, tỉnh Điện Biên",
+    "current_residence": "Bản Hồng Líu, phường Noong Bua, thành phố Điện Biên Phủ, tỉnh Điện Biên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-70",
+    "list_order": 1,
+    "party_member_since": "25/01/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8c69f5d593d7",
+    "name_vi": "Tỉnh Điện Biên",
+    "name_folded": "dien bien",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-70",
+    "locality_id": "loc-8c69f5d593d7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Mường Lay, Huyện Mường Chà, Huyện Nậm Pồ, Huyện Mường Nhé, Huyện Tuần Giáo, Huyện Tùa Chùa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Điện Biên Đơn vị bầu cử Số 2: Gồm thị xã Mường Lay và các huyện: Mường Chà, Nậm Pồ, Mường Nhé, Tuần Giáo, Tủa Chùa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Chà",
+        "name_folded": "huyen muong cha"
+      },
+      {
+        "name_vi": "Huyện Mường Nhé",
+        "name_folded": "huyen muong nhe"
+      },
+      {
+        "name_vi": "Huyện Nậm Pồ",
+        "name_folded": "huyen nam po"
+      },
+      {
+        "name_vi": "Huyện Tuần Giáo",
+        "name_folded": "huyen tuan giao"
+      },
+      {
+        "name_vi": "Huyện Tùa Chùa",
+        "name_folded": "huyen tua chua"
+      },
+      {
+        "name_vi": "Thị xã Mường Lay",
+        "name_folded": "thi xa muong lay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành an ninh điều tra tội phạm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thượng tá, Phó Trưởng phòng Phòng Cảnh sát Phòng cháy, chữa cháy và Cứu hộ, cứu nạn Công an tỉnh Điện Biên"
+    },
+    {
+      "key": "workplace",
+      "value": "Phòng Cảnh sát Phòng cháy, chữa cháy và Cứu nạn, cứu hộ, Công an tỉnh Điện Biên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

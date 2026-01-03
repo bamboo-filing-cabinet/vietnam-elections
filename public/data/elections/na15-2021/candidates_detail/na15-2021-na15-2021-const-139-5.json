@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-139-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-57ed55d5d8aa",
+    "full_name": "Dương Văn Phước",
+    "full_name_folded": "duong van phuoc",
+    "dob": "29/5/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Thắng, huyện Đại Lộc, tỉnh Quảng Nam",
+    "current_residence": "Khối phố Phương Hòa Đông, phường Hòa Thuận, thành phố Tam Kỳ, tỉnh Quảng Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-139",
+    "list_order": 5,
+    "party_member_since": "03/02/1994",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-c7893b4177e6",
+    "name_vi": "Tỉnh Quảng Nam",
+    "name_folded": "quang nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-139",
+    "locality_id": "loc-c7893b4177e6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Hội An, Huyện Duy Xuyên, Huyện Quế Sơn, Huyện Nông Sơn, Huyện Thăng Bình, Huyện Hiệp Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Nam Đơn vị bầu cử Số 2: Gồm thành phố Hội An và các huyện: Duy Xuyên, Quế Sơn, Nông Sơn, Thăng Bình, Hiệp Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Duy Xuyên",
+        "name_folded": "huyen duy xuyen"
+      },
+      {
+        "name_vi": "Huyện Hiệp Đức",
+        "name_folded": "huyen hiep duc"
+      },
+      {
+        "name_vi": "Huyện Nông Sơn",
+        "name_folded": "huyen nong son"
+      },
+      {
+        "name_vi": "Huyện Quế Sơn",
+        "name_folded": "huyen que son"
+      },
+      {
+        "name_vi": "Huyện Thăng Bình",
+        "name_folded": "huyen thang binh"
+      },
+      {
+        "name_vi": "Thành phố Hội An",
+        "name_folded": "thanh pho hoi an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Chi bộ, Chánh Văn phòng Đoàn đại biểu Quốc hội tỉnh Quảng Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội tỉnh Quảng Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

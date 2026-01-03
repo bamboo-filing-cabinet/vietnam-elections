@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-137-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ea6203c2df9f",
+    "full_name": "Phạm Trọng Tiến",
+    "full_name_folded": "pham trong tien",
+    "dob": "02/6/1981",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Lộc, thị xã Ba Đồn, tỉnh Quảng Bình",
+    "current_residence": "Tổ dân phố 8, phường Đồng Phú, thành phố Đồng Hới, tỉnh Quảng Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-137",
+    "list_order": 5,
+    "party_member_since": "08/12/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8f8d45e0a018",
+    "name_vi": "Tỉnh Quang Bình",
+    "name_folded": "quang binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-137",
+    "locality_id": "loc-8f8d45e0a018",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đồng Hới, Huyện Lê Thủy, Huyện Bố Trạch",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Bình Đơn vị bầu cử Số 2: Gồm thành phố Đồng Hới và các huyện: Lệ Thủy, Bố Trạch. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bố Trạch",
+        "name_folded": "huyen bo trach"
+      },
+      {
+        "name_vi": "Huyện Lê Thủy",
+        "name_folded": "huyen le thuy"
+      },
+      {
+        "name_vi": "Thành phố Đồng Hới",
+        "name_folded": "thanh pho dong hoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm thể dục thể thao, luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Ban Dân chủ - Pháp luật, Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

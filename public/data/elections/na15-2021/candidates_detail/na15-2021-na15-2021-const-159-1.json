@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-159-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-04c743c66c0f",
+    "full_name": "Bùi Phương Chi",
+    "full_name_folded": "bui phuong chi",
+    "dob": "10/02/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thụy Dương , huyện Thái Thụy, tỉnh Thái Bình",
+    "current_residence": "Xóm 6, thôn Minh Châu, xã Đông Minh, huyện Tiền Hải, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-159",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-159",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thái Bình, Huyện Tiền Hải, Huyện Kiến Xương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 3: Gồm thành phố Thái Bình và các huyện: Tiền Hải, Kiến Xương. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kiến Xương",
+        "name_folded": "huyen kien xuong"
+      },
+      {
+        "name_vi": "Huyện Tiền Hải",
+        "name_folded": "huyen tien hai"
+      },
+      {
+        "name_vi": "Thành phố Thái Bình",
+        "name_folded": "thanh pho thai binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm kỹ thuật nông nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường Trung học phổ thông Đông Tiền Hải, tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Đông Tiền Hải, tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-15-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-95e30304160b",
+    "full_name": "Trần Thị Diệu Thúy",
+    "full_name_folded": "tran thi dieu thuy",
+    "dob": "08/3/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+    "current_residence": "Số 258, Nguyễn Thái Bình, tổ dân phố 73, khu phố 7, phường 12, quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-15",
+    "list_order": 4,
+    "party_member_since": "09/11/2003",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Quận Gò Vấp (Thành phố Hồ Chí Minh) nhiệm kỳ 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-15",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 5,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Quận Tân Bình, Quận Tân Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 5: Gồm các quận: Tân Bình và quận Tân Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Tân Bình",
+        "name_folded": "quan tan binh"
+      },
+      {
+        "name_vi": "Quận Tân Phú",
+        "name_folded": "quan tan phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Bí thư Đảng đoàn, Chủ tịch Liên đoàn Lao động Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

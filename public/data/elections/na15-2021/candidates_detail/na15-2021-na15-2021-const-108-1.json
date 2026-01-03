@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-108-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5140b96e745d",
+    "full_name": "Hoàng Văn Bình (Hoàng Thanh Bình)",
+    "full_name_folded": "hoang van binh hoang thanh binh",
+    "dob": "30/11/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Khu 6, Thị trấn Than Uyên, huyện Than Uyên, tỉnh Lai Châu",
+    "current_residence": "Khu tập thể Bộ chỉ huy Quân sự tỉnh Lai Châu, Tổ dân phố số 23, phường Đông Phong, thành phố Lai Châu, tỉnh Lai Châu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-108",
+    "list_order": 1,
+    "party_member_since": "01/12/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-33214999ea64",
+    "name_vi": "Tỉnh Lai Châu",
+    "name_folded": "lai chau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-108",
+    "locality_id": "loc-33214999ea64",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Phong Thổ, Huyện Mường Tè, Huyện Sin Hồ, Huyện Nậm Nhùn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lai Châu Đơn vị bầu cử Số 2: Gồm các huyện: Phong Thổ, Mường Tè, Sìn Hồ và Nậm Nhùn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mường Tè",
+        "name_folded": "huyen muong te"
+      },
+      {
+        "name_vi": "Huyện Nậm Nhùn",
+        "name_folded": "huyen nam nhun"
+      },
+      {
+        "name_vi": "Huyện Phong Thổ",
+        "name_folded": "huyen phong tho"
+      },
+      {
+        "name_vi": "Huyện Sin Hồ",
+        "name_folded": "huyen sin ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự binh chủng hợp thành"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đại tá, Phó Chỉ huy trưởng, Bộ Chỉ huy Quân sự tỉnh Lai Châu"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Chỉ huy Quân sự tỉnh Lai Châu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

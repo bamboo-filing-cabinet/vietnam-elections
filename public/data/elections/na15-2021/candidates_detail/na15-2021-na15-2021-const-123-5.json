@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-123-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e54c4342467b",
+    "full_name": "Trần Đức Thuận",
+    "full_name_folded": "tran duc thuan",
+    "dob": "20/9/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hưng Tây, huyện Hưng Nguyên, tỉnh Nghệ An",
+    "current_residence": "Xóm 18, Nghi Phú, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-123",
+    "list_order": 5,
+    "party_member_since": "22/12/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-123",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Thái Hòa, Huyện Quế Phong, Huyện Quỳ Châu, Huyện Quỳ Hợp, Huyện Nghĩa Đàn, Huyện Tân Kỳ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 2: Gồm thị xã Thái Hoà và các huyện: Quế Phong, Quỳ Châu, Quỳ Hợp, Nghĩa Đàn, Tân Kỳ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nghĩa Đàn",
+        "name_folded": "huyen nghia dan"
+      },
+      {
+        "name_vi": "Huyện Quế Phong",
+        "name_folded": "huyen que phong"
+      },
+      {
+        "name_vi": "Huyện Quỳ Châu",
+        "name_folded": "huyen quy chau"
+      },
+      {
+        "name_vi": "Huyện Quỳ Hợp",
+        "name_folded": "huyen quy hop"
+      },
+      {
+        "name_vi": "Huyện Tân Kỳ",
+        "name_folded": "huyen tan ky"
+      },
+      {
+        "name_vi": "Thị xã Thái Hòa",
+        "name_folded": "thi xa thai hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy cơ quan Viện kiểm sát quân sự Trung ương; Đại tá, Phó Viện trưởng Viện kiểm sát quân sự Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện kiểm sát quân sự Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

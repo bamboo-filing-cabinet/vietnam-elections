@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-135-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5ef4be00680f",
+    "full_name": "Lê Quang Đạo",
+    "full_name_folded": "le quang dao",
+    "dob": "23/3/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Gia Phong, huyện Gia Viễn, tỉnh Ninh Bình",
+    "current_residence": "Số 99, Nguyễn Ngọc Nại, phường Khương Mai, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-135",
+    "list_order": 1,
+    "party_member_since": "04/4/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ed5f171275ee",
+    "name_vi": "Tỉnh Phú Yên",
+    "name_folded": "phu yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-135",
+    "locality_id": "loc-ed5f171275ee",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tuy Hòa, Thị xã Sông Cầu, Huyện Đồng Xuân, Huyện Tuy An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Yên Đơn vị bầu cử Số 2: Gồm thành phố Tuy Hòa, thị xã Sông Cầu và các huyện: Đồng Xuân, Tuy An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tuy An",
+        "name_folded": "huyen tuy an"
+      },
+      {
+        "name_vi": "Huyện Đồng Xuân",
+        "name_folded": "huyen dong xuan"
+      },
+      {
+        "name_vi": "Thành phố Tuy Hòa",
+        "name_folded": "thanh pho tuy hoa"
+      },
+      {
+        "name_vi": "Thị xã Sông Cầu",
+        "name_folded": "thi xa song cau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành biên phòng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường vụ Đảng ủy Bộ đội Biên phòng; Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Bộ đội Biên phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ đội Biên phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

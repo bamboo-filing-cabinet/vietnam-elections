@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-52-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8cc963555533",
+    "full_name": "Lê Hồng Tây",
+    "full_name_folded": "le hong tay",
+    "dob": "22/01/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mỹ Trinh, huyện Phù Mỹ, tỉnh Bình Định",
+    "current_residence": "Căn hộ B7.09, chung cư Simonahome, phường Ngô Mây, thành phố Quy Nhơn, tỉnh Bình Định"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-52",
+    "list_order": 4,
+    "party_member_since": "27/10/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-52",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã An Nhơn, Huyện Phù Cá, Huyện Hòa Ân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 2: Gồm thị xã An Nhơn và các huyện: Phù Cát, Hoài Ân. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hòa Ân",
+        "name_folded": "huyen hoa an"
+      },
+      {
+        "name_vi": "Huyện Phù Cá",
+        "name_folded": "huyen phu ca"
+      },
+      {
+        "name_vi": "Thị xã An Nhơn",
+        "name_folded": "thi xa an nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hành chính, ngoại ngữ; Thạc sĩ chuyên ngành quản lý tài chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng phòng Phòng Quản lý Thương mại, Sở Công Thương tỉnh Bình Định"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Công Thương tỉnh Bình Định"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

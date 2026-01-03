@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-32-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8c66f95f51f3",
+    "full_name": "Phạm Bình Minh",
+    "full_name_folded": "pham binh minh",
+    "dob": "26/3/1959",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Liên Minh, huyện Vụ Bản, tỉnh Nam Định",
+    "current_residence": "Số 12, ngách 19/18 phố Liễu Giai, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-32",
+    "list_order": 2,
+    "party_member_since": "19/5/1984",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-32",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vũng Tàu, Huyện Long Điền, Huyện Đất Đỏ, Huyện Côn Đảo",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 1: Gồm thành phố Vũng Tàu và các huyện: Long Điền, Đất Đỏ, Côn Đảo. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Côn Đảo",
+        "name_folded": "huyen con dao"
+      },
+      {
+        "name_vi": "Huyện Long Điền",
+        "name_folded": "huyen long dien"
+      },
+      {
+        "name_vi": "Huyện Đất Đỏ",
+        "name_folded": "huyen dat do"
+      },
+      {
+        "name_vi": "Thành phố Vũng Tàu",
+        "name_folded": "thanh pho vung tau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ luật và ngoại giao - tiếng Anh, Pháp"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quan hệ quốc tế; Thạc sĩ chuyên ngành luật và ngoại giao"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Ủy viên Ban Cán sự Đảng Chính phủ, Phó Thủ tướng Chính phủ"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Chính phủ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

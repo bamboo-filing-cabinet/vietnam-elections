@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-76-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ae693251ab21",
+    "full_name": "Võ Phương Thủy",
+    "full_name_folded": "vo phuong thuy",
+    "dob": "17/7/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phú Hựu, huyện Châu Thành, tỉnh Đồng Tháp",
+    "current_residence": "Số nhà 132, ấp Phú Hưng, xã Phú Hựu, huyện Châu Thành, tỉnh Đồng Tháp"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-76",
+    "list_order": 5,
+    "party_member_since": "30/8/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-0e3718a4a90a",
+    "name_vi": "Tỉnh Đồng Tháp",
+    "name_folded": "dong thap",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-76",
+    "locality_id": "loc-0e3718a4a90a",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Cao Lãnh, Huyện Thanh Bình, Huyện Cao Lãnh, Huyện Tháp Mười",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Tháp Đơn vị bầu cử Số 2: Gồm thành phố Cao Lãnh và các huyện: Thanh Bình, Cao Lãnh, Tháp Mười. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Lãnh",
+        "name_folded": "huyen cao lanh"
+      },
+      {
+        "name_vi": "Huyện Thanh Bình",
+        "name_folded": "huyen thanh binh"
+      },
+      {
+        "name_vi": "Huyện Tháp Mười",
+        "name_folded": "huyen thap muoi"
+      },
+      {
+        "name_vi": "Thành phố Cao Lãnh",
+        "name_folded": "thanh pho cao lanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính - tín dụng; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Giám đốc Sở Công Thương tỉnh Đồng Tháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Công Thương tỉnh Đồng Tháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

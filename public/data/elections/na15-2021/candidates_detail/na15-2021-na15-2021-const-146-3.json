@@ -1,0 +1,105 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-146-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cf41da07ab1a",
+    "full_name": "Trần Thị Kim Nhung",
+    "full_name_folded": "tran thi kim nhung",
+    "dob": "12/02/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đốc Tín, huyện Mỹ Đức, thành phố Hà Nội",
+    "current_residence": "Số 4 ngõ 33, đường Văn Cao, Tổ dân phố 3C, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-146",
+    "list_order": 3,
+    "party_member_since": "28/12/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-00d43bb16186",
+    "name_vi": "Tỉnh Quảng Ninh",
+    "name_folded": "quang ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-146",
+    "locality_id": "loc-00d43bb16186",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Móng Cái, Huyện Vân Đồn, Huyện Cô Tô, Huyện Tiên Yên, Huyện Đầm Hà, Huyện Hải Hà, Huyện Bình Liêu, Huyện Ba Chẽ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ninh Đơn vị bầu cử Số 3: Gồm thành phố Móng Cái và các huyện: Vân Đồn, Cô Tô, Tiên Yên, Đầm Hà, Hải Hà, Bình Liêu, Ba Chẽ. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Chẽ",
+        "name_folded": "huyen ba che"
+      },
+      {
+        "name_vi": "Huyện Bình Liêu",
+        "name_folded": "huyen binh lieu"
+      },
+      {
+        "name_vi": "Huyện Cô Tô",
+        "name_folded": "huyen co to"
+      },
+      {
+        "name_vi": "Huyện Hải Hà",
+        "name_folded": "huyen hai ha"
+      },
+      {
+        "name_vi": "Huyện Tiên Yên",
+        "name_folded": "huyen tien yen"
+      },
+      {
+        "name_vi": "Huyện Vân Đồn",
+        "name_folded": "huyen van don"
+      },
+      {
+        "name_vi": "Huyện Đầm Hà",
+        "name_folded": "huyen dam ha"
+      },
+      {
+        "name_vi": "Thành phố Móng Cái",
+        "name_folded": "thanh pho mong cai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ, Vụ trưởng Vụ Tổng hợp, Văn phòng Quốc hội; Ủy viên Ban Thư ký Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Tổng hợp, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

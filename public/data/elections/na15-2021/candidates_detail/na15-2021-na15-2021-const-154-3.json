@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-154-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9e31421f44a9",
+    "full_name": "Đinh Công Sỹ",
+    "full_name_folded": "dinh cong sy",
+    "dob": "25/11/1979",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Tường Hạ, huyện Phù Yên, tỉnh Sơn La",
+    "current_residence": "Nhà Công vụ của Quốc hội, số 2, Hoàng Cầu,phường Ô Chợ Dừa quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-154",
+    "list_order": 3,
+    "party_member_since": "02/9/2005",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-154",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Mộc Châu, Huyện Vân Hồ, Huyện Phù Yên, Huyện Bắc Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 3: Gồm các huyện: Mộc Châu, Vân Hồ, Phù Yên và Bắc Yên. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Yên",
+        "name_folded": "huyen bac yen"
+      },
+      {
+        "name_vi": "Huyện Mộc Châu",
+        "name_folded": "huyen moc chau"
+      },
+      {
+        "name_vi": "Huyện Phù Yên",
+        "name_folded": "huyen phu yen"
+      },
+      {
+        "name_vi": "Huyện Vân Hồ",
+        "name_folded": "huyen van ho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Lào giao tiếp cơ bản, tiếng dân tộc Mường, tiếng dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Đối ngoại của Quốc hội; Phó Chủ tịch Thường trực Nhóm đại biểu Quốc hội trẻ; Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - Thái Lan"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

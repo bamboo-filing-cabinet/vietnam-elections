@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-64-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dd845985e24d",
+    "full_name": "Niê Thanh Mai",
+    "full_name_folded": "nie thanh mai",
+    "dob": "29/7/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Ê-đê",
+    "religion": "Không",
+    "birthplace": "Huyện Sơn Hòa, tỉnh Phú Yên",
+    "current_residence": "Số 44/10, đường Hồ Xuân Hương, phường Tân Tiến, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-64",
+    "list_order": 2,
+    "party_member_since": "11/11/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d41969e12497",
+    "name_vi": "Tỉnh Đắk Lắk",
+    "name_folded": "dak lak",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-64",
+    "locality_id": "loc-d41969e12497",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Buôm Ma Thuột, Huyện Buôn Đôn, Huyện Ea Súp, Huyện Cư M'Gar",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Lắk Đơn vị bầu cử Số 1: Gồm thành phố Buôn Ma Thuột và các huyện: Buôn Đôn, Ea Súp, Cư M`Gar. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Buôn Đôn",
+        "name_folded": "huyen buon don"
+      },
+      {
+        "name_vi": "Huyện Cư M'Gar",
+        "name_folded": "huyen cu m gar"
+      },
+      {
+        "name_vi": "Huyện Ea Súp",
+        "name_folded": "huyen ea sup"
+      },
+      {
+        "name_vi": "Thành phố Buôm Ma Thuột",
+        "name_folded": "thanh pho buom ma thuot"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành ngôn ngữ"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội Văn học Nghệ thuật tỉnh Đắk Lắk; Ủy viên Ban Kiểm tra Liên hiệp các Hội Văn học, Nghệ thuật Việt Nam; Phó Chủ tịch Hội Văn học Nghệ thuật các Dân tộc thiểu số Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Văn học Nghệ thuật tỉnh Đắk Lắk"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

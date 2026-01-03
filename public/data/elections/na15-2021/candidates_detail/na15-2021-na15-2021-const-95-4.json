@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-95-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a40c5b3709fd",
+    "full_name": "Bùi Văn Quyết",
+    "full_name_folded": "bui van quyet",
+    "dob": "15/5/1987",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Tự Do, huyện Lạc Sơn, tỉnh Hòa Bình",
+    "current_residence": "Xóm Bưng, xã Nhân Nghĩa, huyện Lạc Sơn, tỉnh Hòa Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-95",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-95",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Kim Bôi, Huyện Cao Phong, Huyện Lạc Sơn, Huyện Lạc Thủy, Huyện Yên Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 2: Gồm các huyện: Kim Bôi, Cao Phong, Lạc Sơn, Lạc Thủy và Yên Thủy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Phong",
+        "name_folded": "huyen cao phong"
+      },
+      {
+        "name_vi": "Huyện Kim Bôi",
+        "name_folded": "huyen kim boi"
+      },
+      {
+        "name_vi": "Huyện Lạc Sơn",
+        "name_folded": "huyen lac son"
+      },
+      {
+        "name_vi": "Huyện Lạc Thủy",
+        "name_folded": "huyen lac thuy"
+      },
+      {
+        "name_vi": "Huyện Yên Thủy",
+        "name_folded": "huyen yen thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm sinh học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên trung học cơ sở hạng II, Thư ký Hội đồng Trường Tiểu học và Trung học cơ sở Phú Lương, huyện Lạc Sơn, tỉnh Hòa Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Tiểu học và Trung học cơ sở Phú Lương, huyện Lạc Sơn, tỉnh Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-49-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-865e8fc6f826",
+    "full_name": "Huỳnh Thị Thúy Phương",
+    "full_name_folded": "huynh thi thuy phuong",
+    "dob": "25/4/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Định Hòa, thành phố Thủ Dầu Một, tỉnh Bình Dương",
+    "current_residence": "Số 75/17, khu phố 3, phường Định Hòa, thành phố Thủ Dầu Một, tỉnh Bình Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-49",
+    "list_order": 4,
+    "party_member_since": "12/8/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc590b385d56",
+    "name_vi": "Tỉnh Bình Dương",
+    "name_folded": "binh duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-49",
+    "locality_id": "loc-cc590b385d56",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Thuận An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Dương Đơn vị bầu cử Số 3: Gồm thành phố Thuận An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thuận An",
+        "name_folded": "thanh pho thuan an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm tiếng Anh; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Trưởng Ban Tuyên giáo Chính sách Hội Liên hiệp Phụ nữ tỉnh Bình Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Bình Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

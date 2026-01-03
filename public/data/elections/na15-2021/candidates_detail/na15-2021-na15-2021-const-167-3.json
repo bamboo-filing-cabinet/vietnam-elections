@@ -1,0 +1,105 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-167-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-eb138ae047bd",
+    "full_name": "Lại Thế Nguyên",
+    "full_name_folded": "lai the nguyen",
+    "dob": "22/6/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nga Trường, huyện Nga Sơn, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 07, phố Nguyễn Xuân Thúy, Khu đô thị Bình Minh, phường Đông Hương, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-167",
+    "list_order": 3,
+    "party_member_since": "28/12/1993",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Thanh Hóa nhiệm kỳ 2011 - 2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-167",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 5,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Huyện Quan Hóa, Huyện Quan Sơn, Huyện Mường Lát, Huyện Lang Chánh, Huyện Bá Thước, Huyện Ngọc Lặc, Huyện Thường Xuân, Huyện Cẩm Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 5: Gồm các huyện: Quan Hóa, Quan Sơn, Mường Lát, Lang Chánh, Bá Thước, Ngọc Lặc, Thường Xuân và Cẩm Thủy. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bá Thước",
+        "name_folded": "huyen ba thuoc"
+      },
+      {
+        "name_vi": "Huyện Cẩm Thủy",
+        "name_folded": "huyen cam thuy"
+      },
+      {
+        "name_vi": "Huyện Lang Chánh",
+        "name_folded": "huyen lang chanh"
+      },
+      {
+        "name_vi": "Huyện Mường Lát",
+        "name_folded": "huyen muong lat"
+      },
+      {
+        "name_vi": "Huyện Ngọc Lặc",
+        "name_folded": "huyen ngoc lac"
+      },
+      {
+        "name_vi": "Huyện Quan Hóa",
+        "name_folded": "huyen quan hoa"
+      },
+      {
+        "name_vi": "Huyện Quan Sơn",
+        "name_folded": "huyen quan son"
+      },
+      {
+        "name_vi": "Huyện Thường Xuân",
+        "name_folded": "huyen thuong xuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

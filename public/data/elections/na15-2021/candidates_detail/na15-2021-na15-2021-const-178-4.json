@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-178-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-eba5a493499c",
+    "full_name": "Vi Thị Yến",
+    "full_name_folded": "vi thi yen",
+    "dob": "12/8/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Thượng Giáp, huyện Na Hang, tỉnh Tuyên Quang",
+    "current_residence": "Tổ 10, thị trấn Na Hang, huyện Na Hang, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-178",
+    "list_order": 4,
+    "party_member_since": "24/10/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Na Hang (tỉnh Tuyên Quang) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-178",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Tuyên Quang, Huyện Sơn Dương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 3: Gồm thành phố Tuyên Quang và huyện Sơn Dương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Sơn Dương",
+        "name_folded": "huyen son duong"
+      },
+      {
+        "name_vi": "Thành phố Tuyên Quang",
+        "name_folded": "thanh pho tuyen quang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; nói được tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục mầm non"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Hiệu trưởng Trường Mầm non Thanh Tương, xã Thanh Tương, huyện Na Hang, tỉnh Tuyên Quang"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Mầm non Thanh Tương, xã Thanh Tương, huyện Na Hang, tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

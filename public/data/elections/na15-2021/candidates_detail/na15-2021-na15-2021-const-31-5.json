@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-31-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2685a60cfcfe",
+    "full_name": "Trần Phú Thái",
+    "full_name_folded": "tran phu thai",
+    "dob": "08/5/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vũ Vinh, huyện Vũ Thư, tỉnh Thái Bình",
+    "current_residence": "PH27-06, Nhà N07-B1 đơn nguyên 2, Tòa nhà Thanh Bình, đường Thành Thái, phường Dịch Vọng, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-31",
+    "list_order": 5,
+    "party_member_since": "09/3/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-98279810913f",
+    "name_vi": "Tỉnh An Giang",
+    "name_folded": "an giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-31",
+    "locality_id": "loc-98279810913f",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Châu Đốc, Huyện An Phú, Huyện Tịnh Biên, Huyện Tri Tôn, Huyên Châu Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: An Giang Đơn vị bầu cử Số 3: Gồm thành phố Châu Đốc và các huyện: An Phú, Tịnh Biên, Tri Tôn, Châu Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Châu Phú",
+        "name_folded": "huyen chau phu"
+      },
+      {
+        "name_vi": "Huyện An Phú",
+        "name_folded": "huyen an phu"
+      },
+      {
+        "name_vi": "Huyện Tri Tôn",
+        "name_folded": "huyen tri ton"
+      },
+      {
+        "name_vi": "Huyện Tịnh Biên",
+        "name_folded": "huyen tinh bien"
+      },
+      {
+        "name_vi": "Thành phố Châu Đốc",
+        "name_folded": "thanh pho chau doc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành kinh tế năng lượng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Quản lý điều hành Tổng công ty phát điện 2, Chủ tịch Hội đồng thành viên Tổng công ty Phát điện 2, Tập đoàn Điện lực Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Tổng công ty Phát điện 2, Tập đoàn Điện lực Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

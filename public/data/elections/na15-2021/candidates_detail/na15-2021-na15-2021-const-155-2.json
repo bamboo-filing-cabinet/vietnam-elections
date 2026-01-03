@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-155-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-024451c4de6b",
+    "full_name": "Nguyễn Trọng Nghĩa",
+    "full_name_folded": "nguyen trong nghia",
+    "dob": "06/3/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Đông, huyện Gò Công Đông, tỉnh Tiền Giang",
+    "current_residence": "Số 86/5, đường Phổ Quang, phường 2, quận Tân Bình, thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-155",
+    "list_order": 2,
+    "party_member_since": "29/8/1982",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-155",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Trảng Bàng, Huyện Bến Cầu, Huyện Gò Dầu, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 1: Gồm thị xã Trảng Bàng và các huyện: Bến Cầu, Gò Dầu, Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bến Cầu",
+        "name_folded": "huyen ben cau"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Gò Dầu",
+        "name_folded": "huyen go dau"
+      },
+      {
+        "name_vi": "Thị xã Trảng Bàng",
+        "name_folded": "thi xa trang bang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Trung ương Đảng, Trưởng Ban Tuyên giáo Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tuyên giáo Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

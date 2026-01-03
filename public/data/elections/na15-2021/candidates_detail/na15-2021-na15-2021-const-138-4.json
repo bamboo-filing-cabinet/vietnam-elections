@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-138-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8a4c208af5ce",
+    "full_name": "Đặng Thị Bảo Trinh",
+    "full_name_folded": "dang thi bao trinh",
+    "dob": "28/3/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Điện Nam Trung, huyện Điện Bàn, tỉnh Quảng Nam",
+    "current_residence": "Phường Điện Nam Trung, huyện Điện Bàn, tỉnh Quảng Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-138",
+    "list_order": 4,
+    "party_member_since": "02/9/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thị xã Điện Bàn (tỉnh Quảng Nam) nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-c7893b4177e6",
+    "name_vi": "Tỉnh Quảng Nam",
+    "name_folded": "quang nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-138",
+    "locality_id": "loc-c7893b4177e6",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Điện Bàn, Huyện Đại Lộc, Huyện Đông Giang, Huyện Tây Giang, Huyện Nam Giang, Huyện Phước Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Nam Đơn vị bầu cử Số 1: Gồm thị xã Điện Bàn và các huyện: Đại Lộc, Đông Giang, Tây Giang, Nam Giang, Phước Sơn. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nam Giang",
+        "name_folded": "huyen nam giang"
+      },
+      {
+        "name_vi": "Huyện Phước Sơn",
+        "name_folded": "huyen phuoc son"
+      },
+      {
+        "name_vi": "Huyện Tây Giang",
+        "name_folded": "huyen tay giang"
+      },
+      {
+        "name_vi": "Huyện Đông Giang",
+        "name_folded": "huyen dong giang"
+      },
+      {
+        "name_vi": "Huyện Đại Lộc",
+        "name_folded": "huyen dai loc"
+      },
+      {
+        "name_vi": "Thị xã Điện Bàn",
+        "name_folded": "thi xa dien ban"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm giáo dục mầm non; luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thị ủy viên, Bí thư Thị đoàn, Chủ tịch Hội Liên hiệp thanh niên Việt Nam thị xã Điện Bàn, tỉnh Quảng Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Thị đoàn Điện Bàn, tỉnh Quảng Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

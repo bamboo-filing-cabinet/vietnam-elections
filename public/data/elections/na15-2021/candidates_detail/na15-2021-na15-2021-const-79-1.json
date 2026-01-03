@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-79-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b5a3dd878d3c",
+    "full_name": "Đinh Hà Nam (Ama Y Đại, Ama Y Ô)",
+    "full_name_folded": "dinh ha nam ama y dai ama y o",
+    "dob": "03/12/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Bahnar",
+    "religion": "Không",
+    "birthplace": "Xã Kon Chiêng, huyện Mang Yang, tỉnh Gia Lai",
+    "current_residence": "Nhà công vụ Ủy ban nhân dân tỉnh, số 07B, đường Hai Bà Trưng, phường Tây Sơn, thành phố Pleiku, tỉnh Gia Lai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-79",
+    "list_order": 1,
+    "party_member_since": "15/9/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Mang Yang (tỉnh Gia Lai) nhiệm kỳ 2004-2011, 2011-2016 (miễn nhiệm năm 2013)"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-79",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã An Khê, Huyện Kbang, Huyện Kông Chro, Huyện Đak Pơ, Huyện Mang Yang, Huyện Đak Hoa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 2: Gồm thị xã An Khê và các huyện: Kbang, Kông Chro, Đak Pơ, Mang Yang, Đak Đoa. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kbang",
+        "name_folded": "huyen kbang"
+      },
+      {
+        "name_vi": "Huyện Kông Chro",
+        "name_folded": "huyen kong chro"
+      },
+      {
+        "name_vi": "Huyện Mang Yang",
+        "name_folded": "huyen mang yang"
+      },
+      {
+        "name_vi": "Huyện Đak Hoa",
+        "name_folded": "huyen dak hoa"
+      },
+      {
+        "name_vi": "Huyện Đak Pơ",
+        "name_folded": "huyen dak po"
+      },
+      {
+        "name_vi": "Thị xã An Khê",
+        "name_folded": "thi xa an khe"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa; Thạc sĩ chuyên ngành y tế công cộng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy, Phó Giám đốc Sở Y tế tỉnh Gia Lai"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Y tế tỉnh Gia Lai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-176-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1494dc37e1b5",
+    "full_name": "Nguyễn Việt Hà",
+    "full_name_folded": "nguyen viet ha",
+    "dob": "03/12/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Lăng Can, huyện Lâm Bình, tỉnh Tuyên Quang",
+    "current_residence": "Số 09, tổ 10, phường Minh Xuân, thành phố Tuyên Quang, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-176",
+    "list_order": 1,
+    "party_member_since": "03/11/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-176",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Na Hang, Huyện Lâm Bình, Huyện Chiêm Hóa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 1: Gồm các huyện: Na Hang, Lâm Bình và Chiêm Hóa. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chiêm Hóa",
+        "name_folded": "huyen chiem hoa"
+      },
+      {
+        "name_vi": "Huyện Lâm Bình",
+        "name_folded": "huyen lam binh"
+      },
+      {
+        "name_vi": "Huyện Na Hang",
+        "name_folded": "huyen na hang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C; nói được tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Quản lý Doanh nghiệp, Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan và Doanh nghiệp tỉnh, Bí thư Đảng ủy, Giám đốc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam, Chi nhánh tỉnh Tuyên Quang"
+    },
+    {
+      "key": "workplace",
+      "value": "Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam, Chi nhánh tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

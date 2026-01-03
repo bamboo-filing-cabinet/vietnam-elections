@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-2-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7317b423cb6b",
+    "full_name": "Bùi Huyền Mai",
+    "full_name_folded": "bui huyen mai",
+    "dob": "03/9/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Cường, huyện Ứng Hòa, thành phố Hà Nội",
+    "current_residence": "Nhà H21, ngõ 28 đường Xuân La, phường Xuân La, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-2",
+    "list_order": 4,
+    "party_member_since": "10/7/2003",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-2",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Ba Đình,Quận Đống Đa,Quận Hai Bà Trưng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 2: Gồm các quận: Hoàn Kiếm, Long Biên và huyện Đông Anh.Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Ba Đình",
+        "name_folded": "quan ba dinh"
+      },
+      {
+        "name_vi": "Quận Hai Bà Trưng",
+        "name_folded": "quan hai ba trung"
+      },
+      {
+        "name_vi": "Quận Đống Đa",
+        "name_folded": "quan dong da"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành pháp luật kinh tế; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy, Bí thư Đảng ủy, Trưởng Ban Tuyên giáo Thành ủy Hà Nội; Phó Trưởng Đoàn đại biểu Quốc hội thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tuyên giáo Thành ủy Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

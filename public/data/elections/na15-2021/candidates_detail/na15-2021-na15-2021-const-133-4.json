@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-133-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-73d13e7a43c2",
+    "full_name": "Lâm Thùy Mai",
+    "full_name_folded": "lam thuy mai",
+    "dob": "11/8/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Vĩnh Lộc, huyện Chiêm Hóa, tỉnh Tuyên Quang",
+    "current_residence": "Tổ 4, khu 9, phường Nông Trang, thành phố Việt Trì, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-133",
+    "list_order": 4,
+    "party_member_since": "28/5/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-133",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Thanh Ba, Huyện Hạ Hòa, Huyện Cầm Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 3: Gồm các huyện: Thanh Ba, Hạ Hòa và Cẩm Khê. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Khê",
+        "name_folded": "huyen cam khe"
+      },
+      {
+        "name_vi": "Huyện Hạ Hòa",
+        "name_folded": "huyen ha hoa"
+      },
+      {
+        "name_vi": "Huyện Thanh Ba",
+        "name_folded": "huyen thanh ba"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa; Thạc sĩ chuyên ngành y học, phục hồi chức năng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, Trưởng đơn vị Phục hồi chức năng thần kinh-đột quỵ, Trung tâm Đột quỵ, Bệnh viện Đa khoa tỉnh Phú Thọ"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Đa khoa tỉnh Phú Thọ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

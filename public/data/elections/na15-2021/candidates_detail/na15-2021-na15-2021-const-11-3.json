@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-11-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ee81bf561362",
+    "full_name": "Vũ Hải Quân",
+    "full_name_folded": "vu hai quan",
+    "dob": "01/8/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Gia Minh, huyện Gia Viễn, tỉnh Ninh Bình",
+    "current_residence": "Số 100, đường D1, tổ dân phố 33, khu phố 5, khu dân cư Him Lam, phường Tân Hưng, quận 7, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-11",
+    "list_order": 3,
+    "party_member_since": "25/4/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-11",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thủ Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 1: Gồm thành phố Thủ Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thủ Đức",
+        "name_folded": "thanh pho thu duc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh D; Tiếng Ý trình độ cơ bản"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành công nghệ thông tin"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Đảng ủy, Giám đốc Đại học Quốc gia Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Đại học Quốc gia Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

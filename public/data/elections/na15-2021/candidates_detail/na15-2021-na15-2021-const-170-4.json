@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-170-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5f1783fb1c7c",
+    "full_name": "Bùi Thúy Nga",
+    "full_name_folded": "bui thuy nga",
+    "dob": "16/5/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Thiên chúa giáo",
+    "birthplace": "Phường Thịnh Liệt, quận Hoàng Mai, thành phố Hà Nội",
+    "current_residence": "Số 08/71, tổ 1, đường Thánh Gióng, phường Thuận Lộc, thành phố Huế, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-170",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-170",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Phú Vang, Huyện Phú Lộc, Huyện Nam Đông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 3: Gồm các huyện: Phú Vang, Phú Lộc và Nam Đông. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nam Đông",
+        "name_folded": "huyen nam dong"
+      },
+      {
+        "name_vi": "Huyện Phú Lộc",
+        "name_folded": "huyen phu loc"
+      },
+      {
+        "name_vi": "Huyện Phú Vang",
+        "name_folded": "huyen phu vang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm thể dục thể thao"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Huấn luyện viên cờ tướng, Trường Trung cấp Thể dục Thể thao Huế, tỉnh Thừa Thiên Huế"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung cấp Thể dục Thể thao Huế, tỉnh Thừa Thiên Huế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

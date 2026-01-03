@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-67-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3475dc8e32e8",
+    "full_name": "Nguyễn Trường Giang",
+    "full_name_folded": "nguyen truong giang",
+    "dob": "07/8/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh",
+    "current_residence": "Số 536, tổ 20, phường Láng Thượng, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-67",
+    "list_order": 1,
+    "party_member_since": "14/5/2001",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-67",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Krông Nô, Huyện Cư Jút, Huyện Đắk Mil",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 1: Gồm các huyện: Krông Nô, Cư Jút và Đắk Mil. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Jút",
+        "name_folded": "huyen cu jut"
+      },
+      {
+        "name_vi": "Huyện Krông Nô",
+        "name_folded": "huyen krong no"
+      },
+      {
+        "name_vi": "Huyện Đắk Mil",
+        "name_folded": "huyen dak mil"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ Pháp luật, Phó Chủ nhiệm Ủy ban Pháp luật của Quốc hội, Phó Tổng thư ký Quốc hội; Phó Chủ tịch Hội nghị sĩ hữu nghị Việt Nam - Nghị viện Châu Âu (EP)"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Pháp luật của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-23-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e4faf4c4893f",
+    "full_name": "Nguyễn Thị Lan Hương",
+    "full_name_folded": "nguyen thi lan huong",
+    "dob": "18/9/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phục Lễ, huyện Thủy Nguyên, thành phố Hải Phòng",
+    "current_residence": "Số 8/28/106, phố Lê Lai, phường Lạc Viên, quận Ngô Quyền, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-23",
+    "list_order": 4,
+    "party_member_since": "03/02/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-23",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận Kiến An, Dương Kinh, Huyện An Lão, Huyện Tiên Lãng, Huyện Vĩnh Bảo",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 3: Gồm các quận: Kiến An, Dương Kinh và các huyện: An Lão, Tiên Lãng, Vĩnh Bảo. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Dương Kinh",
+        "name_folded": "duong kinh"
+      },
+      {
+        "name_vi": "Huyện An Lão",
+        "name_folded": "huyen an lao"
+      },
+      {
+        "name_vi": "Huyện Tiên Lãng",
+        "name_folded": "huyen tien lang"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Bảo",
+        "name_folded": "huyen vinh bao"
+      },
+      {
+        "name_vi": "Quận Kiến An",
+        "name_folded": "quan kien an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, tâm lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Công an thành phố Hải Phòng; Ủy viên Ban Chấp hành Hội Liên hiệp Phụ nữ thành phố; Thượng tá, Chủ tịch Hội Phụ nữ Công an thành phố Hải Phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Công an Thành phố Hải Phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

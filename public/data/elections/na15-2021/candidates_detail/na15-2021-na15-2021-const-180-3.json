@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-180-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9e2b7bfa9478",
+    "full_name": "Nguyễn Thanh Phong",
+    "full_name_folded": "nguyen thanh phong",
+    "dob": "21/5/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phú Đức, huyện Long Hồ, tỉnh Vĩnh Long",
+    "current_residence": "Số 159/42/11, Nguyễn Thị Minh Khai, Phường 1, thành phố Vĩnh Long, tỉnh Vĩnh Long"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-180",
+    "list_order": 3,
+    "party_member_since": "24/4/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7ecd8e4443ec",
+    "name_vi": "Tỉnh Vĩnh Long",
+    "name_folded": "tinh vinh long",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-180",
+    "locality_id": "loc-7ecd8e4443ec",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Bình Minh, Huyện Bình Tân, Huyện Trà Ôn, Huyện Vũng Liêm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Long Đơn vị bầu cử Số 2: Gồm thị xã Bình Minh và các huyện: Bình Tân, Trà Ôn, Vũng Liêm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Tân",
+        "name_folded": "huyen binh tan"
+      },
+      {
+        "name_vi": "Huyện Trà Ôn",
+        "name_folded": "huyen tra on"
+      },
+      {
+        "name_vi": "Huyện Vũng Liêm",
+        "name_folded": "huyen vung liem"
+      },
+      {
+        "name_vi": "Thị xã Bình Minh",
+        "name_folded": "thi xa binh minh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chánh Thanh tra Sở Giao thông Vận tải tỉnh Vĩnh Long"
+    },
+    {
+      "key": "workplace",
+      "value": "Thanh tra Sở Giao thông Vận tải tỉnh Vĩnh Long"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

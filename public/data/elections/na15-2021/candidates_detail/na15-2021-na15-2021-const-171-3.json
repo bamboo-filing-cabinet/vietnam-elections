@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-171-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f00776cd8b22",
+    "full_name": "Trần Thị Thưa",
+    "full_name_folded": "tran thi thua",
+    "dob": "08/10/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đồng Sơn, huyện Gò Công Tây, tỉnh Tiền Giang",
+    "current_residence": "Số 279/7A, ấp Hội Gia, xã Mỹ Phong, thành phố Mỹ Tho, tỉnh Tiền Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-171",
+    "list_order": 3,
+    "party_member_since": "08/12/2014",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8a812f5994ae",
+    "name_vi": "Tỉnh Tiền Giang",
+    "name_folded": "tien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-171",
+    "locality_id": "loc-8a812f5994ae",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Cai Lậy, Huyện Cái Bè, Huyện Cai Lậy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tiền Giang Đơn vị bầu cử Số 1: Gồm thị xã Cai Lậy và các huyện: Cái Bè, Cai Lậy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cai Lậy",
+        "name_folded": "huyen cai lay"
+      },
+      {
+        "name_vi": "Huyện Cái Bè",
+        "name_folded": "huyen cai be"
+      },
+      {
+        "name_vi": "Thị xã Cai Lậy",
+        "name_folded": "thi xa cai lay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành công nghệ sinh học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên, Phó Bí thư Chi bộ; Phó Giám đốc Trung tâm Nghiên cứu, ứng dụng và Dịch vụ khoa học công nghệ, Sở Khoa học và Công nghệ tỉnh Tiền Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Khoa học và Công nghệ tỉnh Tiền Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

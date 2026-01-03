@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-148-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ffd2157de4bc",
+    "full_name": "Hà Sỹ Đồng",
+    "full_name_folded": "ha sy dong",
+    "dob": "18/01/1964",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Triệu Ái, huyện Triệu Phong, tỉnh Quảng Trị",
+    "current_residence": "Số 114, Ngô Quyền, thành phố Đông Hà, tỉnh Quảng Trị"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-148",
+    "list_order": 2,
+    "party_member_since": "02/5/1989",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-0884bac8f233",
+    "name_vi": "Tỉnh Quảng Trị",
+    "name_folded": "quang tri",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-148",
+    "locality_id": "loc-0884bac8f233",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đông Hà, Thị xã Quảng Trị, Huyện Triệu Phong, Huyện Cam Lộ, Huyện Hải Lăng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Trị Đơn vị bầu cử Số 2: Gồm thành phố Đông Hà, thị xã Quảng Trị và các huyện: Triệu Phong, Cam Lộ, Hải Lăng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cam Lộ",
+        "name_folded": "huyen cam lo"
+      },
+      {
+        "name_vi": "Huyện Hải Lăng",
+        "name_folded": "huyen hai lang"
+      },
+      {
+        "name_vi": "Huyện Triệu Phong",
+        "name_folded": "huyen trieu phong"
+      },
+      {
+        "name_vi": "Thành phố Đông Hà",
+        "name_folded": "thanh pho dong ha"
+      },
+      {
+        "name_vi": "Thị xã Quảng Trị",
+        "name_folded": "thi xa quang tri"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành lâm nghiệp"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy, Phó Chủ tịch thường trực Ủy ban nhân dân tỉnh Quảng Trị, Phó Trưởng Đoàn đại biểu Quốc hội tỉnh Quảng Trị"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân tỉnh Quảng Trị"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

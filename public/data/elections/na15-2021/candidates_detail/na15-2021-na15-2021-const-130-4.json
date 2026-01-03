@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-130-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-cb89f2621339",
+    "full_name": "Đàng Thị Mỹ Hương",
+    "full_name_folded": "dang thi my huong",
+    "dob": "24/6/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Chăm",
+    "religion": "Balamôn",
+    "birthplace": "Xã Phước Hữu, huyện Ninh Phước, tỉnh Ninh Thuận",
+    "current_residence": "Số nhà 20, đường Hồng Bàng, khu phố 2, phường Kinh Dinh, thành phố Phan Rang - Tháp Chàm, tỉnh Ninh Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-130",
+    "list_order": 4,
+    "party_member_since": "29/9/2001",
+    "is_na_delegate": "XII, XIII, XIV",
+    "is_council_delegate": "Tỉnh Ninh Thuận nhiệm kỳ 2004-2009 (kéo dài đến năm 2011), 2011-2016, 2016- 2021"
+  },
+  "locality": {
+    "id": "loc-b7a54ba23200",
+    "name_vi": "Tỉnh Ninh Thuận",
+    "name_folded": "ninh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-130",
+    "locality_id": "loc-b7a54ba23200",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Bác Ái, Huyện Ninh Sơn, Huyện Thuận Nam, Huyện Ninh Phước",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Thuận Đơn vị bầu cử Số 2: Gồm các huyện: Bác Ái, Ninh Sơn, Thuận Nam và Ninh Phước. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bác Ái",
+        "name_folded": "huyen bac ai"
+      },
+      {
+        "name_vi": "Huyện Ninh Phước",
+        "name_folded": "huyen ninh phuoc"
+      },
+      {
+        "name_vi": "Huyện Ninh Sơn",
+        "name_folded": "huyen ninh son"
+      },
+      {
+        "name_vi": "Huyện Thuận Nam",
+        "name_folded": "huyen thuan nam"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Đảng đoàn Hội đồng nhân dân tỉnh, Trưởng ban Văn hóa - Xã hội, Hội đồng nhân dân tỉnh Ninh Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Văn hóa - Xã hội, Hội đồng nhân dân tỉnh Ninh Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

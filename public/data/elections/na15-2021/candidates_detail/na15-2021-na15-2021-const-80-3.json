@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-80-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-395cdac68abc",
+    "full_name": "Rah Lan H′Dry",
+    "full_name_folded": "rah lan h dry",
+    "dob": "02/10/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Jrai",
+    "religion": "Không",
+    "birthplace": "Xã Chư Mố, huyện Ia Pa, tỉnh Gia Lai",
+    "current_residence": "Plei Pa Ơi H′Trông, xã Chư Mố, huyện Ia Pa, tỉnh Gia Lai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-80",
+    "list_order": 3,
+    "party_member_since": "16/3/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Gia Lai nhiệm kỳ 2004-2011; Huyện Ia Pa (tỉnh Gia Lai) nhiệm kỳ 1999-2004, 2004-2011, 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-52c2c0326abc",
+    "name_vi": "Tỉnh Gia Lai",
+    "name_folded": "gia lai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-80",
+    "locality_id": "loc-52c2c0326abc",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Ayun Pa, Huyện Krông Pa, Huyện Ia Pa, Huyện Phú Thiện, Huyện Chư Sê, Huyện Chư Pưh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Gia Lai Đơn vị bầu cử Số 3: Gồm thị xã Ayun Pa và các huyện: Krông Pa, Ia Pa, Phú Thiện, Chư Sê, Chư Pưh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chư Pưh",
+        "name_folded": "huyen chu puh"
+      },
+      {
+        "name_vi": "Huyện Chư Sê",
+        "name_folded": "huyen chu se"
+      },
+      {
+        "name_vi": "Huyện Ia Pa",
+        "name_folded": "huyen ia pa"
+      },
+      {
+        "name_vi": "Huyện Krông Pa",
+        "name_folded": "huyen krong pa"
+      },
+      {
+        "name_vi": "Huyện Phú Thiện",
+        "name_folded": "huyen phu thien"
+      },
+      {
+        "name_vi": "Thị xã Ayun Pa",
+        "name_folded": "thi xa ayun pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Huyện ủy, Phó Chủ tịch thường trực Hội đồng nhân dân huyện kiêm Trưởng ban Dân tộc Hội đồng nhân dân huyện Ia Pa, tỉnh Gia Lai"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng nhân dân huyện Ia Pa, tỉnh Gia Lai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

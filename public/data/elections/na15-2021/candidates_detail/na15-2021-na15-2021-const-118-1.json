@@ -1,0 +1,101 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-118-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b911b4c2635a",
+    "full_name": "Lê Thị Song An",
+    "full_name_folded": "le thi song an",
+    "dob": "11/10/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Thủ Thừa, huyện Thủ Thừa, tỉnh Long An",
+    "current_residence": "Số 20, đường Trương Công Xưởng, phường 1, thành phố Tân An, tỉnh Long An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-118",
+    "list_order": 1,
+    "party_member_since": "02/9/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-868f6e9f9a1e",
+    "name_vi": "Tỉnh Long An",
+    "name_folded": "long an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-118",
+    "locality_id": "loc-868f6e9f9a1e",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Kiến Tường, Huyện Thủ Thừa, Huyện Thạnh Hóa, Huyện Tân Thạnh, Huyện Mộc Hóa, Huyện Vĩnh Hưng, Huyện Tân Hưng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Long An Đơn vị bầu cử Số 3: Gồm thị xã Kiến Tường và các huyện: Thủ Thừa, Thạnh Hóa, Tân Thạnh, Mộc Hóa, Vĩnh Hưng, Tân Hưng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mộc Hóa",
+        "name_folded": "huyen moc hoa"
+      },
+      {
+        "name_vi": "Huyện Thạnh Hóa",
+        "name_folded": "huyen thanh hoa"
+      },
+      {
+        "name_vi": "Huyện Thủ Thừa",
+        "name_folded": "huyen thu thua"
+      },
+      {
+        "name_vi": "Huyện Tân Hưng",
+        "name_folded": "huyen tan hung"
+      },
+      {
+        "name_vi": "Huyện Tân Thạnh",
+        "name_folded": "huyen tan thanh"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Hưng",
+        "name_folded": "huyen vinh hung"
+      },
+      {
+        "name_vi": "Thị xã Kiến Tường",
+        "name_folded": "thi xa kien tuong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm sinh vật, tiếng Anh; Thạc sĩ chuyên ngành sinh thái học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng ủy, Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Long An"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Giáo dục và Đào tạo tỉnh Long An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

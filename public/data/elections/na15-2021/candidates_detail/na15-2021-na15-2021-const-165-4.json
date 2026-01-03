@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-165-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6a46de7118ea",
+    "full_name": "Cầm Thị Mẫn",
+    "full_name_folded": "cam thi man",
+    "dob": "12/11/1970",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Vạn Xuân, huyện Thường Xuân, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 59, đường Lê Lợi, Khu phố 5, thị trấn Thường Xuân, huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-165",
+    "list_order": 4,
+    "party_member_since": "30/10/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Huyện Thường Xuân nhiệm kỳ 2004 - 2011"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-165",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Nghi Sơn, Huyện Quảng Xương, Huyện Nông Cống, Huyện Như Xuân, Huyện Như Thanh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 3: Gồm thị xã Nghi Sơn và các huyện: Quảng Xương, Nông Cống, Như Xuân, Như Thanh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Như Thanh",
+        "name_folded": "huyen nhu thanh"
+      },
+      {
+        "name_vi": "Huyện Như Xuân",
+        "name_folded": "huyen nhu xuan"
+      },
+      {
+        "name_vi": "Huyện Nông Cống",
+        "name_folded": "huyen nong cong"
+      },
+      {
+        "name_vi": "Huyện Quảng Xương",
+        "name_folded": "huyen quang xuong"
+      },
+      {
+        "name_vi": "Thị xã Nghi Sơn",
+        "name_folded": "thi xa nghi son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga A, tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ Văn phòng Đoàn đại biểu Quốc hội tỉnh Thanh Hóa, Đại biểu Quốc hội chuyên trách thuộc Đoàn đại biểu Quốc hội tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

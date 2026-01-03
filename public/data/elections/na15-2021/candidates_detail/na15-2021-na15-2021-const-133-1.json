@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-133-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e06b60c4e8ef",
+    "full_name": "Vũ Tuấn Anh",
+    "full_name_folded": "vu tuan anh",
+    "dob": "08/11/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoàn Long, huyện Yên Mỹ, tỉnh Hưng Yên",
+    "current_residence": "Phòng 501, tập thể Công ty Đo đạc ảnh địa hình, số 5 phố Trúc Khê, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-133",
+    "list_order": 1,
+    "party_member_since": "01/02/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-133",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Thanh Ba, Huyện Hạ Hòa, Huyện Cầm Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 3: Gồm các huyện: Thanh Ba, Hạ Hòa và Cẩm Khê. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Khê",
+        "name_folded": "huyen cam khe"
+      },
+      {
+        "name_vi": "Huyện Hạ Hòa",
+        "name_folded": "huyen ha hoa"
+      },
+      {
+        "name_vi": "Huyện Thanh Ba",
+        "name_folded": "huyen thanh ba"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành tài chính - ngân hàng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ, Vụ trưởng Vụ Tài chính - Ngân sách, Văn phòng Quốc hội; Ủy viên Ban Thư ký của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Tài chính - Ngân sách, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

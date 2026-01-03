@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-97-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-4f9721662f42",
+    "full_name": "Phạm Đình Toản",
+    "full_name_folded": "pham dinh toan",
+    "dob": "26/5/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đông Hoàng, huyện Đông Hưng, tỉnh Thái Bình",
+    "current_residence": "Phòng 2702, nhà 29T1, khu N05, đường Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-97",
+    "list_order": 4,
+    "party_member_since": "12/6/2000",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cebbe60caac5",
+    "name_vi": "Tỉnh Hưng Yên",
+    "name_folded": "hung yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-97",
+    "locality_id": "loc-cebbe60caac5",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Tiên Lữ, Huyện Phù Cừ, Huyện Ân Thi",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hưng Yên Đơn vị bầu cử Số 2: Gồm các huyện: Tiên Lữ, Phù Cừ và Ân Thi. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phù Cừ",
+        "name_folded": "huyen phu cu"
+      },
+      {
+        "name_vi": "Huyện Tiên Lữ",
+        "name_folded": "huyen tien lu"
+      },
+      {
+        "name_vi": "Huyện Ân Thi",
+        "name_folded": "huyen an thi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành tài chính - ngân hàng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ khối các cơ quan Trung ương, Phó Bí thư Đảng ủy cơ quan Văn phòng Quốc hội, Phó Chủ nhiệm Văn phòng Quốc hội, Ủy viên Ủy ban Tài chính, Ngân sách của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

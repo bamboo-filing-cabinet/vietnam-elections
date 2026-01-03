@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-184-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7742c2f4ce05",
+    "full_name": "Sùng Thị Tường Vy",
+    "full_name_folded": "sung thi tuong vy",
+    "dob": "18/12/1993",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mông",
+    "religion": "Không",
+    "birthplace": "Bản Chế Tạo, xã Chế Tạo, huyện Mù Cang Chải, tỉnh Yên Bái",
+    "current_residence": "Tổ 4, thị trấn Mù Cang Chải, huyện Mù Cang Chải, tỉnh Yên Bái"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-184",
+    "list_order": 5,
+    "party_member_since": "20/5/2019",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9911d8be2ef2",
+    "name_vi": "Tỉnh Yên Bái",
+    "name_folded": "tinh yen bai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-184",
+    "locality_id": "loc-9911d8be2ef2",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Nghĩa Lô, Huyện Văn Chấn, Huyện Trạm Tấu, Huyện Mù Cang Chải, Huyện Văn Yên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Yên Bái Đơn vị bầu cử Số 2: Gồm thị xã Nghĩa Lộ và các huyện: Văn Chấn, Trạm Tấu, Mù Cang Chải, Văn Yên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mù Cang Chải",
+        "name_folded": "huyen mu cang chai"
+      },
+      {
+        "name_vi": "Huyện Trạm Tấu",
+        "name_folded": "huyen tram tau"
+      },
+      {
+        "name_vi": "Huyện Văn Chấn",
+        "name_folded": "huyen van chan"
+      },
+      {
+        "name_vi": "Huyện Văn Yên",
+        "name_folded": "huyen van yen"
+      },
+      {
+        "name_vi": "Thị xã Nghĩa Lô",
+        "name_folded": "thi xa nghia lo"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; nói được tiếng Mông"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị nhân lực"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Hội Liên hiệp Phụ nữ huyện Mù Cang Chải, tỉnh Yên Bái"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ huyện Mù Cang Chải, tỉnh Yên Bái"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-14-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bbee9c8262d9",
+    "full_name": "Nguyễn Thị Hồng Hạnh",
+    "full_name_folded": "nguyen thi hong hanh",
+    "dob": "11/01/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hàm Chính, huyện Hàm Thuận Bắc, tỉnh Bình Thuận",
+    "current_residence": "Số 15/21, Khuông Việt, tổ dân phố 55, khu phố 3, phường Phú Trung, quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-14",
+    "list_order": 1,
+    "party_member_since": "15/12/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-14",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận 10, Quận 12",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 4: Gồm các quận: Quận 10 và Quận 12. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 10",
+        "name_folded": "quan 10"
+      },
+      {
+        "name_vi": "Quận 12",
+        "name_folded": "quan 12"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Khối Dân - Chính - Đảng; Đảng ủy viên Đảng ủy Sở Tư pháp, Bí thư Chi bộ 3 cơ quan Sở Tư pháp; Phó Giám đốc Sở Tư pháp; Chi hội trưởng Chi hội luật gia Sở Tư pháp Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

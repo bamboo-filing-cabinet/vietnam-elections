@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-1-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-25416911f6ab",
+    "full_name": "Nguyễn Thị Hà Tuyên",
+    "full_name_folded": "nguyen thi ha tuyen",
+    "dob": "22/9/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Trần Phú, quận Hoàng Mai, thành phố Hà Nội",
+    "current_residence": "Số nhà 52, ngõ 110, phố Nam Dư, phường Lĩnh Nam, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-1",
+    "list_order": 4,
+    "party_member_since": "22/02/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-1",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hoàn Kiếm,Quận Long Biên, Huyện Đông Anh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 1: Gồm các quận: Ba Đình, Đống Đa và Hai Bà Trưng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Đông Anh",
+        "name_folded": "huyen dong anh"
+      },
+      {
+        "name_vi": "Quận Hoàn Kiếm",
+        "name_folded": "quan hoan kiem"
+      },
+      {
+        "name_vi": "Quận Long Biên",
+        "name_folded": "quan long bien"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục chính trị; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên; Phó Hiệu trường trường Trung học phổ thông Hoàng Văn Thụ"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông Hoàng Văn Thụ, Sở Giáo dục và Đào tạo Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

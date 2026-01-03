@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-82-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-7f946affcba6",
+    "full_name": "Đặng Thị Mừng",
+    "full_name_folded": "dang thi mung",
+    "dob": "24/9/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Dao",
+    "religion": "Không",
+    "birthplace": "Xã Lâm Thượng, huyện Lục Yên, tỉnh Yên Bái",
+    "current_residence": "Số nhà 44, Tổ 6, thị trấn Vinh Quang, huyện Hoàng Su Phì, tỉnh Hà Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-82",
+    "list_order": 4,
+    "party_member_since": "11/7/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-61a56c5d8d33",
+    "name_vi": "Tỉnh Hà Giang",
+    "name_folded": "ha giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-82",
+    "locality_id": "loc-61a56c5d8d33",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Vị Xuyên, Huyện Bắc Quang, Huyện Quang Bình, Huyện Hoàng Su Phi, Huyện Xín Mần",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Giang Đơn vị bầu cử Số 2: Gồm các huyện: Vị Xuyên, Bắc Quang, Quang Bình, Hoàng Su Phì và Xín Mần. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bắc Quang",
+        "name_folded": "huyen bac quang"
+      },
+      {
+        "name_vi": "Huyện Hoàng Su Phi",
+        "name_folded": "huyen hoang su phi"
+      },
+      {
+        "name_vi": "Huyện Quang Bình",
+        "name_folded": "huyen quang binh"
+      },
+      {
+        "name_vi": "Huyện Vị Xuyên",
+        "name_folded": "huyen vi xuyen"
+      },
+      {
+        "name_vi": "Huyện Xín Mần",
+        "name_folded": "huyen xin man"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành Lịch sử"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên, Phó Chánh Văn phòng Huyện ủy Hoàng Su Phì, tỉnh Hà Giang; Phó Chủ tịch Công đoàn khối Đảng"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Huyện ủy Hoàng Su Phì"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

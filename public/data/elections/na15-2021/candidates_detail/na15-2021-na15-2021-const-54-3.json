@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-54-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-bd473f2a4525",
+    "full_name": "Nguyễn Văn Lợi",
+    "full_name_folded": "nguyen van loi",
+    "dob": "23/8/1961",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "TT. An Lạc, huyện Bình Chánh, thành phố Hồ Chí Minh",
+    "current_residence": "Số 172/2 KP. 5, phường Phú Hòa, thành phố Thủ Dầu Một, tỉnh Bình Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-54",
+    "list_order": 3,
+    "party_member_since": "17/4/1981",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Bình Phước nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-b12c1ec4e509",
+    "name_vi": "Tỉnh Bình Phước",
+    "name_folded": "binh phuoc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-54",
+    "locality_id": "loc-b12c1ec4e509",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Bình Long, Huyện Bù Đốp, Huyện Bù Gia Mập, Huyện Chơn Thành, Huyện Hớn Quản, Huyện Lộc Ninh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Phước Đơn vị bầu cử Số 1: Gồm thị xã Bình Long và các huyện: Bù Đốp, Bù Gia Mập, Chơn Thành, Hớn Quản, Lộc Ninh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bù Gia Mập",
+        "name_folded": "huyen bu gia map"
+      },
+      {
+        "name_vi": "Huyện Bù Đốp",
+        "name_folded": "huyen bu dop"
+      },
+      {
+        "name_vi": "Huyện Chơn Thành",
+        "name_folded": "huyen chon thanh"
+      },
+      {
+        "name_vi": "Huyện Hớn Quản",
+        "name_folded": "huyen hon quan"
+      },
+      {
+        "name_vi": "Huyện Lộc Ninh",
+        "name_folded": "huyen loc ninh"
+      },
+      {
+        "name_vi": "Thị xã Bình Long",
+        "name_folded": "thi xa binh long"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị; Thạc sĩ chuyên ngành hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Bình Phước"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Bình Phước"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

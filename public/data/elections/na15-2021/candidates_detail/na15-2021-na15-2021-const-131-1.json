@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-131-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c53dd6a180f1",
+    "full_name": "Nguyễn Thúy Anh",
+    "full_name_folded": "nguyen thuy anh",
+    "dob": "07/12/1963",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tiên Cát, thành phố Việt Trì, tỉnh Phú Thọ",
+    "current_residence": "Phòng 502A, tập thể Văn phòng Quốc hội, 27A Trần Hưng Đạo, phường Phan Chu Trinh, quận Hoàn Kiếm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-131",
+    "list_order": 1,
+    "party_member_since": "04/9/1994",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-131",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Việt Trì, Huyện Tam Nông, Huyện Tân Sơn, Huyện Thanh Sơn, Huyện Thanh Thủy, Huyện Yên Lập",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 1: Gồm thành phố Việt Trì và các huyện: Tam Nông, Tân Sơn, Thanh Sơn, Thanh Thủy, Yên Lập. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tam Nông",
+        "name_folded": "huyen tam nong"
+      },
+      {
+        "name_vi": "Huyện Thanh Sơn",
+        "name_folded": "huyen thanh son"
+      },
+      {
+        "name_vi": "Huyện Thanh Thủy",
+        "name_folded": "huyen thanh thuy"
+      },
+      {
+        "name_vi": "Huyện Tân Sơn",
+        "name_folded": "huyen tan son"
+      },
+      {
+        "name_vi": "Huyện Yên Lập",
+        "name_folded": "huyen yen lap"
+      },
+      {
+        "name_vi": "Thành phố Việt Trì",
+        "name_folded": "thanh pho viet tri"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Pháp D, tiếng Nga C, tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành luật công và hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban về các vấn đề Xã hội của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban về các vấn đề Xã hội của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

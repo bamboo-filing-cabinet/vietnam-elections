@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-177-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d2a3391f93a7",
+    "full_name": "Bùi Văn Thắng",
+    "full_name_folded": "bui van thang",
+    "dob": "15/6/1979",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lương Lỗ, huyện Thanh Ba, tỉnh Phú Thọ",
+    "current_residence": "Số 22, ngõ 42, đường Lê Đại Hành, tổ 5, phường Hưng Thành, thành phố Tuyên Quang, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-177",
+    "list_order": 3,
+    "party_member_since": "16/11/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-177",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Hàm Yên, Huyện Yên Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 2: Gồm các huyện: Hàm Yên và Yên Sơn. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hàm Yên",
+        "name_folded": "huyen ham yen"
+      },
+      {
+        "name_vi": "Huyện Yên Sơn",
+        "name_folded": "huyen yen son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành công nghệ thông tin; Thạc sĩ chuyên ngành khoa học máy tính"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên, Giám đốc Trung tâm Công nghệ thông tin và Truyền thông, Sở Thông tin và Truyền thông tỉnh Tuyên Quang"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Thông tin và Truyền thông tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

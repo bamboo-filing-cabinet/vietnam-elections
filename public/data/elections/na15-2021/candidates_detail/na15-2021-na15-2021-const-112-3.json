@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-112-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-092d4c5e5e3a",
+    "full_name": "Sùng A Lềnh",
+    "full_name_folded": "sung a lenh",
+    "dob": "16/8/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "HMông",
+    "religion": "Không",
+    "birthplace": "Xã Mường Hoa, thị xã Sa Pa, tỉnh Lào Cai",
+    "current_residence": "Số 06, đường Sở Than, tổ 4, phường Sa Pa, thị xã Sa Pa, tỉnh Lào Cai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-112",
+    "list_order": 3,
+    "party_member_since": "14/11/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-01701c894c7e",
+    "name_vi": "Tỉnh Lào Cai",
+    "name_folded": "lao cai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-112",
+    "locality_id": "loc-01701c894c7e",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Sa Pa, Huyện Bảo Thắng, Huyện Bảo Yên, Huyện Văn Bàn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lào Cai Đơn vị bầu cử Số 2: Gồm thị xã Sa Pa và các huyện: Bảo Thắng, Bảo Yên, Văn Bàn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bảo Thắng",
+        "name_folded": "huyen bao thang"
+      },
+      {
+        "name_vi": "Huyện Bảo Yên",
+        "name_folded": "huyen bao yen"
+      },
+      {
+        "name_vi": "Huyện Văn Bàn",
+        "name_folded": "huyen van ban"
+      },
+      {
+        "name_vi": "Thị xã Sa Pa",
+        "name_folded": "thi xa sa pa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B, Trung B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng Ban Tổ chức Tỉnh ủy Lào Cai"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Tổ chức Tỉnh ủy Lào Cai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

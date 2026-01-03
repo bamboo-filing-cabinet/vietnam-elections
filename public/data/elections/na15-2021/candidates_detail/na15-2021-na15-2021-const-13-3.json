@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-13-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-090c9521a346",
+    "full_name": "Nguyễn Tri Thức",
+    "full_name_folded": "nguyen tri thuc",
+    "dob": "16/9/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Cát Tân, huyện Phù Cát, tỉnh Bình Định",
+    "current_residence": "Số 175, Trần Quý, tổ dân phố 24, phường 4, quận 11, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-13",
+    "list_order": 3,
+    "party_member_since": "17/01/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-13",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận 5, Quận 8, Quận 11",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 3: Gồm các quận: Quận 5, Quận 8 và Quận 11. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 11",
+        "name_folded": "quan 11"
+      },
+      {
+        "name_vi": "Quận 5",
+        "name_folded": "quan 5"
+      },
+      {
+        "name_vi": "Quận 8",
+        "name_folded": "quan 8"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ, Bác sĩ chuyên khoa II"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân, Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị, ngoại ngữ (tiếng Anh), bác sĩ chuyên khoa II; Tiến sĩ chuyên ngành nội khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Đảng ủy khối cơ sở Bộ Y tế, Bí thư Đảng ủy, Giám đốc Bệnh viện Chợ Rẫy, Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Chợ Rẫy, Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

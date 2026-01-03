@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-93-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f72bbb9cd903",
+    "full_name": "Lê Tiến Châu",
+    "full_name_folded": "le tien chau",
+    "dob": "05/10/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Long Vĩnh, huyện Châu Thành, tỉnh Tây Ninh",
+    "current_residence": "Khu nhà công vụ Ủy ban nhân dân tỉnh, số 34, đường 1/5, khu vực 1, phường I, thành phố Vị Thanh, tỉnh Hậu Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-93",
+    "list_order": 1,
+    "party_member_since": "07/01/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-44db209ebea8",
+    "name_vi": "Tỉnh Hậu Giang",
+    "name_folded": "hau giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-93",
+    "locality_id": "loc-44db209ebea8",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Ngã Bảy, Thị xã Long Mỹ, Huyện Phụng Hiệp, Huyện Long Mỹ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hậu Giang Đơn vị bầu cử Số 2: Gồm thành phố Ngã Bảy, thị xã Long Mỹ và các huyện: Phụng Hiệp, Long Mỹ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Long Mỹ",
+        "name_folded": "huyen long my"
+      },
+      {
+        "name_vi": "Huyện Phụng Hiệp",
+        "name_folded": "huyen phung hiep"
+      },
+      {
+        "name_vi": "Thành phố Ngã Bảy",
+        "name_folded": "thanh pho nga bay"
+      },
+      {
+        "name_vi": "Thị xã Long Mỹ",
+        "name_folded": "thi xa long my"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy Hậu Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Hậu Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

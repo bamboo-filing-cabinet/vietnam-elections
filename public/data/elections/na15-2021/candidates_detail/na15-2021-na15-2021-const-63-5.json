@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-63-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e7427c0ef1fe",
+    "full_name": "Nguyễn Đình Việt",
+    "full_name_folded": "nguyen dinh viet",
+    "dob": "09/7/1977",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Yên Mỹ, huyện Yên Mỹ, tỉnh Hưng Yên",
+    "current_residence": "Căn hộ 21.05, chung cư Park 10, khu đô thị Vinhomes Times City Park Hill, số 25, ngõ 13 đường Lĩnh Nam, phường Mai Động, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-63",
+    "list_order": 5,
+    "party_member_since": "19/5/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d0cfd73752bb",
+    "name_vi": "Tỉnh Cao Bằng",
+    "name_folded": "cao bang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-63",
+    "locality_id": "loc-d0cfd73752bb",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Cao Bằng, Huyện Quảng Hòa, Huyện Trùng Khánh, Huyện Hạ Lang, Huyện Thạch An",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cao Bằng Đơn vị bầu cử Số 2: Gồm thành phố Cao Bằng và các huyện: Quảng Hòa, Trùng Khánh, Hạ Lang, Thạch An. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hạ Lang",
+        "name_folded": "huyen ha lang"
+      },
+      {
+        "name_vi": "Huyện Quảng Hòa",
+        "name_folded": "huyen quang hoa"
+      },
+      {
+        "name_vi": "Huyện Thạch An",
+        "name_folded": "huyen thach an"
+      },
+      {
+        "name_vi": "Huyện Trùng Khánh",
+        "name_folded": "huyen trung khanh"
+      },
+      {
+        "name_vi": "Thành phố Cao Bằng",
+        "name_folded": "thanh pho cao bang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ quản trị kinh doanh - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành thương mại, quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ, Vụ trưởng Vụ Kinh tế; Ủy viên Ban Thư ký Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Kinh tế, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

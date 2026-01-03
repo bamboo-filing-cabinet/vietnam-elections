@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-22-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2fa49227c7c8",
+    "full_name": "Đỗ Thị Phương Chung",
+    "full_name_folded": "do thi phuong chung",
+    "dob": "15/10/1979",
+    "gender": "Nữ",
+    "nationality": "Vệt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lê Lợi, huyện An Dương, thành phố Hải Phòng",
+    "current_residence": "Số 38, đường Lam Sơn, phường Lam Sơn, quận Lê Chân, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-22",
+    "list_order": 1,
+    "party_member_since": "08/12/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-22",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận Ngô Quyền, Quận Hải An, Quận Đồ Sơn, Huyện An Dương, Huyện Kiến Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 2: Gồm các quận: Ngô Quyền, Hải An, Đồ Sơn và các huyện: An Dương, Kiến Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Dương",
+        "name_folded": "huyen an duong"
+      },
+      {
+        "name_vi": "Huyện Kiến Thụy",
+        "name_folded": "huyen kien thuy"
+      },
+      {
+        "name_vi": "Quận Hải An",
+        "name_folded": "quan hai an"
+      },
+      {
+        "name_vi": "Quận Ngô Quyền",
+        "name_folded": "quan ngo quyen"
+      },
+      {
+        "name_vi": "Quận Đồ Sơn",
+        "name_folded": "quan do son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ, bác sĩ đa khoa; Tiến sĩ chuyên ngành y khoa ung bướu"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, Phó Giám đốc Trung tâm Ung bướu - Y học hạt nhân Bệnh viện Hữu nghị Việt Tiệp; Trưởng khoa Ung bướu cơ sở An Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Hữu nghị Việt Tiệp Hải Phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-75-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-776f22e810f5",
+    "full_name": "Hà Thị Nga",
+    "full_name_folded": "ha thi nga",
+    "dob": "20/02/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Piềng Vế, huyện Mai Châu, tỉnh Hòa Bình",
+    "current_residence": "Tòa nhà công vụ Chính phủ N04A, khu Ngoại giao đoàn, phường Xuân Tảo, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-75",
+    "list_order": 2,
+    "party_member_since": "16/3/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Lào Cai nhiệm kỳ 1999-2004, 2004-2009"
+  },
+  "locality": {
+    "id": "loc-0e3718a4a90a",
+    "name_vi": "Tỉnh Đồng Tháp",
+    "name_folded": "dong thap",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-75",
+    "locality_id": "loc-0e3718a4a90a",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hồng Ngự, Huyện Tân Hồng, Huyện Hồng Ngự, Huyện Tam Nông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Tháp Đơn vị bầu cử Số 1: Gồm thành phố Hồng Ngự và các huyện: Tân Hồng, Hồng Ngự, Tam Nông. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hồng Ngự",
+        "name_folded": "huyen hong ngu"
+      },
+      {
+        "name_vi": "Huyện Tam Nông",
+        "name_folded": "huyen tam nong"
+      },
+      {
+        "name_vi": "Huyện Tân Hồng",
+        "name_folded": "huyen tan hong"
+      },
+      {
+        "name_vi": "Thành phố Hồng Ngự",
+        "name_folded": "thanh pho hong ngu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn, chính trị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Đảng đoàn, Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam; Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Ủy viên Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

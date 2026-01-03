@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-128-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2daedc1b2a62",
+    "full_name": "Tống Duy Tứ",
+    "full_name_folded": "tong duy tu",
+    "dob": "27/5/1979",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Thị trấn Yên Thịnh, huyện Yên Mô, tỉnh Ninh Bình",
+    "current_residence": "Số 78, đường Hoàng Quốc Việt, tổ dân phố 18, phường Bắc Sơn, thành phố Tam Điệp, tỉnh Ninh Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-128",
+    "list_order": 5,
+    "party_member_since": "05/01/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-110c712f454d",
+    "name_vi": "Tỉnh Ninh Bình",
+    "name_folded": "ninh binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-128",
+    "locality_id": "loc-110c712f454d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tam Điệp, Huyện Kim Sơn, Huyện Yên Khánh, Huyện Yên Mô",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Ninh Bình Đơn vị bầu cử Số 2: Gồm thành phố Tam Điệp và các huyện: Kim Sơn, Yên Khánh, Yên Mô. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Sơn",
+        "name_folded": "huyen kim son"
+      },
+      {
+        "name_vi": "Huyện Yên Khánh",
+        "name_folded": "huyen yen khanh"
+      },
+      {
+        "name_vi": "Huyện Yên Mô",
+        "name_folded": "huyen yen mo"
+      },
+      {
+        "name_vi": "Thành phố Tam Điệp",
+        "name_folded": "thanh pho tam diep"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính - ngân hàng; Thạc sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên, Bí thư Chi bộ, Trưởng Phòng Tài chính - Kế hoạch thành phố Tam Điệp, tỉnh Ninh Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân thành phố Tam Điệp, tỉnh Ninh Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

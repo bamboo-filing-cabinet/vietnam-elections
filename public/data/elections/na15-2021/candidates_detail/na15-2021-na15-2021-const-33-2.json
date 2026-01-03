@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-33-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8f757a9458f6",
+    "full_name": "Tạ Thị Mỹ Đào",
+    "full_name_folded": "ta thi my dao",
+    "dob": "16/02/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Long Thọ, huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu",
+    "current_residence": "Tổ 5, ấp Phước Lợi, xã Phước Hội, huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-33",
+    "list_order": 2,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-33",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Bà Rịa, Thị xã Phú Mỹ, Huyện Châu Đức, Huyện Xuyên Mộc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 2: Gồm thành phố Bà Rịa, thị xã Phú Mỹ và các huyện: Châu Đức, Xuyên Mộc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Đức",
+        "name_folded": "huyen chau duc"
+      },
+      {
+        "name_vi": "Huyện Xuyên Mộc",
+        "name_folded": "huyen xuyen moc"
+      },
+      {
+        "name_vi": "Thành phố Bà Rịa",
+        "name_folded": "thanh pho ba ria"
+      },
+      {
+        "name_vi": "Thị xã Phú Mỹ",
+        "name_folded": "thi xa phu my"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành công tác xã hội"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Ban Xây dựng Tổ chức hội Hội Liên hiệp Phụ nữ tỉnh Bà Rịa-Vũng Tàu"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Bà Rịa-Vũng Tàu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

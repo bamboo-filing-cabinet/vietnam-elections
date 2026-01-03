@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-86-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-46097f5692b8",
+    "full_name": "Lê Anh Tuấn",
+    "full_name_folded": "le anh tuan",
+    "dob": "23/02/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Tây, huyện Hương Sơn, tỉnh Hà Tĩnh",
+    "current_residence": "Số 7, ngách 61/39, phố Phạm Tuấn Tài, phường Cổ Nhuế 1, quận Bắc Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-86",
+    "list_order": 4,
+    "party_member_since": "06/10/2006",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-86",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Thạch Hà, Huyện Can Lộc, Huyện Nghi Xuân, Huyện Lộc Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 2: Gồm các huyện: Thạch Hà, Can Lộc, Nghi Xuân và Lộc Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Can Lộc",
+        "name_folded": "huyen can loc"
+      },
+      {
+        "name_vi": "Huyện Lộc Hà",
+        "name_folded": "huyen loc ha"
+      },
+      {
+        "name_vi": "Huyện Nghi Xuân",
+        "name_folded": "huyen nghi xuan"
+      },
+      {
+        "name_vi": "Huyện Thạch Hà",
+        "name_folded": "huyen thach ha"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Anh); Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Bí thư Chi bộ Đối ngoại; Ủy viên Thường trực Ủy ban Đối ngoại của Quốc hội; Phó Chủ tịch nhóm Nghị sĩ hữu nghị Việt Nam - Ucraina"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

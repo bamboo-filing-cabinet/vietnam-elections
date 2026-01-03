@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-14-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-67d454e27a08",
+    "full_name": "Phan Anh Sơn",
+    "full_name_folded": "phan anh son",
+    "dob": "30/8/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Dân, huyện Phú Xuyên, thành phố Hà Nội",
+    "current_residence": "Căn hộ 0603, Park3, Khu đô thị Vinhomes Time City Park Hill, số 25, ngõ 13, Lĩnh Nam, phường Mai Động, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-14",
+    "list_order": 4,
+    "party_member_since": "25/02/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-14",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận 10, Quận 12",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 4: Gồm các quận: Quận 10 và Quận 12. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 10",
+        "name_folded": "quan 10"
+      },
+      {
+        "name_vi": "Quận 12",
+        "name_folded": "quan 12"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Pháp (thành thạo), tiếng Trung (sơ cấp)"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Anh; Thạc sĩ chuyên ngành ngôn ngữ học ứng dụng, quản lý công; Tiến sĩ chuyên ngành quan hệ quốc tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Phó Bí thư kiêm Chủ nhiệm Ủy ban Kiểm tra Đảng ủy cơ quan Liên hiệp các tổ chức hữu nghị Việt Nam, Phó Chủ tịch - Tổng Thư ký Liên hiệp các tổ chức hữu nghị Việt Nam; Phó Chủ nhiệm Ủy ban Công tác về các tổ chức phi chính phủ nước ngoài; Viện trưởng Viện Nghiên cứu Quốc tế và Đối ngoại nhân dân"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên hiệp các tổ chức hữu nghị Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

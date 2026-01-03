@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-5133bd78fc4a-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-17e7d99c5a9f",
+    "full_name": "Hồ Thị Kim Ngân",
+    "full_name_folded": "ho thi kim ngan",
+    "dob": "02/3/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Phùng Chí Kiên, thị xã Mỹ Hào, tỉnh Hưng Yên",
+    "current_residence": "Tổ 15, phường Sông Cầu, Thành phố Bắc Kạn, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-5133bd78fc4a",
+    "list_order": 4,
+    "party_member_since": "29/01/2008",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-5133bd78fc4a",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 1: Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, Chứng chỉ tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tư pháp và hành chính nhà nước; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Đảng ủy, Giám đốc Sở Tư pháp tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Tư pháp tỉnh Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-44-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b919943b6730",
+    "full_name": "Nguyễn Thị Mai Rý",
+    "full_name_folded": "nguyen thi mai ry",
+    "dob": "08/12/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Trung, huyện Mỏ Cày Nam, tỉnh Bến Tre",
+    "current_residence": "Số 303D, ấp An Thuận A, xã Mỹ Thạnh An, thành phố Bến Tre, tỉnh Bến Tre"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-44",
+    "list_order": 3,
+    "party_member_since": "15/4/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-44",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Bến Tre, Huyện Châu Thành, Huyện Bình Đại",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 1: Gồm thành phố Bến Tre và các huyện: Châu Thành, Bình Đại. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Đại",
+        "name_folded": "huyen binh dai"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Thành phố Bến Tre",
+        "name_folded": "thanh pho ben tre"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán doanh nghiệp (tại chức)"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Bến Tre"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

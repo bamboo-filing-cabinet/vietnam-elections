@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-58-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fd04cf997fa7",
+    "full_name": "Đặng Hồng Sỹ",
+    "full_name_folded": "dang hong sy",
+    "dob": "20/01/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Kỳ Giang, huyện Kỳ Anh, tỉnh Hà Tĩnh",
+    "current_residence": "Số 143, đường Trần Quang Diệu, khu phố 1, phường Xuân An, thành phố Phan Thiết, tỉnh Bình Thuận"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-58",
+    "list_order": 3,
+    "party_member_since": "10/12/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-58",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã La Gi, Huyện Đức Linh, Huyện Tánh Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 3: Gồm thị xã La Gi và các huyện: Đức Linh, Tánh Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tánh Linh",
+        "name_folded": "huyen tanh linh"
+      },
+      {
+        "name_vi": "Huyện Đức Linh",
+        "name_folded": "huyen duc linh"
+      },
+      {
+        "name_vi": "Thị xã La Gi",
+        "name_folded": "thi xa la gi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh tương đương B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành báo chí; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy, Trưởng Ban Dân vận Tỉnh ủy Bình Thuận"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân vận Tỉnh ủy Bình Thuận"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

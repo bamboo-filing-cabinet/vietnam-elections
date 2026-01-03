@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-26-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e300a44cdeb7",
+    "full_name": "Nguyễn Thị Kim Thoa",
+    "full_name_folded": "nguyen thi kim thoa",
+    "dob": "20/7/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Trị, huyện Phú Hòa, tỉnh Phú Yên",
+    "current_residence": "Ấp Trường Phú 1, xã Trường Long, huyện Phong Điền, thành phố Cần Thơ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-26",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-26",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Ninh Kiều, Quận Cái Răng, Huyện Phong Điền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 1: Gồm các huyện: Ninh Kiều, Cái Răng và Phong Điền. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Quận Cái Răng",
+        "name_folded": "quan cai rang"
+      },
+      {
+        "name_vi": "Quận Ninh Kiều",
+        "name_folded": "quan ninh kieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giáo dục chính trị; Thạc sĩ chuyên ngành phát triển nông thôn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giám đốc điều hành Công ty cổ phần sản xuất thương mại Abavina, huyện Phong Điền, thành phố Cần Thơ"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty cổ phần sản xuất thương mại Abavina, huyện Phong Điền, thành phố Cần Thơ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

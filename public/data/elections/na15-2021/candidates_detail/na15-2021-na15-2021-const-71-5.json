@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-71-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a8a18176ded1",
+    "full_name": "Nguyễn Thị Như Ý (VY)",
+    "full_name_folded": "nguyen thi nhu y vy",
+    "dob": "02/11/1973",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật",
+    "birthplace": "Thị trấn Thạnh Mỹ, huyện Đơn Dương, tỉnh Lâm Đồng",
+    "current_residence": "Số 77/382C, khu phố 1, phường Tân Mai, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-71",
+    "list_order": 5,
+    "party_member_since": "18/9/2003",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Đồng Nai nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-71",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Biên Hòa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 1: Gồm thành phố Biên Hòa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Biên Hòa",
+        "name_folded": "thanh pho bien hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Chủ tịch Liên đoàn Lao động tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

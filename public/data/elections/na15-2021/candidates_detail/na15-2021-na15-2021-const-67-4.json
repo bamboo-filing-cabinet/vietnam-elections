@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-67-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-da850fb8b3ab",
+    "full_name": "Dương Khắc Mai (Dương Ngọc Mai)",
+    "full_name_folded": "duong khac mai duong ngoc mai",
+    "dob": "09/6/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Thiệu Dương, thành phố Thanh Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Tổ dân phố 3, phường Nghĩa Trung, thành phố Gia Nghĩa, tỉnh Đắk Nông"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-67",
+    "list_order": 4,
+    "party_member_since": "30/10/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-17908977e54f",
+    "name_vi": "Tỉnh Đắk Nông",
+    "name_folded": "dak nong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-67",
+    "locality_id": "loc-17908977e54f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Krông Nô, Huyện Cư Jút, Huyện Đắk Mil",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đắk Nông Đơn vị bầu cử Số 1: Gồm các huyện: Krông Nô, Cư Jút và Đắk Mil. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cư Jút",
+        "name_folded": "huyen cu jut"
+      },
+      {
+        "name_vi": "Huyện Krông Nô",
+        "name_folded": "huyen krong no"
+      },
+      {
+        "name_vi": "Huyện Đắk Mil",
+        "name_folded": "huyen dak mil"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, kinh tế; Thạc sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Chi bộ, Chánh Văn phòng Đoàn đại biểu Quốc hội tỉnh Đắk Nông; Ủy viên Ban Chấp hành Trung ương Hội Cựu thanh niên xung phong Việt Nam; Chủ tịch Hội Cựu thanh niên xung phong tỉnh Đắk Nông"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn Đại biểu Quốc hội tỉnh Đắk Nông"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

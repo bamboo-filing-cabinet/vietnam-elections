@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-156-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-93ed61f04ec5",
+    "full_name": "Lê Phương Hồng (Phối sư Ngọc Hồng Thanh)",
+    "full_name_folded": "le phuong hong phoi su ngoc hong thanh",
+    "dob": "09/9/1947",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Cao Đài",
+    "birthplace": "Xã Vĩnh Xuân, huyện Trà Ôn, tỉnh Vĩnh Long",
+    "current_residence": "Khu phố Long Tân, phường Long Thành Bắc, thị xã Hòa Thành, tỉnh Tây Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-156",
+    "list_order": 2,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Hòa Thành nhiệm kỳ 1989-1994; Xã Trường Tây nhiệm kỳ 1985-1989, 1989-1994"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-156",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Tây Ninh, Thị xã Hòa Thành, Huyện Tân Biên, Huyện Tân Châu, Huyện Dương Minh Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 2: Gồm thành phố Tây Ninh, thị xã Hòa Thành và các huyện: Tân Biên, Tân Châu, Dương Minh Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Dương Minh Châu",
+        "name_folded": "huyen duong minh chau"
+      },
+      {
+        "name_vi": "Huyện Tân Biên",
+        "name_folded": "huyen tan bien"
+      },
+      {
+        "name_vi": "Huyện Tân Châu",
+        "name_folded": "huyen tan chau"
+      },
+      {
+        "name_vi": "Thành phố Tây Ninh",
+        "name_folded": "thanh pho tay ninh"
+      },
+      {
+        "name_vi": "Thị xã Hòa Thành",
+        "name_folded": "thi xa hoa thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_general",
+      "value": "11/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tu sĩ; Tổng quản Văn phòng Ngọc chánh Phối sư kiêm Thượng Thống Lại Viện"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội thánh Cao đài Tòa thánh Tây Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

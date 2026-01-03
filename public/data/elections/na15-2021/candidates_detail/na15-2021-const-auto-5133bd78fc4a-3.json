@@ -1,0 +1,72 @@
+{
+  "entry_id": "na15-2021-const-auto-5133bd78fc4a-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9ff12dd4d7e0",
+    "full_name": "Lương Thanh Lộc",
+    "full_name_folded": "luong thanh loc",
+    "dob": "24/6/1979",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Nùng",
+    "religion": "Không",
+    "birthplace": "Xã Lương Hạ, huyện Na Rì, tỉnh Bắc Kạn",
+    "current_residence": "Thôn Nà Lẹng, thị trấn Yến Lạc, huyện Na Rì, tỉnh Bắc Kạn"
+  },
+  "entry": {
+    "constituency_id": "const-auto-5133bd78fc4a",
+    "list_order": 3,
+    "party_member_since": "28/9/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cbed4363c03e",
+    "name_vi": "Tỉnh Bắc Kạn",
+    "name_folded": "bac kan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "const-auto-5133bd78fc4a",
+    "locality_id": "loc-cbed4363c03e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 1: Gồm các huyện: Ba Bể, Ngân Sơn, Na Rì và Pác Nặm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": []
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1; Nói được tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành thú y; Thạc sĩ chuyên ngành phát triển nông thôn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Huyện ủy; Phó Chủ tịch Ủy ban nhân dân huyện Na Rì, tỉnh Bắc Kạn"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân huyện Na Rì, tỉnh Bắc Kạn"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

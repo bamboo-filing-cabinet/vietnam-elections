@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-58-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-605a0ba8e9f2",
+    "full_name": "Trần Hồng Nguyên",
+    "full_name_folded": "tran hong nguyen",
+    "dob": "26/5/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thuần Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
+    "current_residence": "Nhà 46, TT2A khu đô thị Văn Quán, phường Phúc La, quận Hà Đông, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-58",
+    "list_order": 2,
+    "party_member_since": "04/12/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-58",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã La Gi, Huyện Đức Linh, Huyện Tánh Linh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 3: Gồm thị xã La Gi và các huyện: Đức Linh, Tánh Linh. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tánh Linh",
+        "name_folded": "huyen tanh linh"
+      },
+      {
+        "name_vi": "Huyện Đức Linh",
+        "name_folded": "huyen duc linh"
+      },
+      {
+        "name_vi": "Thị xã La Gi",
+        "name_folded": "thi xa la gi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Pháp luật của Quốc hội; Phó Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Angieri"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Pháp luật của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

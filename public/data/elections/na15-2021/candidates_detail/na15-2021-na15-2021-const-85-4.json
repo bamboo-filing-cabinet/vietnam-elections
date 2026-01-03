@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-85-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d31fd9f9a636",
+    "full_name": "Trần Thị Minh Tâm",
+    "full_name_folded": "tran thi minh tam",
+    "dob": "01/10/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đức Lạc, huyện Đức Thọ, tỉnh Hà Tĩnh",
+    "current_residence": "Số 24, ngõ 23, đường Lý Tự Trọng, tổ dân phố 3, phường Bắc Hà, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-85",
+    "list_order": 4,
+    "party_member_since": "03/12/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-85",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Tĩnh, Thị xã Kỳ Anh, Huyện Kỳ Anh, Huyện Cầm Xuyên, Huyện Hương Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 1: Gồm thành phố Hà Tĩnh, thị xã Kỳ Anh và các huyện: Kỳ Anh, Cẩm Xuyên, Hương Khê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Xuyên",
+        "name_folded": "huyen cam xuyen"
+      },
+      {
+        "name_vi": "Huyện Hương Khê",
+        "name_folded": "huyen huong khe"
+      },
+      {
+        "name_vi": "Huyện Kỳ Anh",
+        "name_folded": "huyen ky anh"
+      },
+      {
+        "name_vi": "Thành phố Hà Tĩnh",
+        "name_folded": "thanh pho ha tinh"
+      },
+      {
+        "name_vi": "Thị xã Kỳ Anh",
+        "name_folded": "thi xa ky anh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Huyện ủy viên, Bí thư Chi bộ, Chánh án Tòa án nhân dân huyện Cẩm Xuyên, tỉnh Hà Tĩnh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân huyện Cẩm Xuyên, tỉnh Hà Tĩnh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

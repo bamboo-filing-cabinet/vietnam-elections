@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-30-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e0fd32e1d792",
+    "full_name": "Lương Quốc Đoàn",
+    "full_name_folded": "luong quoc doan",
+    "dob": "21/12/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vũ An, huyện Kiến Xương, tỉnh Thái Bình",
+    "current_residence": "Phòng 0906 Tháp B, Tòa nhà công vụ Green Park, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-30",
+    "list_order": 4,
+    "party_member_since": "06/10/1994",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-98279810913f",
+    "name_vi": "Tỉnh An Giang",
+    "name_folded": "an giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-30",
+    "locality_id": "loc-98279810913f",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Tân Châu, Huyện Chợ Mới, Huyện Phú Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: An Giang Đơn vị bầu cử Số 2: Gồm thị xã Tân Châu và các huyện: Chợ Mới, Phú Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chợ Mới",
+        "name_folded": "huyen cho moi"
+      },
+      {
+        "name_vi": "Huyện Phú Tân",
+        "name_folded": "huyen phu tan"
+      },
+      {
+        "name_vi": "Thị xã Tân Châu",
+        "name_folded": "thi xa tan chau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Phó Bí thư Đảng đoàn, Phó Chủ tịch thường trực Ban Chấp hành Trung ương Hội Nông dân Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung ương Hội Nông dân Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

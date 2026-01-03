@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-163-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-862733b50268",
+    "full_name": "Trần Văn Thức",
+    "full_name_folded": "tran van thuc",
+    "dob": "20/12/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoằng Quỳ, huyện Hoằng Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Lô BT 10, MBQH 1858, phường Quảng Thắng, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-163",
+    "list_order": 5,
+    "party_member_since": "21/10/1992",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-163",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thanh Hóa, Thành phố Sầm Sơn, Huyện Hoằng Hóa, Huyện Đông Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 1: Gồm các thành phố: Thanh Hóa, Sầm Sơn và các huyện: Hoằng Hóa, Đông Sơn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoằng Hóa",
+        "name_folded": "huyen hoang hoa"
+      },
+      {
+        "name_vi": "Huyện Đông Sơn",
+        "name_folded": "huyen dong son"
+      },
+      {
+        "name_vi": "Thành phố Sầm Sơn",
+        "name_folded": "thanh pho sam son"
+      },
+      {
+        "name_vi": "Thành phố Thanh Hóa",
+        "name_folded": "thanh pho thanh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga C, tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm lịch sử; Tiến sĩ chuyên ngành sử học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ủy ban nhân dân, Bí thư Đảng ủy, Giám đốc Sở Giáo dục và Đào tạo tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Giáo dục và Đào tạo tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

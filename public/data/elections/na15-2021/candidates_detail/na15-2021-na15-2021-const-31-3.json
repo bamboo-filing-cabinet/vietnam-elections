@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-31-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b3b0a9fa84b8",
+    "full_name": "Đôn Tuấn Phong",
+    "full_name_folded": "don tuan phong",
+    "dob": "27/7/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phượng Cách, huyện Quốc Oai, thành phố Hà Nội",
+    "current_residence": "Nhà 40, đường 1, khu tập thể F361, phố An Dương, phường Yên Phụ, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-31",
+    "list_order": 3,
+    "party_member_since": "20/9/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-98279810913f",
+    "name_vi": "Tỉnh An Giang",
+    "name_folded": "an giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-31",
+    "locality_id": "loc-98279810913f",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Châu Đốc, Huyện An Phú, Huyện Tịnh Biên, Huyện Tri Tôn, Huyên Châu Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: An Giang Đơn vị bầu cử Số 3: Gồm thành phố Châu Đốc và các huyện: An Phú, Tịnh Biên, Tri Tôn, Châu Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Châu Phú",
+        "name_folded": "huyen chau phu"
+      },
+      {
+        "name_vi": "Huyện An Phú",
+        "name_folded": "huyen an phu"
+      },
+      {
+        "name_vi": "Huyện Tri Tôn",
+        "name_folded": "huyen tri ton"
+      },
+      {
+        "name_vi": "Huyện Tịnh Biên",
+        "name_folded": "huyen tinh bien"
+      },
+      {
+        "name_vi": "Thành phố Châu Đốc",
+        "name_folded": "thanh pho chau doc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Pháp A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành quy hoạch phát triển; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Thường trực Ủy ban Đối ngoại của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Đối ngoại của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

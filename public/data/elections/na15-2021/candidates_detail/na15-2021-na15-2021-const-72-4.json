@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-72-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-9a6e5719c659",
+    "full_name": "Bùi Xuân Thống",
+    "full_name_folded": "bui xuan thong",
+    "dob": "17/4/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Thạnh Phước, thị xã Tân Uyên, tỉnh Bình Dương",
+    "current_residence": "Số nhà 1026/54, Nguyễn Ái Quốc, khu phố 1, phường Trảng Dài, thành phố Biên Hòa, tình Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-72",
+    "list_order": 4,
+    "party_member_since": "03/01/2000",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Tỉnh Đồng Nai nhiệm kỳ 2011 - 2016"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-72",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Vĩnh Cửu, Huyện Trảng Bom, Huyện Thống Nhất",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 2: Gồm các huyện: Vĩnh Cửu, Trảng Bom và Thống Nhất. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thống Nhất",
+        "name_folded": "huyen thong nhat"
+      },
+      {
+        "name_vi": "Huyện Trảng Bom",
+        "name_folded": "huyen trang bom"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Cửu",
+        "name_folded": "huyen vinh cuu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Trung cấp Thanh vận; Đại học chuyên ngành công nghệ thông tin, quản trị kinh doanh; Thạc sĩ chuyên ngành quản lý hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Phó Trưởng đoàn phụ trách Đoàn đại biểu Quốc hội tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

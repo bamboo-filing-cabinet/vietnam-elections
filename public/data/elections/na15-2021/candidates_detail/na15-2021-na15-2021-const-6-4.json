@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-6-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c3b24a92704c",
+    "full_name": "Nguyễn Kim Sơn",
+    "full_name_folded": "nguyen kim son",
+    "dob": "18/11/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tân Trào, huyện Kiến Thụy, thành phố Hải Phòng",
+    "current_residence": "Phòng 206, nhà A1 khu chung cư Mỹ Đình I, phường Cầu Diễn, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-6",
+    "list_order": 4,
+    "party_member_since": "26/12/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-6",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Hà Đông,Huyện Thanh Trì,Huyện Thanh Oai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 6: Gồm quận Hà Đông và các huyện: Thanh Trì, Thanh Oai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thanh Oai",
+        "name_folded": "huyen thanh oai"
+      },
+      {
+        "name_vi": "Huyện Thanh Trì",
+        "name_folded": "huyen thanh tri"
+      },
+      {
+        "name_vi": "Quận Hà Đông",
+        "name_folded": "quan ha dong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Trung C, tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ ngành ngữ văn, chuyên ngành Hán Nôm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Ban Cán sự đảng, Bộ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Giáo dục và Đào tạo"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

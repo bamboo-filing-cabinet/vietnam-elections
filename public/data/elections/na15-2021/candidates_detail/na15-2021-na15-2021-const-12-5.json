@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-12-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-126db4673878",
+    "full_name": "Trần Kim Yến",
+    "full_name_folded": "tran kim yen",
+    "dob": "03/8/1969",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hòa Định Đông, huyện Phú Hòa, tỉnh Phú Yên",
+    "current_residence": "Số 27, đường Tân Tiến, tổ dân phố 25, khu phố 3, phường 8, quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-12",
+    "list_order": 5,
+    "party_member_since": "21/11/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Phường 8 (quận Tân Bình, Thành phố Hồ Chí Minh) nhiệm kỳ 1999 - 2004"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-12",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận 1, Quận 3, Quận Bình Thạnh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 2: Gồm các quận: Quận 1, Quận 3 và quận Bình Thạnh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 1",
+        "name_folded": "quan 1"
+      },
+      {
+        "name_vi": "Quận 3",
+        "name_folded": "quan 3"
+      },
+      {
+        "name_vi": "Quận Bình Thạnh",
+        "name_folded": "quan binh thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy Thành phố Hồ Chí Minh; Bí thư Quận ủy Quận 1, Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Quận ủy Quận 1, Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-86-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-37a81c89dc60",
+    "full_name": "Phạm Huy Bình",
+    "full_name_folded": "pham huy binh",
+    "dob": "26/5/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Bằng, huyện Hương Sơn, tỉnh Hà Tĩnh",
+    "current_residence": "Số 98B, đường Nguyễn Kiệm, phường Trường Thi, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-86",
+    "list_order": 2,
+    "party_member_since": "30/3/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-86",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Thạch Hà, Huyện Can Lộc, Huyện Nghi Xuân, Huyện Lộc Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 2: Gồm các huyện: Thạch Hà, Can Lộc, Nghi Xuân và Lộc Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Can Lộc",
+        "name_folded": "huyen can loc"
+      },
+      {
+        "name_vi": "Huyện Lộc Hà",
+        "name_folded": "huyen loc ha"
+      },
+      {
+        "name_vi": "Huyện Nghi Xuân",
+        "name_folded": "huyen nghi xuan"
+      },
+      {
+        "name_vi": "Huyện Thạch Hà",
+        "name_folded": "huyen thach ha"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ, Chánh án Tòa án nhân dân huyện Nghi Xuân, tỉnh Hà Tĩnh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân huyện Nghi Xuân, tỉnh Hà Tĩnh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

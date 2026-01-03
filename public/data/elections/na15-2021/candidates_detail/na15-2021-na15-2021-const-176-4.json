@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-176-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-913a2b5cee36",
+    "full_name": "Nông Thị Vỹ",
+    "full_name_folded": "nong thi vy",
+    "dob": "20/9/1981",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Nhân Mục, huyện Hàm Yên, tỉnh Tuyên Quang",
+    "current_residence": "Thôn Loa, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-176",
+    "list_order": 4,
+    "party_member_since": "02/10/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-176",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Na Hang, Huyện Lâm Bình, Huyện Chiêm Hóa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 1: Gồm các huyện: Na Hang, Lâm Bình và Chiêm Hóa. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chiêm Hóa",
+        "name_folded": "huyen chiem hoa"
+      },
+      {
+        "name_vi": "Huyện Lâm Bình",
+        "name_folded": "huyen lam binh"
+      },
+      {
+        "name_vi": "Huyện Na Hang",
+        "name_folded": "huyen na hang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Bác sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; nói tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành y đa khoa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ xã Thành Long; Bác sĩ hạng II, Trạm trưởng Trạm y tế xã, Tổ trưởng Tổ Công đoàn Trạm Y tế xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang"
+    },
+    {
+      "key": "workplace",
+      "value": "Trạm Y tế xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

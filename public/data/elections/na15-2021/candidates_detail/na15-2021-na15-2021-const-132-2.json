@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-132-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c82b5012c984",
+    "full_name": "Nguyễn Đăng Khải",
+    "full_name_folded": "nguyen dang khai",
+    "dob": "02/9/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phú Lộc, huyện Phù Ninh, tỉnh Phú Thọ",
+    "current_residence": "Khu 11, xã Phú Lộc, huyện Phù Ninh, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-132",
+    "list_order": 2,
+    "party_member_since": "03/7/1988",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-132",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Phú Thọ, Huyện Phủ Ninh, Huyện Lâm Thao, Huyện Đoan Hùng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 2: Gồm thị xã Phú Thọ và các huyện: Phù Ninh, Lâm Thao, Đoan Hùng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lâm Thao",
+        "name_folded": "huyen lam thao"
+      },
+      {
+        "name_vi": "Huyện Phủ Ninh",
+        "name_folded": "huyen phu ninh"
+      },
+      {
+        "name_vi": "Huyện Đoan Hùng",
+        "name_folded": "huyen doan hung"
+      },
+      {
+        "name_vi": "Thị xã Phú Thọ",
+        "name_folded": "thi xa phu tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy Quân khu 2; Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng, Quân khu 2"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu 2"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

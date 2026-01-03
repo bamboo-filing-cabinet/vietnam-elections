@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-32-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3169ac9df185",
+    "full_name": "Huỳnh Thị Phúc",
+    "full_name_folded": "huynh thi phuc",
+    "dob": "17/02/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Long Phước, thành phố Bà Rịa, tỉnh Bà Rịa - Vũng Tàu",
+    "current_residence": "Tổ 10, khu phố 5, phường Long Tâm, thành phố Bà Rịa, tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-32",
+    "list_order": 3,
+    "party_member_since": "25/12/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Bà Rịa - Vũng Tàu nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-d636aab1f69f",
+    "name_vi": "Tỉnh Bà Rịa - Vũng Tàu",
+    "name_folded": "ba ria vung tau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-32",
+    "locality_id": "loc-d636aab1f69f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Vũng Tàu, Huyện Long Điền, Huyện Đất Đỏ, Huyện Côn Đảo",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bà Rịa - Vũng Tàu Đơn vị bầu cử Số 1: Gồm thành phố Vũng Tàu và các huyện: Long Điền, Đất Đỏ, Côn Đảo. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Côn Đảo",
+        "name_folded": "huyen con dao"
+      },
+      {
+        "name_vi": "Huyện Long Điền",
+        "name_folded": "huyen long dien"
+      },
+      {
+        "name_vi": "Huyện Đất Đỏ",
+        "name_folded": "huyen dat do"
+      },
+      {
+        "name_vi": "Thành phố Vũng Tàu",
+        "name_folded": "thanh pho vung tau"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Anh văn"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cử nhân chuyên ngành quản lý văn hóa, Thạc sĩ chuyên ngành văn hóa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Phó Trưởng ban Dân vận Tỉnh ủy Bà Rịa - Vũng Tàu"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Dân vận Tỉnh ủy Bà Rịa - Vũng Tàu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

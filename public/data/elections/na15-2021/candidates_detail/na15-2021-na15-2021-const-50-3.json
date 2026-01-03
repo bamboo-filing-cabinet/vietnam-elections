@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-50-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f3998cea9d0f",
+    "full_name": "Lê Văn Khảm",
+    "full_name_folded": "le van kham",
+    "dob": "20/3/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lãng Ngâm, huyện Gia Bình, tỉnh Bắc Ninh",
+    "current_residence": "Căn hộ 2307, Trung Yên Plaza, số 1, Trung Hòa, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-50",
+    "list_order": 3,
+    "party_member_since": "27/6/2002",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc590b385d56",
+    "name_vi": "Tỉnh Bình Dương",
+    "name_folded": "binh duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-50",
+    "locality_id": "loc-cc590b385d56",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thị xã Bến Cát, Huyện Dầu Tiếng, Huyện Bàu Bàng, Huyện Phú Giáo, Huyện Bắc Tân Uyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Dương Đơn vị bầu cử Số 4: Gồm thị xã Bến Cát và các huyện: Dầu Tiếng, Bàu Bàng, Phú Giáo, Bắc Tân Uyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bàu Bàng",
+        "name_folded": "huyen bau bang"
+      },
+      {
+        "name_vi": "Huyện Bắc Tân Uyên",
+        "name_folded": "huyen bac tan uyen"
+      },
+      {
+        "name_vi": "Huyện Dầu Tiếng",
+        "name_folded": "huyen dau tieng"
+      },
+      {
+        "name_vi": "Huyện Phú Giáo",
+        "name_folded": "huyen phu giao"
+      },
+      {
+        "name_vi": "Thị xã Bến Cát",
+        "name_folded": "thi xa ben cat"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành bác sĩ đa khoa; Thạc sĩ chuyên ngành y xã hội học; Tiến sĩ chuyên ngành nhân học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Vụ trưởng Vụ Bảo hiểm y tế, Bộ Y tế"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Bảo hiểm y tế, Bộ Y tế"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

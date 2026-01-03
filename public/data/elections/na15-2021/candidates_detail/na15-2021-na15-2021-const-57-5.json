@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-57-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-abc50360585c",
+    "full_name": "Phạm Thị Hồng Yến",
+    "full_name_folded": "pham thi hong yen",
+    "dob": "07/8/1975",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thái Phương, huyện Hưng Hà, tỉnh Thái Bình",
+    "current_residence": "Số 2A, Long Cảnh Tây 1, An Khánh, huyện Hoài Đức, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-57",
+    "list_order": 5,
+    "party_member_since": "10/4/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d5a293395e51",
+    "name_vi": "Tỉnh Bình Thuận",
+    "name_folded": "binh thuan",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-57",
+    "locality_id": "loc-d5a293395e51",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Than Thiết, Huyện Hàm Thuận Bắc, Huyện Hàm Thuận Nam, Huyện Hàm Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Thuận Đơn vị bầu cử Số 2: Gồm thành phố Phan Thiết và các huyện: Hàm Thuận Bắc, Hàm Thuận Nam, Hàm Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hàm Thuận Bắc",
+        "name_folded": "huyen ham thuan bac"
+      },
+      {
+        "name_vi": "Huyện Hàm Thuận Nam",
+        "name_folded": "huyen ham thuan nam"
+      },
+      {
+        "name_vi": "Huyện Hàm Tân",
+        "name_folded": "huyen ham tan"
+      },
+      {
+        "name_vi": "Thành phố Than Thiết",
+        "name_folded": "thanh pho than thiet"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ quản trị kinh doanh - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế đối ngoại; Thạc sĩ chuyên ngành quản trị kinh doanh; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy Liên minh Hợp tác xã Việt Nam; Bí thư Chi bộ, Trưởng ban Hợp tác Quốc tế, Liên minh Hợp tác xã Việt Nam; Phó Chủ tịch Công đoàn Liên minh Hợp tác xã Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Hợp tác quốc tế, Liên minh Hợp tác xã Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

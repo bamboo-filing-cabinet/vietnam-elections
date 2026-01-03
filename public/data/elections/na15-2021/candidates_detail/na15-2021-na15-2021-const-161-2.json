@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-161-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-03d90edf2989",
+    "full_name": "Phan Văn Giang",
+    "full_name_folded": "phan van giang",
+    "dob": "14/10/1960",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồng Quang, huyện Nam Trực, tỉnh Nam Định",
+    "current_residence": "Số 291, đường Quang Trung, phường Tân Thịnh, thành phố Thái Nguyên, tỉnh Thái Nguyên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-161",
+    "list_order": 2,
+    "party_member_since": "04/12/1982",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-54f56f05c1c7",
+    "name_vi": "Tỉnh Thái Nguyên",
+    "name_folded": "thai nguyen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-161",
+    "locality_id": "loc-54f56f05c1c7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Thái Nguyên, Huyện Đồng Hỷ, Huyện Võ Nhai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Nguyên Đơn vị bầu cử Số 2: Gồm thành phố Thái Nguyên và các huyện: Đồng Hỷ, Võ Nhai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Võ Nhai",
+        "name_folded": "huyen vo nhai"
+      },
+      {
+        "name_vi": "Huyện Đồng Hỷ",
+        "name_folded": "huyen dong hy"
+      },
+      {
+        "name_vi": "Thành phố Thái Nguyên",
+        "name_folded": "thanh pho thai nguyen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành khoa học quân sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Ủy viên Ban Thường vụ Quân ủy Trung ương; Thượng tướng, Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, Bộ trưởng Bộ Quốc phòng; Ủy viên Hội đồng bầu cử quốc gia"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Quốc phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

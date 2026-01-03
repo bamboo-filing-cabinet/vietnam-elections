@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-74-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a868e7506ca4",
+    "full_name": "Trần Võ Hoài Hương",
+    "full_name_folded": "tran vo hoai huong",
+    "dob": "09/4/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tân Bình, Thị xã Dĩ An, Tỉnh Bình Dương",
+    "current_residence": "Số 84/17/14, khu phố 3, phường Trung Dũng, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-74",
+    "list_order": 4,
+    "party_member_since": "06/12/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-74",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thành phố Long Khánh, Huyện Xuân Lộc, Huyện Định Quán, Huyện Tân Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 4: Gồm thành phố Long Khánh và các huyện: Xuân Lộc, Định Quán, Tân Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tân Phú",
+        "name_folded": "huyen tan phu"
+      },
+      {
+        "name_vi": "Huyện Xuân Lộc",
+        "name_folded": "huyen xuan loc"
+      },
+      {
+        "name_vi": "Huyện Định Quán",
+        "name_folded": "huyen dinh quan"
+      },
+      {
+        "name_vi": "Thành phố Long Khánh",
+        "name_folded": "thanh pho long khanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán; Thạc sĩ chuyên ngành kinh doanh và quản lý"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên, Thành viên Hội đồng quản trị, Phó Tổng Giám đốc, Phó Chủ tịch Công đoàn cơ sở Công ty cổ phần Môi trường Sonadezi, thành phố Biên Hòa, tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty cổ phần Môi trường Sonadezi, thành phố Biên Hòa, tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

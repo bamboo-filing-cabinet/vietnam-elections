@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-163-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0a86a0f45f5b",
+    "full_name": "Võ Mạnh Sơn",
+    "full_name_folded": "vo manh son",
+    "dob": "13/7/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Đông Vệ, thành phố Thanh Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Số nhà 22, Phạm Ngọc Thạch, phường Tân Sơn, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-163",
+    "list_order": 4,
+    "party_member_since": "01/02/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Sầm Sơn nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-163",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thanh Hóa, Thành phố Sầm Sơn, Huyện Hoằng Hóa, Huyện Đông Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 1: Gồm các thành phố: Thanh Hóa, Sầm Sơn và các huyện: Hoằng Hóa, Đông Sơn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hoằng Hóa",
+        "name_folded": "huyen hoang hoa"
+      },
+      {
+        "name_vi": "Huyện Đông Sơn",
+        "name_folded": "huyen dong son"
+      },
+      {
+        "name_vi": "Thành phố Sầm Sơn",
+        "name_folded": "thanh pho sam son"
+      },
+      {
+        "name_vi": "Thành phố Thanh Hóa",
+        "name_folded": "thanh pho thanh hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chính trị, sư phạm ngữ văn; Tiến sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Ủy viên Ban Chấp hành Tổng Liên đoàn Lao động Việt Nam, Bí thư Đảng đoàn; Bí thư Đảng ủy cơ quan; Chủ tịch Liên đoàn Lao động tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn lao động tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

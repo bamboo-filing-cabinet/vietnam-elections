@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-16-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-099cc11ca58a",
+    "full_name": "Lê Thị Thu Hương",
+    "full_name_folded": "le thi thu huong",
+    "dob": "18/4/1970",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vượng Lộc, huyện Can Lộc, tỉnh Hà Tĩnh",
+    "current_residence": "Phòng 401, tập thể 27, Lê Thánh Tông, phường Phan Chu Trinh, quận Hoàn Kiếm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-16",
+    "list_order": 3,
+    "party_member_since": "16/9/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-16",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Bình Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 6: Gồm quận Bình Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Bình Tân",
+        "name_folded": "quan binh tan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, ngoại ngữ (tiếng Anh); Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Vụ trưởng Vụ Quản lý doanh nghiệp, Bộ Giao thông - Vận tải; Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Quản lý doanh nghiệp, Bộ Giao thông - Vận tải"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-113-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-1075e58f4dfd",
+    "full_name": "Ro Da Nai Vi",
+    "full_name_folded": "ro da nai vi",
+    "dob": "19/10/1986",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Cơ - ho",
+    "religion": "Công giáo",
+    "birthplace": "Thị trấn Thạnh Mỹ, huyện Đơn Dương, tỉnh Lâm Đồng",
+    "current_residence": "Số 02, đường Lý Tự Trọng, phường 1, thành phố Đà Lạt, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-113",
+    "list_order": 5,
+    "party_member_since": "03/6/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-113",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Đà Lạt, Huyện Lạc Dương, Huyện Đơn Dương, Huyện Đức Trọng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 1: Gồm thành phố Đà Lạt và các huyện: Lạc Dương, Đơn Dương, Đức Trọng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lạc Dương",
+        "name_folded": "huyen lac duong"
+      },
+      {
+        "name_vi": "Huyện Đơn Dương",
+        "name_folded": "huyen don duong"
+      },
+      {
+        "name_vi": "Huyện Đức Trọng",
+        "name_folded": "huyen duc trong"
+      },
+      {
+        "name_vi": "Thành phố Đà Lạt",
+        "name_folded": "thanh pho da lat"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Trung cấp chuyên ngành nhạc cụ dân tộc; Đại học chuyên ngành quản lý văn hóa"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Diễn viên Trung tâm Văn hóa Nghệ thuật tỉnh Lâm Đồng; Ủy viên Ban Chấp hành công đoàn cơ sở Trung tâm Văn hóa Nghệ thuật tỉnh Lâm Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Văn hóa Nghệ thuật tỉnh Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-71-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ef0a52a61bd3",
+    "full_name": "Bùi Khánh Trang",
+    "full_name_folded": "bui khanh trang",
+    "dob": "04/10/1994",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Phú Túc, huyện Định Quán, tỉnh Đồng Nai",
+    "current_residence": "Số 163/20, khu phố 1, đường Phạm Văn Thuận, phường Tân Tiến, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-71",
+    "list_order": 4,
+    "party_member_since": "05/9/2017",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-71",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Biên Hòa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 1: Gồm thành phố Biên Hòa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Biên Hòa",
+        "name_folded": "thanh pho bien hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1 Châu Âu"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành biểu diễn nhạc cụ truyền thống; Thạc sĩ chuyên ngành nghệ thuật âm nhạc"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Khoa Nghệ thuật biểu diễn, Trường Trung cấp Văn hóa nghệ thuật Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung cấp Văn hóa nghệ thuật Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

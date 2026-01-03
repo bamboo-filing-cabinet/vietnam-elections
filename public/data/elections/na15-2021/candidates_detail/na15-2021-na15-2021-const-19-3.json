@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-19-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dc903462607a",
+    "full_name": "Dương Văn Thăng",
+    "full_name_folded": "duong van thang",
+    "dob": "08/3/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đỗ Động, huyện Thanh Oai, thành phố Hà Nội",
+    "current_residence": "Phường Máy Chai, quận Ngô Quyền, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-19",
+    "list_order": 3,
+    "party_member_since": "09/7/1992",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-19",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 9,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 9",
+    "name_folded": "don vi bau cu so 9",
+    "description": "Quận 4, Quận 7, Huyện Nhà Bè, Huyện Cần Giờ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 9: Gồm các quận: Quận 4, Quận 7 và các huyện: Nhà Bè, Cần Giờ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cần Giờ",
+        "name_folded": "huyen can gio"
+      },
+      {
+        "name_vi": "Huyện Nhà Bè",
+        "name_folded": "huyen nha be"
+      },
+      {
+        "name_vi": "Quận 4",
+        "name_folded": "quan 4"
+      },
+      {
+        "name_vi": "Quận 7",
+        "name_folded": "quan 7"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ; Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy cơ quan Tòa án quân sự Trung ương, Thiếu tướng, Phó Chánh án Tòa án nhân dân tối cao, Chánh án Tòa án quân sự Trung ương"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án quân sự Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

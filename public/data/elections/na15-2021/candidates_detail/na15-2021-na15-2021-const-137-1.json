@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-137-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0ba462f01fcf",
+    "full_name": "Trần Quang Minh",
+    "full_name_folded": "tran quang minh",
+    "dob": "25/11/1976",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Phương, huyện Quảng Trạch, tỉnh Quảng Bình",
+    "current_residence": "Thôn Diêm Sơn, xã Đức Ninh, thành phố Đồng Hới, tỉnh Quảng Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-137",
+    "list_order": 1,
+    "party_member_since": "24/5/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8f8d45e0a018",
+    "name_vi": "Tỉnh Quang Bình",
+    "name_folded": "quang binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-137",
+    "locality_id": "loc-8f8d45e0a018",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đồng Hới, Huyện Lê Thủy, Huyện Bố Trạch",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Bình Đơn vị bầu cử Số 2: Gồm thành phố Đồng Hới và các huyện: Lệ Thủy, Bố Trạch. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bố Trạch",
+        "name_folded": "huyen bo trach"
+      },
+      {
+        "name_vi": "Huyện Lê Thủy",
+        "name_folded": "huyen le thuy"
+      },
+      {
+        "name_vi": "Thành phố Đồng Hới",
+        "name_folded": "thanh pho dong hoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Nga - Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tiếng Nga - Anh, quản trị kinh doanh; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh, Phó Chủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

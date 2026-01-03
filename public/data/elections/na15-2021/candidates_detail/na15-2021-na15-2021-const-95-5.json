@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-95-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c2951006a088",
+    "full_name": "Nguyễn Cao Sơn",
+    "full_name_folded": "nguyen cao son",
+    "dob": "09/5/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vũ Hòa, huyện Kiến Xương, tỉnh Thái Bình",
+    "current_residence": "Tổ 1, phường Tân Thịnh, thành phố Hòa Bình, tỉnh Hòa Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-95",
+    "list_order": 5,
+    "party_member_since": "29/8/2013",
+    "is_na_delegate": "XIII",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-95",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Kim Bôi, Huyện Cao Phong, Huyện Lạc Sơn, Huyện Lạc Thủy, Huyện Yên Thủy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 2: Gồm các huyện: Kim Bôi, Cao Phong, Lạc Sơn, Lạc Thủy và Yên Thủy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cao Phong",
+        "name_folded": "huyen cao phong"
+      },
+      {
+        "name_vi": "Huyện Kim Bôi",
+        "name_folded": "huyen kim boi"
+      },
+      {
+        "name_vi": "Huyện Lạc Sơn",
+        "name_folded": "huyen lac son"
+      },
+      {
+        "name_vi": "Huyện Lạc Thủy",
+        "name_folded": "huyen lac thuy"
+      },
+      {
+        "name_vi": "Huyện Yên Thủy",
+        "name_folded": "huyen yen thuy"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Trung HSK 3"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tin học; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Hội đồng trung ương các Hiệp hội doanh nghiệp Việt Nam; Phó Chủ tịch Hiệp hội Doanh nghiệp nhỏ và vừa Việt Nam; Ủy viên Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Hòa Bình; Chủ tịch Hiệp hội doanh nghiệp tỉnh Hòa Bình."
+    },
+    {
+      "key": "workplace",
+      "value": "Hiệp hội Doanh nghiệp tỉnh Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

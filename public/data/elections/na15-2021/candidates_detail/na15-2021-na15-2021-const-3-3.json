@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-3-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f30aed0f2cb3",
+    "full_name": "Nguyễn Ngọc Tuấn",
+    "full_name_folded": "nguyen ngoc tuan",
+    "dob": "24/9/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thúc Kháng, huyện Bình Giang, tỉnh Hải Dương",
+    "current_residence": "Số 4, ngõ 4 phố Đặng Văn Ngữ, phường Trung Tự, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-3",
+    "list_order": 3,
+    "party_member_since": "22/01/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-3",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Quận Cầu Giấy,Quận Nam Từ Liêm,Quận Thanh Xuân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 3: Gồm các quận: Cầu Giấy, Nam Từ Liêm và Thanh Xuân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Cầu Giấy",
+        "name_folded": "quan cau giay"
+      },
+      {
+        "name_vi": "Quận Nam Từ Liêm",
+        "name_folded": "quan nam tu liem"
+      },
+      {
+        "name_vi": "Quận Thanh Xuân",
+        "name_folded": "quan thanh xuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành thủy lợi; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thành ủy, Bí thư Đảng đoàn, Chủ tịch Hội đồng nhân dân thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội đồng nhân dân thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

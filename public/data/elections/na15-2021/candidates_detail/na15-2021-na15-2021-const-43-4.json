@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-43-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ce6a29b1c001",
+    "full_name": "Trịnh Đức Tới",
+    "full_name_folded": "trinh duc toi",
+    "dob": "05/5/1971",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Lai, huyện Gia Bình, tỉnh Bắc Ninh",
+    "current_residence": "Đường Võ Cường 40, khu Bồ Sơn, phường Võ Cường, thành phố Bắc Ninh, tỉnh Bắc Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-43",
+    "list_order": 4,
+    "party_member_since": "01/6/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-43",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Lương Tài, Huyện Gia Bình, Huyện Thuận Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 3: Gồm các huyện: Lương Tài, Gia Bình và Thuận Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Bình",
+        "name_folded": "huyen gia binh"
+      },
+      {
+        "name_vi": "Huyện Lương Tài",
+        "name_folded": "huyen luong tai"
+      },
+      {
+        "name_vi": "Huyện Thuận Thành",
+        "name_folded": "huyen thuan thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Phó Giám đốc Công ty trách nhiệm hữu hạn Nutreco - Công ty cổ phần Tập đoàn Dabaco Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty trách nhiệm hữu hạn Nutreco, huyện Tiên Du, tỉnh Bắc Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

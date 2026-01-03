@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-139-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-23297df2789a",
+    "full_name": "Zơ Râm Duy",
+    "full_name_folded": "zo ram duy",
+    "dob": "04/3/1992",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Cơ tu",
+    "religion": "Không",
+    "birthplace": "Xã La Dêê, huyện Nam Giang, tỉnh Quảng Nam",
+    "current_residence": "Số 39, Nguyễn Tất Thành, Tổ 4, khối phố Xuân Hòa, phường Cẩm Phô, thành phố Hội An, tỉnh Quảng Nam"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-139",
+    "list_order": 1,
+    "party_member_since": "30/6/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-c7893b4177e6",
+    "name_vi": "Tỉnh Quảng Nam",
+    "name_folded": "quang nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-139",
+    "locality_id": "loc-c7893b4177e6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Hội An, Huyện Duy Xuyên, Huyện Quế Sơn, Huyện Nông Sơn, Huyện Thăng Bình, Huyện Hiệp Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Nam Đơn vị bầu cử Số 2: Gồm thành phố Hội An và các huyện: Duy Xuyên, Quế Sơn, Nông Sơn, Thăng Bình, Hiệp Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Duy Xuyên",
+        "name_folded": "huyen duy xuyen"
+      },
+      {
+        "name_vi": "Huyện Hiệp Đức",
+        "name_folded": "huyen hiep duc"
+      },
+      {
+        "name_vi": "Huyện Nông Sơn",
+        "name_folded": "huyen nong son"
+      },
+      {
+        "name_vi": "Huyện Quế Sơn",
+        "name_folded": "huyen que son"
+      },
+      {
+        "name_vi": "Huyện Thăng Bình",
+        "name_folded": "huyen thang binh"
+      },
+      {
+        "name_vi": "Thành phố Hội An",
+        "name_folded": "thanh pho hoi an"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm giáo dục chính trị"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên, Đảng ủy viên, Phó Bí thư Chi bộ, Tổ trưởng Tổ Giáo vụ - Quản lý học sinh, Ủy viên Ban Chấp hành Đoàn Thanh niên Cộng sản Hồ Chí Minh thành phố Hội An, Phó Bí thư Đoàn trường, Chủ tịch Hội Liên hiệp Thanh niên nhà trường"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Phổ thông Dân tộc Nội trú tỉnh Quảng Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

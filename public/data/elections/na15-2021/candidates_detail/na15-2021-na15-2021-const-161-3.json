@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-161-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-59b7154e702a",
+    "full_name": "Đoàn Thị Hảo",
+    "full_name_folded": "doan thi hao",
+    "dob": "28/12/1966",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Quang Lang, huyện Chi Lăng, tỉnh Lạng Sơn",
+    "current_residence": "Tổ 6, Phường Phan Đình Phùng, thành phố Thái Nguyên, tỉnh Thái Nguyên"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-161",
+    "list_order": 3,
+    "party_member_since": "09/6/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Thái Nguyên nhiệm kỳ 2004 - 2011, 2011 - 2016, 2016 - 2021"
+  },
+  "locality": {
+    "id": "loc-54f56f05c1c7",
+    "name_vi": "Tỉnh Thái Nguyên",
+    "name_folded": "thai nguyen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-161",
+    "locality_id": "loc-54f56f05c1c7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Thái Nguyên, Huyện Đồng Hỷ, Huyện Võ Nhai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Nguyên Đơn vị bầu cử Số 2: Gồm thành phố Thái Nguyên và các huyện: Đồng Hỷ, Võ Nhai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Võ Nhai",
+        "name_folded": "huyen vo nhai"
+      },
+      {
+        "name_vi": "Huyện Đồng Hỷ",
+        "name_folded": "huyen dong hy"
+      },
+      {
+        "name_vi": "Thành phố Thái Nguyên",
+        "name_folded": "thanh pho thai nguyen"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Ngữ văn, công đoàn; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Tỉnh ủy, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Thái Nguyên"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Thái Nguyên"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

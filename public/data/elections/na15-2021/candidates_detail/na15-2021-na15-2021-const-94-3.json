@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-94-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a2568eeee9d0",
+    "full_name": "Nguyễn Thị Phú Hà",
+    "full_name_folded": "nguyen thi phu ha",
+    "dob": "17/3/1972",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Cương Gián, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+    "current_residence": "K29, ngõ 68, đường Trung Kính, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-94",
+    "list_order": 3,
+    "party_member_since": "08/9/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ac8bb3595331",
+    "name_vi": "Tỉnh Hòa Bình",
+    "name_folded": "hoa binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-94",
+    "locality_id": "loc-ac8bb3595331",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hòa Bình, Huyện Đà Bắc, Huyện Lương Sơn, Huyện Mai Châu, Huyện Tân Lạc",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hoà Bình Đơn vị bầu cử Số 1: Gồm thành phố Hòa Bình và các huyện: Đà Bắc, Lương Sơn, Mai Châu, Tân Lạc. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lương Sơn",
+        "name_folded": "huyen luong son"
+      },
+      {
+        "name_vi": "Huyện Mai Châu",
+        "name_folded": "huyen mai chau"
+      },
+      {
+        "name_vi": "Huyện Tân Lạc",
+        "name_folded": "huyen tan lac"
+      },
+      {
+        "name_vi": "Huyện Đà Bắc",
+        "name_folded": "huyen da bac"
+      },
+      {
+        "name_vi": "Thành phố Hòa Bình",
+        "name_folded": "thanh pho hoa binh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Đại học, Thạc sĩ tài chính - tiếng Bungari; Thạc sĩ quản trị kinh doanh - tiếng Anh; Thạc sĩ tài chính công - tiếng Pháp"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Cán sự đảng, Phó Chủ tịch Ủy ban Quản lý vốn nhà nước tại doanh nghiệp"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Quản lý vốn nhà nước tại doanh nghiệp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

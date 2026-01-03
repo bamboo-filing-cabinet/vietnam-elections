@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-157-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0b7ecbcac7c2",
+    "full_name": "Trần Khánh Thu",
+    "full_name_folded": "tran khanh thu",
+    "dob": "26/11/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đông Dương, huyện Đông Hưng, tỉnh Thái Bình",
+    "current_residence": "Số nhà 96, phố Ngô Thì Nhậm, tổ 13, phường Quang Trung, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-157",
+    "list_order": 4,
+    "party_member_since": "25/5/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-157",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Vũ Thư, Huyện Hưng Hà, Huyện Quỳnh Phụ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 1: Gồm các huyện: Vũ Thư, Hưng Hà và Quỳnh Phụ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Hà",
+        "name_folded": "huyen hung ha"
+      },
+      {
+        "name_vi": "Huyện Quỳnh Phụ",
+        "name_folded": "huyen quynh phu"
+      },
+      {
+        "name_vi": "Huyện Vũ Thư",
+        "name_folded": "huyen vu thu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành y đa khoa, ngoại ngữ; Tiến sĩ chuyên ngành y học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng ủy Bệnh viện; Bí thư Chi bộ liên phòng Kế hoạch tổng hợp - dinh dưỡng, Trưởng khoa Dinh dưỡng; Trưởng phòng Kế hoạch tổng hợp, Ủy viên Ban chấp hành Công đoàn Bệnh viện Đa khoa tỉnh Thái Bình; Phó Bí thư Đoàn Thanh niên cộng sản Hồ Chí Minh Khối các cơ quan tỉnh; Phó Chủ tịch Hội Liên hiệp Thanh niên Việt Nam tỉnh Thái Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Đa khoa tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

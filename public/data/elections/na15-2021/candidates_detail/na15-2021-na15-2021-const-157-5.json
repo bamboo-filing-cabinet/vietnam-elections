@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-157-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-be9cbe633915",
+    "full_name": "Đỗ Văn Vẻ",
+    "full_name_folded": "do van ve",
+    "dob": "26/3/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thái Phương, huyện Hưng Hà, tỉnh Thái Bình",
+    "current_residence": "Số nhà 18, phố Trần Thái Tông, tổ 3, phường Bồ Xuyên, thành phố Thái Bình, tỉnh Thái Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-157",
+    "list_order": 5,
+    "party_member_since": "04/12/1987",
+    "is_na_delegate": "XIII",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-157",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Vũ Thư, Huyện Hưng Hà, Huyện Quỳnh Phụ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 1: Gồm các huyện: Vũ Thư, Hưng Hà và Quỳnh Phụ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Hà",
+        "name_folded": "huyen hung ha"
+      },
+      {
+        "name_vi": "Huyện Quỳnh Phụ",
+        "name_folded": "huyen quynh phu"
+      },
+      {
+        "name_vi": "Huyện Vũ Thư",
+        "name_folded": "huyen vu thu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế đối ngoại; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng bộ, Phó Tổng giám đốc Công ty cổ phần Tập đoàn Hương Sen; Chủ tịch Hiệp hội doanh nghiệp tỉnh Thái Bình; Ủy viên Ban Chấp hành Phòng Thương mại và Công nghiệp Việt Nam; Ủy viên Ban chấp hành Hội sở hữu trí tuệ Việt Nam; Phó Chủ tịch Hiệp hội Bia, Rượu, Nước giải khát Việt Nam; Ủy viên Ban Thường vụ Hiệp hội phát triển hàng tiêu dùng Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Tập đoàn Hương Sen tỉnh Thái Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

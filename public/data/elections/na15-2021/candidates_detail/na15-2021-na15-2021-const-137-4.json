@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-137-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-47ea381948af",
+    "full_name": "Đoàn Thị Thanh Tâm",
+    "full_name_folded": "doan thi thanh tam",
+    "dob": "19/5/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Quảng Tiên, thị xã Ba Đồn, tỉnh Quảng Bình",
+    "current_residence": "Số 63, đường Ngô Gia Tự, tổ dân phố 11, phường Nam Lý, thành phố Đồng Hới, tỉnh Quảng Bình"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-137",
+    "list_order": 4,
+    "party_member_since": "07/02/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8f8d45e0a018",
+    "name_vi": "Tỉnh Quang Bình",
+    "name_folded": "quang binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-137",
+    "locality_id": "loc-8f8d45e0a018",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Đồng Hới, Huyện Lê Thủy, Huyện Bố Trạch",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Bình Đơn vị bầu cử Số 2: Gồm thành phố Đồng Hới và các huyện: Lệ Thủy, Bố Trạch. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bố Trạch",
+        "name_folded": "huyen bo trach"
+      },
+      {
+        "name_vi": "Huyện Lê Thủy",
+        "name_folded": "huyen le thuy"
+      },
+      {
+        "name_vi": "Thành phố Đồng Hới",
+        "name_folded": "thanh pho dong hoi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khoa học lịch sử, luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên, Phó Chủ nhiệm Ủy ban Kiểm tra Đảng uỷ Phòng Tham mưu, Trung tá, Đội trưởng Đội Pháp chế và Quản lý khoa học, Phòng Tham mưu, Công an tỉnh Quảng Bình"
+    },
+    {
+      "key": "workplace",
+      "value": "Công an tỉnh Quảng Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

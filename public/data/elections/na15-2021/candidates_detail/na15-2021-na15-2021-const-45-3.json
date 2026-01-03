@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-45-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fd248851ae2e",
+    "full_name": "Trần Thị Thanh Lam",
+    "full_name_folded": "tran thi thanh lam",
+    "dob": "29/9/1979",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Châu Hòa, huyện Giồng Trôm, tỉnh Bến Tre",
+    "current_residence": "Khu phố 2, phường Phú Khương, thành phố Bến Tre, tỉnh Bến Tre"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-45",
+    "list_order": 3,
+    "party_member_since": "13/8/2004",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6ed76dcb1354",
+    "name_vi": "Tỉnh Bến Tre",
+    "name_folded": "ben tre",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-45",
+    "locality_id": "loc-6ed76dcb1354",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Giồng Trôm, Huyện Ba Trì",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bến Tre Đơn vị bầu cử Số 2: Gồm huyện Giồng Trôm và huyện Ba Tri. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Trì",
+        "name_folded": "huyen ba tri"
+      },
+      {
+        "name_vi": "Huyện Giồng Trôm",
+        "name_folded": "huyen giong trom"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó trưởng Đoàn chuyên trách, phụ trách Đoàn đại biểu Quốc hội tỉnh Bến Tre"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Bến Tre"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

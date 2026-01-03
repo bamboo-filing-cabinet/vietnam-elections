@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-182-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-51b8457c0ff6",
+    "full_name": "Lê Tất Hiếu",
+    "full_name_folded": "le tat hieu",
+    "dob": "01/8/1966",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Vũ Di, huyện Vĩnh Tường, tỉnh Vĩnh Phúc",
+    "current_residence": "Số nhà 20, phố Nguyễn Văn Linh, phường Liên Bảo, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-182",
+    "list_order": 2,
+    "party_member_since": "30/10/1992",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-227643b06427",
+    "name_vi": "Tỉnh Vĩnh Phúc",
+    "name_folded": "tinh vinh phuc",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-182",
+    "locality_id": "loc-227643b06427",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Sông Lô, Huyện Tam Dương, Huyện Tam Đảo, Huyện Lập Thạch, Huyện Bình Xuyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Vĩnh Phúc Đơn vị bầu cử Số 2: Gồm các huyện: Sông Lô, Tam Dương, Tam Đảo, Lập Thạch và Bình Xuyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bình Xuyên",
+        "name_folded": "huyen binh xuyen"
+      },
+      {
+        "name_vi": "Huyện Lập Thạch",
+        "name_folded": "huyen lap thach"
+      },
+      {
+        "name_vi": "Huyện Sông Lô",
+        "name_folded": "huyen song lo"
+      },
+      {
+        "name_vi": "Huyện Tam Dương",
+        "name_folded": "huyen tam duong"
+      },
+      {
+        "name_vi": "Huyện Tam Đảo",
+        "name_folded": "huyen tam dao"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B; Tiếng Nga C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Kiểm sát viên cao cấp, Viện trưởng Viện kiểm sát nhân dân tỉnh Vĩnh Phúc"
+    },
+    {
+      "key": "workplace",
+      "value": "Viện kiểm sát nhân dân tỉnh Vĩnh Phúc"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

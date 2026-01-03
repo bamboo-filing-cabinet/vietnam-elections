@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-12-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2b7a8bff6879",
+    "full_name": "Hứa Quốc Hưng",
+    "full_name_folded": "hua quoc hung",
+    "dob": "07/7/1982",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tiên Thủy, huyện Châu Thành, tỉnh Bến Tre",
+    "current_residence": "3D2-16-4 Chung cư Grandview C, đường Nguyễn Đức Cảnh, tổ dân phố 20, khu phố 4, phường Tân Phong, quận 7, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-12",
+    "list_order": 3,
+    "party_member_since": "24/5/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-12",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận 1, Quận 3, Quận Bình Thạnh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 2: Gồm các quận: Quận 1, Quận 3 và quận Bình Thạnh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 1",
+        "name_folded": "quan 1"
+      },
+      {
+        "name_vi": "Quận 3",
+        "name_folded": "quan 3"
+      },
+      {
+        "name_vi": "Quận Bình Thạnh",
+        "name_folded": "quan binh thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ quản lý dự án - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kiến trúc; Thạc sĩ chuyên ngành quản lý dự án"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Trưởng Ban Quản lý các khu chế xuất và công nghiệp, Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ban Quản lý các khu chế xuất và công nghiệp, Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

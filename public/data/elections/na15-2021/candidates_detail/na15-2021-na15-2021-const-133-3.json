@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-133-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ed33d8922c06",
+    "full_name": "Trương Thị Kim Huệ",
+    "full_name_folded": "truong thi kim hue",
+    "dob": "19/5/1987",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Mường",
+    "religion": "Không",
+    "birthplace": "Xã Thạch Khoán, huyện Thanh Sơn, tỉnh Phú Thọ",
+    "current_residence": "Khu 2A, xã Tân Phú, huyện Tân Sơn, tỉnh Phú Thọ"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-133",
+    "list_order": 3,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-7bb6e12533df",
+    "name_vi": "Tỉnh Phú Thọ",
+    "name_folded": "phu tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-133",
+    "locality_id": "loc-7bb6e12533df",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Thanh Ba, Huyện Hạ Hòa, Huyện Cầm Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Thọ Đơn vị bầu cử Số 3: Gồm các huyện: Thanh Ba, Hạ Hòa và Cẩm Khê. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Khê",
+        "name_folded": "huyen cam khe"
+      },
+      {
+        "name_vi": "Huyện Hạ Hòa",
+        "name_folded": "huyen ha hoa"
+      },
+      {
+        "name_vi": "Huyện Thanh Ba",
+        "name_folded": "huyen thanh ba"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm lịch sử"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên Trường trung học cơ sở Kiệt Sơn, huyện Tân Sơn, tỉnh Phú Thọ"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường trung học cơ sở Kiệt Sơn, huyện Tân Sơn, tỉnh Phú Thọ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

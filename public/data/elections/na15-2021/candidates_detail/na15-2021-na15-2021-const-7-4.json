@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-7-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-28a0a13ec479",
+    "full_name": "Nguyễn Trung Thành",
+    "full_name_folded": "nguyen trung thanh",
+    "dob": "22/12/1980",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đại Đồng, huyện Thạch Thất, thành phố Hà Nội",
+    "current_residence": "Tổ 1, Phó Đức Chính, phường Ngô Quyền, thị xã Sơn Tây, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-7",
+    "list_order": 4,
+    "party_member_since": "04/10/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-7",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Thị xã Sơn Tây, Huyện Phúc Thọ, Huyện Ba Vì, Huyện Đan Phương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 7: Gồm thị xã Sơn Tây và các huyện: Phúc Thọ, Ba Vì, Đan Phượng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Vì",
+        "name_folded": "huyen ba vi"
+      },
+      {
+        "name_vi": "Huyện Phúc Thọ",
+        "name_folded": "huyen phuc tho"
+      },
+      {
+        "name_vi": "Huyện Đan Phương",
+        "name_folded": "huyen dan phuong"
+      },
+      {
+        "name_vi": "Thị xã Sơn Tây",
+        "name_folded": "thi xa son tay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chánh thanh tra thị xã Sơn Tây, thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban nhân dân thị xã Sơn Tây, thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-172-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-37cc9fe4c633",
+    "full_name": "Hoàng Khắc Tinh",
+    "full_name_folded": "hoang khac tinh",
+    "dob": "28/6/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoằng Thắng, huyện Hoằng Hóa, tỉnh Thanh Hóa",
+    "current_residence": "Số 290A, tổ 6, ấp 3, xã Trung An, thành phố Mỹ Tho, tỉnh Tiền Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-172",
+    "list_order": 3,
+    "party_member_since": "10/12/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8a812f5994ae",
+    "name_vi": "Tỉnh Tiền Giang",
+    "name_folded": "tien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-172",
+    "locality_id": "loc-8a812f5994ae",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Mỹ Tho, Huyện Tân Phước, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tiền Giang Đơn vị bầu cử Số 2: Gồm thành phố Mỹ Tho và các huyện: Tân Phước, Châu Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Tân Phước",
+        "name_folded": "huyen tan phuoc"
+      },
+      {
+        "name_vi": "Thành phố Mỹ Tho",
+        "name_folded": "thanh pho my tho"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng, luật; Thạc sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Đảng đoàn, Phó Bí thư, Chủ nhiệm Ủy ban Kiểm tra Đảng ủy; Phó Chủ tịch Liên đoàn Lao động tỉnh Tiền Giang, Chỉ huy phó Ban chỉ huy Quân sự cơ quan"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động tỉnh Tiền Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

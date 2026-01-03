@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-90-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-69eeebdbcf24",
+    "full_name": "Nguyễn Thị Khánh Huyền",
+    "full_name_folded": "nguyen thi khanh huyen",
+    "dob": "11/7/1993",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường An Sinh, thị xã Kinh Môn, tỉnh Hải Dương",
+    "current_residence": "Số 26, Lý Tự Trọng, phường Hải Tân, thành phố Hải Dương, tỉnh Hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-90",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-90",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Gia Lộc, Huyện Tứ Kỳ, Huyện Cầm Giàng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 3: Gồm các huyện: Gia Lộc, Tứ Kỳ và Cẩm Giàng. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Giàng",
+        "name_folded": "huyen cam giang"
+      },
+      {
+        "name_vi": "Huyện Gia Lộc",
+        "name_folded": "huyen gia loc"
+      },
+      {
+        "name_vi": "Huyện Tứ Kỳ",
+        "name_folded": "huyen tu ky"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chuyên viên Văn phòng Đoàn đại biểu Quốc hội tỉnh Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội tỉnh Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

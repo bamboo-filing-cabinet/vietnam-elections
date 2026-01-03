@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-26-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-fa61bed01c15",
+    "full_name": "Phạm Minh Chính",
+    "full_name_folded": "pham minh chinh",
+    "dob": "10/12/1958",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoa Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
+    "current_residence": "D3A(15-16), ngõ 685, đường Lạc Long Quân, tổ 58, khu dân cư 14, phường Phú Thượng, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-26",
+    "list_order": 1,
+    "party_member_since": "25/12/1986",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-29a96f34107b",
+    "name_vi": "TP. Cần Thơ",
+    "name_folded": "can tho",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-26",
+    "locality_id": "loc-29a96f34107b",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Ninh Kiều, Quận Cái Răng, Huyện Phong Điền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Cần Thơ Đơn vị bầu cử Số 1: Gồm các huyện: Ninh Kiều, Cái Răng và Phong Điền. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phong Điền",
+        "name_folded": "huyen phong dien"
+      },
+      {
+        "name_vi": "Quận Cái Răng",
+        "name_folded": "quan cai rang"
+      },
+      {
+        "name_vi": "Quận Ninh Kiều",
+        "name_folded": "quan ninh kieu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Rumani D"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xây dựng dân dụng và công nghiệp (kết cấu thép); Tiến sĩ chuyên ngành luật, khoa học an ninh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Bộ Chính trị, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam; Phó Chủ tịch Hội đồng Quốc phòng và An ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Chính phủ"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

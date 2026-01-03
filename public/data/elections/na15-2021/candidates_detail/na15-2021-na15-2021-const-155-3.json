@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-155-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6617899286cf",
+    "full_name": "Phạm Hùng Thái",
+    "full_name_folded": "pham hung thai",
+    "dob": "14/10/1970",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Chỉ, thị xã Trảng Bàng, tỉnh Tây Ninh",
+    "current_residence": "Số 107, hẻm 6, đường Nguyễn Chí Thanh, khu phố 6, phường 3, thành phố Tây Ninh, tỉnh Tây Ninh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-155",
+    "list_order": 3,
+    "party_member_since": "11/9/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Tây Ninh nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-afb0ff37292d",
+    "name_vi": "Tỉnh Tây Ninh",
+    "name_folded": "tay ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-155",
+    "locality_id": "loc-afb0ff37292d",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Trảng Bàng, Huyện Bến Cầu, Huyện Gò Dầu, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tây Ninh Đơn vị bầu cử Số 1: Gồm thị xã Trảng Bàng và các huyện: Bến Cầu, Gò Dầu, Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bến Cầu",
+        "name_folded": "huyen ben cau"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Gò Dầu",
+        "name_folded": "huyen go dau"
+      },
+      {
+        "name_vi": "Thị xã Trảng Bàng",
+        "name_folded": "thi xa trang bang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành điều tra tội phạm"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Thường trực Tỉnh ủy kiêm Trưởng ban Nội chính Tỉnh ủy; Trưởng ban Pháp chế, Hội đồng nhân dân tỉnh Tây Ninh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Tây Ninh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

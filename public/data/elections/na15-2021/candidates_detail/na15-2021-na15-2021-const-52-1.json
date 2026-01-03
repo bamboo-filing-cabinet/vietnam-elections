@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-52-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-635090d1bec5",
+    "full_name": "Đồng Ngọc Ba",
+    "full_name_folded": "dong ngoc ba",
+    "dob": "01/9/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghĩa Hòa, huyện Lạng Giang, tỉnh Bắc Giang",
+    "current_residence": "Phòng 704, Nhà A2, Khu chung cư Ecolife Capitol, số 58, Tố Hữu, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-52",
+    "list_order": 1,
+    "party_member_since": "01/01/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-9a9f61d1d1d9",
+    "name_vi": "Tỉnh Bình Định",
+    "name_folded": "binh dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-52",
+    "locality_id": "loc-9a9f61d1d1d9",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã An Nhơn, Huyện Phù Cá, Huyện Hòa Ân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bình Định Đơn vị bầu cử Số 2: Gồm thị xã An Nhơn và các huyện: Phù Cát, Hoài Ân. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hòa Ân",
+        "name_folded": "huyen hoa an"
+      },
+      {
+        "name_vi": "Huyện Phù Cá",
+        "name_folded": "huyen phu ca"
+      },
+      {
+        "name_vi": "Thị xã An Nhơn",
+        "name_folded": "thi xa an nhon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Bộ Tư pháp; Bí thư Chi bộ, Cục trưởng Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; Ủy viên Ban Thường vụ, Chủ nhiệm Ủy ban Kiểm tra, Công đoàn Bộ Tư pháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

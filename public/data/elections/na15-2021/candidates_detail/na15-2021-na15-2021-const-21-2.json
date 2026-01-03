@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-21-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d3edd5d9d4c7",
+    "full_name": "Nguyễn Hồng Diên",
+    "full_name_folded": "nguyen hong dien",
+    "dob": "16/3/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồng Minh, huyện Hưng Hà, tỉnh Thái Bình",
+    "current_residence": "Nhà công vụ khu biệt thự Hồ Tây, số 43, Đặng Thai Mai, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-21",
+    "list_order": 2,
+    "party_member_since": "24/02/1985",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Thái Bình từ khóa XIII đến XVI; Huyện Vũ Thư (tỉnh Thái Bình) khóa XVII"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-21",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hồng Bàng, Quận Lê Chân, Huyện Thủy Nguyên, Cát Hải, Bạch Long Vĩ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 1: Gồm các quận: Hồng Bàng, Lê Chân và các huyện: Thủy Nguyên, Cát Hải, Bạch Long Vĩ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Bạch Long Vĩ",
+        "name_folded": "bach long vi"
+      },
+      {
+        "name_vi": "Cát Hải",
+        "name_folded": "cat hai"
+      },
+      {
+        "name_vi": "Huyện Thủy Nguyên",
+        "name_folded": "huyen thuy nguyen"
+      },
+      {
+        "name_vi": "Quận Hồng Bàng",
+        "name_folded": "quan hong bang"
+      },
+      {
+        "name_vi": "Quận Lê Chân",
+        "name_folded": "quan le chan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cao cấp thanh vận; Đại học chuyên ngành lịch sử, giáo dục học, kinh tế; Tiến sĩ chuyên ngành quản lý hành chính công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Ban Cán sự Đảng, Bộ trưởng Bộ Công Thương"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Công Thương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

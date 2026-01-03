@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-9-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-098e72b97b92",
+    "full_name": "Nguyễn Phương Thủy",
+    "full_name_folded": "nguyen phuong thuy",
+    "dob": "18/9/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhị Khê, huyện Thường Tín, thành phố Hà Nội",
+    "current_residence": "Phòng 206-A6, ngách 105/8, phố Láng Hạ, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-9",
+    "list_order": 5,
+    "party_member_since": "28/12/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-9",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 9,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 9",
+    "name_folded": "don vi bau cu so 9",
+    "description": "Huyện Ứng Hoà,Huyện Mỹ Đức,Huyện Phú Xuyên,Huyện Thường Tín",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 9: Gồm các huyện: Ứng Hòa, Mỹ Đức, Phú Xuyên và Thường Tín. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mỹ Đức",
+        "name_folded": "huyen my duc"
+      },
+      {
+        "name_vi": "Huyện Phú Xuyên",
+        "name_folded": "huyen phu xuyen"
+      },
+      {
+        "name_vi": "Huyện Thường Tín",
+        "name_folded": "huyen thuong tin"
+      },
+      {
+        "name_vi": "Huyện Ứng Hoà",
+        "name_folded": "huyen ung hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ Luật - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Chủ nhiệm Ủy ban Kiểm tra Đảng ủy cơ quan Văn phòng Quốc hội; Vụ trưởng Vụ Pháp luật, Văn phòng Quốc hội; Ủy viên Ban Thư ký Quốc hội; Tổ trưởng Tổ giúp việc Văn bản pháp luật và Thông tin tuyên truyền, Văn phòng Hội đồng bầu cử quốc gia; Ủy viên Ban Chấp hành Chi hội Luật gia Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Pháp luật, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

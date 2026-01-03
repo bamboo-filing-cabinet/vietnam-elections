@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-24-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-29964f237bdb",
+    "full_name": "Nguyễn Thị Thùy Thuận",
+    "full_name_folded": "nguyen thi thuy thuan",
+    "dob": "14/9/1982",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Cát Trinh, huyện Phù Cát, tỉnh Bình Định",
+    "current_residence": "K75/18 Tiểu La, tổ 172, phường Hòa Cường Bắc, quận Hải Châu, thành phố Đà Nẵng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-24",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e7e2e364e642",
+    "name_vi": "TP. Đà Nẵng",
+    "name_folded": "da nang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-24",
+    "locality_id": "loc-e7e2e364e642",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hải Châu,Quận Thanh Khê,Quận Liên Chiểu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Đà Nẵng Đơn vị bầu cử Số 1: Gồm các quận: Hải Châu, Thanh Khê và Liên Chiểu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Hải Châu",
+        "name_folded": "quan hai chau"
+      },
+      {
+        "name_vi": "Quận Liên Chiểu",
+        "name_folded": "quan lien chieu"
+      },
+      {
+        "name_vi": "Quận Thanh Khê",
+        "name_folded": "quan thanh khe"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành du lịch"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giám đốc Công ty Trách nhiệm hữu hạn Dịch vụ Du lịch và Thương mại HT Safbel, Ủy viên Ban Thường vụ Hiệp hội Nữ Doanh nhân thành phố Đà Nẵng"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Trách nhiệm hữu hạn Dịch vụ du lịch và Thương mại HT Safbel"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

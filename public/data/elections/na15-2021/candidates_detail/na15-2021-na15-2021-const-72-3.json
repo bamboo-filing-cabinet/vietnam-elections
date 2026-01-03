@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-72-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-041deda3169a",
+    "full_name": "Nguyễn Thị Mến",
+    "full_name_folded": "nguyen thi men",
+    "dob": "23/5/1980",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nhân Thắng, huyện Gia Bình, tỉnh Bắc Ninh",
+    "current_residence": "Tổ 31, khu phố 3A, phường Trảng Dài, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-72",
+    "list_order": 3,
+    "party_member_since": "03/02/2012",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-72",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Vĩnh Cửu, Huyện Trảng Bom, Huyện Thống Nhất",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 2: Gồm các huyện: Vĩnh Cửu, Trảng Bom và Thống Nhất. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thống Nhất",
+        "name_folded": "huyen thong nhat"
+      },
+      {
+        "name_vi": "Huyện Trảng Bom",
+        "name_folded": "huyen trang bom"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Cửu",
+        "name_folded": "huyen vinh cuu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán, chính trị; Thạc sĩ chuyên ngành quản trị kinh doanh"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chánh Thanh tra, Sở Lao động - Thương binh và Xã hội tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Lao động - Thương binh và Xã hội tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

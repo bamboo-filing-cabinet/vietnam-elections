@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-152-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-139df16f9e23",
+    "full_name": "Lò Thị Thu Hà",
+    "full_name_folded": "lo thi thu ha",
+    "dob": "24/10/1993",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Lào",
+    "religion": "Không",
+    "birthplace": "Xã Mường Và, huyện Sốp Cộp, tỉnh Sơn La",
+    "current_residence": "Bản Nhạp, xã Chiềng Lao, huyện Mường La, tỉnh Sơn La"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-152",
+    "list_order": 3,
+    "party_member_since": "10/3/2021",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-152",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Sơn La, Huyện Thuận Châu, Huyện Mai Sơn, Huyện Yên Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 1: Gồm thành phố Sơn La và các huyện: Thuận Châu, Mai Sơn, Yên Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mai Sơn",
+        "name_folded": "huyen mai son"
+      },
+      {
+        "name_vi": "Huyện Thuận Châu",
+        "name_folded": "huyen thuan chau"
+      },
+      {
+        "name_vi": "Huyện Yên Châu",
+        "name_folded": "huyen yen chau"
+      },
+      {
+        "name_vi": "Thành phố Sơn La",
+        "name_folded": "thanh pho son la"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cao đẳng"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng dân tộc Thái"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Cao đẳng sư phạm mầm non"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Giáo viên, Tổ phó tổ chuyên môn"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Mầm non Chiềng Lao, xã Chiềng Lao, huyện Mường La, tỉnh Sơn La"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

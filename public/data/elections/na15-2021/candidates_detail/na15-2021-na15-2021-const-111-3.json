@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-111-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-99702bbf5f39",
+    "full_name": "Đặng Xuân Phong",
+    "full_name_folded": "dang xuan phong",
+    "dob": "08/7/1972",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tiên Lữ, huyện Lập Thạch, tỉnh Vĩnh Phúc",
+    "current_residence": "Số nhà 125A, đường Phú Thịnh, tổ 27, phường Bắc Cường, thành phố Lào Cai, tỉnh Lào Cai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-111",
+    "list_order": 3,
+    "party_member_since": "03/02/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Lào Cai nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-01701c894c7e",
+    "name_vi": "Tỉnh Lào Cai",
+    "name_folded": "lao cai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-111",
+    "locality_id": "loc-01701c894c7e",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Lào Cai, Huyện Bát Xát, Huyện Bắc Hà, Huyện Mường Khương, Huyện Si Ma Cai",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lào Cai Đơn vị bầu cử Số 1: Gồm thành phố Lào Cai và các huyện: Bát Xát, Bắc Hà, Mường Khương, Si Ma Cai. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Bát Xát",
+        "name_folded": "huyen bat xat"
+      },
+      {
+        "name_vi": "Huyện Bắc Hà",
+        "name_folded": "huyen bac ha"
+      },
+      {
+        "name_vi": "Huyện Mường Khương",
+        "name_folded": "huyen muong khuong"
+      },
+      {
+        "name_vi": "Huyện Si Ma Cai",
+        "name_folded": "huyen si ma cai"
+      },
+      {
+        "name_vi": "Thành phố Lào Cai",
+        "name_folded": "thanh pho lao cai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân, Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh công nghiệp, xây dựng Đảng và chính quyền nhà nước; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Lào Cai"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Lào Cai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

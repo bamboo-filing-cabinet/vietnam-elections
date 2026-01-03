@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-85-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0521148fa669",
+    "full_name": "Bùi Thị Quỳnh Thơ",
+    "full_name_folded": "bui thi quynh tho",
+    "dob": "28/8/1976",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thạch Hưng, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",
+    "current_residence": "Số nhà 43/9, đường Hà Hoàng, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-85",
+    "list_order": 5,
+    "party_member_since": "02/9/2004",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-85",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Hà Tĩnh, Thị xã Kỳ Anh, Huyện Kỳ Anh, Huyện Cầm Xuyên, Huyện Hương Khê",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 1: Gồm thành phố Hà Tĩnh, thị xã Kỳ Anh và các huyện: Kỳ Anh, Cẩm Xuyên, Hương Khê. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cầm Xuyên",
+        "name_folded": "huyen cam xuyen"
+      },
+      {
+        "name_vi": "Huyện Hương Khê",
+        "name_folded": "huyen huong khe"
+      },
+      {
+        "name_vi": "Huyện Kỳ Anh",
+        "name_folded": "huyen ky anh"
+      },
+      {
+        "name_vi": "Thành phố Hà Tĩnh",
+        "name_folded": "thanh pho ha tinh"
+      },
+      {
+        "name_vi": "Thị xã Kỳ Anh",
+        "name_folded": "thi xa ky anh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành tài chính - tín dụng, ngoại ngữ; Tiến sĩ chuyên ngành kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Đảng ủy viên, Phó Hiệu trưởng Trường Đại học Hà Tĩnh"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Hà Tĩnh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

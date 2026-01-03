@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-11-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-31c36af44d8c",
+    "full_name": "Lê Viết Hải",
+    "full_name_folded": "le viet hai",
+    "dob": "12/11/1958",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Phật giáo",
+    "birthplace": "Xã Phú Xuân, huyện Hương Trà, tỉnh Thừa Thiên Huế",
+    "current_residence": "Số 226/13, Lê Văn Sỹ, Tổ 63, phường 01, quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-11",
+    "list_order": 1,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-11",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Thủ Đức",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 1: Gồm thành phố Thủ Đức. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Thủ Đức",
+        "name_folded": "thanh pho thu duc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kiến trúc sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Không"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kiến trúc"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội đồng quản trị Công ty Cổ phần Tập đoàn xây dựng Hòa Bình; Chủ tịch Hội Xây dựng và Vật liệu xây dựng; Phó Chủ tịch Thường trực Hiệp hội Nhà thầu xây dựng Việt Nam; Phó Chủ tịch Hiệp hội Bất động sản thành phố Hồ Chí Minh; Phó Chủ tịch Hiệp hội Phát triển Văn hóa Doanh nghiệp Việt Nam; Thành viên Ban Chấp hành phòng Thương mại và công nghiệp Việt Nam (VCCI)"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Tập đoàn xây dựng Hòa Bình"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

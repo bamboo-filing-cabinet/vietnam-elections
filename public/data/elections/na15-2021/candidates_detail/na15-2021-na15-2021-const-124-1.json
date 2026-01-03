@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-124-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d8ea7d80eafb",
+    "full_name": "Phạm Phú Bình",
+    "full_name_folded": "pham phu binh",
+    "dob": "12/3/1973",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nguyên Xá, huyện Vũ Thư, tỉnh Thái Bình",
+    "current_residence": "D1-17 Khu đô thị Nam Thăng Long, phường Phú Thượng, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-124",
+    "list_order": 1,
+    "party_member_since": "29/12/2000",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-124",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoàng Mai, Huyện Yên Thành, Huyện Quỳnh Lưu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 3: Gồm thị xã Hoàng Mai và các huyện: Yên Thành, Quỳnh Lưu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Quỳnh Lưu",
+        "name_folded": "huyen quynh luu"
+      },
+      {
+        "name_vi": "Huyện Yên Thành",
+        "name_folded": "huyen yen thanh"
+      },
+      {
+        "name_vi": "Thị xã Hoàng Mai",
+        "name_folded": "thi xa hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ khoa học quản lý - tiếng Anh; Đại học kinh tế thương mại - tiếng Nga"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế thương mại; Thạc sĩ chuyên ngành quản trị kinh doanh; Tiến sĩ chuyên ngành khoa học quản lý"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng ủy Bộ Tài nguyên và Môi trường, Bí thư Chi bộ, Vụ trưởng Vụ Hợp tác quốc tế, Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Hợp tác quốc tế, Bộ Tài nguyên và Môi trường"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

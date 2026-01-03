@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-113-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-84ceb7d905f6",
+    "full_name": "Nguyễn Thị Bảo Trâm",
+    "full_name_folded": "nguyen thi bao tram",
+    "dob": "16/4/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phước Lộc, huyện Tuy Phước, tỉnh Bình Định",
+    "current_residence": "Tổ 6, phường 1, thành phố Bảo Lộc, tỉnh Lâm Đồng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-113",
+    "list_order": 4,
+    "party_member_since": "",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-067ef8fc940f",
+    "name_vi": "Tỉnh Lâm Đồng",
+    "name_folded": "lam dong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-113",
+    "locality_id": "loc-067ef8fc940f",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Đà Lạt, Huyện Lạc Dương, Huyện Đơn Dương, Huyện Đức Trọng",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Lâm Đồng Đơn vị bầu cử Số 1: Gồm thành phố Đà Lạt và các huyện: Lạc Dương, Đơn Dương, Đức Trọng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lạc Dương",
+        "name_folded": "huyen lac duong"
+      },
+      {
+        "name_vi": "Huyện Đơn Dương",
+        "name_folded": "huyen don duong"
+      },
+      {
+        "name_vi": "Huyện Đức Trọng",
+        "name_folded": "huyen duc trong"
+      },
+      {
+        "name_vi": "Thành phố Đà Lạt",
+        "name_folded": "thanh pho da lat"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Sơ cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành văn học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tổ trưởng Tổ Ngữ văn, Trường Trung học phổ thông chuyên Bảo Lộc, thành phố Bảo Lộc, tỉnh Lâm Đồng"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học phổ thông chuyên Bảo Lộc, thành phố Bảo Lộc, tỉnh Lâm Đồng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

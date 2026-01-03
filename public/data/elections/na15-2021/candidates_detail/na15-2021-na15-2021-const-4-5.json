@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-4-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-3efca0c87cf9",
+    "full_name": "Nguyễn Thị Phương Thúy",
+    "full_name_folded": "nguyen thi phuong thuy",
+    "dob": "16/11/1983",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Đại Mỗ, quận Nam Từ Liêm, thành phố Hà Nội",
+    "current_residence": "Số 8, ngách 72/41 đường Tây Mỗ, tổ dân phố Phượng, phường Tây Mỗ, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-4",
+    "list_order": 5,
+    "party_member_since": "03/10/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-4",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Quận Hoàng Mai,Huyện Gia Lâm",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 4: Gồm quận Hoàng Mai và huyện Gia Lâm. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gia Lâm",
+        "name_folded": "huyen gia lam"
+      },
+      {
+        "name_vi": "Quận Hoàng Mai",
+        "name_folded": "quan hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành khoa học giáo dục mầm non"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên, Phó Hiệu trưởng, Chủ tịch Công đoàn cơ sở Trường Mầm non Đại Mỗ A, quận Nam Từ Liêm"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Mầm non Đại Mỗ A, quận Nam Từ Liêm"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

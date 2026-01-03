@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-147-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f00e76048f7a",
+    "full_name": "Nguyễn Chí Dũng",
+    "full_name_folded": "nguyen chi dung",
+    "dob": "05/8/1960",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Mai Phụ, huyện Lộc Hà, tỉnh Hà Tĩnh",
+    "current_residence": "B4 Nam Tràng, phường Trúc Bạch, quận Ba Đình, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-147",
+    "list_order": 1,
+    "party_member_since": "30/9/1987",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Ninh Thuận nhiệm kỳ 2005-2010, 2010-2015"
+  },
+  "locality": {
+    "id": "loc-0884bac8f233",
+    "name_vi": "Tỉnh Quảng Trị",
+    "name_folded": "quang tri",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-147",
+    "locality_id": "loc-0884bac8f233",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Vĩnh Linh, Huyện Gio Linh, Huyện Đakrông, Huyện Hướng Hóa, Huyện Đảo Cồn Cỏ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Trị Đơn vị bầu cử Số 1: Gồm các huyện: Vĩnh Linh, Gio Linh, Đakrông, Hướng Hóa và huyện đảo Cồn Cỏ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Gio Linh",
+        "name_folded": "huyen gio linh"
+      },
+      {
+        "name_vi": "Huyện Hướng Hóa",
+        "name_folded": "huyen huong hoa"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Linh",
+        "name_folded": "huyen vinh linh"
+      },
+      {
+        "name_vi": "Huyện Đakrông",
+        "name_folded": "huyen dakrong"
+      },
+      {
+        "name_vi": "Huyện Đảo Cồn Cỏ",
+        "name_folded": "huyen dao con co"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành giao thông; Tiến sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Bí thư Ban Cán sự đảng, Bộ trưởng Bộ Kế hoạch và Đầu tư; Chủ tịch Hội Hữu nghị Việt Nam - Đức"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Kế hoạch và Đầu tư"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

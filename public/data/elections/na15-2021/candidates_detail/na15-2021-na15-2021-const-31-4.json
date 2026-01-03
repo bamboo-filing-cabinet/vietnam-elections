@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-31-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d818a8e6e7b7",
+    "full_name": "Phan Huỳnh Sơn",
+    "full_name_folded": "phan huynh son",
+    "dob": "01/01/1963",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phong Mỹ, huyện Cao Lãnh, tỉnh Đồng Tháp",
+    "current_residence": "Nhà số 7, đường Đào Duy Từ, khóm Mỹ Quới, phường Mỹ Quý, thành phố Long Xuyên, tỉnh An Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-31",
+    "list_order": 4,
+    "party_member_since": "01/4/1985",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Phường Mỹ Xuyên (thành phố Long Xuyên) nhiệm kỳ 1999-2004; Thành phố Long Xuyên nhiệm kỳ 1999-2004"
+  },
+  "locality": {
+    "id": "loc-98279810913f",
+    "name_vi": "Tỉnh An Giang",
+    "name_folded": "an giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-31",
+    "locality_id": "loc-98279810913f",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Châu Đốc, Huyện An Phú, Huyện Tịnh Biên, Huyện Tri Tôn, Huyên Châu Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: An Giang Đơn vị bầu cử Số 3: Gồm thành phố Châu Đốc và các huyện: An Phú, Tịnh Biên, Tri Tôn, Châu Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyên Châu Phú",
+        "name_folded": "huyen chau phu"
+      },
+      {
+        "name_vi": "Huyện An Phú",
+        "name_folded": "huyen an phu"
+      },
+      {
+        "name_vi": "Huyện Tri Tôn",
+        "name_folded": "huyen tri ton"
+      },
+      {
+        "name_vi": "Huyện Tịnh Biên",
+        "name_folded": "huyen tinh bien"
+      },
+      {
+        "name_vi": "Thành phố Châu Đốc",
+        "name_folded": "thanh pho chau doc"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12 bổ túc"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh An Giang kiêm Phó Chủ tịch Liên hiệp các tổ chức hữu nghị tỉnh An Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh An Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

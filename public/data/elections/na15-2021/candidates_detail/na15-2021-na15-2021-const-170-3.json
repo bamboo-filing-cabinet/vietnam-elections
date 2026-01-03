@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-170-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-665324a49744",
+    "full_name": "Nguyễn Hải Nam",
+    "full_name_folded": "nguyen hai nam",
+    "dob": "02/10/1977",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phú Hòa, huyện Lương Tài, tỉnh Bắc Ninh",
+    "current_residence": "Phòng E1510, chung cư 151 Thụy Khuê, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-170",
+    "list_order": 3,
+    "party_member_since": "07/6/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-de3f1bbb0c35",
+    "name_vi": "Tỉnh Thừa Thiên Huế",
+    "name_folded": "thua thien hue",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-170",
+    "locality_id": "loc-de3f1bbb0c35",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Phú Vang, Huyện Phú Lộc, Huyện Nam Đông",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thừa Thiên Huế Đơn vị bầu cử Số 3: Gồm các huyện: Phú Vang, Phú Lộc và Nam Đông. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Nam Đông",
+        "name_folded": "huyen nam dong"
+      },
+      {
+        "name_vi": "Huyện Phú Lộc",
+        "name_folded": "huyen phu loc"
+      },
+      {
+        "name_vi": "Huyện Phú Vang",
+        "name_folded": "huyen phu vang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh D"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành tài chính"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Ủy ban Chứng khoán nhà nước; Bí thư Chi bộ, Vụ trưởng Vụ Quản lý các công ty quản lý quỹ, Ủy ban Chứng khoán nhà nước, Bộ Tài chính"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Quản lý các công ty quản lý quỹ, Ủy ban Chứng khoán nhà nước, Bộ Tài chính"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

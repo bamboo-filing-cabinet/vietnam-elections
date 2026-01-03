@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-71-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-a885ead61443",
+    "full_name": "Nguyễn Việt Hoài",
+    "full_name_folded": "nguyen viet hoai",
+    "dob": "16/12/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thanh Lĩnh, huyện Thanh Chương, tỉnh Nghệ An",
+    "current_residence": "Tổ 44, khu phố Long Đức 1, phường Tam Phước, thành phố Biên Hòa, tỉnh Đồng Nai"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-71",
+    "list_order": 3,
+    "party_member_since": "04/11/2011",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-dca8ebff2abe",
+    "name_vi": "Tỉnh Đồng Nai",
+    "name_folded": "dong nai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-71",
+    "locality_id": "loc-dca8ebff2abe",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Biên Hòa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Nai Đơn vị bầu cử Số 1: Gồm thành phố Biên Hòa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Biên Hòa",
+        "name_folded": "thanh pho bien hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành triết học - chính trị học, luật kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Đảng ủy, Bí thư Chi bộ 1; Chủ nhiệm Uỷ ban Kiểm tra Liên đoàn Lao động tỉnh Đồng Nai"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn Lao động tỉnh Đồng Nai"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

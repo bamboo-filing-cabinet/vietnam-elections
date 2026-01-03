@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-35-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d5a45f133c78",
+    "full_name": "Nguyễn Huy Thái (Y Lan)",
+    "full_name_folded": "nguyen huy thai y lan",
+    "dob": "13/3/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Như Hòa, huyện Kim Sơn, tỉnh Ninh Bình",
+    "current_residence": "Số 19, đường Phạm Ngọc Thạch, Phường 1, thành phố Bạc Liêu, tỉnh Bạc Liêu"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-35",
+    "list_order": 4,
+    "party_member_since": "13/11/1993",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Bạc Liêu nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-9ee833b67126",
+    "name_vi": "Tỉnh Bạc Liêu",
+    "name_folded": "bac lieu",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-35",
+    "locality_id": "loc-9ee833b67126",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Giá Rai, Huyện Phước Long, Huyện Hồng Dân, Huyện Đông Hải",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bạc Liêu Đơn vị bầu cử Số 2: Gồm thị xã Giá Rai và các huyện: Phước Long, Hồng Dân, Đông Hải. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hồng Dân",
+        "name_folded": "huyen hong dan"
+      },
+      {
+        "name_vi": "Huyện Phước Long",
+        "name_folded": "huyen phuoc long"
+      },
+      {
+        "name_vi": "Huyện Đông Hải",
+        "name_folded": "huyen dong hai"
+      },
+      {
+        "name_vi": "Thị xã Giá Rai",
+        "name_folded": "thi xa gia rai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật, xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Phó Trưởng đoàn chuyên trách phụ trách Đoàn đại biểu Quốc hội tỉnh Bạc Liêu; Ủy viên Ủy ban về các vấn đề Xã hội của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Bạc Liêu"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

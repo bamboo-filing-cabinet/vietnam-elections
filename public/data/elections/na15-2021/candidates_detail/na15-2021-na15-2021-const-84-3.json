@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-84-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c8d12b1a7ac9",
+    "full_name": "Lê Thị Nga",
+    "full_name_folded": "le thi nga",
+    "dob": "20/12/1964",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Bắc Hà, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",
+    "current_residence": "Căn hộ 1404, nhà D1, tầng 14, chung cư Mandarin Garden, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-84",
+    "list_order": 3,
+    "party_member_since": "29/11/1990",
+    "is_na_delegate": "X, XI, XII, XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-e92430cb680c",
+    "name_vi": "Tỉnh Hà Nam",
+    "name_folded": "ha nam",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-84",
+    "locality_id": "loc-e92430cb680c",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Duy Tiên, Huyện Kim Bảng, Huyện Lý Nhân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Nam Đơn vị bầu cử Số 2: Gồm thị xã Duy Tiên và các huyện: Kim Bảng, Lý Nhân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Bảng",
+        "name_folded": "huyen kim bang"
+      },
+      {
+        "name_vi": "Huyện Lý Nhân",
+        "name_folded": "huyen ly nhan"
+      },
+      {
+        "name_vi": "Thị xã Duy Tiên",
+        "name_folded": "thi xa duy tien"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng; Ủy viên Đảng đoàn Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Tư pháp của Quốc hội; thành viên Ban chỉ đạo Cải cách tư pháp Trung ương; thành viên Ban chỉ đạo Trung ương về Phòng, chống tham nhũng; Chủ tịch Nhóm Nghị sĩ hữu nghị Việt Nam - Ba Lan; Phó Chủ tịch Nhóm nữ nghị sĩ Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tư pháp của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

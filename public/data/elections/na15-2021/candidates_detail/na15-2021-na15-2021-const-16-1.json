@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-16-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0e57ac001720",
+    "full_name": "Dương Ngọc Hải",
+    "full_name_folded": "duong ngoc hai",
+    "dob": "03/02/1967",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tân Khánh, thành phố Tân An, tỉnh Long An",
+    "current_residence": "Số 78/11, đường Bình Lợi, tổ dân phố 52, phường 13, quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-16",
+    "list_order": 1,
+    "party_member_since": "27/01/1996",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-16",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Bình Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 6: Gồm quận Bình Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Bình Tân",
+        "name_folded": "quan binh tan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh A"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ Thành ủy, Chủ nhiệm Ủy ban Kiểm tra Thành ủy Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Kiểm tra Thành ủy Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-103-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-2373616339a3",
+    "full_name": "Huỳnh Văn Thẻ",
+    "full_name_folded": "huynh van the",
+    "dob": "25/12/1988",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Đông Yên, huyện An Biên, tỉnh Kiên Giang",
+    "current_residence": "Số 38, ấp Tây Sơn 2, xã Đông Yên, huyện An Biên, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-103",
+    "list_order": 5,
+    "party_member_since": "04/10/2013",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Xã Hưng Yên nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-103",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện An Biên, Huyện An Minh, Huyện Vĩnh Thuận, Huyện U Minh Thượng, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 2: Gồm các huyện: An Biên, An Minh, Vĩnh Thuận, U Minh Thượng và Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Biên",
+        "name_folded": "huyen an bien"
+      },
+      {
+        "name_vi": "Huyện An Minh",
+        "name_folded": "huyen an minh"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện U Minh Thượng",
+        "name_folded": "huyen u minh thuong"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thuận",
+        "name_folded": "huyen vinh thuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Kỹ sư"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành thuỷ sản"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Chủ tịch Ủy ban nhân dân xã Hưng Yên, huyện An Biên, tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Uỷ ban nhân dân xã Hưng Yên, huyện An Biên, tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

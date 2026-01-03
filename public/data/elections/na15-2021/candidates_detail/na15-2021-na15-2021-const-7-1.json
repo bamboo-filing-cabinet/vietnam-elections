@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-7-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-701e3f237fdc",
+    "full_name": "Trần Việt Anh",
+    "full_name_folded": "tran viet anh",
+    "dob": "22/10/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tam Hiệp, huyện Núi Thành, tỉnh Quảng Nam",
+    "current_residence": "Số 17A, ngách 9/12, ngõ 9, Đặng Thai Mai, quận Tây Hồ, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-7",
+    "list_order": 1,
+    "party_member_since": "23/9/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Thành phố Hà Nội nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-7",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 7,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 7",
+    "name_folded": "don vi bau cu so 7",
+    "description": "Thị xã Sơn Tây, Huyện Phúc Thọ, Huyện Ba Vì, Huyện Đan Phương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 7: Gồm thị xã Sơn Tây và các huyện: Phúc Thọ, Ba Vì, Đan Phượng. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ba Vì",
+        "name_folded": "huyen ba vi"
+      },
+      {
+        "name_vi": "Huyện Phúc Thọ",
+        "name_folded": "huyen phuc tho"
+      },
+      {
+        "name_vi": "Huyện Đan Phương",
+        "name_folded": "huyen dan phuong"
+      },
+      {
+        "name_vi": "Thị xã Sơn Tây",
+        "name_folded": "thi xa son tay"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ kiến trúc - tiếng Pháp"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành kiến trúc"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy, Trung tâm Bảo tồn di sản Thăng Long - Hà Nội; Giám đốc Trung tâm kiêm Giám đốc Ban Quản lý dự án thuộc Trung tâm; Phó Giám đốc Trung tâm Hà Nội học và phát triển Thủ đô"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Bảo tồn di sản Thăng Long - Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

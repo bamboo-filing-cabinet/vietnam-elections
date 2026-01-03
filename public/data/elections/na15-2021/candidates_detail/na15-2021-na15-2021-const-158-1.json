@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-158-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dd979c56628d",
+    "full_name": "Nguyễn Văn An",
+    "full_name_folded": "nguyen van an",
+    "dob": "30/11/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Quý, huyện Quỳnh Phụ, tỉnh Thái Bình",
+    "current_residence": "Biệt thự liền kề 5, lô số 1 và 2, khu đô thị Đại Thanh, xã Tả Thanh Oai, huyện Thanh Trì, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-158",
+    "list_order": 1,
+    "party_member_since": "23/8/1999",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f91fa5400899",
+    "name_vi": "Tỉnh Thái Bình",
+    "name_folded": "thai binh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-158",
+    "locality_id": "loc-f91fa5400899",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Đông Hưng, Huyện Thái Thụy",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thái Bình Đơn vị bầu cử Số 2: Gồm các huyện: Đông Hưng và Thái Thụy. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Thái Thụy",
+        "name_folded": "huyen thai thuy"
+      },
+      {
+        "name_vi": "Huyện Đông Hưng",
+        "name_folded": "huyen dong hung"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật kinh tế; Thạc sĩ chuyên ngành công nghệ thông tin; Tiến sĩ chuyên ngành quản lý công"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Tổng giám đốc Truyền hình Quốc hội Việt Nam, Văn phòng Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Truyền hình Quốc hội Việt Nam, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

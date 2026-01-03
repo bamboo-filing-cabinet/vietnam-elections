@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-77-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-09ec16fa2d35",
+    "full_name": "Phạm Văn Hòa",
+    "full_name_folded": "pham van hoa",
+    "dob": "02/10/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Tân Qui Đông, thành phố Sa Đéc, tỉnh Đồng Tháp",
+    "current_residence": "Ấp Phú Thuận, xã Tân Phú Đông, thành phố Sa Đéc, tỉnh Đồng Tháp"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-77",
+    "list_order": 3,
+    "party_member_since": "10/9/1982",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Đồng Tháp nhiệm kỳ 2011-2016"
+  },
+  "locality": {
+    "id": "loc-0e3718a4a90a",
+    "name_vi": "Tỉnh Đồng Tháp",
+    "name_folded": "dong thap",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-77",
+    "locality_id": "loc-0e3718a4a90a",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Sa Đéc, Huyện Lấp Vò, Huyện Lai Vung, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Đồng Tháp Đơn vị bầu cử Số 3: Gồm thành phố Sa Đéc và các huyện: Lấp Vò, Lai Vung, Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện Lai Vung",
+        "name_folded": "huyen lai vung"
+      },
+      {
+        "name_vi": "Huyện Lấp Vò",
+        "name_folded": "huyen lap vo"
+      },
+      {
+        "name_vi": "Thành phố Sa Đéc",
+        "name_folded": "thanh pho sa dec"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh, hành chính; Thạc sĩ chuyên ngành khoa học giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng đoàn đại biểu Quốc hội tỉnh Đồng Tháp, Ủy viên Ủy ban Pháp luật của Quốc hội; Phó Chủ tịch Hội Luật gia tỉnh Đồng Tháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Luật gia tỉnh Đồng Tháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

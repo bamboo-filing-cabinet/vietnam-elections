@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-61-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d5cd3ca624e3",
+    "full_name": "Nguyễn Quốc Hận",
+    "full_name_folded": "nguyen quoc han",
+    "dob": "17/02/1965",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Xuyên, thành phố Cà Mau, tỉnh Cà Mau",
+    "current_residence": "Khóm 3, phường Tân Xuyên, thành phố Cà Mau, tỉnh Cà Mau"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-61",
+    "list_order": 1,
+    "party_member_since": "04/5/1994",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Thành phố Cà Mau nhiệm kỳ 2005-2010, 2011-2016"
+  },
+  "locality": {
+    "id": "loc-9d5195573845",
+    "name_vi": "Tỉnh Cà Mau",
+    "name_folded": "ca mau",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-61",
+    "locality_id": "loc-9d5195573845",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Huyện Đầm Dơi, Huyện Năm Căn, Huyện Ngọc Hiền",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Cà Mau Đơn vị bầu cử Số 3: Gồm các huyện: Đầm Dơi, Năm Căn và Ngọc Hiển. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Ngọc Hiền",
+        "name_folded": "huyen ngoc hien"
+      },
+      {
+        "name_vi": "Huyện Năm Căn",
+        "name_folded": "huyen nam can"
+      },
+      {
+        "name_vi": "Huyện Đầm Dơi",
+        "name_folded": "huyen dam doi"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kinh tế nông nghiệp, chính trị; Thạc sĩ chuyên ngành xây dựng Đảng và chính quyền nhà nước"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên; Phó Trưởng Đoàn phụ trách Đoàn đại biểu Quốc hội tỉnh Cà Mau"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân tỉnh Cà Mau"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

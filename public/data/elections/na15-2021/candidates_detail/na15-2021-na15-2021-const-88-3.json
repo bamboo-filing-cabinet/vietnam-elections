@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-88-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-82dd8eb88fa6",
+    "full_name": "Nguyễn Trọng Nghĩa",
+    "full_name_folded": "nguyen trong nghia",
+    "dob": "24/7/1978",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Việt Tiến, huyện Vĩnh Bảo, thành phố Hải Phòng",
+    "current_residence": "Khu Khuê Liễu, phường Tân Hưng, thành phố Hải Dương, tỉnh Hải Dương"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-88",
+    "list_order": 3,
+    "party_member_since": "06/5/1997",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-8b8cf3f6e848",
+    "name_vi": "Tỉnh Hải Dương",
+    "name_folded": "hai duong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-88",
+    "locality_id": "loc-8b8cf3f6e848",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Chí Linh, Thị xã Kinh Môn, Huyện Kim Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hải Dương Đơn vị bầu cử Số 1: Gồm thành phố Chí Linh, thị xã Kinh Môn và huyện Kim Thành. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Kim Thành",
+        "name_folded": "huyen kim thanh"
+      },
+      {
+        "name_vi": "Thành phố Chí Linh",
+        "name_folded": "thanh pho chi linh"
+      },
+      {
+        "name_vi": "Thị xã Kinh Môn",
+        "name_folded": "thi xa kinh mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kỹ thuật mật mã"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng phòng, Phòng Cơ yếu - Công nghệ thông tin, Văn phòng Tỉnh ủy Hải Dương"
+    },
+    {
+      "key": "workplace",
+      "value": "Văn phòng Tỉnh ủy Hải Dương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

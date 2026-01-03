@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-103-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c5ba3474600e",
+    "full_name": "Châu Thị Anh Pha",
+    "full_name_folded": "chau thi anh pha",
+    "dob": "10/3/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Hoa",
+    "religion": "Không",
+    "birthplace": "Xã Long Thạnh, huyện Giồng Riềng, tỉnh Kiên Giang",
+    "current_residence": "Số 69, Quốc lộ 80, tổ 5, khu phố Xà Ngách, thị trấn Kiên Lương, huyện Kiên Lương, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-103",
+    "list_order": 3,
+    "party_member_since": "03/11/2006",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-103",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện An Biên, Huyện An Minh, Huyện Vĩnh Thuận, Huyện U Minh Thượng, Huyện Châu Thành",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 2: Gồm các huyện: An Biên, An Minh, Vĩnh Thuận, U Minh Thượng và Châu Thành. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện An Biên",
+        "name_folded": "huyen an bien"
+      },
+      {
+        "name_vi": "Huyện An Minh",
+        "name_folded": "huyen an minh"
+      },
+      {
+        "name_vi": "Huyện Châu Thành",
+        "name_folded": "huyen chau thanh"
+      },
+      {
+        "name_vi": "Huyện U Minh Thượng",
+        "name_folded": "huyen u minh thuong"
+      },
+      {
+        "name_vi": "Huyện Vĩnh Thuận",
+        "name_folded": "huyen vinh thuan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh, tiếng Pháp B"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm Anh văn; Thạc sĩ chuyên ngành quản lý giáo dục"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Hiệu trưởng Trường Trung học cơ sở và Trung học phổ thông Ba Hòn, Kiên Lương, Sở Giáo dục và Đào tạo tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Trung học cơ sở và Trung học phổ thông Ba Hòn, huyện Kiên Lương, tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

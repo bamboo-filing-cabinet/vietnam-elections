@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-178-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-85c5f4594b62",
+    "full_name": "Ma Thị Thúy",
+    "full_name_folded": "ma thi thuy",
+    "dob": "03/10/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Tày",
+    "religion": "Không",
+    "birthplace": "Xã Hà Lang, huyện Chiêm Hóa, tỉnh Tuyên Quang",
+    "current_residence": "Tổ 9, phường Ỷ La, thành phố Tuyên Quang, tỉnh Tuyên Quang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-178",
+    "list_order": 1,
+    "party_member_since": "02/9/2005",
+    "is_na_delegate": "XIII, XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-6d693e7c979e",
+    "name_vi": "Tỉnh Tuyên Quang",
+    "name_folded": "tinh tuyen quang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-178",
+    "locality_id": "loc-6d693e7c979e",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành phố Tuyên Quang, Huyện Sơn Dương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Tuyên Quang Đơn vị bầu cử Số 3: Gồm thành phố Tuyên Quang và huyện Sơn Dương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Sơn Dương",
+        "name_folded": "huyen son duong"
+      },
+      {
+        "name_vi": "Thành phố Tuyên Quang",
+        "name_folded": "thanh pho tuyen quang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1; nói được tiếng dân tộc Tày"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành trồng trọt; Thạc sĩ chuyên ngành khoa học cây trồng"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Chi bộ, Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Tuyên Quang, Ủy viên Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    },
+    {
+      "key": "workplace",
+      "value": "Đoàn đại biểu Quốc hội tỉnh Tuyên Quang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

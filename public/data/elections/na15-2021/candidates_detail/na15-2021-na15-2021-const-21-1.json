@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-21-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-d99eb5bcf122",
+    "full_name": "Tống Văn Băng",
+    "full_name_folded": "tong van bang",
+    "dob": "17/7/1974",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã An Hòa, huyện An Dương, thành phố Hải Phòng",
+    "current_residence": "Số 52/37, Nam Pháp 1, phường Đằng Giang, quận Ngô Quyền, thành phố Hải Phòng"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-21",
+    "list_order": 1,
+    "party_member_since": "14/3/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-d46b38a8b4f1",
+    "name_vi": "TP. Hải Phòng",
+    "name_folded": "hai phong",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-21",
+    "locality_id": "loc-d46b38a8b4f1",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Quận Hồng Bàng, Quận Lê Chân, Huyện Thủy Nguyên, Cát Hải, Bạch Long Vĩ",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hải Phòng Đơn vị bầu cử Số 1: Gồm các quận: Hồng Bàng, Lê Chân và các huyện: Thủy Nguyên, Cát Hải, Bạch Long Vĩ. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Bạch Long Vĩ",
+        "name_folded": "bach long vi"
+      },
+      {
+        "name_vi": "Cát Hải",
+        "name_folded": "cat hai"
+      },
+      {
+        "name_vi": "Huyện Thủy Nguyên",
+        "name_folded": "huyen thuy nguyen"
+      },
+      {
+        "name_vi": "Quận Hồng Bàng",
+        "name_folded": "quan hong bang"
+      },
+      {
+        "name_vi": "Quận Lê Chân",
+        "name_folded": "quan le chan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đai học chuyên ngành ngoại ngữ; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thành ủy viên; Ủy viên Ban Chấp hành Tổng Liên đoàn lao động Việt Nam; Bí thư Đảng đoàn, Chủ tịch Liên đoàn lao động thành phố Hải Phòng"
+    },
+    {
+      "key": "workplace",
+      "value": "Liên đoàn lao động thành phố Hải Phòng"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

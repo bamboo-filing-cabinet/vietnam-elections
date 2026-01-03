@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-20-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-98e1bd7ab671",
+    "full_name": "Trần Đức Cường",
+    "full_name_folded": "tran duc cuong",
+    "dob": "19/01/1948",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thanh Chi, huyện Thanh Chương, tỉnh Nghệ An",
+    "current_residence": "Số 19, ngõ 118, phố Ái Mộ, phường Bồ Đề, quận Long Biên, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-20",
+    "list_order": 1,
+    "party_member_since": "28/6/1976",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-20",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 10,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 10",
+    "name_folded": "don vi bau cu so 10",
+    "description": "Huyện Củ Chi, Huyện Hóc Môn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 10: Gồm các huyện: Củ Chi và Hóc Môn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Củ Chi",
+        "name_folded": "huyen cu chi"
+      },
+      {
+        "name_vi": "Huyện Hóc Môn",
+        "name_folded": "huyen hoc mon"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Đức D; tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành lịch sử; Tiến sĩ"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chủ tịch Hội Khoa học Lịch sử Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Khoa học Lịch sử Việt Nam"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

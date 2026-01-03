@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-120-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b7ead9912134",
+    "full_name": "Mai Thị Phương Hoa",
+    "full_name_folded": "mai thi phuong hoa",
+    "dob": "25/11/1971",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Liêm Hải, huyện Trực Ninh, tỉnh Nam Định",
+    "current_residence": "Nhà số 26, ngõ 44/1, phố Đỗ Quang, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-120",
+    "list_order": 2,
+    "party_member_since": "04/12/1999",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-15fbd11315f4",
+    "name_vi": "Tỉnh Nam Định",
+    "name_folded": "nam dinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-120",
+    "locality_id": "loc-15fbd11315f4",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Nam Trực, Huyện Nghĩa Hưng, Huyện Hải Hậu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nam Định Đơn vị bầu cử Số 2: Gồm các huyện: Nam Trực, Nghĩa Hưng và Hải Hậu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hải Hậu",
+        "name_folded": "huyen hai hau"
+      },
+      {
+        "name_vi": "Huyện Nam Trực",
+        "name_folded": "huyen nam truc"
+      },
+      {
+        "name_vi": "Huyện Nghĩa Hưng",
+        "name_folded": "huyen nghia hung"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Thạc sĩ luật - tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ cơ quan Văn phòng Quốc hội, Phó trưởng Ban Tuyên giáo Đảng ủy, Bí thư Chi bộ Tư pháp; Ủy viên Thường trực Ủy ban Tư pháp của Quốc hội; Chủ tịch Hội nghị sĩ hữu nghị Việt Nam - Pê ru, Phó Chủ tịch Hội nghị sĩ hữu nghị Việt Nam - Venezuela"
+    },
+    {
+      "key": "workplace",
+      "value": "Ủy ban Tư pháp của Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-42-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-5e601fc58596",
+    "full_name": "Trần Quốc Tỏ",
+    "full_name_folded": "tran quoc to",
+    "dob": "28/01/1962",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Thiện Quang, huyện Kim Sơn, tỉnh Ninh Bình",
+    "current_residence": "Số 95, ngõ 126, đường Khuất Duy Tiến, phường Nhân Chính, quận Thanh Xuân, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-42",
+    "list_order": 4,
+    "party_member_since": "20/4/1987",
+    "is_na_delegate": "XIV",
+    "is_council_delegate": "Tỉnh Thái Nguyên nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5ca4eebb03ba",
+    "name_vi": "Tỉnh Bắc Ninh",
+    "name_folded": "bac ninh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-42",
+    "locality_id": "loc-5ca4eebb03ba",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thị xã Từ Sơn, Huyện Tiên Du, Huyện Yên Phong",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Ninh Đơn vị bầu cử Số 2: Gồm thị xã Từ Sơn và các huyện: Tiên Du, Yên Phong. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Tiên Du",
+        "name_folded": "huyen tien du"
+      },
+      {
+        "name_vi": "Huyện Yên Phong",
+        "name_folded": "huyen yen phong"
+      },
+      {
+        "name_vi": "Thị xã Từ Sơn",
+        "name_folded": "thi xa tu son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B2"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành cảnh sát; Tiến sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Ban Thường vụ Đảng ủy Công an Trung ương, Trung tướng, Thứ trưởng Bộ Công an"
+    },
+    {
+      "key": "workplace",
+      "value": "Bộ Công an"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

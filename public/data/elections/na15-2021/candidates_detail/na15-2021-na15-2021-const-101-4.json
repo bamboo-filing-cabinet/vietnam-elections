@@ -1,0 +1,97 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-101-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-e08c496e0bb7",
+    "full_name": "Cao Thị Thêm",
+    "full_name_folded": "cao thi them",
+    "dob": "25/5/1974",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Ra-Glay",
+    "religion": "Không",
+    "birthplace": "Xã Thành Sơn, huyện Khánh Sơn, tỉnh Khánh Hòa",
+    "current_residence": "Tổ 4, Thị trấn Khánh Vĩnh, huyện Khánh Vĩnh, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-101",
+    "list_order": 4,
+    "party_member_since": "17/7/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Xã Khánh Thành nhiệm kỳ 2011-2016; huyện Khánh Vĩnh nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-101",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thành Phố Cam Ranh, Huyện Khánh Vĩnh, Huyện Diên Khánh, Huyện Cam Lâm, Huyện Khánh Sơn, Huyện Trường Sa",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 3: Gồm thành phố Cam Ranh và các huyện: Khánh Vĩnh, Diên Khánh, Cam Lâm, Khánh Sơn, Trường Sa. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Cam Lâm",
+        "name_folded": "huyen cam lam"
+      },
+      {
+        "name_vi": "Huyện Diên Khánh",
+        "name_folded": "huyen dien khanh"
+      },
+      {
+        "name_vi": "Huyện Khánh Sơn",
+        "name_folded": "huyen khanh son"
+      },
+      {
+        "name_vi": "Huyện Khánh Vĩnh",
+        "name_folded": "huyen khanh vinh"
+      },
+      {
+        "name_vi": "Huyện Trường Sa",
+        "name_folded": "huyen truong sa"
+      },
+      {
+        "name_vi": "Thành Phố Cam Ranh",
+        "name_folded": "thanh pho cam ranh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Trưởng Ban Dân vận, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam huyện Khánh Vĩnh, tỉnh Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Huyện ủy Khánh Vĩnh, tỉnh Khánh Hòa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

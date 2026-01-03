@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-102-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6df6afcbf804",
+    "full_name": "Trần Thị Huyền Diệu",
+    "full_name_folded": "tran thi huyen dieu",
+    "dob": "20/01/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hoà Thuận, huyện Giồng Riềng, tỉnh Kiên Giang",
+    "current_residence": "Số 188, ấp Tư Hạt, xã Thạnh Hoà, huyện Giồng Riềng, tỉnh Kiên Giang"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-102",
+    "list_order": 2,
+    "party_member_since": "16/5/2008",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-2e73af13acd6",
+    "name_vi": "Tỉnh Kiên Giang",
+    "name_folded": "kien giang",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-102",
+    "locality_id": "loc-2e73af13acd6",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Tân Hiệp, Huyện Kiên Hải, Huyện Giồng Riềng, Huyện Gò Quao",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Kiên Giang Đơn vị bầu cử Số 1: Gồm các huyện: Tân Hiệp, Kiên Hải, Giồng Riềng và Gò Quao. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Giồng Riềng",
+        "name_folded": "huyen giong rieng"
+      },
+      {
+        "name_vi": "Huyện Gò Quao",
+        "name_folded": "huyen go quao"
+      },
+      {
+        "name_vi": "Huyện Kiên Hải",
+        "name_folded": "huyen kien hai"
+      },
+      {
+        "name_vi": "Huyện Tân Hiệp",
+        "name_folded": "huyen tan hiep"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành thú y"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Hiệu trưởng Trường trung cấp nghề Dân tộc nội trú thuộc Sở Lao động, Thương binh và Xã hội tỉnh Kiên Giang"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường trung cấp nghề Dân tộc nội trú thuộc Sở Lao động, Thương binh và Xã hội tỉnh Kiên Giang"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-165-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-74e35d222f8e",
+    "full_name": "Vi Thanh Hương",
+    "full_name_folded": "vi thanh huong",
+    "dob": "16/01/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Thái",
+    "religion": "Không",
+    "birthplace": "Xã Thanh Hòa, huyện Như Xuân, tỉnh Thanh Hóa",
+    "current_residence": "Khu phố Thăng Bình, thị trấn Yên Cát, huyện Như Xuân, tỉnh Thanh Hóa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-165",
+    "list_order": 3,
+    "party_member_since": "17/01/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Như Xuân nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-e78a4efd9173",
+    "name_vi": "Tỉnh Thanh Hóa",
+    "name_folded": "thanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-165",
+    "locality_id": "loc-e78a4efd9173",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Nghi Sơn, Huyện Quảng Xương, Huyện Nông Cống, Huyện Như Xuân, Huyện Như Thanh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thanh Hoá Đơn vị bầu cử Số 3: Gồm thị xã Nghi Sơn và các huyện: Quảng Xương, Nông Cống, Như Xuân, Như Thanh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Như Thanh",
+        "name_folded": "huyen nhu thanh"
+      },
+      {
+        "name_vi": "Huyện Như Xuân",
+        "name_folded": "huyen nhu xuan"
+      },
+      {
+        "name_vi": "Huyện Nông Cống",
+        "name_folded": "huyen nong cong"
+      },
+      {
+        "name_vi": "Huyện Quảng Xương",
+        "name_folded": "huyen quang xuong"
+      },
+      {
+        "name_vi": "Thị xã Nghi Sơn",
+        "name_folded": "thi xa nghi son"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng anh TOEFL ITP B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành khoa học xã hội và nhân văn"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Huyện ủy viên, Bí thư Chi bộ, Chủ tịch Hội Liên hiệp Phụ nữ huyện Như Xuân, tỉnh Thanh Hóa"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ huyện Như Xuân, tỉnh Thanh Hóa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

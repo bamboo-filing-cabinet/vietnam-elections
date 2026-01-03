@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-8-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-ae7985c153b8",
+    "full_name": "Hoàng Thị Mai Hương",
+    "full_name_folded": "hoang thi mai huong",
+    "dob": "10/10/1971",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Lưu Sơn, huyện Đô Lương, tỉnh Nghệ An",
+    "current_residence": "Nhà số 4, dãy P21, ngõ 121 phố Nguyễn An Ninh, phường Tương Mai, quận Hoàng Mai, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-8",
+    "list_order": 2,
+    "party_member_since": "06/3/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-76cf8547594d",
+    "name_vi": "TP. Hà Nội",
+    "name_folded": "ha noi",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-8",
+    "locality_id": "loc-76cf8547594d",
+    "unit_number": 8,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 8",
+    "name_folded": "don vi bau cu so 8",
+    "description": "Huyện Quốc Oai, Huyện Chương Mỹ,Huyện Thạch Thất",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hà Nội Đơn vị bầu cử Số 8: Gồm các huyện: Quốc Oai, Chương Mỹ và Thạch Thất. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Chương Mỹ",
+        "name_folded": "huyen chuong my"
+      },
+      {
+        "name_vi": "Huyện Quốc Oai",
+        "name_folded": "huyen quoc oai"
+      },
+      {
+        "name_vi": "Huyện Thạch Thất",
+        "name_folded": "huyen thach that"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành hóa học, ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành khoa học và công nghệ môi trường"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Trưởng phòng Hạ tầng kỹ thuật, Sở Xây dựng thành phố Hà Nội"
+    },
+    {
+      "key": "workplace",
+      "value": "Sở Xây dựng thành phố Hà Nội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

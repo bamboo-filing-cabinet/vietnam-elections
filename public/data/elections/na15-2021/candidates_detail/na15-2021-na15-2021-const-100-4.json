@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-100-4",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-6a9726ccab11",
+    "full_name": "Hà Quốc Trị",
+    "full_name_folded": "ha quoc tri",
+    "dob": "18/02/1969",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Phương Khoan, huyện Sông Lô, tỉnh Vĩnh Phúc",
+    "current_residence": "Nhà Khách T78, số 44 đường Trần Phú, phường Lộc Thọ, thành phố Nha Trang, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-100",
+    "list_order": 4,
+    "party_member_since": "09/10/1990",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-100",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Nha Trang",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 2: Gồm thành phố Nha Trang. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Nha Trang",
+        "name_folded": "thanh pho nha trang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Nga B; Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành luật; Thạc sĩ chuyên ngành báo chí"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Tỉnh ủy Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Tỉnh ủy Khánh Hòa"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

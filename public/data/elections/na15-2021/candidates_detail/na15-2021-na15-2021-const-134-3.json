@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-134-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-17649da452e0",
+    "full_name": "Đỗ Chí Nghĩa",
+    "full_name_folded": "do chi nghia",
+    "dob": "05/01/1975",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Phường Duy Hải, thị xã Duy Tiên, tỉnh Hà Nam",
+    "current_residence": "Phòng 0906, Vinhome Gardenia, đường Hàm Nghi, phường Cầu Diễn, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-134",
+    "list_order": 3,
+    "party_member_since": "22/11/1995",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-ed5f171275ee",
+    "name_vi": "Tỉnh Phú Yên",
+    "name_folded": "phu yen",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-134",
+    "locality_id": "loc-ed5f171275ee",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thị xã Đông Hòa, Huyện Phú Hòa, Huyện Tây Hòa, Huyện Sơn Hòa, Huyện Sông Hinh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Phú Yên Đơn vị bầu cử Số 1: Gồm thị xã Đông Hòa và các huyện: Phú Hòa, Tây Hòa, Sơn Hòa, Sông Hinh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Phú Hòa",
+        "name_folded": "huyen phu hoa"
+      },
+      {
+        "name_vi": "Huyện Sông Hinh",
+        "name_folded": "huyen song hinh"
+      },
+      {
+        "name_vi": "Huyện Sơn Hòa",
+        "name_folded": "huyen son hoa"
+      },
+      {
+        "name_vi": "Huyện Tây Hòa",
+        "name_folded": "huyen tay hoa"
+      },
+      {
+        "name_vi": "Thị xã Đông Hòa",
+        "name_folded": "thi xa dong hoa"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Phó Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Trung C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản lý xã hội, báo chí; Tiến sĩ chuyên ngành báo chí"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ, Phó Trưởng ban Tuyên giáo Đảng ủy cơ quan Văn phòng Quốc hội; Bí thư Đảng ủy, Tổng biên tập Báo Đại biểu Nhân dân; Chủ tịch Liên chi hội Nhà báo Văn phòng Quốc hội; Ủy viên Ban Chấp hành Hội Nhà báo Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Báo Đại biểu Nhân dân, Văn phòng Quốc hội"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

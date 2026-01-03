@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-142-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8c9940b78d21",
+    "full_name": "Nguyễn Thanh Tuấn",
+    "full_name_folded": "nguyen thanh tuan",
+    "dob": "10/8/1983",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Bình Thạnh, huyện Bình Sơn, tỉnh Quảng Ngãi",
+    "current_residence": "Thôn Hải Ninh, xã Bình Thạnh, huyện Bình Sơn, tỉnh Quảng Ngãi"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-142",
+    "list_order": 5,
+    "party_member_since": "12/10/2010",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-cc2b9582432b",
+    "name_vi": "Tỉnh Quảng Ngãi",
+    "name_folded": "quang ngai",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-142",
+    "locality_id": "loc-cc2b9582432b",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Quảng Ngãi, Huyện Tư Nghĩa, Huyện Nghĩa Hành, Huyện Lý Sơn",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Quảng Ngãi Đơn vị bầu cử Số 2: Gồm thành phố Quảng Ngãi và các huyện: Tư Nghĩa, Nghĩa Hành, Lý Sơn. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Lý Sơn",
+        "name_folded": "huyen ly son"
+      },
+      {
+        "name_vi": "Huyện Nghĩa Hành",
+        "name_folded": "huyen nghia hanh"
+      },
+      {
+        "name_vi": "Huyện Tư Nghĩa",
+        "name_folded": "huyen tu nghia"
+      },
+      {
+        "name_vi": "Thành phố Quảng Ngãi",
+        "name_folded": "thanh pho quang ngai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật hình sự và tố tụng hình sự"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Chi ủy viên Chi bộ, Thẩm phán sơ cấp Tòa án nhân dân thành phố Quảng Ngãi, tỉnh Quảng Ngãi"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân thành phố Quảng Ngãi, tỉnh Quảng Ngãi"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

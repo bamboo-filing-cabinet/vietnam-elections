@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-86-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-f662ad6334f8",
+    "full_name": "Hà Thọ Bình",
+    "full_name_folded": "ha tho binh",
+    "dob": "04/12/1968",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Xuân Thành, huyện Thọ Xuân, tỉnh Thanh Hóa",
+    "current_residence": "Số 21/26, đường Trưng Nữ Vương, tổ dân phố 7, phường Phú Bài, thị xã Hương Thủy, tỉnh Thừa Thiên Huế"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-86",
+    "list_order": 1,
+    "party_member_since": "14/3/1987",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-86",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Huyện Thạch Hà, Huyện Can Lộc, Huyện Nghi Xuân, Huyện Lộc Hà",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 2: Gồm các huyện: Thạch Hà, Can Lộc, Nghi Xuân và Lộc Hà. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Can Lộc",
+        "name_folded": "huyen can loc"
+      },
+      {
+        "name_vi": "Huyện Lộc Hà",
+        "name_folded": "huyen loc ha"
+      },
+      {
+        "name_vi": "Huyện Nghi Xuân",
+        "name_folded": "huyen nghi xuan"
+      },
+      {
+        "name_vi": "Huyện Thạch Hà",
+        "name_folded": "huyen thach ha"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành chỉ huy - tham mưu binh chủng hợp thành"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Thiếu tướng, Ủy viên Ban Thường vụ Đảng ủy Quân khu IV, Phó Tư lệnh kiêm Tham mưu trưởng Quân khu IV"
+    },
+    {
+      "key": "workplace",
+      "value": "Quân khu IV"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

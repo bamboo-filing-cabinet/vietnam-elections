@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-125-5",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-56c97c3e5900",
+    "full_name": "Võ Thị Thúy Vinh",
+    "full_name_folded": "vo thi thuy vinh",
+    "dob": "28/09/1985",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghi Thuận, huyện Nghi Lộc, tỉnh Nghệ An",
+    "current_residence": "Phòng 903, Chung cư Glory, số 99, đường An Dương Vương, phường Trường Thi, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-125",
+    "list_order": 5,
+    "party_member_since": "Không",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-125",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 4,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 4",
+    "name_folded": "don vi bau cu so 4",
+    "description": "Thành phố Vinh, Huyện Thanh Chương, Huyện Nam Đàn, Huyện Hưng Nguyên",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 4: Gồm thành phố Vinh và các huyện: Thanh Chương, Nam Đàn, Hưng Nguyên. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hưng Nguyên",
+        "name_folded": "huyen hung nguyen"
+      },
+      {
+        "name_vi": "Huyện Nam Đàn",
+        "name_folded": "huyen nam dan"
+      },
+      {
+        "name_vi": "Huyện Thanh Chương",
+        "name_folded": "huyen thanh chuong"
+      },
+      {
+        "name_vi": "Thành phố Vinh",
+        "name_folded": "thanh pho vinh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Cử nhân"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "-"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành kế toán"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Lao động hợp đồng, Trung tâm Thông tin Khoa học công nghệ và Tin học Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Trung tâm Thông tin Khoa học công nghệ và Tin học Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

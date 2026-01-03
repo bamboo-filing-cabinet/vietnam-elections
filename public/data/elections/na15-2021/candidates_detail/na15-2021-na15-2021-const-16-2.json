@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-16-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-dcb8052b8bd0",
+    "full_name": "Nguyễn Thị Minh Hồng",
+    "full_name_folded": "nguyen thi minh hong",
+    "dob": "02/12/1971",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Ba Trinh, huyện Kế Sách, tỉnh Sóc Trăng",
+    "current_residence": "Số 146/37/29A, Vũ Tùng, khu phố 2, tổ dân phố 41, phường 2, quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-16",
+    "list_order": 2,
+    "party_member_since": "09/02/2007",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-16",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 6,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 6",
+    "name_folded": "don vi bau cu so 6",
+    "description": "Quận Bình Tân",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 6: Gồm quận Bình Tân. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Bình Tân",
+        "name_folded": "quan binh tan"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiến sĩ văn học - tiếng Trung; Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (Trung văn); Tiến sĩ chuyên ngành văn học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Đảng ủy Khối Đại học, Cao đẳng Thành phố Hồ Chí Minh; Bí thư Đảng ủy Trường Đại học Sư phạm Thành phố Hồ Chí Minh; Chủ tịch Hội đồng Trường Đại học Sư phạm Thành phố Hồ Chí Minh"
+    },
+    {
+      "key": "workplace",
+      "value": "Trường Đại học Sư phạm Thành phố Hồ Chí Minh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

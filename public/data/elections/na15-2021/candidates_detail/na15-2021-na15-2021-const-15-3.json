@@ -1,0 +1,81 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-15-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c177d746f733",
+    "full_name": "Nguyễn Văn Kính",
+    "full_name_folded": "nguyen van kinh",
+    "dob": "02/9/1959",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Giao Yến, huyện Giao Thủy, tỉnh Nam Định",
+    "current_residence": "Nhà số 4, ngách 42A, ngõ 132 Cầu Giấy, tổ 16, phường Quan Hoa, quận Cầu Giấy, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-15",
+    "list_order": 3,
+    "party_member_since": "18/5/2001",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-15",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 5,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 5",
+    "name_folded": "don vi bau cu so 5",
+    "description": "Quận Tân Bình, Quận Tân Phú",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 5: Gồm các quận: Tân Bình và quận Tân Phú. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận Tân Bình",
+        "name_folded": "quan tan binh"
+      },
+      {
+        "name_vi": "Quận Tân Phú",
+        "name_folded": "quan tan phu"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "10/10"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C, tiếng Pháp C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Tiến sĩ chuyên ngành y học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bác sĩ, chuyên gia cao cấp Bệnh viện Nhiệt đới Trung ương; Chủ tịch Hội Truyền nhiễm Việt Nam; Ủy viên Thường vụ Tổng hội Y học Việt Nam; Ủy viên Hội đồng Trung ương Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam"
+    },
+    {
+      "key": "workplace",
+      "value": "Bệnh viện Nhiệt đới Trung ương"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

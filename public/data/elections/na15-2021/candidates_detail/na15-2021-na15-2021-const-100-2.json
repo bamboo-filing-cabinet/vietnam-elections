@@ -1,0 +1,77 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-100-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-208bd12753cd",
+    "full_name": "Lê Thị Hồng Minh",
+    "full_name_folded": "le thi hong minh",
+    "dob": "16/6/1968",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Tịnh Sơn, huyện Sơn Tịnh, tỉnh Quảng Ngãi",
+    "current_residence": "Số 36, đường V1, Tổ dân phố 4 Phước Toàn Tây, phường Phước Hải, thành phố Nha Trang, tỉnh Khánh Hòa"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-100",
+    "list_order": 2,
+    "party_member_since": "26/12/1998",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-5848ab52cec3",
+    "name_vi": "Tỉnh Khánh Hòa",
+    "name_folded": "khanh hoa",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-100",
+    "locality_id": "loc-5848ab52cec3",
+    "unit_number": 2,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Thành phố Nha Trang",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Khánh Hoà Đơn vị bầu cử Số 2: Gồm thành phố Nha Trang. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Thành phố Nha Trang",
+        "name_folded": "thanh pho nha trang"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ; Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tổng Giám đốc Công ty Cổ phần Nhà ga Quốc tế Cam Ranh; Ủy viên Ban chấp hành Hiệp hội du lịch Nha Trang - Khánh Hòa"
+    },
+    {
+      "key": "workplace",
+      "value": "Công ty Cổ phần Nhà ga Quốc tế Cam Ranh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-12-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-b099d979ecd9",
+    "full_name": "Đỗ Đức Hiển",
+    "full_name_folded": "do duc hien",
+    "dob": "14/9/1977",
+    "gender": "Nam",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồng Thái, huyện Kiến Xương, tỉnh Thái Bình",
+    "current_residence": "Căn hộ số N4A12, Nhà số 4, dự án Nhà ở để bán, Tổ dân phố 1, phường Mỹ Đình 2, quận Nam Từ Liêm, thành phố Hà Nội"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-12",
+    "list_order": 1,
+    "party_member_since": "27/10/2005",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-517d5f5880b7",
+    "name_vi": "TP. Hồ Chí Minh",
+    "name_folded": "ho chi minh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-12",
+    "locality_id": "loc-517d5f5880b7",
+    "unit_number": 2,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 2",
+    "name_folded": "don vi bau cu so 2",
+    "description": "Quận 1, Quận 3, Quận Bình Thạnh",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Thành phố Hồ Chí Minh Đơn vị bầu cử Số 2: Gồm các quận: Quận 1, Quận 3 và quận Bình Thạnh. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Quận 1",
+        "name_folded": "quan 1"
+      },
+      {
+        "name_vi": "Quận 3",
+        "name_folded": "quan 3"
+      },
+      {
+        "name_vi": "Quận Bình Thạnh",
+        "name_folded": "quan binh thanh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Cử nhân tiếng Anh"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành ngoại ngữ (tiếng Anh); Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Chấp hành Đảng bộ Bộ Tư pháp, Bí thư Chi bộ, Vụ trưởng Vụ Pháp luật hình sự - Hành chính, Bộ Tư pháp"
+    },
+    {
+      "key": "workplace",
+      "value": "Vụ Pháp luật hình sự - Hành chính, Bộ Tư pháp"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

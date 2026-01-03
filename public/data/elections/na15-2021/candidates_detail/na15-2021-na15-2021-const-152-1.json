@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-152-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-0106d446b05a",
+    "full_name": "Hoàng Thị Đôi",
+    "full_name_folded": "hoang thi doi",
+    "dob": "04/6/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Lào",
+    "religion": "Không",
+    "birthplace": "Xã Mường Lạn, huyện Sốp Cộp, tỉnh Sơn La",
+    "current_residence": "Tổ 13, phường Quyết Thắng, thành phố Sơn La, tỉnh Sơn La"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-152",
+    "list_order": 1,
+    "party_member_since": "31/12/2004",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Huyện Sông Mã nhiệm kỳ 2004-2011, 2011-2016, 2016-2021; Tỉnh Sơn La nhiệm kỳ 2011-2016, 2016-2021"
+  },
+  "locality": {
+    "id": "loc-4556d945d193",
+    "name_vi": "Tỉnh Sơn La",
+    "name_folded": "son la",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-152",
+    "locality_id": "loc-4556d945d193",
+    "unit_number": 1,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Thành phố Sơn La, Huyện Thuận Châu, Huyện Mai Sơn, Huyện Yên Châu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Sơn La Đơn vị bầu cử Số 1: Gồm thành phố Sơn La và các huyện: Thuận Châu, Mai Sơn, Yên Châu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Mai Sơn",
+        "name_folded": "huyen mai son"
+      },
+      {
+        "name_vi": "Huyện Thuận Châu",
+        "name_folded": "huyen thuan chau"
+      },
+      {
+        "name_vi": "Huyện Yên Châu",
+        "name_folded": "huyen yen chau"
+      },
+      {
+        "name_vi": "Thành phố Sơn La",
+        "name_folded": "thanh pho son la"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh C"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành sư phạm ngữ văn; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Tỉnh ủy viên, Bí thư Đảng đoàn Hội Liên hiệp Phụ nữ tỉnh, Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Sơn La"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Sơn La"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

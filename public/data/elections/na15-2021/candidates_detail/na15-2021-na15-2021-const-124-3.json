@@ -1,0 +1,85 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-124-3",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-91c319eafe70",
+    "full_name": "Lê Thị Thanh Hải",
+    "full_name_folded": "le thi thanh hai",
+    "dob": "06/12/1978",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Nghi Long, huyện Nghi Lộc, tỉnh Nghệ An",
+    "current_residence": "Số 16, ngõ 6, đường Phan Cảnh Quang, khối 10, phường Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-124",
+    "list_order": 3,
+    "party_member_since": "15/10/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-124",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 3,
+    "seat_count": 3,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hoàng Mai, Huyện Yên Thành, Huyện Quỳnh Lưu",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 3: Gồm thị xã Hoàng Mai và các huyện: Yên Thành, Quỳnh Lưu. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Quỳnh Lưu",
+        "name_folded": "huyen quynh luu"
+      },
+      {
+        "name_vi": "Huyện Yên Thành",
+        "name_folded": "huyen yen thanh"
+      },
+      {
+        "name_vi": "Thị xã Hoàng Mai",
+        "name_folded": "thi xa hoang mai"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành xã hội học; Thạc sĩ chuyên ngành chính trị học"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Ủy viên Ban Thường vụ, Trưởng ban Hỗ trợ phụ nữ phát triển kinh tế, Hội Liên hiệp Phụ nữ tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Liên hiệp Phụ nữ tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

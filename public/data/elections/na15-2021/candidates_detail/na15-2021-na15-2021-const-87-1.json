@@ -1,0 +1,89 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-87-1",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-8dbb28136d91",
+    "full_name": "Nguyễn Thị Dung",
+    "full_name_folded": "nguyen thi dung",
+    "dob": "20/6/1984",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Sơn Hồng, huyện Hương Sơn, tỉnh Hà Tĩnh",
+    "current_residence": "Số 15, ngõ 56, đường Nguyễn Trãi, tổ dân phố 3, thị trấn Phố Châu, huyện Hương Sơn, tỉnh Hà Tĩnh"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-87",
+    "list_order": 1,
+    "party_member_since": "28/11/2009",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Không"
+  },
+  "locality": {
+    "id": "loc-f02d773bd5d9",
+    "name_vi": "Tỉnh Hà Tĩnh",
+    "name_folded": "ha tinh",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-87",
+    "locality_id": "loc-f02d773bd5d9",
+    "unit_number": 3,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 3",
+    "name_folded": "don vi bau cu so 3",
+    "description": "Thị xã Hồng Lĩnh, Huyện Đức Thọ, Huyện Hương Sơn, Huyện Vũ Quang",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Hà Tĩnh Đơn vị bầu cử Số 3: Gồm thị xã Hồng Lĩnh và các huyện: Đức Thọ, Hương Sơn, Vũ Quang. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Hương Sơn",
+        "name_folded": "huyen huong son"
+      },
+      {
+        "name_vi": "Huyện Vũ Quang",
+        "name_folded": "huyen vu quang"
+      },
+      {
+        "name_vi": "Huyện Đức Thọ",
+        "name_folded": "huyen duc tho"
+      },
+      {
+        "name_vi": "Thị xã Hồng Lĩnh",
+        "name_folded": "thi xa hong linh"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B1"
+    },
+    {
+      "key": "education_political",
+      "value": "Trung cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Thạc sĩ chuyên ngành luật"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Phó Bí thư Chi bộ, Phó Chánh án Tòa án nhân dân huyện Hương Sơn, tỉnh Hà Tĩnh"
+    },
+    {
+      "key": "workplace",
+      "value": "Tòa án nhân dân huyện Hương Sơn, tỉnh Hà Tĩnh"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}

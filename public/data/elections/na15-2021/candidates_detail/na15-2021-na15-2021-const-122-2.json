@@ -1,0 +1,93 @@
+{
+  "entry_id": "na15-2021-na15-2021-const-122-2",
+  "cycle_id": "na15-2021",
+  "person": {
+    "id": "person-c7ae086d1905",
+    "full_name": "Nguyễn Lương Hồng",
+    "full_name_folded": "nguyen luong hong",
+    "dob": "06/09/1977",
+    "gender": "Nữ",
+    "nationality": "Việt Nam",
+    "ethnicity": "Kinh",
+    "religion": "Không",
+    "birthplace": "Xã Hồng Long, huyện Nam Đàn, tỉnh Nghệ An",
+    "current_residence": "Khối Yên Hòa, phường Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An"
+  },
+  "entry": {
+    "constituency_id": "na15-2021-const-122",
+    "list_order": 2,
+    "party_member_since": "03/12/2003",
+    "is_na_delegate": "Không",
+    "is_council_delegate": "Tỉnh Nghệ An nhiệm kỳ 2016-2021"
+  },
+  "locality": {
+    "id": "loc-944fe32b4028",
+    "name_vi": "Tỉnh Nghệ An",
+    "name_folded": "nghe an",
+    "type": "province_or_city"
+  },
+  "constituency": {
+    "id": "na15-2021-const-122",
+    "locality_id": "loc-944fe32b4028",
+    "unit_number": 1,
+    "seat_count": 2,
+    "name_vi": "Đơn vị bầu cử số 1",
+    "name_folded": "don vi bau cu so 1",
+    "description": "Huyện Kỳ Sơn, Huyện Tương Dương, Huyện Con Cuông, Huyện Anh Sơn, Huyện Đô Lương",
+    "unit_context_raw": "UBBC Tỉnh/Thành phố: Nghệ An Đơn vị bầu cử Số 1: Gồm các huyện: Kỳ Sơn, Tương Dương, Con Cuông, Anh Sơn và Đô Lương. Số đại biểu Quốc hội được bầu: 2 người. Số người ứng cử: 4 người.",
+    "districts": [
+      {
+        "name_vi": "Huyện Anh Sơn",
+        "name_folded": "huyen anh son"
+      },
+      {
+        "name_vi": "Huyện Con Cuông",
+        "name_folded": "huyen con cuong"
+      },
+      {
+        "name_vi": "Huyện Kỳ Sơn",
+        "name_folded": "huyen ky son"
+      },
+      {
+        "name_vi": "Huyện Tương Dương",
+        "name_folded": "huyen tuong duong"
+      },
+      {
+        "name_vi": "Huyện Đô Lương",
+        "name_folded": "huyen do luong"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "key": "education_academic_rank",
+      "value": "Thạc sĩ"
+    },
+    {
+      "key": "education_general",
+      "value": "12/12"
+    },
+    {
+      "key": "education_languages",
+      "value": "Tiếng Anh B"
+    },
+    {
+      "key": "education_political",
+      "value": "Cao cấp"
+    },
+    {
+      "key": "education_professional",
+      "value": "Đại học chuyên ngành quản trị kinh doanh; Thạc sĩ chuyên ngành quản lý kinh tế"
+    },
+    {
+      "key": "occupation_title",
+      "value": "Bí thư Chi bộ, Chủ tịch Hội Chữ thập đỏ tỉnh Nghệ An"
+    },
+    {
+      "key": "workplace",
+      "value": "Hội Chữ thập đỏ tỉnh Nghệ An"
+    }
+  ],
+  "sources": [],
+  "changelog": []
+}
