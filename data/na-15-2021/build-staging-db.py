@@ -22,6 +22,7 @@ def fold_text(value: str) -> str:
     if value is None:
         return ""
     text = value.strip().lower()
+    text = text.replace("đ", "d")
     text = unicodedata.normalize("NFD", text)
     text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
     text = re.sub(r"[^a-z0-9\s]+", " ", text)
