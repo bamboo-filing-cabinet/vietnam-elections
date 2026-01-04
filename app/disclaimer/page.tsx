@@ -5,8 +5,8 @@ export default function DisclaimerPage() {
         <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">Disclaimer</p>
         <h1 className="mt-3 text-3xl font-semibold text-zinc-900">Neutral, sourced directory</h1>
         <p className="mt-3 max-w-2xl text-sm text-zinc-600">
-          Vietnam Elections Data is an informational directory based on official sources.
-          It does not provide endorsements, rankings, or commentary.
+          Vietnam Elections is an informational directory based on official sources. It
+          does not provide endorsements, rankings, or commentary.
         </p>
         <p className="mt-3 max-w-2xl text-sm text-zinc-500">
           Du lieu mang tinh thong tin, khong co nhan xet hay xep hang.

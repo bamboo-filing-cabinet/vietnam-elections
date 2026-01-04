@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vietnam Elections Data",
+  title: "Vietnam Elections",
   description: "A static, sourced directory of official Vietnam election candidates.",
 };
 
@@ -37,10 +37,10 @@ export default function RootLayout({
             <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-5">
               <div className="flex items-center gap-3">
                 <div className="flex h-10 w-10 items-center justify-center rounded-full bg-zinc-900 text-xs font-semibold tracking-[0.2em] text-white shadow-sm">
-                  VED
+                  VE
                 </div>
                 <div>
-                  <p className="text-lg font-semibold leading-tight">Vietnam Elections Data</p>
+                  <p className="text-lg font-semibold leading-tight">Vietnam Elections</p>
                   <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Static directory</p>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function RootLayout({
           </main>
           <footer className="border-t border-zinc-200/80 bg-white/70">
             <div className="mx-auto w-full max-w-6xl px-6 py-8 text-xs text-zinc-500">
-              <p>Vietnam Elections Data is a static, source-linked directory. No endorsements or commentary.</p>
+              <p>Vietnam Elections is a static, source-linked directory. No endorsements or commentary.</p>
               <div className="mt-3 flex flex-wrap gap-4 text-[11px] uppercase tracking-[0.2em] text-zinc-400">
                 <Link className="hover:text-zinc-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/privacy">
                   Privacy

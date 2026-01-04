@@ -5,8 +5,8 @@ export default function MethodologyPage() {
         <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">Methodology</p>
         <h1 className="mt-3 text-3xl font-semibold text-zinc-900">How this directory is built</h1>
         <p className="mt-3 max-w-2xl text-sm text-zinc-600">
-          Vietnam Elections Data is a static directory derived from official sources.
-          It is not a news product and does not add commentary or rankings.
+          Vietnam Elections is a static directory derived from official sources. It is
+          not a news product and does not add commentary or rankings.
         </p>
         <p className="mt-3 max-w-2xl text-sm text-zinc-500">
           Du lieu duoc tong hop tu tai lieu chinh thuc, khong binh luan hay xep hang.

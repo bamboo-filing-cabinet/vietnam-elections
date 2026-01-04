@@ -4,7 +4,7 @@ export default function Home() {
       <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-8 shadow-sm">
         <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">Coming soon</p>
         <h1 className="mt-4 text-3xl font-semibold leading-tight text-zinc-900">
-          Vietnam Elections Data
+          Vietnam Elections
         </h1>
         <p className="mt-3 max-w-2xl text-base leading-7 text-zinc-600">
           A static, source-linked directory of official candidate information for Vietnam
