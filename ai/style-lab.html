@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Style Lab - Vietnam Elections</title>
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --ink: #1f1f1f;
+      --muted: #6e6a66;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+      color: var(--ink);
+      background: var(--bg);
+    }
+    .page {
+      padding: 32px 20px 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 36px;
+      margin: 0 0 12px;
+      letter-spacing: 0.5px;
+    }
+    p { margin: 0 0 18px; color: var(--muted); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+    }
+
+    .panel {
+      border: 2px solid #202020;
+      background: #fff;
+      padding: 18px;
+      border-radius: 12px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .panel h2 {
+      margin: 0 0 10px;
+      font-size: 20px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .swatches {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 8px;
+      margin: 10px 0 16px;
+    }
+
+    .swatch {
+      height: 48px;
+      border-radius: 8px;
+      border: 1px solid rgba(0,0,0,0.15);
+    }
+
+    .chip {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-right: 6px;
+    }
+
+    .sample {
+      border: 1px solid rgba(0,0,0,0.1);
+      border-radius: 10px;
+      padding: 12px;
+      margin-top: 10px;
+    }
+
+    .stat {
+      font-size: 28px;
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 8px;
+      font-size: 13px;
+    }
+
+    .table th, .table td {
+      border-bottom: 1px solid rgba(0,0,0,0.1);
+      text-align: left;
+      padding: 6px 4px;
+    }
+
+    .bars {
+      display: grid;
+      gap: 6px;
+      margin-top: 8px;
+    }
+
+    .bar {
+      height: 10px;
+      border-radius: 6px;
+      background: #ddd;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .bar > span {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+    }
+
+    .footer {
+      margin-top: 26px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Style Lab: Vietnam Elections</h1>
+    <p>Six palette directions with quick UI samples (headline, chips, cards, table, chart).</p>
+
+    <div class="grid">
+      <section class="panel" style="--p:#7a0d1b; --s:#1c2a44; --a:#e2b446; --n1:#f4efe6; --n2:#2b2b2b;">
+        <h2>Option A - Editorial Civic</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--p);">68.4%</p>
+          <p style="margin: 0;">Turnout in the Mekong Delta</p>
+          <table class="table">
+            <thead>
+              <tr><th>Province</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Can Tho</td><td>71%</td></tr>
+              <tr><td>Soc Trang</td><td>64%</td></tr>
+              <tr><td>Tra Vinh</td><td>69%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 70%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 55%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 40%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#8f2e2a; --s:#1f4a3a; --a:#d1a64f; --n1:#f1e6d6; --n2:#1b1a17;">
+        <h2>Option B - Archival Ink</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--s);">52.1%</p>
+          <p style="margin: 0;">Urban vs Rural split</p>
+          <table class="table">
+            <thead>
+              <tr><th>Region</th><th>Share</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Urban</td><td>52%</td></tr>
+              <tr><td>Rural</td><td>48%</td></tr>
+              <tr><td>Remote</td><td>34%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 52%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 48%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 34%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#e0432c; --s:#0a6b6b; --a:#f0a72b; --n1:#f3f0ea; --n2:#232323;">
+        <h2>Option C - Modern Signal</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--p);">84.9%</p>
+          <p style="margin: 0;">Youth participation trend</p>
+          <table class="table">
+            <thead>
+              <tr><th>Age</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>18-24</td><td>85%</td></tr>
+              <tr><td>25-34</td><td>79%</td></tr>
+              <tr><td>35-44</td><td>73%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 85%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 79%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 73%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#7a0d1b; --s:#1c2a44; --a:#1f8a70; --n1:#f4efe6; --n2:#2b2b2b;">
+        <h2>Option D - Red + Jade</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #fff;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--p);">61.2%</p>
+          <p style="margin: 0;">Coastal provinces turnout</p>
+          <table class="table">
+            <thead>
+              <tr><th>Province</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Da Nang</td><td>63%</td></tr>
+              <tr><td>Quang Nam</td><td>59%</td></tr>
+              <tr><td>Binh Dinh</td><td>62%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 63%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 59%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 62%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#8b2f2a; --s:#1f4a3a; --a:#22304a; --n1:#efe7db; --n2:#1b1a17;">
+        <h2>Option E - Forest + Brick</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #fff;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--s);">47.5%</p>
+          <p style="margin: 0;">Highlands turnout trend</p>
+          <table class="table">
+            <thead>
+              <tr><th>Province</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Gia Lai</td><td>49%</td></tr>
+              <tr><td>Kon Tum</td><td>46%</td></tr>
+              <tr><td>Lam Dong</td><td>48%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 49%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 46%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 48%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#9c1220; --s:#1b2b4f; --a:#1f8a70; --n1:#f1efe9; --n2:#1d1d1d;">
+        <h2>Option F - Cool Editorial + Jade</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--p);">73.0%</p>
+          <p style="margin: 0;">Northern provinces turnout</p>
+          <table class="table">
+            <thead>
+              <tr><th>Province</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Ha Noi</td><td>74%</td></tr>
+              <tr><td>Hai Phong</td><td>71%</td></tr>
+              <tr><td>Quang Ninh</td><td>73%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 74%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 71%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 73%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#9c1220; --s:#1b2b4f; --a:#f2c230; --n1:#f1efe9; --n2:#1d1d1d;">
+        <h2>Option G - Cool Editorial + Yellow + Jade</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+          <span class="chip" style="background: #1f8a70; color: #fff;">Jade</span>
+        </div>
+        <div class="sample" style="background: var(--n1);">
+          <p class="stat" style="color: var(--p);">73.0%</p>
+          <p style="margin: 0;">Northern provinces turnout</p>
+          <table class="table">
+            <thead>
+              <tr><th>Province</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Ha Noi</td><td>74%</td></tr>
+              <tr><td>Hai Phong</td><td>71%</td></tr>
+              <tr><td>Quang Ninh</td><td>73%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 74%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 71%; background: #1f8a70;"></span></div>
+            <div class="bar"><span style="width: 73%; background: var(--a);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#c8102e; --s:#7a0d1b; --a:#ffd100; --n1:#fff6d6; --n2:#1a0d0f;">
+        <h2>Option H - Socialist Propaganda</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1); border: 2px solid var(--p);">
+          <p class="stat" style="color: var(--p);">91.0%</p>
+          <p style="margin: 0; text-transform: uppercase; letter-spacing: 0.6px;">Nationwide turnout</p>
+          <table class="table">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Red River</td><td>92%</td></tr>
+              <tr><td>Central</td><td>90%</td></tr>
+              <tr><td>Southern</td><td>89%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 92%; background: var(--a);"></span></div>
+            <div class="bar"><span style="width: 90%; background: var(--p);"></span></div>
+            <div class="bar"><span style="width: 89%; background: var(--s);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#da251d; --s:#b21f1f; --a:#ffde00; --n1:#fff3cc; --n2:#201312;">
+        <h2>Option I - Vietnam Flag + Bamboo</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+          <span class="chip" style="background: #2f6f3a; color: #fff;">Bamboo</span>
+        </div>
+        <div class="sample" style="background: var(--n1); border: 2px solid var(--p);">
+          <p class="stat" style="color: var(--p);">88.6%</p>
+          <p style="margin: 0; text-transform: uppercase; letter-spacing: 0.6px;">National summary</p>
+          <table class="table">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>90%</td></tr>
+              <tr><td>Central</td><td>87%</td></tr>
+              <tr><td>South</td><td>88%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 90%; background: var(--a);"></span></div>
+            <div class="bar"><span style="width: 87%; background: #2f6f3a;"></span></div>
+            <div class="bar"><span style="width: 88%; background: var(--s);"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" style="--p:#da251d; --s:#a51717; --a:#ffde00; --n1:#fff3cc; --n2:#240f10;">
+        <h2>Option J - Vietnam Flag Only</h2>
+        <div class="swatches">
+          <div class="swatch" style="background: var(--p)"></div>
+          <div class="swatch" style="background: var(--s)"></div>
+          <div class="swatch" style="background: var(--a)"></div>
+          <div class="swatch" style="background: var(--n1)"></div>
+          <div class="swatch" style="background: var(--n2)"></div>
+        </div>
+        <div>
+          <span class="chip" style="background: var(--p); color: #fff;">Primary</span>
+          <span class="chip" style="background: var(--s); color: #fff;">Secondary</span>
+          <span class="chip" style="background: var(--a); color: #1a1a1a;">Accent</span>
+        </div>
+        <div class="sample" style="background: var(--n1); border: 2px solid var(--p);">
+          <p class="stat" style="color: var(--p);">86.2%</p>
+          <p style="margin: 0; text-transform: uppercase; letter-spacing: 0.6px;">National summary</p>
+          <table class="table">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>88%</td></tr>
+              <tr><td>Central</td><td>85%</td></tr>
+              <tr><td>South</td><td>86%</td></tr>
+            </tbody>
+          </table>
+          <div class="bars">
+            <div class="bar"><span style="width: 88%; background: var(--a);"></span></div>
+            <div class="bar"><span style="width: 85%; background: var(--s);"></span></div>
+            <div class="bar"><span style="width: 86%; background: var(--p);"></span></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div class="footer">
+      Note: This is a static mock. Typography and layout are placeholders for direction only.
+    </div>
+  </div>
+</body>
+</html>

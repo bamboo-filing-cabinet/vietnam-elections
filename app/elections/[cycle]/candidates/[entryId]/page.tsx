@@ -182,91 +182,91 @@ export default async function CandidateDetailPage({
       <CycleNav cycle={cycle} />
       <Link
         href={`/elections/${cycle}/candidates`}
-        className="text-xs uppercase tracking-[0.2em] text-zinc-400 hover:text-zinc-600"
+        className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
       >
         Back to candidates
       </Link>
 
-      <section className="rounded-3xl border border-zinc-200/80 bg-white/90 p-8 shadow-[0_20px_60px_-45px_rgba(15,23,42,0.25)]">
-        <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">{cycle}</p>
-        <h1 className="mt-4 text-3xl font-semibold text-zinc-900">
+      <section className="rounded-3xl border-2 border-[var(--border)] border-t-4 border-t-[var(--flag-red)] bg-[var(--surface)] p-8 shadow-[0_20px_60px_-45px_rgba(218,37,29,0.35)]">
+        <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">{cycle}</p>
+        <h1 className="mt-4 text-3xl font-semibold text-[var(--ink)]">
           {payload.person.full_name}
         </h1>
-        <p className="mt-2 text-sm text-zinc-600">
+        <p className="mt-2 text-sm text-[var(--ink-muted)]">
           {payload.locality?.name_vi ?? "Unknown locality"} ·{" "}
           {payload.constituency?.name_vi ?? "Unknown constituency"}
         </p>
         <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <div className="rounded-xl border border-zinc-200/80 bg-white p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">List order</p>
-            <p className="mt-2 text-sm font-semibold text-zinc-900">
+          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">List order</p>
+            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
               {payload.entry.list_order ?? "—"}
             </p>
           </div>
-          <div className="rounded-xl border border-zinc-200/80 bg-white p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Last updated</p>
-            <p className="mt-2 text-sm font-semibold text-zinc-900">
+          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Last updated</p>
+            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
               {latestFetchedDate(payload.sources)}
             </p>
           </div>
-          <div className="rounded-xl border border-zinc-200/80 bg-white p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Date of birth</p>
-            <p className="mt-2 text-sm font-semibold text-zinc-900">
+          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Date of birth</p>
+            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
               {payload.person.dob ?? "—"}
             </p>
           </div>
         </div>
       </section>
 
-      <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-zinc-900">Profile</h2>
-        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-zinc-400">
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Profile</h2>
+        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
           Hồ sơ ứng cử viên
         </p>
-        <div className="mt-4 grid gap-3 text-sm text-zinc-600 sm:grid-cols-2">
+        <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Gender</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Gender</span>
             <p className="mt-1">{payload.person.gender ?? "—"}</p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Nationality</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Nationality</span>
             <p className="mt-1">{payload.person.nationality ?? "—"}</p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Ethnicity</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Ethnicity</span>
             <p className="mt-1">{payload.person.ethnicity ?? "—"}</p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Religion</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Religion</span>
             <p className="mt-1">{payload.person.religion ?? "—"}</p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Birthplace</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Birthplace</span>
             <p className="mt-1">{payload.person.birthplace ?? "—"}</p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Residence</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Residence</span>
             <p className="mt-1">{payload.person.current_residence ?? "—"}</p>
           </div>
         </div>
       </section>
 
       {payload.attributes.length > 0 && (
-        <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-zinc-900">Attributes</h2>
-          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-zinc-400">
+        <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+          <h2 className="text-lg font-semibold text-[var(--ink)]">Attributes</h2>
+          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
             Thông tin bổ sung
           </p>
-          <p className="mt-3 text-xs text-zinc-500">
+          <p className="mt-3 text-xs text-[var(--ink-muted)]">
             Note: General education uses the Vietnamese grade system (12/12 = completed
             high school; 10/10 = older system).
           </p>
-          <div className="mt-4 grid gap-3 text-sm text-zinc-600 sm:grid-cols-2">
+          <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
             {payload.attributes.map((attr) => {
               const label = ATTRIBUTE_LABELS[attr.key];
               return (
                 <div key={attr.key}>
-                  <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">
+                  <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
                     {label ? `${label.en} · ${label.vi}` : attr.key.replace(/_/g, " ")}
                   </span>
                   <p className="mt-1">{attr.value || "—"}</p>
@@ -277,12 +277,12 @@ export default async function CandidateDetailPage({
         </section>
       )}
 
-      <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-zinc-900">Sources</h2>
-        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-zinc-400">
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Sources</h2>
+        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
           Nguồn tài liệu
         </p>
-        <p className="mt-2 text-sm text-zinc-600">
+        <p className="mt-2 text-sm text-[var(--ink-muted)]">
           Each field is tied to an official document. Links below reference the source
           documents used for this entry.
         </p>
@@ -290,31 +290,31 @@ export default async function CandidateDetailPage({
           {groupSources(payload.sources).map((group) => (
             <div
               key={group.title}
-              className="rounded-2xl border border-zinc-200/80 bg-white px-4 py-3 text-sm text-zinc-600"
+              className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]"
             >
               <div className="flex flex-col gap-1">
-                <span className="font-semibold text-zinc-900">{group.title}</span>
-                <span className="text-xs text-zinc-500">
+                <span className="font-semibold text-[var(--ink)]">{group.title}</span>
+                <span className="text-xs text-[var(--ink-muted)]">
                   Fields: {group.items.map((item) => item.field).join(", ")}
                 </span>
               </div>
               {group.items[0]?.url && (
                 <a
-                  className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-zinc-400 hover:text-zinc-600"
+                  className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
                   href={group.items[0].url}
                 >
                   Open source
                 </a>
               )}
               {group.items[0]?.fetched_date && (
-                <div className="mt-2 text-xs text-zinc-500">
+                <div className="mt-2 text-xs text-[var(--ink-muted)]">
                   Fetched: {formatDate(group.items[0].fetched_date)}
                 </div>
               )}
             </div>
           ))}
           {payload.sources.length === 0 && (
-            <p className="text-sm text-zinc-500">No sources listed yet.</p>
+            <p className="text-sm text-[var(--ink-muted)]">No sources listed yet.</p>
           )}
         </div>
       </section>

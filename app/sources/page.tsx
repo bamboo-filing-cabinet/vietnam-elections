@@ -50,30 +50,30 @@ export default async function SourcesPage() {
 
   return (
     <div className="grid gap-6">
-      <section className="rounded-3xl border border-zinc-200/80 bg-white/90 p-8 shadow-[0_20px_60px_-45px_rgba(15,23,42,0.25)]">
-        <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">Sources</p>
-        <h1 className="mt-3 text-3xl font-semibold text-zinc-900">Official documents</h1>
-        <p className="mt-3 max-w-2xl text-sm text-zinc-600">
+      <section className="rounded-3xl border-2 border-[var(--border)] border-t-4 border-t-[var(--flag-red)] bg-[var(--surface)] p-8 shadow-[0_20px_60px_-45px_rgba(218,37,29,0.35)]">
+        <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">Sources</p>
+        <h1 className="mt-3 text-3xl font-semibold text-[var(--ink)]">Official documents</h1>
+        <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
           Every factual field is tied to a published source. This registry lists the
           baseline documents used for the 2021 cycle.
         </p>
-        <p className="mt-3 max-w-2xl text-sm text-zinc-500">
+        <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
           Tất cả thông tin đều có nguồn. Danh sách bên dưới là tài liệu cơ bản.
         </p>
       </section>
 
-      <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-zinc-900">National Assembly 15 (2021)</h2>
-        <div className="mt-4 grid gap-3 text-sm text-zinc-600">
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">National Assembly 15 (2021)</h2>
+        <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
           {records.map((doc) => (
-            <div key={doc.id} className="rounded-2xl border border-zinc-200/80 bg-white px-4 py-3">
-              <p className="font-semibold text-zinc-900">{doc.title}</p>
-              <p className="mt-1 text-xs text-zinc-500">
+            <div key={doc.id} className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3">
+              <p className="font-semibold text-[var(--ink)]">{doc.title}</p>
+              <p className="mt-1 text-xs text-[var(--ink-muted)]">
                 Fetched: {formatDate(doc.fetched_date)}
               </p>
               {doc.url && (
                 <a
-                  className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-zinc-400 hover:text-zinc-600"
+                  className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
                   href={doc.url}
                 >
                   Open source
@@ -82,7 +82,7 @@ export default async function SourcesPage() {
             </div>
           ))}
           {records.length === 0 && (
-            <p className="text-sm text-zinc-500">No documents published yet.</p>
+            <p className="text-sm text-[var(--ink-muted)]">No documents published yet.</p>
           )}
         </div>
       </section>

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Typography Lab - Vietnam Elections</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Serif:wght@400;600;700&family=Literata:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:wght@400;600;700&family=Work+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fff3cc;
+      --ink: #240f10;
+      --muted: #6b5356;
+      --red: #da251d;
+      --yellow: #ffde00;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    }
+    .page {
+      padding: 28px 20px 60px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    h1 { margin: 0 0 8px; font-size: 34px; }
+    p { margin: 0 0 16px; color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+      margin-top: 18px;
+    }
+    .panel {
+      background: #fff;
+      border: 2px solid var(--ink);
+      border-radius: 12px;
+      padding: 18px;
+    }
+    .label {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 6px;
+      background: var(--red);
+      color: #fff;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 8px;
+    }
+    .sample h2 { margin: 0 0 6px; font-size: 28px; }
+    .sample h3 { margin: 12px 0 4px; font-size: 20px; }
+    .sample p { margin: 0 0 10px; }
+    .lead { font-size: 16px; line-height: 26px; }
+    .caption { font-size: 12px; line-height: 18px; text-transform: uppercase; letter-spacing: 0.6px; }
+    .stat { font-size: 34px; font-weight: 700; color: var(--red); margin: 10px 0; }
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 8px;
+      font-size: 13px;
+    }
+    .table th, .table td {
+      border-bottom: 1px solid rgba(0,0,0,0.12);
+      text-align: left;
+      padding: 6px 4px;
+    }
+    .note { font-size: 12px; color: var(--muted); margin-top: 22px; }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Typography Lab: Vietnam Flag Theme</h1>
+    <p>Four pairings. This page loads Google Fonts so differences are visible, plus a system default option.</p>
+
+    <div class="grid">
+      <section class="panel" style="--head:'Source Serif 4', 'Source Serif Pro', Georgia, serif; --body:'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;">
+        <span class="label">Pairing A</span>
+        <div class="sample" style="font-family: var(--body);">
+          <h2 style="font-family: var(--head);">Election Participation Patterns</h2>
+          <p class="lead">A clear serif headline paired with a neutral sans body for data‑heavy pages.</p>
+          <h3 style="font-family: var(--head);">National Snapshot</h3>
+          <p>Turnout varies by region, with the Red River Delta showing sustained engagement.</p>
+          <div class="stat" style="font-variant-numeric: tabular-nums;">86.2%</div>
+          <div class="caption">Overall turnout</div>
+          <table class="table" style="font-variant-numeric: tabular-nums;">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>88%</td></tr>
+              <tr><td>Central</td><td>85%</td></tr>
+              <tr><td>South</td><td>86%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel" style="--head:'IBM Plex Serif', 'Georgia', serif; --body:'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;">
+        <span class="label">Pairing B</span>
+        <div class="sample" style="font-family: var(--body);">
+          <h2 style="font-family: var(--head);">Election Participation Patterns</h2>
+          <p class="lead">Plex adds civic weight with a slightly technical tone.</p>
+          <h3 style="font-family: var(--head);">National Snapshot</h3>
+          <p>Turnout varies by region, with the Red River Delta showing sustained engagement.</p>
+          <div class="stat" style="font-variant-numeric: tabular-nums;">86.2%</div>
+          <div class="caption">Overall turnout</div>
+          <table class="table" style="font-variant-numeric: tabular-nums;">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>88%</td></tr>
+              <tr><td>Central</td><td>85%</td></tr>
+              <tr><td>South</td><td>86%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel" style="--head:'Literata', 'Georgia', serif; --body:'Work Sans', 'Helvetica Neue', Arial, sans-serif;">
+        <span class="label">Pairing C</span>
+        <div class="sample" style="font-family: var(--body);">
+          <h2 style="font-family: var(--head);">Election Participation Patterns</h2>
+          <p class="lead">Literata brings a literary feel while Work Sans keeps it clean.</p>
+          <h3 style="font-family: var(--head);">National Snapshot</h3>
+          <p>Turnout varies by region, with the Red River Delta showing sustained engagement.</p>
+          <div class="stat" style="font-variant-numeric: tabular-nums;">86.2%</div>
+          <div class="caption">Overall turnout</div>
+          <table class="table" style="font-variant-numeric: tabular-nums;">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>88%</td></tr>
+              <tr><td>Central</td><td>85%</td></tr>
+              <tr><td>South</td><td>86%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel" style="--head: 'Georgia', 'Times New Roman', serif; --body: system-ui, -apple-system, 'Segoe UI', sans-serif;">
+        <span class="label">Pairing D (System Default)</span>
+        <div class="sample" style="font-family: var(--body);">
+          <h2 style="font-family: var(--head);">Election Participation Patterns</h2>
+          <p class="lead">A clean, familiar default stack. Simple and fast.</p>
+          <h3 style="font-family: var(--head);">National Snapshot</h3>
+          <p>Turnout varies by region, with the Red River Delta showing sustained engagement.</p>
+          <div class="stat" style="font-variant-numeric: tabular-nums;">86.2%</div>
+          <div class="caption">Overall turnout</div>
+          <table class="table" style="font-variant-numeric: tabular-nums;">
+            <thead>
+              <tr><th>Region</th><th>Turnout</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>North</td><td>88%</td></tr>
+              <tr><td>Central</td><td>85%</td></tr>
+              <tr><td>South</td><td>86%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <div class="note">
+      Note: This is a static mock. Use real font files/Google Fonts in the app to match the intended look.
+    </div>
+  </div>
+</body>
+</html>

@@ -70,37 +70,37 @@ export default async function ElectionOverviewPage({
   return (
     <div className="grid gap-8">
       <CycleNav cycle={cycle} />
-      <section className="rounded-3xl border border-zinc-200/80 bg-white/90 p-8 shadow-[0_20px_60px_-45px_rgba(15,23,42,0.25)]">
+      <section className="rounded-3xl border-2 border-[var(--border)] border-t-4 border-t-[var(--flag-red)] bg-[var(--surface)] p-8 shadow-[0_20px_60px_-45px_rgba(218,37,29,0.35)]">
         {timeline && candidates ? (
           <>
-            <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">
+            <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">
               {timeline.cycle.year}
             </p>
-            <h1 className="mt-3 text-3xl font-semibold text-zinc-900">
+            <h1 className="mt-3 text-3xl font-semibold text-[var(--ink)]">
               {timeline.cycle.name}
             </h1>
-            <p className="mt-3 max-w-2xl text-sm text-zinc-600">
+            <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
               Official candidate directory and constituency references for this election cycle.
             </p>
-            <p className="mt-3 max-w-2xl text-sm text-zinc-500">
+            <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
               Thư mục ứng cử viên và tài liệu đơn vị bầu cử cho kỳ bầu cử này.
             </p>
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
-              <div className="rounded-2xl border border-zinc-200/80 bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Candidates</p>
-                <p className="mt-2 text-2xl font-semibold text-zinc-900">
+              <div className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Candidates</p>
+                <p className="mt-2 text-2xl font-semibold text-[var(--ink)]">
                   {candidates.records.length.toLocaleString()}
                 </p>
               </div>
-              <div className="rounded-2xl border border-zinc-200/80 bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Generated</p>
-                <p className="mt-2 text-sm font-semibold text-zinc-900">
+              <div className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Generated</p>
+                <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
                   {new Date(candidates.generated_at).toLocaleDateString("en-US")}
                 </p>
               </div>
-              <div className="rounded-2xl border border-zinc-200/80 bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Cycle ID</p>
-                <p className="mt-2 text-sm font-semibold text-zinc-900">
+              <div className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Cycle ID</p>
+                <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
                   {timeline.cycle.id}
                 </p>
               </div>
@@ -108,57 +108,57 @@ export default async function ElectionOverviewPage({
           </>
         ) : (
           <>
-            <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">Coming soon</p>
-            <h1 className="mt-3 text-3xl font-semibold text-zinc-900">
+            <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">Coming soon</p>
+            <h1 className="mt-3 text-3xl font-semibold text-[var(--ink)]">
               {cycle === "na16-2026"
                 ? "16th National Assembly (2026)"
                 : "Election cycle"}
             </h1>
-            <p className="mt-3 max-w-2xl text-sm text-zinc-600">
+            <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
               Official datasets for this cycle are not yet available. This page will
               publish the directory when sources are added.
             </p>
-            <p className="mt-3 max-w-2xl text-sm text-zinc-500">
+            <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
               Dữ liệu chưa sẵn sàng. Trang này sẽ cập nhật khi có tài liệu.
             </p>
           </>
         )}
       </section>
 
-      <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-zinc-900">Explore</h2>
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Explore</h2>
         <div className="mt-4 grid gap-4 md:grid-cols-2">
           {candidates ? (
             <Link
               href={`/elections/${cycle}/candidates`}
-              className="rounded-2xl border border-zinc-200/80 bg-white p-5 transition hover:-translate-y-1 hover:border-zinc-300 hover:shadow-md"
+              className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-5 transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
             >
-              <p className="text-sm font-semibold text-zinc-900">Candidate directory</p>
-              <p className="mt-2 text-xs text-zinc-500">
+              <p className="text-sm font-semibold text-[var(--ink)]">Candidate directory</p>
+              <p className="mt-2 text-xs text-[var(--ink-muted)]">
                 Search and filter official entries.
               </p>
             </Link>
           ) : (
-            <div className="rounded-2xl border border-dashed border-zinc-300 bg-zinc-50 p-5 text-xs text-zinc-500">
+            <div className="rounded-2xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-5 text-xs text-[var(--ink-muted)]">
               Candidate directory will appear when data is published.
             </div>
           )}
           {candidates ? (
             <Link
               href={`/elections/${cycle}/constituencies`}
-              className="rounded-2xl border border-zinc-200/80 bg-white p-5 transition hover:-translate-y-1 hover:border-zinc-300 hover:shadow-md"
+              className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-5 transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
             >
-              <p className="text-sm font-semibold text-zinc-900">Constituencies</p>
-              <p className="mt-2 text-xs text-zinc-500">
+              <p className="text-sm font-semibold text-[var(--ink)]">Constituencies</p>
+              <p className="mt-2 text-xs text-[var(--ink-muted)]">
                 View units, seats, and district coverage.
               </p>
             </Link>
           ) : (
-            <div className="rounded-2xl border border-dashed border-zinc-300 bg-zinc-50 p-5 text-xs text-zinc-500">
+            <div className="rounded-2xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-5 text-xs text-[var(--ink-muted)]">
               Constituencies will appear when data is published.
             </div>
           )}
-          <div className="rounded-xl border border-dashed border-zinc-300 bg-zinc-50 p-5 text-xs text-zinc-500">
+          <div className="rounded-xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-5 text-xs text-[var(--ink-muted)]">
             Documents and timeline pages will appear here.
           </div>
         </div>
