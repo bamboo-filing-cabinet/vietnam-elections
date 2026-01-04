@@ -20,6 +20,8 @@ DOCUMENT_FETCHED_DATE = "2026-01-02"
 DOC_URL_CANDIDATE_LIST = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
 DOC_URL_CONGRESSIONAL_UNITS = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
 DOC_URL_DOCX_LIST = "https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm"
+DOC_PATH_CANDIDATE_PDF = "data/na-15-2021/candidates-list/candidates-list-vietnamese.pdf"
+DOC_PATH_CONGRESSIONAL_UNITS = "data/na-15-2021/congressional-units.pdf"
 
 
 def fold_text(value: str) -> str:
@@ -207,14 +209,14 @@ def load_documents(conn: sqlite3.Connection) -> None:
         {
             "title": "Candidate list (PDF)",
             "url": DOC_URL_CANDIDATE_LIST,
-            "file_path": "data/na-15-2021/candidates-list/candidates-list-vietnamese.pdf",
+            "file_path": DOC_PATH_CANDIDATE_PDF,
             "doc_type": "pdf",
             "fetched_date": DOCUMENT_FETCHED_DATE,
         },
         {
             "title": "Congressional units (PDF)",
             "url": DOC_URL_CONGRESSIONAL_UNITS,
-            "file_path": "data/na-15-2021/congressional-units.pdf",
+            "file_path": DOC_PATH_CONGRESSIONAL_UNITS,
             "doc_type": "pdf",
             "fetched_date": DOCUMENT_FETCHED_DATE,
         },
@@ -247,6 +249,29 @@ def load_documents(conn: sqlite3.Connection) -> None:
                 doc["file_path"],
                 doc["doc_type"],
                 doc["fetched_date"],
+            ),
+        )
+
+
+def add_candidate_sources(conn: sqlite3.Connection) -> None:
+    document_id = make_id("doc-", f"pdf|{DOC_PATH_CANDIDATE_PDF}")
+    candidate_rows = conn.execute("SELECT id FROM candidate_entry").fetchall()
+    for (entry_id,) in candidate_rows:
+        source_id = make_id(
+            "source-", f"candidate_entry|{entry_id}|candidate_list|{DOC_URL_CANDIDATE_LIST}"
+        )
+        conn.execute(
+            """
+            INSERT INTO source (id, document_id, record_type, record_id, field, url)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (
+                source_id,
+                document_id,
+                "candidate_entry",
+                entry_id,
+                "candidate_list",
+                DOC_URL_CANDIDATE_LIST,
             ),
         )
 
@@ -484,6 +509,7 @@ def main() -> None:
         load_documents(conn)
         maps = load_congressional_units(conn)
         load_candidates(conn, maps["locality_key_map"], maps["constituency_map"])
+        add_candidate_sources(conn)
         conn.commit()
     finally:
         conn.close()

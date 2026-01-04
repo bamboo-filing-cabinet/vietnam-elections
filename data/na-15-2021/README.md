@@ -9,6 +9,7 @@
 
 ## Data Pipeline
 - Build the staging database: `python3 data/na-15-2021/build-staging-db.py` (creates `data/na-15-2021/staging.db`)
+- Run QA checks: `python3 data/na-15-2021/qa-checks.py`
 - Export JSON for the site: `python3 data/na-15-2021/export-json.py` (writes to `public/data/elections/na15-2021/`)
 
 ## Outputs

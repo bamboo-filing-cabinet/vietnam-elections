@@ -213,6 +213,37 @@ def export_cycle(conn: sqlite3.Connection) -> None:
             ).fetchall()
         ]
 
+        sources = [
+            {
+                "field": src["field"],
+                "document_id": src["document_id"],
+                "title": src["title"],
+                "url": src["url"] or src["document_url"],
+                "doc_type": src["doc_type"],
+                "published_date": src["published_date"],
+                "fetched_date": src["fetched_date"],
+                "notes": src["notes"],
+            }
+            for src in conn.execute(
+                """
+                SELECT s.field,
+                       s.document_id,
+                       s.url,
+                       s.notes,
+                       d.title,
+                       d.url AS document_url,
+                       d.doc_type,
+                       d.published_date,
+                       d.fetched_date
+                FROM source s
+                JOIN document d ON d.id = s.document_id
+                WHERE s.record_type = 'candidate_entry' AND s.record_id = ?
+                ORDER BY s.field, d.title
+                """,
+                (row["entry_id"],),
+            ).fetchall()
+        ]
+
         detail_payload = {
             "entry_id": row["entry_id"],
             "cycle_id": cycle_id,
@@ -238,7 +269,7 @@ def export_cycle(conn: sqlite3.Connection) -> None:
             "locality": locality,
             "constituency": constituency,
             "attributes": attributes,
-            "sources": [],
+            "sources": sources,
             "changelog": changelog,
         }
 

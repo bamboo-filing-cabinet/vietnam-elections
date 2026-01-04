@@ -22,8 +22,8 @@
 - [x] Implement export script from `data/na-15-2021/staging.db` to `public/data/`
 - [x] Add folded fields for search (accent-insensitive)
 - [x] JSON exports generated in `public/data/elections/na15-2021/`
-- [ ] Add QA checks for staging (missing sources, broken FKs, duplicates, missing key fields)
-- [ ] Wire exports into `npm run build` or a separate `npm run data:build`
+- [x] Add QA checks for staging (missing sources, broken FKs, duplicates, missing key fields)
+- [x] Wire exports into `npm run build` or a separate `npm run data:build`
 
 ### Phase 3 — Single-cycle MVP Pages (2021)
 - [ ] Elections overview page for cycle `na-15-2021`
@@ -58,3 +58,4 @@
 - Export destination: `public/data/`.
 - Search index fields: name + locality + constituency (folded).
 - Current exports have empty `sources` arrays and `changelog` entries; citations + diffs still need plumbing.
+- Baseline citations now point to the official candidate list PDF for each candidate entry.

@@ -84,6 +84,17 @@
       "value": "Tỉnh ủy Yên Bái"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "field": "candidate_list",
+      "document_id": "doc-2e1a7beb59c9",
+      "title": "Candidate list (PDF)",
+      "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+      "doc_type": "pdf",
+      "published_date": null,
+      "fetched_date": "2026-01-02",
+      "notes": null
+    }
+  ],
   "changelog": []
 }
