@@ -7,6 +7,11 @@ const cycles = [
     description:
       "Official candidate lists and constituencies for the 2021 National Assembly election.",
   },
+  {
+    id: "na16-2026",
+    name: "16th National Assembly (2026)",
+    description: "Coming soon. Dataset and sources are not yet available.",
+  },
 ];
 
 export default function ElectionsPage() {

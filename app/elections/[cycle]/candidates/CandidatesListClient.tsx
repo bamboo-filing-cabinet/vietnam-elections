@@ -76,6 +76,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
         : "";
   const activeCycle = cycle || routeCycle;
   const [payload, setPayload] = useState<CandidatesIndexPayload | null>(null);
+  const [loadError, setLoadError] = useState(false);
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const [sortBy, setSortBy] = useState("list");
@@ -89,15 +90,22 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
     let active = true;
     const url = `${basePath}/data/elections/${activeCycle}/candidates_index.json`;
     fetch(url)
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error("Failed to load data");
+        }
+        return res.json();
+      })
       .then((data: CandidatesIndexPayload) => {
         if (active) {
           setPayload(data);
+          setLoadError(false);
         }
       })
       .catch(() => {
         if (active) {
           setPayload(null);
+          setLoadError(true);
         }
       });
     return () => {
@@ -292,8 +300,13 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
       </section>
 
       <section className="rounded-2xl border border-zinc-200/80 bg-white/90 p-6 shadow-sm">
-        {!payload && (
+        {!payload && !loadError && (
           <p className="text-sm text-zinc-500">Loading candidate directory...</p>
+        )}
+        {loadError && (
+          <p className="text-sm text-zinc-500">
+            Candidate data is not yet available for this cycle.
+          </p>
         )}
         {payload && (
           <div className="grid gap-3">
