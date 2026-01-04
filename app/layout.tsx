@@ -26,6 +26,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:fixed focus:left-6 focus:top-6 focus:z-50 focus:rounded-full focus:bg-zinc-900 focus:px-4 focus:py-2 focus:text-xs focus:uppercase focus:tracking-[0.2em] focus:text-white"
+        >
+          Skip to content
+        </a>
         <div className="min-h-screen bg-[radial-gradient(circle_at_top,_#f3f0e8_0%,_#f7f6f2_40%,_#ffffff_100%)] text-zinc-900">
           <header className="border-b border-zinc-200/80 bg-white/70 backdrop-blur">
             <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-5">
@@ -39,36 +45,38 @@ export default function RootLayout({
                 </div>
               </div>
               <nav className="hidden items-center gap-5 text-sm font-medium text-zinc-600 md:flex">
-                <Link className="hover:text-zinc-900" href="/">
+                <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/">
                   Home
                 </Link>
-                <Link className="hover:text-zinc-900" href="/elections">
+                <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/elections">
                   Elections
                 </Link>
-                <Link className="hover:text-zinc-900" href="/methodology">
+                <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/methodology">
                   Methodology
                 </Link>
-                <Link className="hover:text-zinc-900" href="/sources">
+                <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/sources">
                   Sources
                 </Link>
-                <Link className="hover:text-zinc-900" href="/disclaimer">
+                <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/disclaimer">
                   Disclaimer
                 </Link>
               </nav>
             </div>
           </header>
-          <main className="mx-auto w-full max-w-6xl px-6 py-12">{children}</main>
+          <main id="main-content" className="mx-auto w-full max-w-6xl px-6 py-12">
+            {children}
+          </main>
           <footer className="border-t border-zinc-200/80 bg-white/70">
             <div className="mx-auto w-full max-w-6xl px-6 py-8 text-xs text-zinc-500">
               <p>Vietnam Elections Data is a static, source-linked directory. No endorsements or commentary.</p>
               <div className="mt-3 flex flex-wrap gap-4 text-[11px] uppercase tracking-[0.2em] text-zinc-400">
-                <Link className="hover:text-zinc-600" href="/privacy">
+                <Link className="hover:text-zinc-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/privacy">
                   Privacy
                 </Link>
-                <Link className="hover:text-zinc-600" href="/terms">
+                <Link className="hover:text-zinc-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/terms">
                   Terms
                 </Link>
-                <Link className="hover:text-zinc-600" href="/changelog">
+                <Link className="hover:text-zinc-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/changelog">
                   Changelog
                 </Link>
               </div>

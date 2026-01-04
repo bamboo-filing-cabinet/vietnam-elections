@@ -49,7 +49,7 @@
 - [x] Sources registry page
 - [x] Changelog page
 - [x] Disclaimer, privacy, terms pages
-- [ ] Accessibility + performance pass
+- [x] Accessibility + performance pass
 
 ### Phase 6 — Optional People Pages (Cross-cycle)
 - [ ] Define stable `person_id` strategy

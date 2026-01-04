@@ -233,6 +233,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
             <input
               className="w-full text-sm focus:outline-none"
               placeholder="Search name, locality, constituency"
+              aria-label="Search candidates"
               value={query}
               onChange={(event) => setQuery(event.target.value)}
             />
@@ -250,6 +251,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
             <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Locality</span>
             <select
               className="bg-transparent text-sm text-zinc-700 focus:outline-none"
+              aria-label="Filter by locality"
               value={selectedLocality}
               onChange={(event) => setSelectedLocality(event.target.value)}
             >
@@ -265,6 +267,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
             <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Constituency</span>
             <select
               className="bg-transparent text-sm text-zinc-700 focus:outline-none"
+              aria-label="Filter by constituency"
               value={selectedConstituency}
               onChange={(event) => setSelectedConstituency(event.target.value)}
             >
@@ -280,6 +283,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
             <span className="text-xs uppercase tracking-[0.2em] text-zinc-400">Sort</span>
             <select
               className="bg-transparent text-sm text-zinc-700 focus:outline-none"
+              aria-label="Sort candidates"
               value={sortBy}
               onChange={(event) => setSortBy(event.target.value)}
             >
