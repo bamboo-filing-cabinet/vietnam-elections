@@ -213,10 +213,6 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
       .map(([value, label]) => ({ value, label }));
   }, [payload, selectedLocality]);
 
-  useEffect(() => {
-    setSelectedConstituency("all");
-  }, [selectedLocality]);
-
   return (
     <div className="grid gap-6 stagger">
       <section className="rounded-3xl border-2 border-[var(--border)] border-t-4 border-t-[var(--flag-red)] bg-[var(--surface)] p-6 shadow-[0_20px_60px_-45px_rgba(218,37,29,0.35)]">
@@ -255,7 +251,11 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
               className="bg-transparent text-sm text-[var(--ink)] focus:outline-none"
               aria-label="Filter by locality"
               value={selectedLocality}
-              onChange={(event) => setSelectedLocality(event.target.value)}
+              onChange={(event) => {
+                const value = event.target.value;
+                setSelectedLocality(value);
+                setSelectedConstituency("all");
+              }}
             >
               <option value="all">All</option>
               {localityOptions.map((option) => (

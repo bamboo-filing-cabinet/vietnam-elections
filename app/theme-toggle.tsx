@@ -24,13 +24,11 @@ const applyTheme = (mode: ThemeMode) => {
 };
 
 export default function ThemeToggle() {
-  const [mode, setMode] = useState<ThemeMode>("light");
+  const [mode, setMode] = useState<ThemeMode>(() => getPreferredTheme());
 
   useEffect(() => {
-    const initial = getPreferredTheme();
-    setMode(initial);
-    applyTheme(initial);
-  }, []);
+    applyTheme(mode);
+  }, [mode]);
 
   const nextMode: ThemeMode = mode === "light" ? "dark" : "light";
 
