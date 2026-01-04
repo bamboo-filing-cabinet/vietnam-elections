@@ -1,4 +1,5 @@
 import { defineConfig, globalIgnores } from "eslint/config";
+import nextPlugin from "@next/eslint-plugin-next";
 import nextVitals from "eslint-config-next/core-web-vitals";
 import nextTs from "eslint-config-next/typescript";
 
@@ -6,6 +7,9 @@ const eslintConfig = defineConfig([
   ...nextVitals,
   ...nextTs,
   {
+    plugins: {
+      next: nextPlugin,
+    },
     rules: {
       "next/no-html-link-for-pages": ["error", "app"],
     },
