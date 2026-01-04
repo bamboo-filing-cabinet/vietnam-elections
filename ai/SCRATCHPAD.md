@@ -45,10 +45,10 @@
 - [x] Add stub cycle entry for `na16-2026` (no dataset yet)
 
 ### Phase 5 — Policy + Hardening
-- [ ] Methodology page
-- [ ] Sources registry page
-- [ ] Changelog page
-- [ ] Disclaimer, privacy, terms pages
+- [x] Methodology page
+- [x] Sources registry page
+- [x] Changelog page
+- [x] Disclaimer, privacy, terms pages
 - [ ] Accessibility + performance pass
 
 ### Phase 6 — Optional People Pages (Cross-cycle)

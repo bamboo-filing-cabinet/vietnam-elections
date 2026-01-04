@@ -61,6 +61,17 @@ export default function RootLayout({
           <footer className="border-t border-zinc-200/80 bg-white/70">
             <div className="mx-auto w-full max-w-6xl px-6 py-8 text-xs text-zinc-500">
               <p>Vietnam Elections Data is a static, source-linked directory. No endorsements or commentary.</p>
+              <div className="mt-3 flex flex-wrap gap-4 text-[11px] uppercase tracking-[0.2em] text-zinc-400">
+                <Link className="hover:text-zinc-600" href="/privacy">
+                  Privacy
+                </Link>
+                <Link className="hover:text-zinc-600" href="/terms">
+                  Terms
+                </Link>
+                <Link className="hover:text-zinc-600" href="/changelog">
+                  Changelog
+                </Link>
+              </div>
             </div>
           </footer>
         </div>
