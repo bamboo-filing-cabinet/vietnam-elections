@@ -36,15 +36,15 @@ export default function RootLayout({
         <div className="min-h-screen bg-[radial-gradient(circle_at_top,_#f3f0e8_0%,_#f7f6f2_40%,_#ffffff_100%)] text-zinc-900">
           <header className="border-b border-zinc-200/80 bg-white/70 backdrop-blur">
             <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-5">
-              <div className="flex items-center gap-3">
+              <Link className="flex items-center gap-3" href="/">
                 <div className="flex h-10 w-10 items-center justify-center rounded-full bg-zinc-900 text-xs font-semibold tracking-[0.2em] text-white shadow-sm">
                   VE
                 </div>
                 <div>
                   <p className="text-lg font-semibold leading-tight">Vietnam Elections</p>
-                  <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Static directory</p>
+                  <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Open Data Vietnam</p>
                 </div>
-              </div>
+              </Link>
               <nav className="hidden items-center gap-5 text-sm font-medium text-zinc-600 md:flex">
                 <Link className="hover:text-zinc-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900/30" href="/">
                   Home
