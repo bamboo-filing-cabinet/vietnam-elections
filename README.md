@@ -1,49 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vietnam Elections Candidate Directory
+
+Static, source-linked directory of official Vietnam election candidates. Built as a Next.js App Router site with a build-time data pipeline (SQLite staging DB -> JSON exports) and deployed to GitHub Pages.
+
+## Goals
+- Encyclopedia-mode presentation: no endorsements, rankings, or user submissions.
+- Every factual field is backed by a source URL and timestamps.
+- Static hosting only; no runtime backend.
+
+## Project Structure
+- `app/`: Next.js App Router pages, layouts, and global styles.
+- `public/data/`: exported JSON used by the UI at runtime.
+- `data/na15-2021/`: raw inputs, staging scripts, and QA checks for NA15-2021.
+- `data/staging.db`: SQLite staging database (build artifact).
 
 ## Getting Started
-
-First, run the development server:
-
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run build
+npx serve@latest out
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open the URL printed by `serve`.
 
 ## Data Pipeline
-- Staging DB lives under `data/staging.db`; raw inputs live in `data/na15-2021/`.
-- Build staging DB: `python3 data/na15-2021/build-staging-db.py`
-- Export JSON for the site: `python3 data/na15-2021/export-json.py`
+Build the staging DB, run QA checks, and export JSON:
+```bash
+npm run data:build
+```
 
-## GitHub Pages Deployment
-- This repo deploys via GitHub Actions to `https://vietthan.github.io/vietnam-elections/`.
+Direct scripts (same as above):
+```bash
+python3 data/na15-2021/build-staging-db.py
+python3 data/na15-2021/qa-checks.py
+python3 data/na15-2021/export-json.py
+```
+
+Exports land in `public/data/elections/na15-2021/`.
+
+## Development Commands
+- `npm run dev`: start the dev server.
+- `npm run build`: production build (static export configured).
+- `npx serve@latest out`: serve the static export locally.
+- `npm run lint`: ESLint.
+
+## Deployment (GitHub Pages)
+- Deploys via GitHub Actions to `https://vietthan.github.io/vietnam-elections/`.
 - Workflow: `.github/workflows/deploy.yml` builds data, runs `next build`, and publishes `out/`.
-- In GitHub repo settings: Pages → Source = GitHub Actions.
+- GitHub repo settings: Pages -> Source = GitHub Actions.
 
-## TODO
-- Add multi-cycle orchestration for `npm run data:build` when more datasets arrive.
+## Data Coverage
+- MVP cycle: NA15-2021 (15th National Assembly).
+- Future cycles: stub routing exists; add datasets as they become available.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Notes
+- All UI copy and data outputs are intended to remain neutral and fully sourced.
+- If you add tests, document the framework and add an `npm run test` script.
