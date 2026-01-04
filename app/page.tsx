@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="grid gap-10">
+    <div className="grid gap-10 stagger">
       <section className="rounded-3xl border-2 border-[var(--border)] border-t-4 border-t-[var(--flag-red)] bg-[var(--surface)] p-8 shadow-[0_20px_60px_-45px_rgba(218,37,29,0.35)]">
         <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">
           Landing

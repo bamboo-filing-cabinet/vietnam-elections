@@ -34,7 +34,11 @@ export default function RootLayout({
         >
           Skip to content
         </a>
-        <div className="min-h-screen bg-[var(--app-bg)] text-[var(--ink)]">
+        <div className="relative min-h-screen overflow-hidden bg-[var(--app-bg)] text-[var(--ink)]">
+          <div className="pointer-events-none absolute inset-0 -z-10">
+            <div className="absolute -right-24 top-[-120px] h-72 w-[70%] rotate-[-4deg] bg-[color:var(--flag-yellow)] opacity-25 blur-3xl" />
+            <div className="absolute -left-24 bottom-[-140px] h-72 w-[70%] rotate-[5deg] bg-[color:var(--flag-red)] opacity-20 blur-3xl" />
+          </div>
           <header className="border-b-4 border-[var(--flag-red)] bg-[var(--surface)]/90 backdrop-blur">
             <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-6 py-5">
               <Link className="flex items-center gap-3" href="/">

@@ -178,7 +178,7 @@ export default async function CandidateDetailPage({
   const payload = await readJson<CandidateDetailPayload>(detailPath);
 
   return (
-    <div className="grid gap-6">
+    <div className="grid gap-6 stagger">
       <CycleNav cycle={cycle} />
       <Link
         href={`/elections/${cycle}/candidates`}
