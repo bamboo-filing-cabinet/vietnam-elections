@@ -15,7 +15,7 @@
 - [x] Candidate list extracted to CSVs (`data/na-15-2021/candidates-list/*.csv`)
 - [x] SQLite staging database exists (`data/na-15-2021/staging.db`)
 - [x] Verify staging schema aligns with plan tables (cycle/locality/constituency/person/entry/source/document)
-- [ ] Document provenance for each dataset in `data/na-15-2021/README.md` (source URL + fetched date)
+- [x] Document provenance for each dataset in `data/na-15-2021/README.md` (source URL + fetched date)
 
 ### Phase 2 — Data Pipeline + JSON Exports (Build-time)
 - [x] Define canonical JSON shapes (candidates index/detail, localities, constituencies, documents, timeline, changelog)

@@ -16,6 +16,10 @@ ELECTION_CYCLE_ID = "na15-2021"
 ELECTION_CYCLE_NAME = "15th National Assembly"
 ELECTION_CYCLE_YEAR = 2021
 ELECTION_CYCLE_TYPE = "national_assembly"
+DOCUMENT_FETCHED_DATE = "2026-01-02"
+DOC_URL_CANDIDATE_LIST = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
+DOC_URL_CONGRESSIONAL_UNITS = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
+DOC_URL_DOCX_LIST = "https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm"
 
 
 def fold_text(value: str) -> str:
@@ -197,6 +201,54 @@ def init_db(conn: sqlite3.Connection) -> None:
         CREATE INDEX IF NOT EXISTS ix_candidate_constituency ON candidate_entry (constituency_id);
         """
     )
+
+def load_documents(conn: sqlite3.Connection) -> None:
+    documents = [
+        {
+            "title": "Candidate list (PDF)",
+            "url": DOC_URL_CANDIDATE_LIST,
+            "file_path": "data/na-15-2021/candidates-list/candidates-list-vietnamese.pdf",
+            "doc_type": "pdf",
+            "fetched_date": DOCUMENT_FETCHED_DATE,
+        },
+        {
+            "title": "Congressional units (PDF)",
+            "url": DOC_URL_CONGRESSIONAL_UNITS,
+            "file_path": "data/na-15-2021/congressional-units.pdf",
+            "doc_type": "pdf",
+            "fetched_date": DOCUMENT_FETCHED_DATE,
+        },
+    ]
+
+    docx_paths = sorted(glob.glob(os.path.join(DATA_DIR, "candidates-list", "*.docx")))
+    for path in docx_paths:
+        filename = os.path.basename(path)
+        documents.append(
+            {
+                "title": f"Candidate list ({filename})",
+                "url": DOC_URL_DOCX_LIST,
+                "file_path": f"data/na-15-2021/candidates-list/{filename}",
+                "doc_type": "docx",
+                "fetched_date": DOCUMENT_FETCHED_DATE,
+            }
+        )
+
+    for doc in documents:
+        doc_id = make_id("doc-", f"{doc['doc_type']}|{doc['file_path']}")
+        conn.execute(
+            """
+            INSERT INTO document (id, title, url, file_path, doc_type, fetched_date)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (
+                doc_id,
+                doc["title"],
+                doc["url"],
+                doc["file_path"],
+                doc["doc_type"],
+                doc["fetched_date"],
+            ),
+        )
 
 
 def load_congressional_units(conn: sqlite3.Connection) -> dict:
@@ -429,6 +481,7 @@ def main() -> None:
             """,
             (ELECTION_CYCLE_ID, ELECTION_CYCLE_NAME, ELECTION_CYCLE_YEAR, ELECTION_CYCLE_TYPE),
         )
+        load_documents(conn)
         maps = load_congressional_units(conn)
         load_candidates(conn, maps["locality_key_map"], maps["constituency_map"])
         conn.commit()

@@ -3,9 +3,9 @@
 1. [15th National Assembly of Vietnam](https://en.wikipedia.org/wiki/15th_National_Assembly_of_Vietnam)
 2. [2021 Vietnamese legislative election](https://en.wikipedia.org/wiki/2021_Vietnamese_legislative_election)
     1. One seat in Bình Dương Province was left vacant after the National Election Council did not confirm the winning candidate was eligible to enter parliament.
-2. File [candidates-list-vietnamese.pdf](./candidates-list/candidates-list-vietnamese.pdf) is taken from [https://www.hcmcpv.org.vn/](https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf)
-3. File [congressional-units.pdf](./congressional-units.pdf) is taken from [https://quochoi.vn/](https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf)
-4. The numbered docx files in [candidates-list/](./candidates-list/) were taken from [https://baochinhphu.vn](https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm):
+2. File [candidates-list-vietnamese.pdf](./candidates-list/candidates-list-vietnamese.pdf) is taken from [https://www.hcmcpv.org.vn/](https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf) (fetched: 2026-01-02)
+3. File [congressional-units.pdf](./congressional-units.pdf) is taken from [https://quochoi.vn/](https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf) (fetched: 2026-01-02)
+4. The numbered docx files in [candidates-list/](./candidates-list/) were taken from [https://baochinhphu.vn](https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm) (fetched: 2026-01-02):
 
 ## Data Pipeline
 - Build the staging database: `python3 data/na-15-2021/build-staging-db.py` (creates `data/na-15-2021/staging.db`)
