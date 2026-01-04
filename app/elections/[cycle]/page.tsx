@@ -24,6 +24,21 @@ type CandidatesIndexPayload = {
   records: Array<{ entry_id: string }>;
 };
 
+type DocumentsPayload = {
+  cycle_id: string;
+  generated_at: string;
+  records: Array<{
+    id: string;
+    title: string;
+    url: string | null;
+    file_path: string | null;
+    doc_type: string | null;
+    published_date: string | null;
+    fetched_date: string | null;
+    notes: string | null;
+  }>;
+};
+
 const SUPPORTED_CYCLES = ["na15-2021", "na16-2026"];
 
 async function readJson<T>(filePath: string): Promise<T> {
@@ -55,6 +70,7 @@ export default async function ElectionOverviewPage({
 
   let timeline: TimelinePayload | null = null;
   let candidates: CandidatesIndexPayload | null = null;
+  let documents: DocumentsPayload | null = null;
   try {
     timeline = await readJson<TimelinePayload>(
       path.join(baseDir, "timeline.json")
@@ -62,10 +78,15 @@ export default async function ElectionOverviewPage({
     candidates = await readJson<CandidatesIndexPayload>(
       path.join(baseDir, "candidates_index.json")
     );
+    documents = await readJson<DocumentsPayload>(
+      path.join(baseDir, "documents.json")
+    );
   } catch {
     timeline = null;
     candidates = null;
+    documents = null;
   }
+  const hasDocuments = (documents?.records.length ?? 0) > 0;
 
   return (
     <div className="grid gap-8 stagger">
@@ -158,9 +179,17 @@ export default async function ElectionOverviewPage({
               Constituencies will appear when data is published.
             </div>
           )}
-          <div className="rounded-xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-5 text-xs text-[var(--ink-muted)]">
-            Documents and timeline pages will appear here.
-          </div>
+          <Link
+            href={`/elections/${cycle}/sources`}
+            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-5 transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
+          >
+            <p className="text-sm font-semibold text-[var(--ink)]">Sources</p>
+            <p className="mt-2 text-xs text-[var(--ink-muted)]">
+              {hasDocuments
+                ? "Browse official documents for this cycle."
+                : "Sources will appear when documents are published."}
+            </p>
+          </Link>
         </div>
       </section>
     </div>
