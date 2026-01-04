@@ -26,11 +26,11 @@
 - [x] Wire exports into `npm run build` or a separate `npm run data:build`
 
 ### Phase 3 — Single-cycle MVP Pages (2021)
-- [ ] Elections overview page for cycle `na-15-2021`
-- [ ] Candidates list page using `candidates_index.json`
-- [ ] Candidate detail page using per-entry JSON
-- [ ] Client-side search/filter (name/locality/constituency)
-- [ ] Sources + last-updated UI on detail pages
+- [x] Elections overview page for cycle `na15-2021`
+- [x] Candidates list page using `candidates_index.json`
+- [x] Candidate detail page using per-entry JSON
+- [x] Client-side search/filter (name/locality/constituency)
+- [x] Sources + last-updated UI on detail pages
 
 ### Phase 4 — Multi-cycle Support
 - [ ] Elections index page listing cycles
