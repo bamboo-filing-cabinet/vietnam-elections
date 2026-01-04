@@ -25,6 +25,11 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - Build staging DB: `python3 data/na15-2021/build-staging-db.py`
 - Export JSON for the site: `python3 data/na15-2021/export-json.py`
 
+## GitHub Pages Deployment
+- This repo deploys via GitHub Actions to `https://vietthan.github.io/vietnam-elections/`.
+- Workflow: `.github/workflows/deploy.yml` builds data, runs `next build`, and publishes `out/`.
+- In GitHub repo settings: Pages → Source = GitHub Actions.
+
 ## TODO
 - Add multi-cycle orchestration for `npm run data:build` when more datasets arrive.
 

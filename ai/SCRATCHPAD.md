@@ -72,6 +72,14 @@
 - [x] 9.2 Replace missing-diacritic text with proper Vietnamese
 - [x] 9.3 Spot-check for consistency and tone
 
+### Phase 10 — GitHub Pages Deployment
+- [x] 10.1 Confirm repo name + Pages settings (root/branch) + desired URL
+- [x] 10.2 Add GitHub Actions workflow for static export + Pages deploy
+- [x] 10.3 Add deployment docs to README (how to publish + env notes)
+
+Notes:
+- Next.js export already configured; basePath/assetPrefix use GITHUB_REPOSITORY.
+
 Notes:
 - Focus on UI annotations and helper text; keep meaning identical.
 
