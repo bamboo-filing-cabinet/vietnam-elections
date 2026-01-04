@@ -35,6 +35,7 @@ python3 data/na15-2021/export-json.py
 ```
 
 Exports land in `public/data/elections/na15-2021/`.
+Commit `public/data/` outputs before deploying; CI does not rebuild data.
 
 ## Development Commands
 - `npm run dev`: start the dev server.
@@ -44,7 +45,7 @@ Exports land in `public/data/elections/na15-2021/`.
 
 ## Deployment (GitHub Pages)
 - Deploys via GitHub Actions to `https://vietthan.github.io/vietnam-elections/`.
-- Workflow: `.github/workflows/deploy.yml` builds data, runs `next build`, and publishes `out/`.
+- Workflow: `.github/workflows/deploy.yml` runs `next build` and publishes `out/` using committed data artifacts.
 - GitHub repo settings: Pages -> Source = GitHub Actions.
 
 ## Data Coverage
