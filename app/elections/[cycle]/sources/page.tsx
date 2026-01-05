@@ -52,6 +52,13 @@ function formatDate(value: string | null): string {
   return parsed.toLocaleDateString("en-US");
 }
 
+function formatDocType(value: string | null): string {
+  if (!value) {
+    return "Unknown";
+  }
+  return value.toUpperCase();
+}
+
 export default async function ElectionSourcesPage({
   params,
 }: {
@@ -85,9 +92,16 @@ export default async function ElectionSourcesPage({
           {records.map((doc) => (
             <div key={doc.id} className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3">
               <p className="font-semibold text-[var(--ink)]">{doc.title}</p>
-              <p className="mt-1 text-xs text-[var(--ink-muted)]">
-                Fetched: {formatDate(doc.fetched_date)}
-              </p>
+              <div className="mt-2 grid gap-1 text-xs text-[var(--ink-muted)] sm:grid-cols-2">
+                <span>Type: {formatDocType(doc.doc_type)}</span>
+                <span>Published: {formatDate(doc.published_date)}</span>
+                <span>Fetched: {formatDate(doc.fetched_date)}</span>
+              </div>
+              {doc.notes && (
+                <p className="mt-2 text-xs text-[var(--ink-muted)]">
+                  Notes: {doc.notes}
+                </p>
+              )}
               {doc.url && (
                 <a
                   className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"

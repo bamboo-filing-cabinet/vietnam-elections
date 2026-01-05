@@ -329,6 +329,7 @@ export default function CandidatesListClient({ cycle }: { cycle?: string }) {
                   <span className="text-xs text-[var(--ink-muted)]">
                     {highlightMatch(record.locality_vi, debouncedQuery)} ·{" "}
                     {highlightMatch(record.constituency_vi, debouncedQuery)}
+                    {record.unit_number ? ` · Unit ${record.unit_number}` : ""}
                   </span>
                 </div>
               </Link>

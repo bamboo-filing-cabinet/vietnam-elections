@@ -46,6 +46,17 @@ async function readJson<T>(filePath: string): Promise<T> {
   return JSON.parse(raw) as T;
 }
 
+function formatDate(value: string | null): string {
+  if (!value) {
+    return "—";
+  }
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) {
+    return value;
+  }
+  return parsed.toLocaleDateString("en-US");
+}
+
 export async function generateStaticParams() {
   return SUPPORTED_CYCLES.map((cycle) => ({ cycle }));
 }
@@ -87,6 +98,9 @@ export default async function ElectionOverviewPage({
     documents = null;
   }
   const hasDocuments = (documents?.records.length ?? 0) > 0;
+  const hasTimelineDetails =
+    !!timeline &&
+    (timeline.cycle.start_date || timeline.cycle.end_date || timeline.cycle.notes);
 
   return (
     <div className="grid gap-8 stagger">
@@ -126,6 +140,31 @@ export default async function ElectionOverviewPage({
                 </p>
               </div>
             </div>
+            {hasTimelineDetails && (
+              <div className="mt-6 rounded-2xl border-2 border-[var(--border)] bg-[var(--surface-muted)] p-4">
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Timeline</p>
+                <div className="mt-3 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-3">
+                  <div>
+                    <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                      Start date
+                    </span>
+                    <p className="mt-1">{formatDate(timeline.cycle.start_date)}</p>
+                  </div>
+                  <div>
+                    <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                      End date
+                    </span>
+                    <p className="mt-1">{formatDate(timeline.cycle.end_date)}</p>
+                  </div>
+                  <div>
+                    <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                      Notes
+                    </span>
+                    <p className="mt-1">{timeline.cycle.notes ?? "—"}</p>
+                  </div>
+                </div>
+              </div>
+            )}
           </>
         ) : (
           <>

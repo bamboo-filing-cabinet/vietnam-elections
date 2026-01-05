@@ -136,6 +136,13 @@ function formatDate(value: string | null): string {
   return parsed.toLocaleDateString("en-US");
 }
 
+function formatDocType(value: string | null): string {
+  if (!value) {
+    return "Unknown";
+  }
+  return value.toUpperCase();
+}
+
 function latestFetchedDate(sources: CandidateDetailPayload["sources"]): string {
   const dates = sources
     .map((source) => source.fetched_date)
@@ -176,6 +183,12 @@ export default async function CandidateDetailPage({
   }
 
   const payload = await readJson<CandidateDetailPayload>(detailPath);
+  const politicalBackground = [
+    { label: "Party member since", value: payload.entry.party_member_since },
+    { label: "National Assembly delegate", value: payload.entry.is_na_delegate },
+    { label: "People's Council delegate", value: payload.entry.is_council_delegate },
+  ];
+  const hasPoliticalBackground = politicalBackground.some((item) => item.value);
 
   return (
     <div className="grid gap-6 stagger">
@@ -235,6 +248,25 @@ export default async function CandidateDetailPage({
         </div>
       </section>
 
+      {hasPoliticalBackground && (
+        <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+          <h2 className="text-lg font-semibold text-[var(--ink)]">Political background</h2>
+          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+            Thông tin chính trị
+          </p>
+          <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
+            {politicalBackground.map((item) => (
+              <div key={item.label}>
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  {item.label}
+                </span>
+                <p className="mt-1">{item.value ?? "—"}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {payload.attributes.length > 0 && (
         <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
           <h2 className="text-lg font-semibold text-[var(--ink)]">Attributes</h2>
@@ -281,6 +313,10 @@ export default async function CandidateDetailPage({
                 <span className="text-xs text-[var(--ink-muted)]">
                   Fields: {group.items.map((item) => item.field).join(", ")}
                 </span>
+                <div className="text-xs text-[var(--ink-muted)]">
+                  Type: {formatDocType(group.items[0]?.doc_type)} · Published:{" "}
+                  {formatDate(group.items[0]?.published_date)}
+                </div>
               </div>
               {group.items[0]?.url && (
                 <a
@@ -295,6 +331,11 @@ export default async function CandidateDetailPage({
                   Fetched: {formatDate(group.items[0].fetched_date)}
                 </div>
               )}
+              {group.items[0]?.notes && (
+                <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                  Notes: {group.items[0].notes}
+                </div>
+              )}
             </div>
           ))}
           {payload.sources.length === 0 && (
@@ -302,6 +343,30 @@ export default async function CandidateDetailPage({
           )}
         </div>
       </section>
+
+      {payload.changelog.length > 0 && (
+        <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+          <h2 className="text-lg font-semibold text-[var(--ink)]">Changelog</h2>
+          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+            Nhật ký thay đổi
+          </p>
+          <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
+            {payload.changelog.map((entry, index) => (
+              <div key={`${entry.changed_at}-${index}`} className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3">
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  {entry.change_type}
+                </p>
+                <p className="mt-1 text-sm font-semibold text-[var(--ink)]">
+                  {formatDate(entry.changed_at)}
+                </p>
+                {entry.summary && (
+                  <p className="mt-1 text-sm text-[var(--ink-muted)]">{entry.summary}</p>
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 text-sm text-[var(--ink-muted)] shadow-sm">
         <h2 className="text-lg font-semibold text-[var(--ink)]">Metadata</h2>

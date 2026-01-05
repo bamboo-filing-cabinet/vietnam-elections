@@ -46,6 +46,7 @@ def write_json(path: str, payload: dict) -> None:
         fh.write("\n")
 
 
+
 def fetch_one(conn: sqlite3.Connection, query: str, params: tuple = ()) -> sqlite3.Row:
     cur = conn.execute(query, params)
     row = cur.fetchone()

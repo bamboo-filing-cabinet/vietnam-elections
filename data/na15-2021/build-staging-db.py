@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import json
 import glob
 import hashlib
 import os
@@ -11,6 +12,7 @@ import unicodedata
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(DATA_DIR)
 DB_PATH = os.path.join(ROOT, "staging.db")
+MANUAL_TIMELINES_PATH = os.path.join(ROOT, "manual", "timelines.json")
 
 ELECTION_CYCLE_ID = "na15-2021"
 ELECTION_CYCLE_NAME = "15th National Assembly"
@@ -203,6 +205,16 @@ def init_db(conn: sqlite3.Connection) -> None:
         CREATE INDEX IF NOT EXISTS ix_candidate_constituency ON candidate_entry (constituency_id);
         """
     )
+
+
+def load_manual_timelines() -> dict:
+    if not os.path.exists(MANUAL_TIMELINES_PATH):
+        return {}
+    with open(MANUAL_TIMELINES_PATH, "r", encoding="utf-8") as fh:
+        payload = json.load(fh)
+    if not isinstance(payload, dict):
+        raise RuntimeError("Manual timelines must be a JSON object keyed by cycle id.")
+    return payload
 
 def load_documents(conn: sqlite3.Connection) -> None:
     documents = [
@@ -509,6 +521,22 @@ def main() -> None:
             """,
             (ELECTION_CYCLE_ID, ELECTION_CYCLE_NAME, ELECTION_CYCLE_YEAR, ELECTION_CYCLE_TYPE),
         )
+        manual_timelines = load_manual_timelines()
+        cycle_override = manual_timelines.get(ELECTION_CYCLE_ID)
+        if cycle_override:
+            conn.execute(
+                """
+                UPDATE election_cycle
+                SET start_date = ?, end_date = ?, notes = ?
+                WHERE id = ?
+                """,
+                (
+                    cycle_override.get("start_date"),
+                    cycle_override.get("end_date"),
+                    cycle_override.get("notes"),
+                    ELECTION_CYCLE_ID,
+                ),
+            )
         load_documents(conn)
         maps = load_congressional_units(conn)
         load_candidates(conn, maps["locality_key_map"], maps["constituency_map"])

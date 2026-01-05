@@ -1,13 +1,13 @@
 {
   "cycle_id": "na15-2021",
-  "generated_at": "2026-01-04T02:35:35Z",
+  "generated_at": "2026-01-05T02:14:06Z",
   "cycle": {
     "id": "na15-2021",
     "name": "15th National Assembly",
     "year": 2021,
     "type": "national_assembly",
-    "start_date": null,
+    "start_date": "2021-05-23",
     "end_date": null,
-    "notes": null
+    "notes": "Election day: 23 May 2021 (Wikipedia). First sitting: 20 Jul 2021 (Wikidata)."
   }
 }
