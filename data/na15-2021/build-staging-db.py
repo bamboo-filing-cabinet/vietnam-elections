@@ -400,6 +400,7 @@ def load_candidates(
                 full_name = get_attr(row, "Họ và tên")
                 dob = get_attr(row, "Ngày tháng năm sinh")
                 birthplace = get_attr(row, "Quê quán")
+                # IDs are deterministic: changes in source fields will change IDs on rebuild.
                 person_key = f"{fold_text(full_name)}|{dob}|{fold_text(birthplace)}"
                 person_id = make_id("person-", person_key)
 
@@ -425,6 +426,7 @@ def load_candidates(
                 )
 
                 list_order = to_int(get_attr(row, "STT"))
+                # Candidate entries are keyed by cycle + constituency + list order (STT).
                 candidate_entry_id = f"{ELECTION_CYCLE_ID}-{constituency_id}-{list_order}"
 
                 conn.execute(
@@ -474,6 +476,7 @@ def load_candidates(
                     value = get_attr(row, source_key)
                     if not value:
                         continue
+                    # Attribute IDs are deterministic per candidate entry + attribute key.
                     attr_id = make_id("attr-", f"{candidate_entry_id}|{attr_key}")
                     conn.execute(
                         """
