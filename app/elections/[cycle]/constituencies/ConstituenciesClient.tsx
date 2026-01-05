@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useParams } from "next/navigation";
+import Link from "next/link";
 
 type District = {
   name_vi: string;
@@ -223,9 +224,10 @@ export default function ConstituenciesClient({ cycle }: { cycle?: string }) {
         {payload && (
           <div className="grid gap-3">
             {sorted.map((record) => (
-              <div
+              <Link
                 key={record.id}
-                className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3"
+                href={`/elections/${activeCycle}/constituencies/${record.id}`}
+                className="block rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 transition hover:border-[var(--flag-red)]"
               >
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <div>
@@ -262,7 +264,7 @@ export default function ConstituenciesClient({ cycle }: { cycle?: string }) {
                     ))}
                   </div>
                 )}
-              </div>
+              </Link>
             ))}
             {sorted.length === 0 && (
               <p className="text-sm text-[var(--ink-muted)]">No matches found.</p>
