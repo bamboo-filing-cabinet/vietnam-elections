@@ -97,6 +97,16 @@ const PROFILE_LABELS: Record<string, { en: string; vi: string }> = {
   current_residence: { en: "Residence", vi: "Nơi ở hiện nay" },
 };
 
+const PROFILE_FIELD_KEYS = [
+  "dob",
+  "gender",
+  "nationality",
+  "ethnicity",
+  "religion",
+  "birthplace",
+  "current_residence",
+] as const;
+
 function groupSources(
   sources: CandidateDetailPayload["sources"]
 ): Array<{ title: string; items: CandidateDetailPayload["sources"] }> {
@@ -208,43 +218,6 @@ export default async function CandidateDetailPage({
     },
   ];
   const hasPoliticalBackground = politicalBackground.some((item) => item.value);
-  const profileFields = [
-    {
-      key: "dob",
-      label: PROFILE_LABELS.dob,
-      value: payload.person.dob,
-    },
-    {
-      key: "gender",
-      label: PROFILE_LABELS.gender,
-      value: payload.person.gender,
-    },
-    {
-      key: "nationality",
-      label: PROFILE_LABELS.nationality,
-      value: payload.person.nationality,
-    },
-    {
-      key: "ethnicity",
-      label: PROFILE_LABELS.ethnicity,
-      value: payload.person.ethnicity,
-    },
-    {
-      key: "religion",
-      label: PROFILE_LABELS.religion,
-      value: payload.person.religion,
-    },
-    {
-      key: "birthplace",
-      label: PROFILE_LABELS.birthplace,
-      value: payload.person.birthplace,
-    },
-    {
-      key: "current_residence",
-      label: PROFILE_LABELS.current_residence,
-      value: payload.person.current_residence,
-    },
-  ];
 
   return (
     <div className="grid gap-6 stagger">
@@ -272,14 +245,18 @@ export default async function CandidateDetailPage({
           Profile · Hồ sơ ứng cử viên
         </h2>
         <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
-          {profileFields.map((field) => (
-            <div key={field.key}>
-              <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-                {field.label.en} · {field.label.vi}
-              </span>
-              <p className="mt-1">{field.value ?? "—"}</p>
-            </div>
-          ))}
+          {PROFILE_FIELD_KEYS.map((key) => {
+            const label = PROFILE_LABELS[key];
+            const value = payload.person[key];
+            return (
+              <div key={key}>
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  {label.en} · {label.vi}
+                </span>
+                <p className="mt-1">{value ?? "—"}</p>
+              </div>
+            );
+          })}
         </div>
       </section>
 
