@@ -87,6 +87,16 @@ const ATTRIBUTE_LABELS: Record<string, { en: string; vi: string }> = {
 
 const SUPPORTED_CYCLES = ["na15-2021"];
 
+const PROFILE_LABELS: Record<string, { en: string; vi: string }> = {
+  dob: { en: "Date of birth", vi: "Ngày tháng năm sinh" },
+  gender: { en: "Gender", vi: "Giới tính" },
+  nationality: { en: "Nationality", vi: "Quốc tịch" },
+  ethnicity: { en: "Ethnicity", vi: "Dân tộc" },
+  religion: { en: "Religion", vi: "Tôn giáo" },
+  birthplace: { en: "Birthplace", vi: "Quê quán" },
+  current_residence: { en: "Residence", vi: "Nơi ở hiện nay" },
+};
+
 function groupSources(
   sources: CandidateDetailPayload["sources"]
 ): Array<{ title: string; items: CandidateDetailPayload["sources"] }> {
@@ -184,11 +194,57 @@ export default async function CandidateDetailPage({
 
   const payload = await readJson<CandidateDetailPayload>(detailPath);
   const politicalBackground = [
-    { label: "Party member since", value: payload.entry.party_member_since },
-    { label: "National Assembly delegate", value: payload.entry.is_na_delegate },
-    { label: "People's Council delegate", value: payload.entry.is_council_delegate },
+    {
+      label: { en: "Party member since", vi: "Ngày vào Đảng" },
+      value: payload.entry.party_member_since,
+    },
+    {
+      label: { en: "National Assembly delegate", vi: "Là đại biểu QH" },
+      value: payload.entry.is_na_delegate,
+    },
+    {
+      label: { en: "People's Council delegate", vi: "Là đại biểu HĐND" },
+      value: payload.entry.is_council_delegate,
+    },
   ];
   const hasPoliticalBackground = politicalBackground.some((item) => item.value);
+  const profileFields = [
+    {
+      key: "dob",
+      label: PROFILE_LABELS.dob,
+      value: payload.person.dob,
+    },
+    {
+      key: "gender",
+      label: PROFILE_LABELS.gender,
+      value: payload.person.gender,
+    },
+    {
+      key: "nationality",
+      label: PROFILE_LABELS.nationality,
+      value: payload.person.nationality,
+    },
+    {
+      key: "ethnicity",
+      label: PROFILE_LABELS.ethnicity,
+      value: payload.person.ethnicity,
+    },
+    {
+      key: "religion",
+      label: PROFILE_LABELS.religion,
+      value: payload.person.religion,
+    },
+    {
+      key: "birthplace",
+      label: PROFILE_LABELS.birthplace,
+      value: payload.person.birthplace,
+    },
+    {
+      key: "current_residence",
+      label: PROFILE_LABELS.current_residence,
+      value: payload.person.current_residence,
+    },
+  ];
 
   return (
     <div className="grid gap-6 stagger">
@@ -212,53 +268,31 @@ export default async function CandidateDetailPage({
       </section>
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-[var(--ink)]">Profile</h2>
-        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-          Hồ sơ ứng cử viên
-        </p>
+        <h2 className="text-lg font-semibold text-[var(--ink)]">
+          Profile · Hồ sơ ứng cử viên
+        </h2>
         <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Date of birth</span>
-            <p className="mt-1">{payload.person.dob ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Gender</span>
-            <p className="mt-1">{payload.person.gender ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Nationality</span>
-            <p className="mt-1">{payload.person.nationality ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Ethnicity</span>
-            <p className="mt-1">{payload.person.ethnicity ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Religion</span>
-            <p className="mt-1">{payload.person.religion ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Birthplace</span>
-            <p className="mt-1">{payload.person.birthplace ?? "—"}</p>
-          </div>
-          <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Residence</span>
-            <p className="mt-1">{payload.person.current_residence ?? "—"}</p>
-          </div>
+          {profileFields.map((field) => (
+            <div key={field.key}>
+              <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                {field.label.en} · {field.label.vi}
+              </span>
+              <p className="mt-1">{field.value ?? "—"}</p>
+            </div>
+          ))}
         </div>
       </section>
 
       {hasPoliticalBackground && (
         <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-[var(--ink)]">Political background</h2>
-          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-            Thông tin chính trị
-          </p>
+          <h2 className="text-lg font-semibold text-[var(--ink)]">
+            Political background · Thông tin chính trị
+          </h2>
           <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
             {politicalBackground.map((item) => (
-              <div key={item.label}>
+              <div key={item.label.en}>
                 <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-                  {item.label}
+                  {item.label.en} · {item.label.vi}
                 </span>
                 <p className="mt-1">{item.value ?? "—"}</p>
               </div>
@@ -269,10 +303,9 @@ export default async function CandidateDetailPage({
 
       {payload.attributes.length > 0 && (
         <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-[var(--ink)]">Attributes</h2>
-          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-            Thông tin bổ sung
-          </p>
+          <h2 className="text-lg font-semibold text-[var(--ink)]">
+            Attributes · Thông tin bổ sung
+          </h2>
           <p className="mt-3 text-xs text-[var(--ink-muted)]">
             Note: General education uses the Vietnamese grade system (12/12 = completed
             high school; 10/10 = older system).
@@ -294,10 +327,9 @@ export default async function CandidateDetailPage({
       )}
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
-        <h2 className="text-lg font-semibold text-[var(--ink)]">Sources</h2>
-        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-          Nguồn tài liệu
-        </p>
+        <h2 className="text-lg font-semibold text-[var(--ink)]">
+          Sources · Nguồn tài liệu
+        </h2>
         <p className="mt-2 text-sm text-[var(--ink-muted)]">
           Each field is tied to an official document. Links below reference the source
           documents used for this entry.
@@ -311,11 +343,11 @@ export default async function CandidateDetailPage({
               <div className="flex flex-col gap-1">
                 <span className="font-semibold text-[var(--ink)]">{group.title}</span>
                 <span className="text-xs text-[var(--ink-muted)]">
-                  Fields: {group.items.map((item) => item.field).join(", ")}
+                  Fields · Trường: {group.items.map((item) => item.field).join(", ")}
                 </span>
                 <div className="text-xs text-[var(--ink-muted)]">
-                  Type: {formatDocType(group.items[0]?.doc_type)} · Published:{" "}
-                  {formatDate(group.items[0]?.published_date)}
+                  Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·
+                  Xuất bản: {formatDate(group.items[0]?.published_date)}
                 </div>
               </div>
               {group.items[0]?.url && (
@@ -328,12 +360,12 @@ export default async function CandidateDetailPage({
               )}
               {group.items[0]?.fetched_date && (
                 <div className="mt-2 text-xs text-[var(--ink-muted)]">
-                  Fetched: {formatDate(group.items[0].fetched_date)}
+                  Fetched · Thu thập: {formatDate(group.items[0].fetched_date)}
                 </div>
               )}
               {group.items[0]?.notes && (
                 <div className="mt-2 text-xs text-[var(--ink-muted)]">
-                  Notes: {group.items[0].notes}
+                  Notes · Ghi chú: {group.items[0].notes}
                 </div>
               )}
             </div>
@@ -346,10 +378,9 @@ export default async function CandidateDetailPage({
 
       {payload.changelog.length > 0 && (
         <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-[var(--ink)]">Changelog</h2>
-          <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-            Nhật ký thay đổi
-          </p>
+          <h2 className="text-lg font-semibold text-[var(--ink)]">
+            Changelog · Nhật ký thay đổi
+          </h2>
           <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
             {payload.changelog.map((entry, index) => (
               <div key={`${entry.changed_at}-${index}`} className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3">
@@ -369,13 +400,14 @@ export default async function CandidateDetailPage({
       )}
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 text-sm text-[var(--ink-muted)] shadow-sm">
-        <h2 className="text-lg font-semibold text-[var(--ink)]">Metadata</h2>
-        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-          Dữ liệu kỹ thuật
-        </p>
+        <h2 className="text-lg font-semibold text-[var(--ink)]">
+          Metadata · Dữ liệu kỹ thuật
+        </h2>
         <div className="mt-4 grid gap-3 sm:grid-cols-2">
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Candidate list order</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+              Candidate list order · STT danh sách
+            </span>
             <p className="mt-1 text-sm font-semibold text-[var(--ink)]">
               {payload.entry.list_order ?? "—"}
             </p>
@@ -384,7 +416,9 @@ export default async function CandidateDetailPage({
             </p>
           </div>
           <div>
-            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Last updated</span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+              Last updated · Cập nhật lần cuối
+            </span>
             <p className="mt-1 text-sm font-semibold text-[var(--ink)]">
               {latestFetchedDate(payload.sources)}
             </p>
