@@ -196,26 +196,6 @@ export default async function CandidateDetailPage({
           {payload.locality?.name_vi ?? "Unknown locality"} ·{" "}
           {payload.constituency?.name_vi ?? "Unknown constituency"}
         </p>
-        <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">List order</p>
-            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
-              {payload.entry.list_order ?? "—"}
-            </p>
-          </div>
-          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Last updated</p>
-            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
-              {latestFetchedDate(payload.sources)}
-            </p>
-          </div>
-          <div className="rounded-xl border-2 border-[var(--border)] bg-[var(--surface)] p-4">
-            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Date of birth</p>
-            <p className="mt-2 text-sm font-semibold text-[var(--ink)]">
-              {payload.person.dob ?? "—"}
-            </p>
-          </div>
-        </div>
       </section>
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
@@ -224,6 +204,10 @@ export default async function CandidateDetailPage({
           Hồ sơ ứng cử viên
         </p>
         <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2">
+          <div>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Date of birth</span>
+            <p className="mt-1">{payload.person.dob ?? "—"}</p>
+          </div>
           <div>
             <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Gender</span>
             <p className="mt-1">{payload.person.gender ?? "—"}</p>
@@ -316,6 +300,30 @@ export default async function CandidateDetailPage({
           {payload.sources.length === 0 && (
             <p className="text-sm text-[var(--ink-muted)]">No sources listed yet.</p>
           )}
+        </div>
+      </section>
+
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 text-sm text-[var(--ink-muted)] shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Metadata</h2>
+        <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+          Dữ liệu kỹ thuật
+        </p>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2">
+          <div>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Candidate list order</span>
+            <p className="mt-1 text-sm font-semibold text-[var(--ink)]">
+              {payload.entry.list_order ?? "—"}
+            </p>
+            <p className="mt-1 text-xs text-[var(--ink-muted)]">
+              Official numbering in the candidates list for that constituency (STT).
+            </p>
+          </div>
+          <div>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Last updated</span>
+            <p className="mt-1 text-sm font-semibold text-[var(--ink)]">
+              {latestFetchedDate(payload.sources)}
+            </p>
+          </div>
         </div>
       </section>
     </div>
