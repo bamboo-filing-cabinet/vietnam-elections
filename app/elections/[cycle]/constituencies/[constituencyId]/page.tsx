@@ -132,6 +132,12 @@ const ATTRIBUTE_COLUMNS = [
   { key: "workplace", label: "Workplace" },
 ] as const;
 
+const COL_CLASSES = {
+  tight: "min-w-[90px] whitespace-nowrap",
+  name: "min-w-[180px] whitespace-nowrap",
+  wide: "min-w-[180px] max-w-[260px] truncate whitespace-nowrap",
+};
+
 function formatText(value: string | null | undefined): string {
   if (!value) {
     return "—";
@@ -270,7 +276,7 @@ export default async function ConstituencyDetailPage({
         )}
       </section>
 
-      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+      <section className="min-w-0 rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
         <h2 className="text-lg font-semibold text-[var(--ink)]">
           Candidates · Ứng cử viên
         </h2>
@@ -283,27 +289,51 @@ export default async function ConstituencyDetailPage({
             No candidates listed for this constituency yet.
           </p>
         ) : (
-          <div className="mt-4 overflow-x-auto">
-            <table className="min-w-[1200px] border-collapse text-left text-sm text-[var(--ink-muted)] tabular-nums">
+          <div className="mt-4 min-w-0">
+            <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em] text-[var(--ink-muted)]">
+              <span>Scroll</span>
+              <span aria-hidden="true">→</span>
+            </div>
+            <div
+              className="mt-2 w-full min-w-0 touch-pan-x overflow-x-auto overscroll-x-contain"
+              style={{ scrollbarGutter: "stable both-edges" }}
+              role="region"
+              aria-label="Scrollable candidate comparison table"
+            >
+              <table className="min-w-full w-max border-collapse text-left text-sm text-[var(--ink-muted)] tabular-nums">
               <caption className="sr-only">
                 Candidate comparison table for {constituency.name_vi}
               </caption>
               <thead className="bg-[var(--surface-muted)] text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
                 <tr>
-                  {ENTRY_COLUMNS.map((column) => (
+                  <th
+                    key={ENTRY_COLUMNS[0].key}
+                    scope="col"
+                    className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.tight}`}
+                  >
+                    {ENTRY_COLUMNS[0].label}
+                  </th>
+                  <th
+                    key={PROFILE_COLUMNS[0].key}
+                    scope="col"
+                    className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.name}`}
+                  >
+                    {PROFILE_COLUMNS[0].label}
+                  </th>
+                  {ENTRY_COLUMNS.slice(1).map((column) => (
                     <th
                       key={column.key}
                       scope="col"
-                      className="sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2"
+                      className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}
                     >
                       {column.label}
                     </th>
                   ))}
-                  {PROFILE_COLUMNS.map((column) => (
+                  {PROFILE_COLUMNS.slice(1).map((column) => (
                     <th
                       key={column.key}
                       scope="col"
-                      className="sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2"
+                      className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}
                     >
                       {column.label}
                     </th>
@@ -312,7 +342,7 @@ export default async function ConstituencyDetailPage({
                     <th
                       key={column.key}
                       scope="col"
-                      className="sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2"
+                      className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}
                     >
                       {column.label}
                     </th>
@@ -329,56 +359,65 @@ export default async function ConstituencyDetailPage({
                       key={candidate.entry_id}
                       className={index % 2 === 0 ? "bg-transparent" : "bg-[var(--surface-muted)]"}
                     >
-                      {ENTRY_COLUMNS.map((column) => {
-                        const value = candidate.entry[column.key];
-                        return (
-                          <td
-                            key={column.key}
-                            className="border-b border-[var(--border)] px-3 py-2 align-top"
-                          >
-                            {typeof value === "string" ? formatText(value) : value ?? "—"}
-                          </td>
-                        );
-                      })}
-                      {PROFILE_COLUMNS.map((column) => {
-                        const value = candidate.person[column.key];
-                        if (column.key === "full_name") {
-                          return (
-                            <td
-                              key={column.key}
-                              className="border-b border-[var(--border)] px-3 py-2 align-top text-[var(--ink)]"
-                            >
-                              <Link
-                                href={`/elections/${cycle}/candidates/${candidate.entry_id}`}
-                                className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
-                              >
-                                {formatText(value)}
-                              </Link>
-                            </td>
-                          );
-                        }
-                        return (
-                          <td
-                            key={column.key}
-                            className="border-b border-[var(--border)] px-3 py-2 align-top"
-                          >
-                            {formatText(value)}
-                          </td>
-                        );
-                      })}
-                      {ATTRIBUTE_COLUMNS.map((column) => (
-                        <td
-                          key={column.key}
-                          className="border-b border-[var(--border)] px-3 py-2 align-top"
+                      <td
+                        className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.tight}`}
+                      >
+                        {candidate.entry.list_order ?? "—"}
+                      </td>
+                      <td
+                        className={`border-b border-[var(--border)] px-3 py-2 align-top text-[var(--ink)] ${COL_CLASSES.name}`}
+                      >
+                        <Link
+                          href={`/elections/${cycle}/candidates/${candidate.entry_id}`}
+                          className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
                         >
-                          {formatText(attributes.get(column.key))}
-                        </td>
-                      ))}
+                          {formatText(candidate.person.full_name)}
+                        </Link>
+                      </td>
+                      {ENTRY_COLUMNS.slice(1).map((column) => {
+                        const value = candidate.entry[column.key];
+                        const display =
+                          typeof value === "string" ? formatText(value) : value ?? "—";
+                        return (
+                          <td
+                            key={column.key}
+                            className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                            title={typeof display === "string" ? display : String(display)}
+                          >
+                            {display}
+                          </td>
+                        );
+                      })}
+                      {PROFILE_COLUMNS.slice(1).map((column) => {
+                        const display = formatText(candidate.person[column.key]);
+                        return (
+                          <td
+                            key={column.key}
+                            className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                            title={display}
+                          >
+                            {display}
+                          </td>
+                        );
+                      })}
+                      {ATTRIBUTE_COLUMNS.map((column) => {
+                        const display = formatText(attributes.get(column.key));
+                        return (
+                          <td
+                            key={column.key}
+                            className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                            title={display}
+                          >
+                            {display}
+                          </td>
+                        );
+                      })}
                     </tr>
                   );
                 })}
               </tbody>
             </table>
+            </div>
           </div>
         )}
       </section>

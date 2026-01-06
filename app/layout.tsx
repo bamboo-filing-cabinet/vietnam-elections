@@ -34,7 +34,7 @@ export default function RootLayout({
         >
           Skip to content
         </a>
-        <div className="relative min-h-screen overflow-hidden bg-[var(--app-bg)] text-[var(--ink)]">
+        <div className="relative min-h-screen bg-[var(--app-bg)] text-[var(--ink)]">
           <div className="pointer-events-none absolute inset-0 -z-10">
             <div className="absolute -right-24 top-[-120px] h-72 w-[70%] rotate-[-4deg] bg-[color:var(--flag-yellow)] opacity-25 blur-3xl" />
             <div className="absolute -left-24 bottom-[-140px] h-72 w-[70%] rotate-[5deg] bg-[color:var(--flag-red)] opacity-20 blur-3xl" />

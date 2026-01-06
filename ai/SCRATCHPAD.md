@@ -67,5 +67,28 @@ I was thinking that constituencies also need a page, at the very least so that c
 - [x] Table header styling + zebra rows + responsive scroll.
 - [x] Accessibility checks (labels, table semantics).
 
+### M5.1: Table usability tweaks (requested)
+- [x] Move candidate name to be the first column after list order.
+- [x] Fix horizontal scrolling behavior in the table container.
+
+### M5.2: Chrome scroll affordance tweaks
+- [x] Add horizontal scroll hint and touch-pan-x for the table container.
+- [x] Stabilize scrollbars to avoid layout shifts.
+
+### M5.3: Force horizontal overflow for comparison table
+- [x] Prevent table cells from wrapping to ensure horizontal scroll.
+- [x] Add truncation + hover titles for long values.
+
+### M5.4: Add drag-to-scroll fallback
+Status: Skipped (user prefers fewer client-side changes).
+
+### M5.4: Column sizing + forced overflow (CSS-only)
+- [x] Force minimum column widths so the table overflows horizontally.
+- [x] Keep truncation + hover titles for long values.
+
+### M5.5: Contain overflow within table section
+- [x] Add `min-w-0` to the table section/wrapper so grid items can shrink.
+- [x] Ensure the horizontal scrollbar belongs to the table container only.
+
 ## Approval checkpoints
 - Need approval before moving from M1 → M2 and M2 → M3.
