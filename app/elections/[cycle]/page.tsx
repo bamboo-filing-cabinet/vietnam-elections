@@ -275,27 +275,6 @@ export default async function ElectionOverviewPage({
                     Records · Bản ghi: {formatNumber(results.records.length)}
                   </span>
                 </div>
-                {results.source?.title && (
-                  <div className="mt-4 text-xs text-[var(--ink-muted)]">
-                    <span className="uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-                      Results source · Nguồn kết quả
-                    </span>
-                    <div className="mt-2">
-                      {results.source.url ? (
-                        <a
-                          href={results.source.url}
-                          className="text-xs text-[var(--ink-muted)] hover:text-[var(--flag-red)]"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {results.source.title}
-                        </a>
-                      ) : (
-                        <span className="text-xs">{results.source.title}</span>
-                      )}
-                    </div>
-                  </div>
-                )}
               </div>
             )}
           </>
