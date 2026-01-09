@@ -42,7 +42,7 @@ export default function MethodologyPage() {
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
         <h2 className="text-lg font-semibold text-[var(--ink)]">Field notes</h2>
         <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-          Ghi chú trường dữ liệu
+          Ghi chú mục dữ liệu
         </p>
         <ul className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
           <li>General education uses the Vietnamese grade system (12/12 = completed high school; 10/10 = older system).</li>

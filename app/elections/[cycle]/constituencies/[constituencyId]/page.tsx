@@ -715,7 +715,7 @@ export default async function ConstituencyDetailPage({
                           {group.title}
                         </span>
                         <span className="text-xs text-[var(--ink-muted)]">
-                          Fields · Trường: {group.items.map((item) => item.field).join(", ")}
+                          Items · Mục: {group.items.map((item) => item.field).join(", ")}
                         </span>
                         <div className="text-xs text-[var(--ink-muted)]">
                           Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·

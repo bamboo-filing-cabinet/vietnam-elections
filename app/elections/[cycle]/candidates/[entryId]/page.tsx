@@ -480,7 +480,7 @@ export default async function CandidateDetailPage({
                         {resultsPayload.source.title}
                       </span>
                       <span className="text-xs text-[var(--ink-muted)]">
-                        Fields · Trường: results
+                        Items · Mục: results
                       </span>
                       <div className="text-xs text-[var(--ink-muted)]">
                         Type · Loại: {formatDocType(resultsPayload.source.doc_type)} · Published ·
@@ -515,7 +515,7 @@ export default async function CandidateDetailPage({
                           {annotation.source.title}
                         </span>
                         <span className="text-xs text-[var(--ink-muted)]">
-                          Fields · Trường: results_annotation ({formatStatus(annotation.status)})
+                          Items · Mục: results_annotation ({formatStatus(annotation.status)})
                         </span>
                         <div className="text-xs text-[var(--ink-muted)]">
                           Type · Loại: {formatDocType(annotation.source.doc_type)} · Published ·
@@ -561,7 +561,7 @@ export default async function CandidateDetailPage({
                   <div className="flex flex-col gap-1">
                     <span className="font-semibold text-[var(--ink)]">{group.title}</span>
                     <span className="text-xs text-[var(--ink-muted)]">
-                      Fields · Trường: {group.items.map((item) => item.field).join(", ")}
+                      Items · Mục: {group.items.map((item) => item.field).join(", ")}
                     </span>
                     <div className="text-xs text-[var(--ink-muted)]">
                       Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·
