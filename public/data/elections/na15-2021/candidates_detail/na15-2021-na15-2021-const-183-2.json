@@ -38,19 +38,79 @@
     "districts": [
       {
         "name_vi": "Huyện Lục Yên",
-        "name_folded": "huyen luc yen"
+        "name_folded": "huyen luc yen",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Trấn Yên",
-        "name_folded": "huyen tran yen"
+        "name_folded": "huyen tran yen",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Yên Bình",
-        "name_folded": "huyen yen binh"
+        "name_folded": "huyen yen binh",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Thành phố Yên Bái",
-        "name_folded": "thanh pho yen bai"
+        "name_folded": "thanh pho yen bai",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "field": "congressional_units",
+        "document_id": "doc-550cd8ad955d",
+        "title": "Congressional units (PDF)",
+        "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+        "doc_type": "pdf",
+        "published_date": null,
+        "fetched_date": "2026-01-02",
+        "notes": null
       }
     ]
   },

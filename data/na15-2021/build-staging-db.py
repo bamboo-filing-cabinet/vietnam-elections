@@ -19,11 +19,14 @@ ELECTION_CYCLE_NAME = "15th National Assembly"
 ELECTION_CYCLE_YEAR = 2021
 ELECTION_CYCLE_TYPE = "national_assembly"
 DOCUMENT_FETCHED_DATE = "2026-01-02"
+RESULTS_FETCHED_DATE = "2026-01-09"
 DOC_URL_CANDIDATE_LIST = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
 DOC_URL_CONGRESSIONAL_UNITS = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
 DOC_URL_DOCX_LIST = "https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm"
+DOC_URL_RESULTS_CEMA = "https://web.archive.org/web/20250221194402/http://www.cema.gov.vn/bau-cu-QH-HDND/cong-bo-danh-sach-499-nguoi-trung-cu-dai-bieu-quoc-hoi-khoa-xv.htm"
 DOC_PATH_CANDIDATE_PDF = "data/na15-2021/candidates-list/candidates-list-vietnamese.pdf"
 DOC_PATH_CONGRESSIONAL_UNITS = "data/na15-2021/congressional-units.pdf"
+RESULTS_CEMA_JSON = os.path.join(DATA_DIR, "results", "cema-district-results.json")
 
 
 def fold_text(value: str) -> str:
@@ -36,6 +39,28 @@ def fold_text(value: str) -> str:
     text = re.sub(r"[^a-z0-9\s]+", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
+
+def normalize_candidate_name(value: str) -> tuple[str, str | None]:
+    if value is None:
+        return "", None
+    # Prefer the name outside parentheses; keep alias (if any) as a fallback.
+    alias_match = re.search(r"\(([^)]*)\)", value)
+    alias_raw = alias_match.group(1).strip() if alias_match else None
+    cleaned = re.sub(r"\([^)]*\)", "", value)
+    folded = fold_text(cleaned)
+    for prefix in ("ong ", "ba "):
+        if folded.startswith(prefix):
+            folded = folded[len(prefix):].strip()
+            break
+    alias_folded = None
+    if alias_raw:
+        alias_folded = fold_text(alias_raw)
+    return folded, alias_folded
+
+
+def escape_like(value: str) -> str:
+    return value.replace("\\", "\\\\").replace("%", "\\%").replace("_", "\\_")
 
 
 def normalize_locality_name(value: str) -> str:
@@ -189,6 +214,25 @@ def init_db(conn: sqlite3.Connection) -> None:
           summary TEXT
         );
 
+        CREATE TABLE IF NOT EXISTS election_result_candidate (
+          id TEXT PRIMARY KEY,
+          cycle_id TEXT NOT NULL REFERENCES election_cycle(id) ON DELETE CASCADE,
+          locality_id TEXT REFERENCES locality(id) ON DELETE RESTRICT,
+          constituency_id TEXT REFERENCES constituency(id) ON DELETE RESTRICT,
+          candidate_entry_id TEXT REFERENCES candidate_entry(id) ON DELETE RESTRICT,
+          candidate_name TEXT NOT NULL,
+          candidate_name_folded TEXT NOT NULL,
+          unit_number INTEGER,
+          unit_description TEXT,
+          order_in_unit INTEGER,
+          votes INTEGER,
+          votes_raw TEXT,
+          percent REAL,
+          percent_raw TEXT,
+          source_document_id TEXT REFERENCES document(id) ON DELETE RESTRICT,
+          notes TEXT
+        );
+
         CREATE UNIQUE INDEX IF NOT EXISTS ux_constituency_cycle_locality_unit
           ON constituency (cycle_id, locality_id, unit_number);
 
@@ -203,6 +247,8 @@ def init_db(conn: sqlite3.Connection) -> None:
         CREATE INDEX IF NOT EXISTS ix_district_name_folded ON constituency_district (name_folded);
         CREATE INDEX IF NOT EXISTS ix_candidate_cycle ON candidate_entry (cycle_id);
         CREATE INDEX IF NOT EXISTS ix_candidate_constituency ON candidate_entry (constituency_id);
+        CREATE INDEX IF NOT EXISTS ix_result_constituency ON election_result_candidate (constituency_id);
+        CREATE INDEX IF NOT EXISTS ix_result_candidate_entry ON election_result_candidate (candidate_entry_id);
         """
     )
 
@@ -224,6 +270,13 @@ def load_documents(conn: sqlite3.Connection) -> None:
             "file_path": DOC_PATH_CANDIDATE_PDF,
             "doc_type": "pdf",
             "fetched_date": DOCUMENT_FETCHED_DATE,
+        },
+        {
+            "title": "Election results bulletin (CEMA)",
+            "url": DOC_URL_RESULTS_CEMA,
+            "doc_type": "web",
+            "published_date": "2021-06-11",
+            "fetched_date": RESULTS_FETCHED_DATE,
         },
         {
             "title": "Congressional units (PDF)",
@@ -248,19 +301,22 @@ def load_documents(conn: sqlite3.Connection) -> None:
         )
 
     for doc in documents:
-        doc_id = make_id("doc-", f"{doc['doc_type']}|{doc['file_path']}")
+        doc_key = doc.get("file_path") or doc.get("url") or doc["title"]
+        doc_id = make_id("doc-", f"{doc['doc_type']}|{doc_key}")
         conn.execute(
             """
-            INSERT INTO document (id, title, url, file_path, doc_type, fetched_date)
-            VALUES (?, ?, ?, ?, ?, ?)
+            INSERT INTO document
+              (id, title, url, file_path, doc_type, published_date, fetched_date)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 doc_id,
                 doc["title"],
-                doc["url"],
-                doc["file_path"],
+                doc.get("url"),
+                doc.get("file_path"),
                 doc["doc_type"],
-                doc["fetched_date"],
+                doc.get("published_date"),
+                doc.get("fetched_date"),
             ),
         )
 
@@ -284,6 +340,53 @@ def add_candidate_sources(conn: sqlite3.Connection) -> None:
                 entry_id,
                 "candidate_list",
                 DOC_URL_CANDIDATE_LIST,
+            ),
+        )
+
+
+def add_constituency_sources(conn: sqlite3.Connection) -> None:
+    document_id = make_id("doc-", f"pdf|{DOC_PATH_CONGRESSIONAL_UNITS}")
+    constituency_rows = conn.execute("SELECT id FROM constituency").fetchall()
+    for (constituency_id,) in constituency_rows:
+        source_id = make_id(
+            "source-",
+            f"constituency|{constituency_id}|congressional_units|{DOC_URL_CONGRESSIONAL_UNITS}",
+        )
+        conn.execute(
+            """
+            INSERT INTO source (id, document_id, record_type, record_id, field, url)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (
+                source_id,
+                document_id,
+                "constituency",
+                constituency_id,
+                "congressional_units",
+                DOC_URL_CONGRESSIONAL_UNITS,
+            ),
+        )
+
+    district_rows = conn.execute(
+        "SELECT id FROM constituency_district"
+    ).fetchall()
+    for (district_id,) in district_rows:
+        source_id = make_id(
+            "source-",
+            f"constituency_district|{district_id}|congressional_units|{DOC_URL_CONGRESSIONAL_UNITS}",
+        )
+        conn.execute(
+            """
+            INSERT INTO source (id, document_id, record_type, record_id, field, url)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (
+                source_id,
+                document_id,
+                "constituency_district",
+                district_id,
+                "congressional_units",
+                DOC_URL_CONGRESSIONAL_UNITS,
             ),
         )
 
@@ -506,6 +609,270 @@ def load_candidates(
                     )
 
 
+def resolve_candidate_entry_id(
+    conn: sqlite3.Connection,
+    cycle_id: str,
+    constituency_id: str,
+    name_folded: str,
+    name_folded_raw: str,
+) -> tuple[str | None, str | None]:
+    rows = conn.execute(
+        """
+        SELECT ce.id, ce.constituency_id
+        FROM candidate_entry ce
+        JOIN person p ON p.id = ce.person_id
+        WHERE ce.constituency_id = ? AND p.full_name_folded = ?
+        """,
+        (constituency_id, name_folded),
+    ).fetchall()
+    if len(rows) == 1:
+        return rows[0][0], None
+    if len(rows) > 1:
+        return None, "multiple_candidates_match"
+
+    if name_folded_raw != name_folded:
+        rows = conn.execute(
+            """
+            SELECT ce.id, ce.constituency_id
+            FROM candidate_entry ce
+            JOIN person p ON p.id = ce.person_id
+            WHERE ce.constituency_id = ? AND p.full_name_folded = ?
+            """,
+            (constituency_id, name_folded_raw),
+        ).fetchall()
+        if len(rows) == 1:
+            return rows[0][0], None
+        if len(rows) > 1:
+            return None, "multiple_candidates_match"
+
+    like_patterns = [
+        ("name_like_prefix", "{}%"),
+        ("name_like_suffix", "%{}"),
+        ("name_like_contains", "%{}%"),
+    ]
+
+    for label, pattern in like_patterns:
+        escaped = escape_like(name_folded)
+        rows = conn.execute(
+            """
+            SELECT ce.id, ce.constituency_id
+            FROM candidate_entry ce
+            JOIN person p ON p.id = ce.person_id
+            WHERE ce.constituency_id = ?
+              AND p.full_name_folded LIKE ? ESCAPE '\\'
+            """,
+            (constituency_id, pattern.format(escaped)),
+        ).fetchall()
+        if len(rows) == 1:
+            return rows[0][0], label
+        if len(rows) > 1:
+            return None, "multiple_candidates_match"
+
+    if name_folded_raw != name_folded:
+        for label, pattern in like_patterns:
+            escaped = escape_like(name_folded_raw)
+            rows = conn.execute(
+                """
+                SELECT ce.id, ce.constituency_id
+                FROM candidate_entry ce
+                JOIN person p ON p.id = ce.person_id
+                WHERE ce.constituency_id = ?
+                  AND p.full_name_folded LIKE ? ESCAPE '\\'
+                """,
+                (constituency_id, pattern.format(escaped)),
+            ).fetchall()
+            if len(rows) == 1:
+                return rows[0][0], f"{label}_raw"
+            if len(rows) > 1:
+                return None, "multiple_candidates_match"
+
+    # Cycle-wide fallback: match by name and flag if constituency differs.
+    rows = conn.execute(
+        """
+        SELECT ce.id, ce.constituency_id
+        FROM candidate_entry ce
+        JOIN person p ON p.id = ce.person_id
+        WHERE ce.cycle_id = ? AND p.full_name_folded = ?
+        """,
+        (cycle_id, name_folded),
+    ).fetchall()
+    if len(rows) == 1:
+        note = None if rows[0][1] == constituency_id else "constituency_mismatch"
+        return rows[0][0], note
+    if len(rows) > 1:
+        return None, "multiple_candidates_match"
+
+    for label, pattern in like_patterns:
+        escaped = escape_like(name_folded)
+        rows = conn.execute(
+            """
+            SELECT ce.id, ce.constituency_id
+            FROM candidate_entry ce
+            JOIN person p ON p.id = ce.person_id
+            WHERE ce.cycle_id = ? AND p.full_name_folded LIKE ? ESCAPE '\\'
+            """,
+            (cycle_id, pattern.format(escaped)),
+        ).fetchall()
+        if len(rows) == 1:
+            note = label
+            if rows[0][1] != constituency_id:
+                note = f"constituency_mismatch;{label}"
+            return rows[0][0], note
+        if len(rows) > 1:
+            return None, "multiple_candidates_match"
+
+    if name_folded_raw != name_folded:
+        rows = conn.execute(
+            """
+            SELECT ce.id, ce.constituency_id
+            FROM candidate_entry ce
+            JOIN person p ON p.id = ce.person_id
+            WHERE ce.cycle_id = ? AND p.full_name_folded = ?
+            """,
+            (cycle_id, name_folded_raw),
+        ).fetchall()
+        if len(rows) == 1:
+            note = None if rows[0][1] == constituency_id else "constituency_mismatch"
+            return rows[0][0], note
+        if len(rows) > 1:
+            return None, "multiple_candidates_match"
+
+    if name_folded_raw != name_folded:
+        for label, pattern in like_patterns:
+            escaped = escape_like(name_folded_raw)
+            rows = conn.execute(
+                """
+                SELECT ce.id, ce.constituency_id
+                FROM candidate_entry ce
+                JOIN person p ON p.id = ce.person_id
+                WHERE ce.cycle_id = ? AND p.full_name_folded LIKE ? ESCAPE '\\'
+                """,
+                (cycle_id, pattern.format(escaped)),
+            ).fetchall()
+            if len(rows) == 1:
+                note = f"{label}_raw"
+                if rows[0][1] != constituency_id:
+                    note = f"constituency_mismatch;{label}_raw"
+                return rows[0][0], note
+            if len(rows) > 1:
+                return None, "multiple_candidates_match"
+
+    return None, "candidate_unmatched"
+
+
+def load_cema_results(
+    conn: sqlite3.Connection, locality_key_map: dict, constituency_map: dict
+) -> None:
+    if not os.path.exists(RESULTS_CEMA_JSON):
+        return
+
+    with open(RESULTS_CEMA_JSON, "r", encoding="utf-8") as fh:
+        payload = json.load(fh)
+
+    records = payload.get("records", [])
+    if not isinstance(records, list):
+        raise RuntimeError("CEMA results JSON records must be a list.")
+
+    document_id = make_id("doc-", f"web|{DOC_URL_RESULTS_CEMA}")
+
+    for record in records:
+        province_raw = str(record.get("province") or "").strip()
+        unit_number = record.get("unit_number")
+        unit_description = record.get("unit_description")
+        candidate_name = str(record.get("candidate_name") or "").strip()
+        order_in_unit = record.get("order")
+        votes = record.get("votes")
+        votes_raw = record.get("votes_raw")
+        percent = record.get("percent")
+        percent_raw = record.get("percent_raw")
+
+        name_folded_raw = fold_text(candidate_name)
+        name_folded, name_folded_alias = normalize_candidate_name(candidate_name)
+
+        locality_id = None
+        constituency_id = None
+        notes = None
+
+        if province_raw:
+            province_folded = fold_text(normalize_locality_name(province_raw))
+            locality_id = locality_key_map.get(province_folded)
+        if locality_id and unit_number is not None:
+            constituency_id = constituency_map.get((locality_id, int(unit_number)))
+
+        candidate_entry_id = None
+        if constituency_id:
+            candidate_entry_id, match_note = resolve_candidate_entry_id(
+                conn, ELECTION_CYCLE_ID, constituency_id, name_folded, name_folded_raw
+            )
+            if match_note:
+                notes = match_note
+            if candidate_entry_id is None and name_folded_alias:
+                candidate_entry_id, match_note = resolve_candidate_entry_id(
+                    conn,
+                    ELECTION_CYCLE_ID,
+                    constituency_id,
+                    name_folded_alias,
+                    name_folded_alias,
+                )
+                if match_note:
+                    notes = "alias_" + match_note
+                elif candidate_entry_id:
+                    notes = "alias_match"
+        else:
+            notes = "constituency_unmatched"
+
+        result_id = make_id(
+            "res-",
+            f"{ELECTION_CYCLE_ID}|{province_raw}|{unit_number}|{order_in_unit}|{name_folded}",
+        )
+
+        conn.execute(
+            """
+            INSERT INTO election_result_candidate
+              (id, cycle_id, locality_id, constituency_id, candidate_entry_id,
+               candidate_name, candidate_name_folded, unit_number, unit_description,
+               order_in_unit, votes, votes_raw, percent, percent_raw,
+               source_document_id, notes)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                result_id,
+                ELECTION_CYCLE_ID,
+                locality_id,
+                constituency_id,
+                candidate_entry_id,
+                candidate_name,
+                name_folded,
+                int(unit_number) if unit_number is not None else None,
+                unit_description,
+                int(order_in_unit) if order_in_unit is not None else None,
+                int(votes) if votes is not None else None,
+                votes_raw,
+                float(percent) if percent is not None else None,
+                percent_raw,
+                document_id,
+                notes,
+            ),
+        )
+
+        source_id = make_id(
+            "source-", f"election_result_candidate|{result_id}|results|{DOC_URL_RESULTS_CEMA}"
+        )
+        conn.execute(
+            """
+            INSERT INTO source (id, document_id, record_type, record_id, field, url)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (
+                source_id,
+                document_id,
+                "election_result_candidate",
+                result_id,
+                "results",
+                DOC_URL_RESULTS_CEMA,
+            ),
+        )
+
 def main() -> None:
     ensure_dir(DATA_DIR)
     if os.path.exists(DB_PATH):
@@ -541,6 +908,8 @@ def main() -> None:
         maps = load_congressional_units(conn)
         load_candidates(conn, maps["locality_key_map"], maps["constituency_map"])
         add_candidate_sources(conn)
+        add_constituency_sources(conn)
+        load_cema_results(conn, maps["locality_key_map"], maps["constituency_map"])
         conn.commit()
     finally:
         conn.close()

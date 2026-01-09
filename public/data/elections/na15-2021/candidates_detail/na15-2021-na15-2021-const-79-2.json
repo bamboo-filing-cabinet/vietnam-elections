@@ -38,27 +38,111 @@
     "districts": [
       {
         "name_vi": "Huyện Kbang",
-        "name_folded": "huyen kbang"
+        "name_folded": "huyen kbang",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Kông Chro",
-        "name_folded": "huyen kong chro"
+        "name_folded": "huyen kong chro",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Mang Yang",
-        "name_folded": "huyen mang yang"
+        "name_folded": "huyen mang yang",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Đak Hoa",
-        "name_folded": "huyen dak hoa"
+        "name_folded": "huyen dak hoa",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Huyện Đak Pơ",
-        "name_folded": "huyen dak po"
+        "name_folded": "huyen dak po",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
       },
       {
         "name_vi": "Thị xã An Khê",
-        "name_folded": "thi xa an khe"
+        "name_folded": "thi xa an khe",
+        "sources": [
+          {
+            "field": "congressional_units",
+            "document_id": "doc-550cd8ad955d",
+            "title": "Congressional units (PDF)",
+            "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+            "doc_type": "pdf",
+            "published_date": null,
+            "fetched_date": "2026-01-02",
+            "notes": null
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "field": "congressional_units",
+        "document_id": "doc-550cd8ad955d",
+        "title": "Congressional units (PDF)",
+        "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+        "doc_type": "pdf",
+        "published_date": null,
+        "fetched_date": "2026-01-02",
+        "notes": null
       }
     ]
   },

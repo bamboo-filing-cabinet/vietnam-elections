@@ -1,6 +1,6 @@
 {
   "cycle_id": "na15-2021",
-  "generated_at": "2026-01-05T02:14:06Z",
+  "generated_at": "2026-01-09T04:35:22Z",
   "records": [
     {
       "id": "doc-d95dfdf30653",
@@ -110,6 +110,16 @@
       "doc_type": "pdf",
       "published_date": null,
       "fetched_date": "2026-01-02",
+      "notes": null
+    },
+    {
+      "id": "doc-d092dea9f7b3",
+      "title": "Election results bulletin (CEMA)",
+      "url": "https://web.archive.org/web/20250221194402/http://www.cema.gov.vn/bau-cu-QH-HDND/cong-bo-danh-sach-499-nguoi-trung-cu-dai-bieu-quoc-hoi-khoa-xv.htm",
+      "file_path": null,
+      "doc_type": "web",
+      "published_date": "2021-06-11",
+      "fetched_date": "2026-01-09",
       "notes": null
     }
   ]

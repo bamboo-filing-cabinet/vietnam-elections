@@ -81,6 +81,19 @@ def main() -> int:
         if missing_sources:
             warnings.append(f"Candidate entries missing sources: {len(missing_sources)}")
 
+        missing_results_match = fetch_all(
+            conn,
+            """
+            SELECT id
+            FROM election_result_candidate
+            WHERE candidate_entry_id IS NULL
+            """,
+        )
+        if missing_results_match:
+            errors.append(
+                f"Election result candidates missing candidate_entry match: {len(missing_results_match)}"
+            )
+
         document_count = fetch_all(conn, "SELECT COUNT(*) AS cnt FROM document")
         if document_count and document_count[0]["cnt"] == 0:
             warnings.append("No documents recorded in document table")

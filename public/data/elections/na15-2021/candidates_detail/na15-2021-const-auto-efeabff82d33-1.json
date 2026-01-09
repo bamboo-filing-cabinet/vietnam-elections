@@ -35,7 +35,19 @@
     "name_folded": "don vi bau cu so 2",
     "description": "Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
     "unit_context_raw": "UBBC Tỉnh/Thành phố: Bắc Kạn Đơn vị bầu cử Số 2: Gồm thành phố Bắc Kạn và các huyện: Bạch Thông, Chợ Đồn, Chợ Mới. Số đại biểu Quốc hội được bầu: 3 người. Số người ứng cử: 5 người.",
-    "districts": []
+    "districts": [],
+    "sources": [
+      {
+        "field": "congressional_units",
+        "document_id": "doc-550cd8ad955d",
+        "title": "Congressional units (PDF)",
+        "url": "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf",
+        "doc_type": "pdf",
+        "published_date": null,
+        "fetched_date": "2026-01-02",
+        "notes": null
+      }
+    ]
   },
   "attributes": [
     {

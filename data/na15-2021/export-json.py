@@ -55,6 +55,39 @@ def fetch_one(conn: sqlite3.Connection, query: str, params: tuple = ()) -> sqlit
     return row
 
 
+def fetch_sources(conn: sqlite3.Connection, record_type: str, record_id: str) -> list[dict]:
+    return [
+        {
+            "field": row["field"],
+            "document_id": row["document_id"],
+            "title": row["title"],
+            "url": row["url"] or row["document_url"],
+            "doc_type": row["doc_type"],
+            "published_date": row["published_date"],
+            "fetched_date": row["fetched_date"],
+            "notes": row["notes"],
+        }
+        for row in conn.execute(
+            """
+            SELECT s.field,
+                   s.document_id,
+                   s.url,
+                   s.notes,
+                   d.title,
+                   d.url AS document_url,
+                   d.doc_type,
+                   d.published_date,
+                   d.fetched_date
+            FROM source s
+            JOIN document d ON d.id = s.document_id
+            WHERE s.record_type = ? AND s.record_id = ?
+            ORDER BY s.field, d.title
+            """,
+            (record_type, record_id),
+        ).fetchall()
+    ]
+
+
 def export_cycle(conn: sqlite3.Connection) -> None:
     conn.row_factory = sqlite3.Row
 
@@ -103,10 +136,11 @@ def export_cycle(conn: sqlite3.Connection) -> None:
             {
                 "name_vi": dist["name"],
                 "name_folded": dist["name_folded"],
+                "sources": fetch_sources(conn, "constituency_district", dist["id"]),
             }
             for dist in conn.execute(
                 """
-                SELECT name, name_folded
+                SELECT id, name, name_folded
                 FROM constituency_district
                 WHERE constituency_id = ?
                 ORDER BY name
@@ -125,6 +159,7 @@ def export_cycle(conn: sqlite3.Connection) -> None:
                 "description": row["description"],
                 "unit_context_raw": row["unit_context_raw"],
                 "districts": districts,
+                "sources": fetch_sources(conn, "constituency", row["id"]),
             }
         )
 
