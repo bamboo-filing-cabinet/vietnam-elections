@@ -324,7 +324,16 @@ export default async function CandidateDetailPage({
         </h1>
         <p className="mt-2 text-sm text-[var(--ink-muted)]">
           {payload.locality?.name_vi ?? "Unknown locality"} ·{" "}
-          {payload.constituency?.name_vi ?? "Unknown constituency"}
+          {payload.constituency?.id ? (
+            <Link
+              href={`/elections/${cycle}/constituencies/${payload.constituency.id}`}
+              className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
+            >
+              {payload.constituency?.name_vi ?? "Unknown constituency"}
+            </Link>
+          ) : (
+            payload.constituency?.name_vi ?? "Unknown constituency"
+          )}
         </p>
       </section>
 
