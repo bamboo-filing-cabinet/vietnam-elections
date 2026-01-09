@@ -91,12 +91,19 @@
 - Add results table above candidate details on constituency page.
 - Display source citations where available (after Milestone 0).
 
+## Milestone 2 progress
+- Constituency detail page now renders a separate Results table above candidate details.
+- Constituency and results sources are shown with bilingual labels.
+- Election cycle overview now includes a results summary panel and a Results-by-constituency entry in Explore.
+- Constituency/results sources now use the same card layout as candidate detail sources.
+- Constituency/results sources moved to the bottom to match candidate detail layout.
+
 ### Milestone 3: Docs + QA polish
 - Update `README.md` + `data/na15-2021/README.md`.
 - Add any extra QA checks (e.g., winner counts if filtered).
 
 ## Next step (awaiting your answers + approval)
-- Confirm approval to proceed with Milestone 0 (constituency sources wiring).
+- Confirm approval to proceed with the remaining Milestone 2 tasks (results overview page + any candidate detail links).
 
 ## Milestone 0 progress
 - Added constituency + district source rows pointing at the congressional units PDF.

@@ -7,6 +7,7 @@ import CycleNav from "../../CycleNav";
 type District = {
   name_vi: string;
   name_folded: string;
+  sources?: SourceRecord[];
 };
 
 type ConstituencyRecord = {
@@ -19,6 +20,7 @@ type ConstituencyRecord = {
   description: string | null;
   unit_context_raw: string | null;
   districts: District[];
+  sources?: SourceRecord[];
 };
 
 type ConstituenciesPayload = {
@@ -57,6 +59,67 @@ type CandidatesIndexPayload = {
   cycle_id: string;
   generated_at: string;
   records: CandidateIndexRecord[];
+};
+
+type SourceRecord = {
+  field: string;
+  document_id: string;
+  title: string;
+  url: string | null;
+  doc_type: string | null;
+  published_date: string | null;
+  fetched_date: string | null;
+  notes: string | null;
+};
+
+type ResultsSummary = {
+  total_seats: number | null;
+  total_candidates: number | null;
+  total_voters: number | null;
+  total_votes_cast: number | null;
+  turnout_percent: number | null;
+  valid_votes: number | null;
+  invalid_votes: number | null;
+  confirmed_winners: number | null;
+  unconfirmed_winners: number | null;
+};
+
+type ResultsRecord = {
+  id: string;
+  candidate_entry_id: string | null;
+  person_id: string | null;
+  candidate_name_vi: string;
+  candidate_name_folded: string;
+  locality_id: string | null;
+  constituency_id: string | null;
+  unit_number: number | null;
+  unit_description_vi: string | null;
+  order_in_unit: number | null;
+  votes: number | null;
+  votes_raw: string | null;
+  percent: number | null;
+  percent_raw: string | null;
+  notes: string | null;
+  sources: SourceRecord[];
+};
+
+type ResultsSource = {
+  id: string;
+  title: string;
+  url: string | null;
+  file_path: string | null;
+  doc_type: string | null;
+  published_date: string | null;
+  fetched_date: string | null;
+  notes: string | null;
+};
+
+type ResultsPayload = {
+  cycle_id: string;
+  generated_at: string;
+  source: ResultsSource | null;
+  summary: ResultsSummary | null;
+  records: ResultsRecord[];
 };
 
 type CandidateDetailPayload = {
@@ -154,6 +217,50 @@ function formatCommaList(value: string): string {
     .join(", ");
 }
 
+function groupSources(sources: SourceRecord[]): Array<{ title: string; items: SourceRecord[] }> {
+  const map = new Map<string, SourceRecord[]>();
+  sources.forEach((source) => {
+    const key = source.title || "Untitled document";
+    if (!map.has(key)) {
+      map.set(key, []);
+    }
+    map.get(key)?.push(source);
+  });
+  return Array.from(map.entries()).map(([title, items]) => ({ title, items }));
+}
+
+function formatDocType(value: string | null): string {
+  if (!value) {
+    return "Unknown";
+  }
+  return value.toUpperCase();
+}
+
+function formatDate(value: string | null): string {
+  if (!value) {
+    return "Unknown";
+  }
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) {
+    return value;
+  }
+  return parsed.toLocaleDateString("en-US");
+}
+
+function formatNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined) {
+    return "—";
+  }
+  return value.toLocaleString("en-US");
+}
+
+function formatPercent(value: number | null, fallback: string | null): string {
+  if (value === null || value === undefined) {
+    return fallback ? `${fallback}%` : "—";
+  }
+  return `${value.toFixed(2)}%`;
+}
+
 async function readJson<T>(filePath: string): Promise<T> {
   const raw = await fs.readFile(filePath, "utf-8");
   return JSON.parse(raw) as T;
@@ -188,6 +295,7 @@ export default async function ConstituencyDetailPage({
   const constituenciesPath = path.join(baseDir, "constituencies.json");
   const candidatesIndexPath = path.join(baseDir, "candidates_index.json");
   const localitiesPath = path.join(baseDir, "localities.json");
+  const resultsPath = path.join(baseDir, "results.json");
 
   try {
     await Promise.all([
@@ -204,6 +312,13 @@ export default async function ConstituencyDetailPage({
     readJson<CandidatesIndexPayload>(candidatesIndexPath),
     readJson<LocalityPayload>(localitiesPath),
   ]);
+  let resultsPayload: ResultsPayload | null = null;
+  try {
+    await fs.access(resultsPath);
+    resultsPayload = await readJson<ResultsPayload>(resultsPath);
+  } catch {
+    resultsPayload = null;
+  }
 
   const constituency = constituenciesPayload.records.find((record) => record.id === constituencyId);
   if (!constituency) {
@@ -220,6 +335,14 @@ export default async function ConstituencyDetailPage({
       return readJson<CandidateDetailPayload>(detailPath);
     })
   );
+  const candidateDetailMap = new Map(
+    candidateDetails.map((candidate) => [candidate.entry_id, candidate])
+  );
+  const resultsRecords = resultsPayload
+    ? resultsPayload.records
+        .filter((record) => record.constituency_id === constituencyId)
+        .sort((a, b) => (a.order_in_unit ?? 0) - (b.order_in_unit ?? 0))
+    : [];
 
   const localityName =
     localitiesPayload.records.find((record) => record.id === constituency.locality_id)
@@ -272,6 +395,112 @@ export default async function ConstituencyDetailPage({
                 {district.name_vi}
               </span>
             ))}
+          </div>
+        )}
+      </section>
+
+      <section className="min-w-0 rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Results · Kết quả</h2>
+        <p className="mt-2 text-sm text-[var(--ink-muted)]">
+          Vote totals are listed in descending order for this constituency.
+        </p>
+        <p className="mt-1 text-sm text-[var(--ink-muted)]">
+          Số phiếu được xếp theo thứ tự giảm dần trong đơn vị này.
+        </p>
+        <div className="mt-3 flex flex-wrap gap-3 text-xs text-[var(--ink-muted)]">
+          <span className="rounded-full border-2 border-[var(--border)] bg-[var(--surface-muted)] px-3 py-1">
+            Candidates: {formatNumber(resultsRecords.length)}
+          </span>
+          <span className="rounded-full border-2 border-[var(--border)] bg-[var(--surface-muted)] px-3 py-1">
+            Seats: {formatNumber(constituency.seat_count ?? null)}
+          </span>
+        </div>
+        {resultsRecords.length === 0 ? (
+          <p className="mt-4 text-sm text-[var(--ink-muted)]">
+            Results are not yet available for this constituency.
+          </p>
+        ) : (
+          <div className="mt-4 min-w-0">
+            <div className="flex items-center justify-between text-xs uppercase tracking-[0.2em] text-[var(--ink-muted)]">
+              <span>Scroll</span>
+              <span aria-hidden="true">→</span>
+            </div>
+            <div
+              className="mt-2 w-full min-w-0 touch-pan-x overflow-x-auto overscroll-x-contain"
+              style={{ scrollbarGutter: "stable both-edges" }}
+              role="region"
+              aria-label="Scrollable results table"
+            >
+              <table className="min-w-full w-max border-collapse text-left text-sm text-[var(--ink-muted)] tabular-nums">
+                <caption className="sr-only">
+                  Results table for {constituency.name_vi}
+                </caption>
+                <thead className="bg-[var(--surface-muted)] text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  <tr>
+                    <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.tight}`}>
+                      Rank
+                    </th>
+                    <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.name}`}>
+                      Candidate
+                    </th>
+                    <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}>
+                      Votes
+                    </th>
+                    <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}>
+                      Percent
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {resultsRecords.map((record, index) => {
+                    const candidate =
+                      record.candidate_entry_id &&
+                      candidateDetailMap.get(record.candidate_entry_id);
+                    const name = candidate
+                      ? candidate.person.full_name
+                      : record.candidate_name_vi;
+                    return (
+                      <tr
+                        key={record.id}
+                        className={index % 2 === 0 ? "bg-transparent" : "bg-[var(--surface-muted)]"}
+                      >
+                        <td
+                          className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.tight}`}
+                        >
+                          {record.order_in_unit ?? "—"}
+                        </td>
+                        <td
+                          className={`border-b border-[var(--border)] px-3 py-2 align-top text-[var(--ink)] ${COL_CLASSES.name}`}
+                        >
+                          {candidate ? (
+                            <Link
+                              href={`/elections/${cycle}/candidates/${candidate.entry_id}`}
+                              className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
+                            >
+                              {formatText(name)}
+                            </Link>
+                          ) : (
+                            <span className="font-semibold text-[var(--ink)]">
+                              {formatText(name)}
+                            </span>
+                          )}
+                        </td>
+                        <td
+                          className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                        >
+                          {formatNumber(record.votes)}
+                        </td>
+                        <td
+                          className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                        >
+                          {formatPercent(record.percent, record.percent_raw)}
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
           </div>
         )}
       </section>
@@ -421,6 +650,106 @@ export default async function ConstituencyDetailPage({
           </div>
         )}
       </section>
+
+      {(constituency.sources && constituency.sources.length > 0) ||
+      resultsPayload?.source?.title ? (
+        <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+          <h2 className="text-lg font-semibold text-[var(--ink)]">
+            Sources · Nguồn tài liệu
+          </h2>
+          <p className="mt-2 text-sm text-[var(--ink-muted)]">
+            Official documents used for constituency boundaries and results.
+          </p>
+          <div className="mt-4 grid gap-4">
+            {constituency.sources && constituency.sources.length > 0 && (
+              <div>
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Constituency sources · Nguồn đơn vị
+                </p>
+                <div className="mt-3 grid gap-3">
+                  {groupSources(constituency.sources).map((group) => (
+                    <div
+                      key={group.title}
+                      className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]"
+                    >
+                      <div className="flex flex-col gap-1">
+                        <span className="font-semibold text-[var(--ink)]">
+                          {group.title}
+                        </span>
+                        <span className="text-xs text-[var(--ink-muted)]">
+                          Fields · Trường: {group.items.map((item) => item.field).join(", ")}
+                        </span>
+                        <div className="text-xs text-[var(--ink-muted)]">
+                          Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·
+                          Xuất bản: {formatDate(group.items[0]?.published_date)}
+                        </div>
+                      </div>
+                      {group.items[0]?.url && (
+                        <a
+                          className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+                          href={group.items[0].url}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Open source
+                        </a>
+                      )}
+                      {group.items[0]?.fetched_date && (
+                        <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                          Fetched · Thu thập: {formatDate(group.items[0].fetched_date)}
+                        </div>
+                      )}
+                      {group.items[0]?.notes && (
+                        <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                          Notes · Ghi chú: {group.items[0].notes}
+                        </div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+            {resultsPayload?.source?.title && (
+              <div>
+                <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Results source · Nguồn kết quả
+                </p>
+                <div className="mt-3 rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]">
+                  <div className="flex flex-col gap-1">
+                    <span className="font-semibold text-[var(--ink)]">
+                      {resultsPayload.source.title}
+                    </span>
+                    <div className="text-xs text-[var(--ink-muted)]">
+                      Type · Loại: {formatDocType(resultsPayload.source.doc_type)} · Published ·
+                      Xuất bản: {formatDate(resultsPayload.source.published_date)}
+                    </div>
+                  </div>
+                  {resultsPayload.source.url && (
+                    <a
+                      className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+                      href={resultsPayload.source.url}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Open source
+                    </a>
+                  )}
+                  {resultsPayload.source.fetched_date && (
+                    <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                      Fetched · Thu thập: {formatDate(resultsPayload.source.fetched_date)}
+                    </div>
+                  )}
+                  {resultsPayload.source.notes && (
+                    <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                      Notes · Ghi chú: {resultsPayload.source.notes}
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      ) : null}
     </div>
   );
 }
