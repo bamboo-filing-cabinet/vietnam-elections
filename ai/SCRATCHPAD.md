@@ -1,0 +1,52 @@
+## Follow-up: Ineligible candidate handling (e.g., Trần Văn Nam)
+
+### Context
+- VTV report indicates one winning candidate (Trần Văn Nam, Bình Dương) was not confirmed to take the seat.
+- Current pipeline stores overall summary counts (confirmed/unconfirmed) but does not tag a specific candidate.
+
+### Goals
+- Record candidate-level caveats in a structured, extensible way.
+- Support future cycles with similar cases (disqualifications, resignations, recounts, etc.).
+
+### Open questions (need your answers)
+Answered:
+- Use **election_result_candidate** with a new status field (result-level).
+- Use an **attribute-style** approach (e.g., `election_result_candidate_attribute`).
+- Show caveat in the **results table first** (candidate detail later).
+- **Yes**, VTV report should be the authoritative source.
+
+### Proposed schema direction (draft)
+Revised direction:
+- Add `election_result_candidate_annotation` linked to `election_result_candidate`.
+- Store `status` (e.g., `not_confirmed`) + `reason` + `effective_date` + `source_document_id`.
+- Embed annotations inside `results.json` under each record’s `annotations` array (UI: results only for now).
+
+### Milestones (approval required to advance)
+
+#### Milestone A: Schema + ingest
+- Implement `election_result_candidate_annotation` table and loader from VTV report.
+- Add VTV report as a `document` and link to the attribute via `source_document_id`.
+
+#### Milestone B: Exports
+- Add `candidate_outcomes.json` export.
+- Optionally embed `status` in `results.json` records.
+
+#### Milestone C: UI
+- Add status badge/annotation in results table and candidate detail page.
+- Show source card for the caveat.
+
+## Milestone A progress
+- Added `election_result_candidate_annotation` table and loader for VTV report.
+- VTV report added as a document and linked to the annotation.
+
+## Milestone B progress
+- Embedded annotations array inside `results.json` per record.
+
+## Milestone C progress
+- Results table now shows status badges with tooltip details.
+- Candidate detail page now shows results summary and annotations with sources.
+- Candidate results section moved to the top card; sources listed in the Sources section.
+- Candidate sources section now mirrors constituency source grouping.
+
+## Next step (awaiting your answers + approval)
+- Confirm approval to proceed with Milestone A (schema + ingest).

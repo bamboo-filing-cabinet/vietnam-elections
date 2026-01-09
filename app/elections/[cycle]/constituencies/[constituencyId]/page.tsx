@@ -101,6 +101,14 @@ type ResultsRecord = {
   percent_raw: string | null;
   notes: string | null;
   sources: SourceRecord[];
+  annotations: Array<{
+    id: string;
+    status: string;
+    reason: string | null;
+    effective_date: string | null;
+    source: ResultsSource | null;
+    notes: string | null;
+  }>;
 };
 
 type ResultsSource = {
@@ -259,6 +267,20 @@ function formatPercent(value: number | null, fallback: string | null): string {
     return fallback ? `${fallback}%` : "—";
   }
   return `${value.toFixed(2)}%`;
+}
+
+function formatStatus(value: string): string {
+  return value
+    .split("_")
+    .map((part) => part[0]?.toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+function formatAnnotationDetails(annotation: ResultsRecord["annotations"][number]): string {
+  const parts = [annotation.reason, annotation.effective_date]
+    .filter(Boolean)
+    .map((value) => String(value));
+  return parts.length > 0 ? parts.join(" · ") : "Source cited";
 }
 
 async function readJson<T>(filePath: string): Promise<T> {
@@ -459,6 +481,7 @@ export default async function ConstituencyDetailPage({
                     const name = candidate
                       ? candidate.person.full_name
                       : record.candidate_name_vi;
+                    const hasAnnotation = record.annotations.length > 0;
                     return (
                       <tr
                         key={record.id}
@@ -472,18 +495,33 @@ export default async function ConstituencyDetailPage({
                         <td
                           className={`border-b border-[var(--border)] px-3 py-2 align-top text-[var(--ink)] ${COL_CLASSES.name}`}
                         >
-                          {candidate ? (
-                            <Link
-                              href={`/elections/${cycle}/candidates/${candidate.entry_id}`}
-                              className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
-                            >
-                              {formatText(name)}
-                            </Link>
-                          ) : (
-                            <span className="font-semibold text-[var(--ink)]">
-                              {formatText(name)}
-                            </span>
-                          )}
+                          <div className="flex flex-col gap-1">
+                            {candidate ? (
+                              <Link
+                                href={`/elections/${cycle}/candidates/${candidate.entry_id}`}
+                                className="font-semibold text-[var(--ink)] hover:text-[var(--flag-red)]"
+                              >
+                                {formatText(name)}
+                              </Link>
+                            ) : (
+                              <span className="font-semibold text-[var(--ink)]">
+                                {formatText(name)}
+                              </span>
+                            )}
+                            {hasAnnotation && (
+                              <div className="flex flex-wrap gap-2 text-xs">
+                                {record.annotations.map((annotation) => (
+                                  <span
+                                    key={annotation.id}
+                                    className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
+                                    title={formatAnnotationDetails(annotation)}
+                                  >
+                                    {formatStatus(annotation.status)}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
                         </td>
                         <td
                           className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}

@@ -54,6 +54,49 @@ type CandidateDetailPayload = {
   changelog: Array<{ change_type: string; changed_at: string; summary: string | null }>;
 };
 
+type ResultsSource = {
+  id: string;
+  title: string;
+  url: string | null;
+  file_path: string | null;
+  doc_type: string | null;
+  published_date: string | null;
+  fetched_date: string | null;
+  notes: string | null;
+};
+
+type ResultsAnnotation = {
+  id: string;
+  status: string;
+  reason: string | null;
+  effective_date: string | null;
+  source: ResultsSource | null;
+  notes: string | null;
+};
+
+type ResultsRecord = {
+  id: string;
+  candidate_entry_id: string | null;
+  candidate_name_vi: string;
+  constituency_id: string | null;
+  unit_number: number | null;
+  unit_description_vi: string | null;
+  order_in_unit: number | null;
+  votes: number | null;
+  votes_raw: string | null;
+  percent: number | null;
+  percent_raw: string | null;
+  annotations: ResultsAnnotation[];
+};
+
+type ResultsPayload = {
+  cycle_id: string;
+  generated_at: string;
+  source: ResultsSource | null;
+  summary: Record<string, unknown> | null;
+  records: ResultsRecord[];
+};
+
 const ATTRIBUTE_LABELS: Record<string, { en: string; vi: string }> = {
   education_general: {
     en: "General education",
@@ -163,6 +206,34 @@ function formatDocType(value: string | null): string {
   return value.toUpperCase();
 }
 
+function formatNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined) {
+    return "—";
+  }
+  return value.toLocaleString("en-US");
+}
+
+function formatPercent(value: number | null, fallback: string | null): string {
+  if (value === null || value === undefined) {
+    return fallback ? `${fallback}%` : "—";
+  }
+  return `${value.toFixed(2)}%`;
+}
+
+function formatStatus(value: string): string {
+  return value
+    .split("_")
+    .map((part) => part[0]?.toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+function formatAnnotationDetails(annotation: ResultsAnnotation): string {
+  const parts = [annotation.reason, annotation.effective_date]
+    .filter(Boolean)
+    .map((value) => String(value));
+  return parts.length > 0 ? parts.join(" · ") : "Source cited";
+}
+
 function latestFetchedDate(sources: CandidateDetailPayload["sources"]): string {
   const dates = sources
     .map((source) => source.fetched_date)
@@ -195,6 +266,14 @@ export default async function CandidateDetailPage({
     "candidates_detail",
     `${entryId}.json`
   );
+  const resultsPath = path.join(
+    process.cwd(),
+    "public",
+    "data",
+    "elections",
+    cycle,
+    "results.json"
+  );
 
   try {
     await fs.access(detailPath);
@@ -203,6 +282,15 @@ export default async function CandidateDetailPage({
   }
 
   const payload = await readJson<CandidateDetailPayload>(detailPath);
+  let resultsPayload: ResultsPayload | null = null;
+  try {
+    await fs.access(resultsPath);
+    resultsPayload = await readJson<ResultsPayload>(resultsPath);
+  } catch {
+    resultsPayload = null;
+  }
+  const resultsRecord =
+    resultsPayload?.records.find((record) => record.candidate_entry_id === entryId) ?? null;
   const politicalBackground = [
     {
       label: { en: "Party member since", vi: "Ngày vào Đảng" },
@@ -238,6 +326,64 @@ export default async function CandidateDetailPage({
           {payload.locality?.name_vi ?? "Unknown locality"} ·{" "}
           {payload.constituency?.name_vi ?? "Unknown constituency"}
         </p>
+      </section>
+
+      <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+        <h2 className="text-lg font-semibold text-[var(--ink)]">Results · Kết quả</h2>
+        <p className="mt-2 text-sm text-[var(--ink-muted)]">
+          Vote totals and rankings for this candidate in the official results.
+        </p>
+        <p className="mt-1 text-sm text-[var(--ink-muted)]">
+          Số phiếu và thứ hạng theo công bố chính thức.
+        </p>
+        {!resultsRecord ? (
+          <p className="mt-4 text-sm text-[var(--ink-muted)]">
+            Results are not yet available for this candidate.
+          </p>
+        ) : (
+          <>
+            <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-3">
+              <div>
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Rank · Thứ hạng
+                </span>
+                <p className="mt-1">{formatNumber(resultsRecord.order_in_unit)}</p>
+              </div>
+              <div>
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Votes · Phiếu bầu
+                </span>
+                <p className="mt-1">{formatNumber(resultsRecord.votes)}</p>
+              </div>
+              <div>
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Percent · Tỷ lệ
+                </span>
+                <p className="mt-1">
+                  {formatPercent(resultsRecord.percent, resultsRecord.percent_raw)}
+                </p>
+              </div>
+            </div>
+            {resultsRecord.annotations.length > 0 && (
+              <div className="mt-4">
+                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                  Status · Trạng thái
+                </span>
+                <div className="mt-2 flex flex-wrap gap-2 text-xs">
+                  {resultsRecord.annotations.map((annotation) => (
+                    <span
+                      key={annotation.id}
+                      className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
+                      title={formatAnnotationDetails(annotation)}
+                    >
+                      {formatStatus(annotation.status)}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+          </>
+        )}
       </section>
 
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
@@ -311,45 +457,135 @@ export default async function CandidateDetailPage({
           Each field is tied to an official document. Links below reference the source
           documents used for this entry.
         </p>
-        <div className="mt-4 grid gap-3">
-          {groupSources(payload.sources).map((group) => (
-            <div
-              key={group.title}
-              className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]"
-            >
-              <div className="flex flex-col gap-1">
-                <span className="font-semibold text-[var(--ink)]">{group.title}</span>
-                <span className="text-xs text-[var(--ink-muted)]">
-                  Fields · Trường: {group.items.map((item) => item.field).join(", ")}
-                </span>
-                <div className="text-xs text-[var(--ink-muted)]">
-                  Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·
-                  Xuất bản: {formatDate(group.items[0]?.published_date)}
-                </div>
+        <div className="mt-4 grid gap-4">
+          {(resultsPayload?.source || resultsRecord?.annotations.length) && (
+            <div>
+              <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                Results sources · Nguồn kết quả
+              </p>
+              <div className="mt-3 grid gap-3">
+                {resultsPayload?.source && (
+                  <div className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]">
+                    <div className="flex flex-col gap-1">
+                      <span className="font-semibold text-[var(--ink)]">
+                        {resultsPayload.source.title}
+                      </span>
+                      <span className="text-xs text-[var(--ink-muted)]">
+                        Fields · Trường: results
+                      </span>
+                      <div className="text-xs text-[var(--ink-muted)]">
+                        Type · Loại: {formatDocType(resultsPayload.source.doc_type)} · Published ·
+                        Xuất bản: {formatDate(resultsPayload.source.published_date)}
+                      </div>
+                    </div>
+                    {resultsPayload.source.url && (
+                      <a
+                        className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+                        href={resultsPayload.source.url}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Open source
+                      </a>
+                    )}
+                    {resultsPayload.source.fetched_date && (
+                      <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                        Fetched · Thu thập: {formatDate(resultsPayload.source.fetched_date)}
+                      </div>
+                    )}
+                  </div>
+                )}
+                {resultsRecord?.annotations.map((annotation) =>
+                  annotation.source ? (
+                    <div
+                      key={`${annotation.id}-source`}
+                      className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]"
+                    >
+                      <div className="flex flex-col gap-1">
+                        <span className="font-semibold text-[var(--ink)]">
+                          {annotation.source.title}
+                        </span>
+                        <span className="text-xs text-[var(--ink-muted)]">
+                          Fields · Trường: results_annotation ({formatStatus(annotation.status)})
+                        </span>
+                        <div className="text-xs text-[var(--ink-muted)]">
+                          Type · Loại: {formatDocType(annotation.source.doc_type)} · Published ·
+                          Xuất bản: {formatDate(annotation.source.published_date)}
+                        </div>
+                      </div>
+                      {annotation.source.url && (
+                        <a
+                          className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+                          href={annotation.source.url}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Open source
+                        </a>
+                      )}
+                      {annotation.source.fetched_date && (
+                        <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                          Fetched · Thu thập: {formatDate(annotation.source.fetched_date)}
+                        </div>
+                      )}
+                      {annotation.reason && (
+                        <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                          Notes · Ghi chú: {annotation.reason}
+                        </div>
+                      )}
+                    </div>
+                  ) : null
+                )}
               </div>
-              {group.items[0]?.url && (
-                <a
-                  className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
-                  href={group.items[0].url}
+            </div>
+          )}
+          <div>
+            <p className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+              Candidate sources · Nguồn ứng cử
+            </p>
+            <div className="mt-3 grid gap-3">
+              {groupSources(payload.sources).map((group) => (
+                <div
+                  key={group.title}
+                  className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm text-[var(--ink-muted)]"
                 >
-                  Open source
-                </a>
-              )}
-              {group.items[0]?.fetched_date && (
-                <div className="mt-2 text-xs text-[var(--ink-muted)]">
-                  Fetched · Thu thập: {formatDate(group.items[0].fetched_date)}
+                  <div className="flex flex-col gap-1">
+                    <span className="font-semibold text-[var(--ink)]">{group.title}</span>
+                    <span className="text-xs text-[var(--ink-muted)]">
+                      Fields · Trường: {group.items.map((item) => item.field).join(", ")}
+                    </span>
+                    <div className="text-xs text-[var(--ink-muted)]">
+                      Type · Loại: {formatDocType(group.items[0]?.doc_type)} · Published ·
+                      Xuất bản: {formatDate(group.items[0]?.published_date)}
+                    </div>
+                  </div>
+                  {group.items[0]?.url && (
+                    <a
+                      className="mt-2 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+                      href={group.items[0].url}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Open source
+                    </a>
+                  )}
+                  {group.items[0]?.fetched_date && (
+                    <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                      Fetched · Thu thập: {formatDate(group.items[0].fetched_date)}
+                    </div>
+                  )}
+                  {group.items[0]?.notes && (
+                    <div className="mt-2 text-xs text-[var(--ink-muted)]">
+                      Notes · Ghi chú: {group.items[0].notes}
+                    </div>
+                  )}
                 </div>
-              )}
-              {group.items[0]?.notes && (
-                <div className="mt-2 text-xs text-[var(--ink-muted)]">
-                  Notes · Ghi chú: {group.items[0].notes}
-                </div>
+              ))}
+              {payload.sources.length === 0 && (
+                <p className="text-sm text-[var(--ink-muted)]">No sources listed yet.</p>
               )}
             </div>
-          ))}
-          {payload.sources.length === 0 && (
-            <p className="text-sm text-[var(--ink-muted)]">No sources listed yet.</p>
-          )}
+          </div>
         </div>
       </section>
 

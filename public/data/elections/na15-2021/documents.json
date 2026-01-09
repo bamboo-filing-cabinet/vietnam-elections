@@ -1,6 +1,6 @@
 {
   "cycle_id": "na15-2021",
-  "generated_at": "2026-01-09T04:40:36Z",
+  "generated_at": "2026-01-09T05:28:49Z",
   "records": [
     {
       "id": "doc-d95dfdf30653",
@@ -119,6 +119,16 @@
       "file_path": null,
       "doc_type": "web",
       "published_date": "2021-06-11",
+      "fetched_date": "2026-01-09",
+      "notes": null
+    },
+    {
+      "id": "doc-216f86d3b9af",
+      "title": "VTV report: ineligible winning candidate (Bình Dương)",
+      "url": "https://web.archive.org/web/20210621105212/https://vtv.vn/chinh-tri/khong-xac-nhan-tu-cach-dai-bieu-quoc-hoi-voi-bi-thu-tinh-uy-binh-duong-20210610192156321.htm",
+      "file_path": null,
+      "doc_type": "web",
+      "published_date": "2021-06-10",
       "fetched_date": "2026-01-09",
       "notes": null
     }

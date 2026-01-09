@@ -423,39 +423,61 @@ def export_cycle(conn: sqlite3.Connection) -> None:
         (cycle_id,),
     ).fetchone()
 
-    results_records = [
-        {
-            "id": row["id"],
-            "candidate_entry_id": row["candidate_entry_id"],
-            "person_id": row["person_id"],
-            "candidate_name_vi": row["candidate_name"],
-            "candidate_name_folded": row["candidate_name_folded"],
-            "locality_id": row["locality_id"],
-            "constituency_id": row["constituency_id"],
-            "unit_number": row["unit_number"],
-            "unit_description_vi": row["unit_description"],
-            "order_in_unit": row["order_in_unit"],
-            "votes": row["votes"],
-            "votes_raw": row["votes_raw"],
-            "percent": row["percent"],
-            "percent_raw": row["percent_raw"],
-            "notes": row["notes"],
-            "sources": fetch_sources(conn, "election_result_candidate", row["id"]),
-        }
-        for row in conn.execute(
-            """
-            SELECT erc.id, erc.candidate_entry_id, erc.candidate_name, erc.candidate_name_folded,
-                   erc.locality_id, erc.constituency_id, erc.unit_number, erc.unit_description,
-                   erc.order_in_unit, erc.votes, erc.votes_raw, erc.percent, erc.percent_raw, erc.notes,
-                   ce.person_id AS person_id
-            FROM election_result_candidate erc
-            LEFT JOIN candidate_entry ce ON ce.id = erc.candidate_entry_id
-            WHERE erc.cycle_id = ?
-            ORDER BY erc.locality_id, erc.unit_number, erc.order_in_unit
-            """,
-            (cycle_id,),
-        ).fetchall()
-    ]
+    results_rows = conn.execute(
+        """
+        SELECT erc.id, erc.candidate_entry_id, erc.candidate_name, erc.candidate_name_folded,
+               erc.locality_id, erc.constituency_id, erc.unit_number, erc.unit_description,
+               erc.order_in_unit, erc.votes, erc.votes_raw, erc.percent, erc.percent_raw, erc.notes,
+               ce.person_id AS person_id
+        FROM election_result_candidate erc
+        LEFT JOIN candidate_entry ce ON ce.id = erc.candidate_entry_id
+        WHERE erc.cycle_id = ?
+        ORDER BY erc.locality_id, erc.unit_number, erc.order_in_unit
+        """,
+        (cycle_id,),
+    ).fetchall()
+    results_records = []
+    for row in results_rows:
+        annotations = [
+            {
+                "id": ann["id"],
+                "status": ann["status"],
+                "reason": ann["reason"],
+                "effective_date": ann["effective_date"],
+                "source": fetch_document(conn, ann["source_document_id"]) if ann["source_document_id"] else None,
+                "notes": ann["notes"],
+            }
+            for ann in conn.execute(
+                """
+                SELECT id, status, reason, effective_date, source_document_id, notes
+                FROM election_result_candidate_annotation
+                WHERE result_id = ?
+                ORDER BY effective_date
+                """,
+                (row["id"],),
+            ).fetchall()
+        ]
+        results_records.append(
+            {
+                "id": row["id"],
+                "candidate_entry_id": row["candidate_entry_id"],
+                "person_id": row["person_id"],
+                "candidate_name_vi": row["candidate_name"],
+                "candidate_name_folded": row["candidate_name_folded"],
+                "locality_id": row["locality_id"],
+                "constituency_id": row["constituency_id"],
+                "unit_number": row["unit_number"],
+                "unit_description_vi": row["unit_description"],
+                "order_in_unit": row["order_in_unit"],
+                "votes": row["votes"],
+                "votes_raw": row["votes_raw"],
+                "percent": row["percent"],
+                "percent_raw": row["percent_raw"],
+                "notes": row["notes"],
+                "sources": fetch_sources(conn, "election_result_candidate", row["id"]),
+                "annotations": annotations,
+            }
+        )
 
     results_payload = {
         "cycle_id": cycle_id,

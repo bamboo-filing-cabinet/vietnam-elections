@@ -24,10 +24,12 @@ DOC_URL_CANDIDATE_LIST = "https://images.hcmcpv.org.vn/Uploads/File/280420219523
 DOC_URL_CONGRESSIONAL_UNITS = "https://images.hcmcpv.org.vn/Uploads/File/280420219523F244/Danhsachbaucu-PYFO.pdf"
 DOC_URL_DOCX_LIST = "https://baochinhphu.vn/danh-sach-868-nguoi-ung-cu-dbqh-khoa-xv-102291334.htm"
 DOC_URL_RESULTS_CEMA = "https://web.archive.org/web/20250221194402/http://www.cema.gov.vn/bau-cu-QH-HDND/cong-bo-danh-sach-499-nguoi-trung-cu-dai-bieu-quoc-hoi-khoa-xv.htm"
+DOC_URL_VTV_INELIGIBLE = "https://web.archive.org/web/20210621105212/https://vtv.vn/chinh-tri/khong-xac-nhan-tu-cach-dai-bieu-quoc-hoi-voi-bi-thu-tinh-uy-binh-duong-20210610192156321.htm"
 DOC_PATH_CANDIDATE_PDF = "data/na15-2021/candidates-list/candidates-list-vietnamese.pdf"
 DOC_PATH_CONGRESSIONAL_UNITS = "data/na15-2021/congressional-units.pdf"
 RESULTS_CEMA_JSON = os.path.join(DATA_DIR, "results", "cema-district-results.json")
 RESULTS_SUMMARY_JSON = os.path.join(DATA_DIR, "results", "research.json")
+RESULTS_VTV_METADATA_ID = "vtv_report_tran_van_nam_ineligible"
 
 
 def fold_text(value: str) -> str:
@@ -250,6 +252,16 @@ def init_db(conn: sqlite3.Connection) -> None:
           notes TEXT
         );
 
+        CREATE TABLE IF NOT EXISTS election_result_candidate_annotation (
+          id TEXT PRIMARY KEY,
+          result_id TEXT NOT NULL REFERENCES election_result_candidate(id) ON DELETE CASCADE,
+          status TEXT NOT NULL,
+          reason TEXT,
+          effective_date TEXT,
+          source_document_id TEXT REFERENCES document(id) ON DELETE RESTRICT,
+          notes TEXT
+        );
+
         CREATE UNIQUE INDEX IF NOT EXISTS ux_constituency_cycle_locality_unit
           ON constituency (cycle_id, locality_id, unit_number);
 
@@ -293,6 +305,13 @@ def load_documents(conn: sqlite3.Connection) -> None:
             "url": DOC_URL_RESULTS_CEMA,
             "doc_type": "web",
             "published_date": "2021-06-11",
+            "fetched_date": RESULTS_FETCHED_DATE,
+        },
+        {
+            "title": "VTV report: ineligible winning candidate (Bình Dương)",
+            "url": DOC_URL_VTV_INELIGIBLE,
+            "doc_type": "web",
+            "published_date": "2021-06-10",
             "fetched_date": RESULTS_FETCHED_DATE,
         },
         {
@@ -957,6 +976,60 @@ def load_results_summary(conn: sqlite3.Connection) -> None:
         ),
     )
 
+
+def load_result_annotations(conn: sqlite3.Connection) -> None:
+    if not os.path.exists(RESULTS_SUMMARY_JSON):
+        return
+    with open(RESULTS_SUMMARY_JSON, "r", encoding="utf-8") as fh:
+        payload = json.load(fh)
+
+    vtv_source = next(
+        (source for source in payload.get("sources", []) if source.get("id") == RESULTS_VTV_METADATA_ID),
+        None,
+    )
+    if not vtv_source:
+        return
+
+    document_id = make_id("doc-", f"web|{DOC_URL_VTV_INELIGIBLE}")
+
+    # Match the ineligible candidate by name and constituency (Bình Dương, unit 1).
+    folded_name = fold_text("Trần Văn Nam")
+    result_row = conn.execute(
+        """
+        SELECT erc.id
+        FROM election_result_candidate erc
+        JOIN constituency c ON c.id = erc.constituency_id
+        JOIN locality l ON l.id = c.locality_id
+        WHERE erc.cycle_id = ?
+          AND erc.candidate_name_folded LIKE ?
+          AND c.unit_number = 1
+          AND l.name_folded LIKE ?
+        LIMIT 1
+        """,
+        (ELECTION_CYCLE_ID, f"%{folded_name}%", "%binh duong%"),
+    ).fetchone()
+
+    if not result_row:
+        return
+
+    annotation_id = make_id("res-ann-", f"{ELECTION_CYCLE_ID}|{result_row[0]}|not_confirmed")
+    conn.execute(
+        """
+        INSERT INTO election_result_candidate_annotation
+          (id, result_id, status, reason, effective_date, source_document_id, notes)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        """,
+        (
+            annotation_id,
+            result_row[0],
+            "not_confirmed",
+            "Candidate not confirmed to take seat",
+            "2021-06-10",
+            document_id,
+            "Per VTV report",
+        ),
+    )
+
 def main() -> None:
     ensure_dir(DATA_DIR)
     if os.path.exists(DB_PATH):
@@ -995,6 +1068,7 @@ def main() -> None:
         add_constituency_sources(conn)
         load_cema_results(conn, maps["locality_key_map"], maps["constituency_map"])
         load_results_summary(conn)
+        load_result_annotations(conn)
         conn.commit()
     finally:
         conn.close()
