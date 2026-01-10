@@ -82,6 +82,7 @@ type ResultsRecord = {
   unit_number: number | null;
   unit_description_vi: string | null;
   order_in_unit: number | null;
+  status: string | null;
   votes: number | null;
   votes_raw: string | null;
   percent: number | null;
@@ -227,6 +228,19 @@ function formatStatus(value: string): string {
     .join(" ");
 }
 
+function deriveResultStatus(
+  orderInUnit: number | null,
+  seatCount: number | null | undefined
+): string | null {
+  if (orderInUnit === null || orderInUnit === undefined) {
+    return null;
+  }
+  if (seatCount === null || seatCount === undefined) {
+    return null;
+  }
+  return orderInUnit <= seatCount ? "win" : "lose";
+}
+
 function formatAnnotationDetails(annotation: ResultsAnnotation): string {
   const parts = [annotation.reason, annotation.effective_date]
     .filter(Boolean)
@@ -291,6 +305,9 @@ export default async function CandidateDetailPage({
   }
   const resultsRecord =
     resultsPayload?.records.find((record) => record.candidate_entry_id === entryId) ?? null;
+  const derivedStatus =
+    resultsRecord?.status ??
+    deriveResultStatus(resultsRecord?.order_in_unit ?? null, payload.constituency?.seat_count);
   const politicalBackground = [
     {
       label: { en: "Party member since", vi: "Ngày vào Đảng" },
@@ -351,6 +368,29 @@ export default async function CandidateDetailPage({
           </p>
         ) : (
           <>
+            <div className="mt-4">
+              <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
+                Status · Trạng thái
+              </span>
+              <div className="mt-2 flex flex-wrap gap-2 text-xs">
+                {derivedStatus ? (
+                  <span className="rounded-full border-2 border-[var(--border)] bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--ink)]">
+                    {formatStatus(derivedStatus)}
+                  </span>
+                ) : (
+                  <span className="text-[var(--ink-muted)]">—</span>
+                )}
+                {resultsRecord.annotations.map((annotation) => (
+                  <span
+                    key={annotation.id}
+                    className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
+                    title={formatAnnotationDetails(annotation)}
+                  >
+                    {formatStatus(annotation.status)}
+                  </span>
+                ))}
+              </div>
+            </div>
             <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-3">
               <div>
                 <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
@@ -373,24 +413,6 @@ export default async function CandidateDetailPage({
                 </p>
               </div>
             </div>
-            {resultsRecord.annotations.length > 0 && (
-              <div className="mt-4">
-                <span className="text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">
-                  Status · Trạng thái
-                </span>
-                <div className="mt-2 flex flex-wrap gap-2 text-xs">
-                  {resultsRecord.annotations.map((annotation) => (
-                    <span
-                      key={annotation.id}
-                      className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
-                      title={formatAnnotationDetails(annotation)}
-                    >
-                      {formatStatus(annotation.status)}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
           </>
         )}
       </section>

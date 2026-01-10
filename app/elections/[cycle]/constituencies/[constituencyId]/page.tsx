@@ -95,6 +95,7 @@ type ResultsRecord = {
   unit_number: number | null;
   unit_description_vi: string | null;
   order_in_unit: number | null;
+  status: string | null;
   votes: number | null;
   votes_raw: string | null;
   percent: number | null;
@@ -274,6 +275,19 @@ function formatStatus(value: string): string {
     .split("_")
     .map((part) => part[0]?.toUpperCase() + part.slice(1))
     .join(" ");
+}
+
+function deriveResultStatus(
+  orderInUnit: number | null,
+  seatCount: number | null | undefined
+): string | null {
+  if (orderInUnit === null || orderInUnit === undefined) {
+    return null;
+  }
+  if (seatCount === null || seatCount === undefined) {
+    return null;
+  }
+  return orderInUnit <= seatCount ? "win" : "lose";
 }
 
 function formatAnnotationDetails(annotation: ResultsRecord["annotations"][number]): string {
@@ -471,6 +485,9 @@ export default async function ConstituencyDetailPage({
                     <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}>
                       Percent
                     </th>
+                    <th className={`sticky top-0 border-b border-[var(--border)] bg-[var(--surface-muted)] px-3 py-2 ${COL_CLASSES.wide}`}>
+                      Status
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
@@ -481,7 +498,9 @@ export default async function ConstituencyDetailPage({
                     const name = candidate
                       ? candidate.person.full_name
                       : record.candidate_name_vi;
-                    const hasAnnotation = record.annotations.length > 0;
+                    const derivedStatus =
+                      record.status ??
+                      deriveResultStatus(record.order_in_unit, constituency.seat_count ?? null);
                     return (
                       <tr
                         key={record.id}
@@ -508,19 +527,6 @@ export default async function ConstituencyDetailPage({
                                 {formatText(name)}
                               </span>
                             )}
-                            {hasAnnotation && (
-                              <div className="flex flex-wrap gap-2 text-xs">
-                                {record.annotations.map((annotation) => (
-                                  <span
-                                    key={annotation.id}
-                                    className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
-                                    title={formatAnnotationDetails(annotation)}
-                                  >
-                                    {formatStatus(annotation.status)}
-                                  </span>
-                                ))}
-                              </div>
-                            )}
                           </div>
                         </td>
                         <td
@@ -532,6 +538,28 @@ export default async function ConstituencyDetailPage({
                           className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
                         >
                           {formatPercent(record.percent, record.percent_raw)}
+                        </td>
+                        <td
+                          className={`border-b border-[var(--border)] px-3 py-2 align-top ${COL_CLASSES.wide}`}
+                        >
+                          <div className="flex flex-wrap gap-2 text-xs">
+                            {derivedStatus ? (
+                              <span className="rounded-full border-2 border-[var(--border)] bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--ink)]">
+                                {formatStatus(derivedStatus)}
+                              </span>
+                            ) : (
+                              <span className="text-[var(--ink-muted)]">—</span>
+                            )}
+                            {record.annotations.map((annotation) => (
+                              <span
+                                key={annotation.id}
+                                className="rounded-full border-2 border-[var(--flag-red)]/40 bg-[var(--surface-muted)] px-2 py-0.5 text-[var(--flag-red-deep)]"
+                                title={formatAnnotationDetails(annotation)}
+                              >
+                                {formatStatus(annotation.status)}
+                              </span>
+                            ))}
+                          </div>
                         </td>
                       </tr>
                     );
