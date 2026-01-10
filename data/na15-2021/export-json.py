@@ -441,7 +441,7 @@ def export_cycle(conn: sqlite3.Connection) -> None:
     for row in results_rows:
         status = None
         if row["order_in_unit"] is not None and row["seat_count"] is not None:
-            status = "win" if row["order_in_unit"] <= row["seat_count"] else "lose"
+            status = "won" if row["order_in_unit"] <= row["seat_count"] else "lost"
         annotations = [
             {
                 "id": ann["id"],
