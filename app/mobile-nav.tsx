@@ -49,6 +49,13 @@ export default function MobileNav() {
             </Link>
             <Link
               className="hover:text-[var(--ink)]"
+              href="/contact"
+              onClick={() => setOpen(false)}
+            >
+              Contact
+            </Link>
+            <Link
+              className="hover:text-[var(--ink)]"
               href="/disclaimer"
               onClick={() => setOpen(false)}
             >

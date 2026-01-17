@@ -29,6 +29,22 @@ export default function SourcesPage() {
       </section>
 
       <section className="rounded-2xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-6 text-sm text-[var(--ink-muted)]">
+        <p>
+          Found an issue with a source or timestamp? Use the contact page to report it.
+        </p>
+        <p className="mt-2">
+          Nếu phát hiện sai sót về nguồn hoặc thời điểm, vui lòng liên hệ qua trang
+          Contact.
+        </p>
+        <Link
+          className="mt-3 inline-flex text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+          href="/contact"
+        >
+          Contact
+        </Link>
+      </section>
+
+      <section className="rounded-2xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] p-6 text-sm text-[var(--ink-muted)]">
         Global sources will appear here as they are added.
       </section>
     </div>

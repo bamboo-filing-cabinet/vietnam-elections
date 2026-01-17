@@ -5,10 +5,48 @@ export default function PrivacyPage() {
         <p className="text-xs uppercase tracking-[0.3em] text-[var(--flag-red-deep)]">Privacy</p>
         <h1 className="mt-3 text-3xl font-semibold text-[var(--ink)]">Privacy policy</h1>
         <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
-          This site does not collect personal accounts or accept public submissions.
+          This site does not collect personal accounts or accept on-site submissions. If
+          you need to contact the project, use{" "}
+          <a
+            className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+            href="https://github.com/VietThan/vietnam-elections/issues"
+            rel="noreferrer"
+            target="_blank"
+          >
+            GitHub Issues
+          </a>{" "}
+          or the{" "}
+          <a
+            className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+            href="https://forms.gle/UaPUdJZ5SGrTKdr2A"
+            rel="noreferrer"
+            target="_blank"
+          >
+            anonymous form
+          </a>
+          .
         </p>
         <p className="mt-3 max-w-2xl text-sm text-[var(--ink-muted)]">
-          Trang này không thu thập tài khoản cá nhân hoặc nhận nội dung từ công chúng.
+          Trang này không thu thập tài khoản cá nhân hoặc nhận nội dung trực tiếp trên
+          website. Nếu cần liên hệ, vui lòng dùng{" "}
+          <a
+            className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+            href="https://github.com/VietThan/vietnam-elections/issues"
+            rel="noreferrer"
+            target="_blank"
+          >
+            GitHub Issues
+          </a>{" "}
+          hoặc{" "}
+          <a
+            className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+            href="https://forms.gle/UaPUdJZ5SGrTKdr2A"
+            rel="noreferrer"
+            target="_blank"
+          >
+            form ẩn danh
+          </a>
+          .
         </p>
       </section>
 
@@ -17,7 +55,8 @@ export default function PrivacyPage() {
         <p className="mt-1 text-xs uppercase tracking-[0.2em] text-[var(--flag-red-deep)]">Dữ liệu</p>
         <ul className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
           <li>No user accounts or profiles are created.</li>
-          <li>No comments or public submissions are collected.</li>
+          <li>No comments or on-site public submissions are collected.</li>
+          <li>External channels (GitHub Issues, Google Form) follow their own policies.</li>
           <li>Basic server logs may exist for hosting operations.</li>
         </ul>
       </section>

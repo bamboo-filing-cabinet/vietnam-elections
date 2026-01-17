@@ -21,7 +21,48 @@ export default function DisclaimerPage() {
         <ul className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)]">
           <li>Data reflects the state of the sources at the time of collection.</li>
           <li>Errors may exist in source documents; corrections are welcome.</li>
-          <li>This site does not solicit or publish user submissions.</li>
+          <li>
+            Corrections or questions? Preferred:{" "}
+            <a
+              className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+              href="https://github.com/VietThan/vietnam-elections/issues"
+              rel="noreferrer"
+              target="_blank"
+            >
+              GitHub Issues
+            </a>{" "}
+            (with sources + retrieval dates if available). Anonymous option:{" "}
+            <a
+              className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+              href="https://forms.gle/UaPUdJZ5SGrTKdr2A"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Google Form
+            </a>
+            .
+          </li>
+          <li>
+            Đính chính hoặc câu hỏi? Ưu tiên:{" "}
+            <a
+              className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+              href="https://github.com/VietThan/vietnam-elections/issues"
+              rel="noreferrer"
+              target="_blank"
+            >
+              GitHub Issues
+            </a>{" "}
+            (kèm nguồn + ngày truy xuất nếu có). Ẩn danh:{" "}
+            <a
+              className="text-[var(--flag-red-deep)] hover:text-[var(--flag-red)]"
+              href="https://forms.gle/UaPUdJZ5SGrTKdr2A"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Google Form
+            </a>
+            .
+          </li>
         </ul>
       </section>
     </div>

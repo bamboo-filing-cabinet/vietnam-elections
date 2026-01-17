@@ -122,6 +122,12 @@ export default function Home() {
           >
             Methodology
           </Link>
+          <Link
+            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 transition hover:border-[var(--flag-red)] hover:text-[var(--ink)]"
+            href="/contact"
+          >
+            Contact
+          </Link>
         </div>
       </section>
     </div>

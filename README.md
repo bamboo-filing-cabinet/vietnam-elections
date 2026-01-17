@@ -3,7 +3,7 @@
 Static, source-linked directory of official Vietnam election candidates. Built as a Next.js App Router site with a build-time data pipeline (SQLite staging DB -> JSON exports) and deployed to GitHub Pages.
 
 ## Goals
-- Encyclopedia-mode presentation: no endorsements, rankings, or user submissions.
+- Encyclopedia-mode presentation: no endorsements, rankings, or public comments.
 - Every factual field is backed by a source URL and timestamps.
 - Static hosting only; no runtime backend.
 

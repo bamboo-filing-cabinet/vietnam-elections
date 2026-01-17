@@ -77,6 +77,9 @@ export default function RootLayout({
                   <Link className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70" href="/sources">
                   Sources
                   </Link>
+                  <Link className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70" href="/contact">
+                  Contact
+                  </Link>
                   <Link className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70" href="/disclaimer">
                   Disclaimer
                   </Link>
@@ -104,6 +107,9 @@ export default function RootLayout({
                 </Link>
                 <Link className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70" href="/changelog">
                   Changelog
+                </Link>
+                <Link className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70" href="/contact">
+                  Contact
                 </Link>
                 <a
                   className="hover:text-[var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--flag-yellow)]/70"
