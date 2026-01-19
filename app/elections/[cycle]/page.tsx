@@ -315,6 +315,17 @@ export default async function ElectionOverviewPage({
               Candidate directory will appear when data is published.
             </div>
           )}
+          <Link
+            href={`/elections/${cycle}/quick-stats`}
+            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-5 transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
+          >
+            <p className="text-sm font-semibold text-[var(--ink)]">Quick stats</p>
+            <p className="mt-2 text-xs text-[var(--ink-muted)]">
+              {cycle === "na15-2021"
+                ? "Snapshot of curated metrics for this cycle."
+                : "Quick stats will appear when data is published."}
+            </p>
+          </Link>
           {candidates ? (
             <Link
               href={`/elections/${cycle}/constituencies`}
