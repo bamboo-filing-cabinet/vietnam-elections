@@ -12,48 +12,30 @@ export default function Home() {
         </h1>
         <p className="mt-3 max-w-2xl text-base leading-7 text-[var(--ink-muted)]">
           A static, source-linked directory of official candidate information for Vietnam
-          elections. Built for transparency and historical reference.
+          elections. Currently focused on the 2021 cycle while the 2026 dataset is prepared.
         </p>
         <p className="mt-4 max-w-2xl text-sm leading-6 text-[var(--ink-muted)]">
-          Dữ liệu bầu cử Việt Nam: thư mục tĩnh, có nguồn trích dẫn, tổng hợp thông
-          tin ứng cử viên từ tài liệu chính thức.
+          Dữ liệu bầu cử Việt Nam: thư mục tĩnh, có nguồn trích dẫn. Hiện tập trung
+          vào kỳ 2021 trong khi dữ liệu 2026 đang được chuẩn bị.
         </p>
 
-        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          <Link
-            href="/elections/na15-2021/candidates"
-            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-5 py-4 text-sm font-semibold text-[var(--ink)] transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
-          >
-            Search candidates (2021)
-            <span className="mt-2 block text-xs font-normal text-[var(--ink-muted)]">
-              Find official entries by name or locality.
-            </span>
-          </Link>
-          <Link
-            href="/elections/na15-2021/constituencies"
-            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-5 py-4 text-sm font-semibold text-[var(--ink)] transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
-          >
-            Browse constituencies (2021)
-            <span className="mt-2 block text-xs font-normal text-[var(--ink-muted)]">
-              See districts and seat counts.
-            </span>
-          </Link>
-          <Link
-            href="/sources"
-            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-5 py-4 text-sm font-semibold text-[var(--ink)] transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
-          >
-            Sources & methodology
-            <span className="mt-2 block text-xs font-normal text-[var(--ink-muted)]">
-              How the data is collected.
-            </span>
-          </Link>
+        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-2">
           <Link
             href="/elections/na16-2026"
             className="rounded-2xl border-2 border-dashed border-[var(--border)] bg-[var(--surface-muted)] px-5 py-4 text-sm font-semibold text-[var(--ink-muted)]"
           >
-            2026 cycle (coming soon)
+            2026 National Assembly Cycle (coming soon)
             <span className="mt-2 block text-xs font-normal text-[var(--ink-muted)]">
-              Dataset not yet published.
+              Data not yet published.
+            </span>
+          </Link>
+          <Link
+            href="/elections/na15-2021"
+            className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-5 py-4 text-sm font-semibold text-[var(--ink)] transition hover:-translate-y-1 hover:border-[var(--flag-red)] hover:shadow-[0_16px_32px_-24px_rgba(218,37,29,0.6)]"
+          >
+            2021 National Assembly Cycle
+            <span className="mt-2 block text-xs font-normal text-[var(--ink-muted)]">
+              Previous cycle archive.
             </span>
           </Link>
         </div>
@@ -63,12 +45,12 @@ export default function Home() {
         <div className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
           <h2 className="text-lg font-semibold text-[var(--ink)]">What you can do</h2>
           <p className="mt-2 text-sm text-[var(--ink-muted)]">
-            Explore official candidate entries, see constituency boundaries, and verify
-            information against published sources.
+            Explore the 2021 cycle archive while the 2026 dataset is being prepared.
+            All entries link back to official sources.
           </p>
           <ul className="mt-4 space-y-2 text-sm text-[var(--ink-muted)]">
-            <li>Search candidates by name, locality, or constituency.</li>
-            <li>Browse constituencies and district coverage.</li>
+            <li>Search 2021 candidates by name, locality, or constituency.</li>
+            <li>Browse 2021 constituencies and district coverage.</li>
             <li>Review official source documents and timestamps.</li>
           </ul>
         </div>
@@ -89,14 +71,14 @@ export default function Home() {
       <section className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
         <h2 className="text-lg font-semibold text-[var(--ink)]">Quick links</h2>
         <p className="mt-2 text-sm text-[var(--ink-muted)]">
-          Jump directly to key sections of the directory.
+          Jump directly to the 2021 archive and supporting documentation.
         </p>
         <div className="mt-4 grid gap-3 text-sm text-[var(--ink-muted)] sm:grid-cols-2 lg:grid-cols-3">
           <Link
             className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 transition hover:border-[var(--flag-red)] hover:text-[var(--ink)]"
-            href="/elections"
+            href="/elections/na15-2021"
           >
-            Elections index
+            2021 cycle overview
           </Link>
           <Link
             className="rounded-2xl border-2 border-[var(--border)] bg-[var(--surface)] px-4 py-3 transition hover:border-[var(--flag-red)] hover:text-[var(--ink)]"
