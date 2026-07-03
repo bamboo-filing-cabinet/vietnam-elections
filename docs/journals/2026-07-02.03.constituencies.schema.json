@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bamboo-filing-cabinet.github.io/vietnam-elections/schema/constituencies.schema.json",
+  "title": "Vietnam Elections — constituencies export (NA15-2021)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["cycle_id", "generated_at", "records"],
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycleId" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/generatedAt" },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/constituencyRecord" }
+    }
+  },
+
+  "$defs": {
+    "constituencyRecord": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "locality_id", "unit_number", "seat_count", "name_vi", "name_folded", "description", "unit_context_raw", "districts", "sources"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^(na15-2021-const-[0-9]+|const-auto-[0-9a-f]{6,})$",
+          "description": "MIXED SCHEME (worth reconciling): most ids are 'na15-2021-const-<n>', but some are opaque 'const-auto-<hash>' where the source lacked a clean unit number. Two id grammars for one entity type will complicate joins."
+        },
+        "locality_id": { "type": "string", "pattern": "^loc-[0-9a-f]{6,}$" },
+        "unit_number": { "type": "integer", "minimum": 1 },
+        "seat_count": { "type": "integer", "minimum": 1, "description": "Multi-member: seats per unit (observed max 3)" },
+        "name_vi": { "type": "string", "minLength": 1 },
+        "name_folded": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "description": "Human-readable component districts/cities" },
+        "unit_context_raw": { "type": ["string", "null"], "description": "Raw extracted text block from the source bulletin; null where none was captured" },
+        "districts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name_vi", "name_folded", "sources"],
+            "properties": {
+              "name_vi": { "type": "string", "minLength": 1 },
+              "name_folded": { "type": "string", "minLength": 1 },
+              "sources": {
+                "type": "array",
+                "minItems": 1,
+                "items": { "$ref": "common.schema.json#/$defs/sourceRef" }
+              }
+            }
+          }
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "common.schema.json#/$defs/sourceRef" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bamboo-filing-cabinet.github.io/vietnam-elections/schema/localities.schema.json",
+  "title": "Vietnam Elections — localities export (NA15-2021)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["cycle_id", "generated_at", "records"],
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycleId" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/generatedAt" },
+    "records": {
+      "type": "array",
+      "description": "63 provinces/municipalities (matches Vietnam's pre-2025 administrative count)",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name_vi", "name_folded", "type"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^loc-[0-9a-f]{6,}$" },
+          "name_vi": { "type": "string", "minLength": 1 },
+          "name_folded": { "type": "string", "minLength": 1 },
+          "type": {
+            "type": "string",
+            "enum": ["province_or_city"],
+            "description": "Recommended next step: add ISO 3166-2 / Wikidata / OCD identifiers here, pinned as-of 2021 since VN boundaries are being merged in 2025"
+          }
+        }
+      }
+    }
+  }
+}

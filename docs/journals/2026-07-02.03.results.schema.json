@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bamboo-filing-cabinet.github.io/vietnam-elections/schema/results.schema.json",
+  "title": "Vietnam Elections — results export (NA15-2021)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["cycle_id", "generated_at", "source", "summary", "records"],
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycleId" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/generatedAt" },
+    "source": { "$ref": "common.schema.json#/$defs/documentRef" },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["total_seats", "total_candidates", "total_voters", "total_votes_cast", "turnout_percent", "valid_votes", "invalid_votes"],
+      "properties": {
+        "total_seats": { "type": "integer", "minimum": 0 },
+        "total_candidates": { "type": "integer", "minimum": 0 },
+        "total_voters": { "type": "integer", "minimum": 0 },
+        "total_votes_cast": { "type": "integer", "minimum": 0 },
+        "turnout_percent": { "type": "number", "minimum": 0, "maximum": 100 },
+        "valid_votes": { "type": "integer", "minimum": 0 },
+        "invalid_votes": { "type": "integer", "minimum": 0 },
+        "confirmed_winners": { "type": ["integer", "null"], "minimum": 0 },
+        "unconfirmed_winners": { "type": ["integer", "null"], "minimum": 0 }
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/resultRecord" }
+    }
+  },
+
+  "$defs": {
+    "resultRecord": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "candidate_entry_id", "person_id", "candidate_name_vi", "candidate_name_folded",
+        "locality_id", "constituency_id", "unit_number", "unit_description_vi", "order_in_unit",
+        "statuses", "votes", "votes_raw", "percent", "percent_raw", "notes", "sources", "annotations"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^res-[0-9a-f]{6,}$" },
+        "candidate_entry_id": {
+          "type": "string",
+          "pattern": "^na15-2021-const-[0-9]+-[0-9]+$",
+          "description": "Form: <cycle>-const-<unit>-<order>. NOTE: current exports double the cycle prefix (na15-2021-na15-2021-const-...); that malformed form is REJECTED by this pattern on purpose, so the schema catches the generator bug."
+        },
+        "person_id": { "type": "string", "pattern": "^person-[0-9a-f]{6,}$" },
+        "candidate_name_vi": { "type": "string", "minLength": 1 },
+        "candidate_name_folded": { "type": "string", "minLength": 1, "description": "Diacritic-folded form for search" },
+        "locality_id": { "type": "string", "pattern": "^loc-[0-9a-f]{6,}$" },
+        "constituency_id": { "type": "string", "pattern": "^(na15-2021-const-[0-9]+|const-auto-[0-9a-f]{6,})$" },
+        "unit_number": { "type": "integer", "minimum": 1 },
+        "unit_description_vi": { "type": "string" },
+        "order_in_unit": { "type": "integer", "minimum": 1 },
+        "statuses": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "$ref": "common.schema.json#/$defs/statusValue" }
+        },
+        "votes": { "type": "integer", "minimum": 0 },
+        "votes_raw": { "type": "string", "description": "Original source formatting preserved, e.g. '350.576'" },
+        "percent": { "type": "number", "minimum": 0, "maximum": 100 },
+        "percent_raw": { "type": "string", "description": "Original source formatting preserved, e.g. '93,36'" },
+        "notes": { "type": ["string", "null"] },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "common.schema.json#/$defs/sourceRef" }
+        },
+        "annotations": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/annotation" }
+        }
+      }
+    }
+  }
+}
