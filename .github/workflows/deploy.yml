@@ -15,7 +15,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  validate:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema
+
+      - name: Validate results.json
+        working-directory: schema
+        run: check-jsonschema --schemafile results.schema.json ../public/data/elections/na15-2021/results.json
+
+      - name: Validate constituencies.json
+        working-directory: schema
+        run: check-jsonschema --schemafile constituencies.schema.json ../public/data/elections/na15-2021/constituencies.json
+
+      - name: Validate localities.json
+        working-directory: schema
+        run: check-jsonschema --schemafile localities.schema.json ../public/data/elections/na15-2021/localities.json
+
   build:
+    needs: validate
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     steps:
@@ -25,7 +48,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: "npm"
 
       - name: Install dependencies
