@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "localities.schema.json",
+  "title": "Vietnam Elections — Localities export",
+  "type": "object",
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycle_id" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/iso_datetime" },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/locality_record" }
+    }
+  },
+  "required": ["cycle_id", "generated_at", "records"],
+  "additionalProperties": false,
+  "$defs": {
+    "locality_record": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name_vi": { "type": "string" },
+        "name_folded": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": ["province_or_city"]
+        }
+      },
+      "required": ["id", "name_vi", "name_folded", "type"],
+      "additionalProperties": false
+    }
+  }
+}

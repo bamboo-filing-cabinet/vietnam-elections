@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "constituencies.schema.json",
+  "title": "Vietnam Elections — Constituencies export",
+  "type": "object",
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycle_id" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/iso_datetime" },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/constituency_record" }
+    }
+  },
+  "required": ["cycle_id", "generated_at", "records"],
+  "additionalProperties": false,
+  "$defs": {
+    "district": {
+      "type": "object",
+      "properties": {
+        "name_vi": { "type": "string" },
+        "name_folded": { "type": "string" },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/source" }
+        }
+      },
+      "required": ["name_vi", "name_folded", "sources"],
+      "additionalProperties": false
+    },
+    "constituency_record": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "locality_id": { "type": "string" },
+        "unit_number": { "type": "integer", "minimum": 1 },
+        "seat_count": { "type": "integer", "minimum": 0 },
+        "name_vi": { "type": "string" },
+        "name_folded": { "type": "string" },
+        "description": { "type": ["string", "null"] },
+        "unit_context_raw": { "type": ["string", "null"] },
+        "districts": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/district" }
+        },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/source" }
+        }
+      },
+      "required": [
+        "id", "locality_id", "unit_number", "seat_count",
+        "name_vi", "name_folded", "districts", "sources"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

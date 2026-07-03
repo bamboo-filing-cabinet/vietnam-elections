@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "results.schema.json",
+  "title": "Vietnam Elections — Results export",
+  "type": "object",
+  "properties": {
+    "cycle_id": { "$ref": "common.schema.json#/$defs/cycle_id" },
+    "generated_at": { "$ref": "common.schema.json#/$defs/iso_datetime" },
+    "source": { "$ref": "common.schema.json#/$defs/document" },
+    "summary": { "$ref": "#/$defs/summary" },
+    "records": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/result_record" }
+    }
+  },
+  "required": ["cycle_id", "generated_at", "source", "summary", "records"],
+  "additionalProperties": false,
+  "$defs": {
+    "summary": {
+      "type": "object",
+      "properties": {
+        "total_seats": { "type": ["integer", "null"] },
+        "total_candidates": { "type": ["integer", "null"] },
+        "total_voters": { "type": ["integer", "null"] },
+        "total_votes_cast": { "type": ["integer", "null"] },
+        "turnout_percent": { "type": ["number", "null"] },
+        "valid_votes": { "type": ["integer", "null"] },
+        "invalid_votes": { "type": ["integer", "null"] },
+        "confirmed_winners": { "type": ["integer", "null"] },
+        "unconfirmed_winners": { "type": ["integer", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "result_record": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "candidate_entry_id": { "type": "string" },
+        "person_id": { "type": "string" },
+        "candidate_name_vi": { "type": "string" },
+        "candidate_name_folded": { "type": "string" },
+        "locality_id": { "type": ["string", "null"] },
+        "constituency_id": { "type": ["string", "null"] },
+        "unit_number": { "type": ["integer", "null"] },
+        "unit_description_vi": { "type": ["string", "null"] },
+        "order_in_unit": { "type": ["integer", "null"] },
+        "statuses": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/result_status" },
+          "minItems": 1
+        },
+        "votes": { "type": ["integer", "null"] },
+        "votes_raw": { "type": ["string", "null"] },
+        "percent": { "type": ["number", "null"] },
+        "percent_raw": { "type": ["string", "null"] },
+        "notes": { "type": ["string", "null"] },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/source" }
+        },
+        "annotations": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/annotation" }
+        }
+      },
+      "required": [
+        "id", "candidate_entry_id", "person_id",
+        "candidate_name_vi", "candidate_name_folded",
+        "statuses", "sources", "annotations"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
