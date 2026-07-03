@@ -676,7 +676,7 @@ def load_candidates(
 
                 list_order = to_int(get_attr(row, "STT"))
                 # Candidate entries are keyed by cycle + constituency + list order (STT).
-                candidate_entry_id = f"{ELECTION_CYCLE_ID}-{constituency_id}-{list_order}"
+                candidate_entry_id = f"{constituency_id}-{list_order}"
 
                 conn.execute(
                     """
