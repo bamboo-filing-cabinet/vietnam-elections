@@ -1,0 +1,82 @@
+{
+  "profile": "data-package",
+  "name": "vietnam-elections-na15-2021",
+  "title": "Vietnam Elections NA15-2021 Dataset",
+  "description": "Small descriptor for the NA15-2021 compiled dataset outputs in this repository.",
+  "homepage": "https://bamboo-filing-cabinet.github.io/vietnam-elections/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vietnam Elections project repository",
+      "path": "https://github.com/bamboo-filing-cabinet/vietnam-elections"
+    },
+    {
+      "title": "Project data format direction",
+      "path": "docs/journals/2026-07-02.04.data-format-direction.md"
+    }
+  ],
+  "resources": [
+    {
+      "name": "results",
+      "title": "NA15-2021 results JSON export",
+      "path": "public/data/elections/na15-2021/results.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "constituencies",
+      "title": "NA15-2021 constituencies JSON export",
+      "path": "public/data/elections/na15-2021/constituencies.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "localities",
+      "title": "NA15-2021 localities JSON export",
+      "path": "public/data/elections/na15-2021/localities.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "staging-db",
+      "title": "SQLite staging database",
+      "path": "data/staging.db",
+      "format": "sqlite",
+      "mediatype": "application/vnd.sqlite3"
+    },
+    {
+      "name": "results-schema",
+      "title": "JSON Schema for results",
+      "path": "schema/results.schema.json",
+      "format": "json",
+      "mediatype": "application/schema+json"
+    },
+    {
+      "name": "constituencies-schema",
+      "title": "JSON Schema for constituencies",
+      "path": "schema/constituencies.schema.json",
+      "format": "json",
+      "mediatype": "application/schema+json"
+    },
+    {
+      "name": "localities-schema",
+      "title": "JSON Schema for localities",
+      "path": "schema/localities.schema.json",
+      "format": "json",
+      "mediatype": "application/schema+json"
+    },
+    {
+      "name": "common-schema",
+      "title": "Shared JSON Schema definitions",
+      "path": "schema/common.schema.json",
+      "format": "json",
+      "mediatype": "application/schema+json"
+    }
+  ]
+}
