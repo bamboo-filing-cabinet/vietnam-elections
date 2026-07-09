@@ -1,3 +1,0 @@
-# Raw HTML too large for git (~7,000 files across 15 terms)
-# Keep listing pages, gitignore individual profiles
-*/profiles/*.html
