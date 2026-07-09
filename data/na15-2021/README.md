@@ -63,5 +63,5 @@ Notes:
 - Change logs are not populated yet; per-entry `changelog` is empty until diffs are generated.
 
 ## Note
-- This election was done with the administrative map prior to [2025 Vietnamese administrative reform](https://en.wikipedia.org/wiki/2025_Vietnamese_administrative_reform)
+- This election was done with the administrative map prior to [2025 Vietnamese administrative reforms](https://en.wikipedia.org/wiki/2025_Vietnamese_administrative_reforms)
 - Pre-2025, districts are part of congressional units, which are under province/city
