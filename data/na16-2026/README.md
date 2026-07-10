@@ -11,7 +11,8 @@ Election date: 2026-03-15 (early voting 2026-02-26 for remote island constituenc
 
 ### Candidate lists (864 candidates)
 
-2. Full list by province — xaydungchinhsach.chinhphu.vn: https://xaydungchinhsach.chinhphu.vn/chi-tiet-danh-sach-864-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-119260215122125389.htm
+2. Official list by electoral unit — Resolution 151/NQ-HĐBCQG (14 Feb 2026): https://xaydungchinhsach.chinhphu.vn/chi-tiet-danh-sach-864-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-119260215122125389.htm
+   - Scanned-image PDF archived in [`candidates-list/`](./candidates-list/) (needs OCR to read as text) — see that directory's README.
 3. Official announcement — baochinhphu.vn: https://baochinhphu.vn/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-102260215094411181.htm
 4. HCMC candidates (48) — hcmcpv.org.vn: https://hcmcpv.org.vn/tin-tuc/thong-nhat-danh-sach-48-nguoi-ung-cu-dbqh-khoa-xvi-va-209-nguoi-ung-cu-dai-bieu-hdnd-tphcm-khoa-xi-1491942238
 5. Per-province pages on xaydungchinhsach.chinhphu.vn, e.g.:
